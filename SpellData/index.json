@@ -1,0 +1,2612 @@
+[
+  {
+    "title": "Адское возмездие",
+    "titleEn": "Hellish rebuke",
+    "file": "spells/1-hellish-rebuke.html"
+  },
+  {
+    "title": "Антипатия/симпатия",
+    "titleEn": "Antipathy/sympathy",
+    "file": "spells/2-antipathysympathy.html"
+  },
+  {
+    "title": "Аура живучести",
+    "titleEn": "Aura of vitality",
+    "file": "spells/3-aura-of-vitality.html"
+  },
+  {
+    "title": "Аура жизни",
+    "titleEn": "Aura of life",
+    "file": "spells/4-aura-of-life.html"
+  },
+  {
+    "title": "Аура очищения",
+    "titleEn": "Aura of purity",
+    "file": "spells/5-aura-of-purity.html"
+  },
+  {
+    "title": "Аура святости",
+    "titleEn": "Holy aura",
+    "file": "spells/6-holy-aura.html"
+  },
+  {
+    "title": "Безмолвный образ",
+    "titleEn": "Silent image",
+    "file": "spells/7-silent-image.html"
+  },
+  {
+    "title": "Бесследное передвижение",
+    "titleEn": "Pass without trace",
+    "file": "spells/8-pass-without-trace.html"
+  },
+  {
+    "title": "Благословение",
+    "titleEn": "Bless",
+    "file": "spells/9-bless.html"
+  },
+  {
+    "title": "Божественное благоволение",
+    "titleEn": "Divine favor",
+    "file": "spells/10-divine-favor.html"
+  },
+  {
+    "title": "Божественное оружие",
+    "titleEn": "Spiritual weapon",
+    "file": "spells/11-spiritual-weapon.html"
+  },
+  {
+    "title": "Божественное слово",
+    "titleEn": "Divine word",
+    "file": "spells/12-divine-word.html"
+  },
+  {
+    "title": "Брызги кислоты",
+    "titleEn": "Acid splash",
+    "file": "spells/13-acid-splash.html"
+  },
+  {
+    "title": "Быстрый колчан",
+    "titleEn": "Swift quiver",
+    "file": "spells/14-swift-quiver.html"
+  },
+  {
+    "title": "Ведьмин снаряд",
+    "titleEn": "Witch bolt",
+    "file": "spells/15-witch-bolt.html"
+  },
+  {
+    "title": "Великолепный особняк Морденкайнена",
+    "titleEn": "Mordenkainen's magnificent mansion",
+    "file": "spells/16-mordenkainens-magnificent-mansion.html"
+  },
+  {
+    "title": "Верный пёс Морденкайнена",
+    "titleEn": "Mordenkainen's Faithful Hound",
+    "file": "spells/17-mordenkainens-faithful-hound.html"
+  },
+  {
+    "title": "Вечный огонь",
+    "titleEn": "Continual flame",
+    "file": "spells/18-continual-flame.html"
+  },
+  {
+    "title": "Вещий сон",
+    "titleEn": "Dream",
+    "file": "spells/19-dream.html"
+  },
+  {
+    "title": "Видение невидимого",
+    "titleEn": "See invisibility",
+    "file": "spells/20-see-invisibility.html"
+  },
+  {
+    "title": "Власть над водами",
+    "titleEn": "Control water",
+    "file": "spells/21-control-water.html"
+  },
+  {
+    "title": "Власть над погодой",
+    "titleEn": "Control weather",
+    "file": "spells/22-control-weather.html"
+  },
+  {
+    "title": "Внушение",
+    "titleEn": "Suggestion",
+    "file": "spells/23-suggestion.html"
+  },
+  {
+    "title": "Возрождение",
+    "titleEn": "Revivify",
+    "file": "spells/24-revivify.html"
+  },
+  {
+    "title": "Волна грома",
+    "titleEn": "Thunderwave",
+    "file": "spells/25-thunderwave.html"
+  },
+  {
+    "title": "Волшебная рука",
+    "titleEn": "Mage hand",
+    "file": "spells/26-mage-hand.html"
+  },
+  {
+    "title": "Волшебная стрела",
+    "titleEn": "Magic missile",
+    "file": "spells/27-magic-missile.html"
+  },
+  {
+    "title": "Волшебные уста",
+    "titleEn": "Magic mouth",
+    "file": "spells/28-magic-mouth.html"
+  },
+  {
+    "title": "Волшебный замок",
+    "titleEn": "Arcane lock",
+    "file": "spells/29-arcane-lock.html"
+  },
+  {
+    "title": "Волшебный сосуд",
+    "titleEn": "Magic jar",
+    "file": "spells/30-magic-jar.html"
+  },
+  {
+    "title": "Воображаемая сила",
+    "titleEn": "Phantasmal force",
+    "file": "spells/31-phantasmal-force.html"
+  },
+  {
+    "title": "Воображаемый убийца",
+    "titleEn": "Phantasmal killer",
+    "file": "spells/32-phantasmal-killer.html"
+  },
+  {
+    "title": "Воскрешение",
+    "titleEn": "Resurrection",
+    "file": "spells/33-resurrection.html"
+  },
+  {
+    "title": "Воспламеняющаяся туча",
+    "titleEn": "Incendiary cloud",
+    "file": "spells/34-incendiary-cloud.html"
+  },
+  {
+    "title": "Восставший труп",
+    "titleEn": "Animate dead",
+    "file": "spells/35-animate-dead.html"
+  },
+  {
+    "title": "Врата",
+    "titleEn": "Gate",
+    "file": "spells/36-gate.html"
+  },
+  {
+    "title": "Вызов на дуэль",
+    "titleEn": "Compelled duel",
+    "file": "spells/37-compelled-duel.html"
+  },
+  {
+    "title": "Высшая невидимость",
+    "titleEn": "Greater invisibility",
+    "file": "spells/38-greater-invisibility.html"
+  },
+  {
+    "title": "Высшее восстановление",
+    "titleEn": "Greater restoration",
+    "file": "spells/39-greater-restoration.html"
+  },
+  {
+    "title": "Гадание",
+    "titleEn": "Augury",
+    "file": "spells/40-augury.html"
+  },
+  {
+    "title": "Газообразная форма",
+    "titleEn": "Gaseous form",
+    "file": "spells/41-gaseous-form.html"
+  },
+  {
+    "title": "Героизм",
+    "titleEn": "Heroism",
+    "file": "spells/42-heroism.html"
+  },
+  {
+    "title": "Гигантское насекомое",
+    "titleEn": "Giant insect",
+    "file": "spells/43-giant-insect.html"
+  },
+  {
+    "title": "Гипнотический узор",
+    "titleEn": "Hypnotic pattern",
+    "file": "spells/44-hypnotic-pattern.html"
+  },
+  {
+    "title": "Глухота/слепота",
+    "titleEn": "Blindness/deafness",
+    "file": "spells/45-blindnessdeafness.html"
+  },
+  {
+    "title": "Гневная кара",
+    "titleEn": "Wrathful smite",
+    "file": "spells/46-wrathful-smite.html"
+  },
+  {
+    "title": "Голод Хадара",
+    "titleEn": "Hunger of Hadar",
+    "file": "spells/47-hunger-of-hadar.html"
+  },
+  {
+    "title": "Горящий клинок",
+    "titleEn": "Flame blade",
+    "file": "spells/48-flame-blade.html"
+  },
+  {
+    "title": "Град",
+    "titleEn": "Ice Storm",
+    "file": "spells/49-ice-storm.html"
+  },
+  {
+    "title": "Град шипов",
+    "titleEn": "Hail of thorns",
+    "file": "spells/50-hail-of-thorns.html"
+  },
+  {
+    "title": "Гроза гнева",
+    "titleEn": "Storm of vengeance",
+    "file": "spells/51-storm-of-vengeance.html"
+  },
+  {
+    "title": "Громовая кара",
+    "titleEn": "Thunderous smite",
+    "file": "spells/52-thunderous-smite.html"
+  },
+  {
+    "title": "Движение почвы",
+    "titleEn": "Move earth",
+    "file": "spells/53-move-earth.html"
+  },
+  {
+    "title": "Двойник",
+    "titleEn": "Clone",
+    "file": "spells/54-clone.html"
+  },
+  {
+    "title": "Демиплан",
+    "titleEn": "Demiplane",
+    "file": "spells/55-demiplane.html"
+  },
+  {
+    "title": "Диссонирующий шёпот",
+    "titleEn": "Dissonant whispers",
+    "file": "spells/56-dissonant-whispers.html"
+  },
+  {
+    "title": "Длань Бигби",
+    "titleEn": "Bigby's Hand",
+    "file": "spells/57-bigbys-hand.html"
+  },
+  {
+    "title": "Дневной свет",
+    "titleEn": "Daylight",
+    "file": "spells/58-daylight.html"
+  },
+  {
+    "title": "Доспех Агатиса",
+    "titleEn": "Armor of Agathys",
+    "file": "spells/59-armor-of-agathys.html"
+  },
+  {
+    "title": "Доспехи мага",
+    "titleEn": "Mage armor",
+    "file": "spells/60-mage-armor.html"
+  },
+  {
+    "title": "Языки",
+    "titleEn": "Tongues",
+    "file": "spells/61-tongues.html"
+  },
+  {
+    "title": "Дребезги",
+    "titleEn": "Shatter",
+    "file": "spells/62-shatter.html"
+  },
+  {
+    "title": "Ядовитые брызги",
+    "titleEn": "Poison spray",
+    "file": "spells/63-poison-spray.html"
+  },
+  {
+    "title": "Эфирность",
+    "titleEn": "Etherealness",
+    "file": "spells/64-etherealness.html"
+  },
+  {
+    "title": "Древесный путь",
+    "titleEn": "Tree stride",
+    "file": "spells/65-tree-stride.html"
+  },
+  {
+    "title": "Электрошок",
+    "titleEn": "Shocking grasp",
+    "file": "spells/66-shocking-grasp.html"
+  },
+  {
+    "title": "Эвардовы чёрные щупальца",
+    "titleEn": "Evard's black tentacles",
+    "file": "spells/67-evards-black-tentacles.html"
+  },
+  {
+    "title": "Дромиджево появление",
+    "titleEn": "Drawmij's instant summons",
+    "file": "spells/68-drawmijs-instant-summons.html"
+  },
+  {
+    "title": "Щит веры",
+    "titleEn": "Shield of faith",
+    "file": "spells/69-shield-of-faith.html"
+  },
+  {
+    "title": "Щит",
+    "titleEn": "Shield",
+    "file": "spells/70-shield.html"
+  },
+  {
+    "title": "Дружба",
+    "titleEn": "Friends",
+    "file": "spells/71-friends.html"
+  },
+  {
+    "title": "Дружба с животными",
+    "titleEn": "Animal friendship",
+    "file": "spells/72-animal-friendship.html"
+  },
+  {
+    "title": "Дубинка",
+    "titleEn": "Shillelagh",
+    "file": "spells/73-shillelagh.html"
+  },
+  {
+    "title": "Дубовая кора",
+    "titleEn": "Barkskin",
+    "file": "spells/74-barkskin.html"
+  },
+  {
+    "title": "Духовные стражи",
+    "titleEn": "Spirit guardians",
+    "file": "spells/75-spirit-guardians.html"
+  },
+  {
+    "title": "Животные чувства",
+    "titleEn": "Beast sense",
+    "file": "spells/76-beast-sense.html"
+  },
+  {
+    "title": "Шипы",
+    "titleEn": "Spike growth",
+    "file": "spells/77-spike-growth.html"
+  },
+  {
+    "title": "Чудо-ягоды",
+    "titleEn": "Goodberry",
+    "file": "spells/78-goodberry.html"
+  },
+  {
+    "title": "Жуткий смех Таши",
+    "titleEn": "Tasha's hideous laughter",
+    "file": "spells/79-tashas-hideous-laughter.html"
+  },
+  {
+    "title": "Чудотворство",
+    "titleEn": "Thaumaturgy",
+    "file": "spells/80-thaumaturgy.html"
+  },
+  {
+    "title": "Завеса стрел",
+    "titleEn": "Cordon of arrows",
+    "file": "spells/81-cordon-of-arrows.html"
+  },
+  {
+    "title": "Заданная иллюзия",
+    "titleEn": "Programmed illusion",
+    "file": "spells/82-programmed-illusion.html"
+  },
+  {
+    "title": "Цунами",
+    "titleEn": "Tsunami",
+    "file": "spells/84-tsunami.html"
+  },
+  {
+    "title": "Цепкая лоза",
+    "titleEn": "Grasping vine",
+    "file": "spells/85-grasping-vine.html"
+  },
+  {
+    "title": "Цветной шарик",
+    "titleEn": "Chromatic orb",
+    "file": "spells/86-chromatic-orb.html"
+  },
+  {
+    "title": "Замедленный огненный шар",
+    "titleEn": "Delayed blast fireball",
+    "file": "spells/87-delayed-blast-fireball.html"
+  },
+  {
+    "title": "Хождение по воде",
+    "titleEn": "Water walk",
+    "file": "spells/88-water-walk.html"
+  },
+  {
+    "title": "Запрет",
+    "titleEn": "Forbiddance",
+    "file": "spells/89-forbiddance.html"
+  },
+  {
+    "title": "Хождение по ветру",
+    "titleEn": "Wind walk",
+    "file": "spells/90-wind-walk.html"
+  },
+  {
+    "title": "Фокусы",
+    "titleEn": "Prestidigitation",
+    "file": "spells/91-prestidigitation.html"
+  },
+  {
+    "title": "Заражение",
+    "titleEn": "Contagion",
+    "file": "spells/92-contagion.html"
+  },
+  {
+    "title": "Фальшивый двойник",
+    "titleEn": "Mislead",
+    "file": "spells/93-mislead.html"
+  },
+  {
+    "title": "Уход за умирающим",
+    "titleEn": "Spare the dying",
+    "file": "spells/94-spare-the-dying.html"
+  },
+  {
+    "title": "Уход в иной мир",
+    "titleEn": "Plane shift",
+    "file": "spells/95-plane-shift.html"
+  },
+  {
+    "title": "Усыхание",
+    "titleEn": "Blight",
+    "file": "spells/96-blight.html"
+  },
+  {
+    "title": "Заточение",
+    "titleEn": "Imprisonment",
+    "file": "spells/97-imprisonment.html"
+  },
+  {
+    "title": "Усыпление",
+    "titleEn": "Sleep",
+    "file": "spells/98-sleep.html"
+  },
+  {
+    "title": "Защита от зла и добра",
+    "titleEn": "Protection from evil and good",
+    "file": "spells/99-protection-from-evil-and-good.html"
+  },
+  {
+    "title": "Ускорение",
+    "titleEn": "Haste",
+    "file": "spells/100-haste.html"
+  },
+  {
+    "title": "Защита от оружия",
+    "titleEn": "Blade ward",
+    "file": "spells/101-blade-ward.html"
+  },
+  {
+    "title": "Умиротворение",
+    "titleEn": "Calm emotions",
+    "file": "spells/102-calm-emotions.html"
+  },
+  {
+    "title": "Улучшение характеристики",
+    "titleEn": "Enhance ability",
+    "file": "spells/103-enhance-ability.html"
+  },
+  {
+    "title": "Защита от смерти",
+    "titleEn": "Death ward",
+    "file": "spells/104-death-ward.html"
+  },
+  {
+    "title": "Указание",
+    "titleEn": "Guidance",
+    "file": "spells/105-guidance.html"
+  },
+  {
+    "title": "Защита от энергии",
+    "titleEn": "Protection from energy",
+    "file": "spells/106-protection-from-energy.html"
+  },
+  {
+    "title": "Узилище",
+    "titleEn": "Forcecage",
+    "file": "spells/107-forcecage.html"
+  },
+  {
+    "title": "Защита от яда",
+    "titleEn": "Protection from poison",
+    "file": "spells/108-protection-from-poison.html"
+  },
+  {
+    "title": "Ужас",
+    "titleEn": "Fear",
+    "file": "spells/109-fear.html"
+  },
+  {
+    "title": "Удержание чудовища",
+    "titleEn": "Hold monster",
+    "file": "spells/110-hold-monster.html"
+  },
+  {
+    "title": "Землетрясение",
+    "titleEn": "Earthquake",
+    "file": "spells/111-earthquake.html"
+  },
+  {
+    "title": "Злая насмешка",
+    "titleEn": "Vicious mockery",
+    "file": "spells/112-vicious-mockery.html"
+  },
+  {
+    "title": "Зловонное облако",
+    "titleEn": "Stinking cloud",
+    "file": "spells/113-stinking-cloud.html"
+  },
+  {
+    "title": "Знак",
+    "titleEn": "Symbol",
+    "file": "spells/114-symbol.html"
+  },
+  {
+    "title": "Знание легенд",
+    "titleEn": "Legend lore",
+    "file": "spells/115-legend-lore.html"
+  },
+  {
+    "title": "Изгнание",
+    "titleEn": "Banishment",
+    "file": "spells/116-banishment.html"
+  },
+  {
+    "title": "Изгоняющая кара",
+    "titleEn": "Banishing smite",
+    "file": "spells/117-banishing-smite.html"
+  },
+  {
+    "title": "Изготовление",
+    "titleEn": "Fabricate",
+    "file": "spells/118-fabricate.html"
+  },
+  {
+    "title": "Изменение памяти",
+    "titleEn": "Modify memory",
+    "file": "spells/119-modify-memory.html"
+  },
+  {
+    "title": "Изменение тяготения",
+    "titleEn": "Reverse gravity",
+    "file": "spells/120-reverse-gravity.html"
+  },
+  {
+    "title": "Изменение формы камня",
+    "titleEn": "Stone shape",
+    "file": "spells/121-stone-shape.html"
+  },
+  {
+    "title": "Изоляция",
+    "titleEn": "Sequester",
+    "file": "spells/122-sequester.html"
+  },
+  {
+    "title": "Искусство друидов",
+    "titleEn": "Druidcraft",
+    "file": "spells/123-druidcraft.html"
+  },
+  {
+    "title": "Исполнение желаний",
+    "titleEn": "Wish",
+    "file": "spells/124-wish.html"
+  },
+  {
+    "title": "Истинное воскрешение",
+    "titleEn": "True resurrection",
+    "file": "spells/125-true-resurrection.html"
+  },
+  {
+    "title": "Истинное зрение",
+    "titleEn": "True seeing",
+    "file": "spells/126-true-seeing.html"
+  },
+  {
+    "title": "Истинное превращение",
+    "titleEn": "True polymorph",
+    "file": "spells/127-true-polymorph.html"
+  },
+  {
+    "title": "Кабинет Морденкайнена",
+    "titleEn": "Mordenkainen's private sanctum",
+    "file": "spells/128-mordenkainens-private-sanctum.html"
+  },
+  {
+    "title": "Каменная кожа",
+    "titleEn": "Stoneskin",
+    "file": "spells/129-stoneskin.html"
+  },
+  {
+    "title": "Каменная стена",
+    "titleEn": "Wall of stone",
+    "file": "spells/130-wall-of-stone.html"
+  },
+  {
+    "title": "Клеймящая кара",
+    "titleEn": "Branding smite",
+    "file": "spells/131-branding-smite.html"
+  },
+  {
+    "title": "Контрзаклинание",
+    "titleEn": "Counterspell",
+    "file": "spells/132-counterspell.html"
+  },
+  {
+    "title": "Конус холода",
+    "titleEn": "Cone of cold",
+    "file": "spells/133-cone-of-cold.html"
+  },
+  {
+    "title": "Корона безумия",
+    "titleEn": "Crown of madness",
+    "file": "spells/134-crown-of-madness.html"
+  },
+  {
+    "title": "Круг силы",
+    "titleEn": "Circle of power",
+    "file": "spells/135-circle-of-power.html"
+  },
+  {
+    "title": "Круг смерти",
+    "titleEn": "Circle of death",
+    "file": "spells/136-circle-of-death.html"
+  },
+  {
+    "title": "Круг телепортации",
+    "titleEn": "Teleportation circle",
+    "file": "spells/137-teleportation-circle.html"
+  },
+  {
+    "title": "Лабиринт",
+    "titleEn": "Maze",
+    "file": "spells/138-maze.html"
+  },
+  {
+    "title": "Левитация",
+    "titleEn": "Levitate",
+    "file": "spells/139-levitate.html"
+  },
+  {
+    "title": "Леденящее прикосновение",
+    "titleEn": "Chill touch",
+    "file": "spells/140-chill-touch.html"
+  },
+  {
+    "title": "Ледяная стена",
+    "titleEn": "Wall of ice",
+    "file": "spells/141-wall-of-ice.html"
+  },
+  {
+    "title": "Леомундов потайной сундук",
+    "titleEn": "Leomund's secret chest",
+    "file": "spells/142-leomunds-secret-chest.html"
+  },
+  {
+    "title": "Леомундова хижина",
+    "titleEn": "Leomund's tiny hut",
+    "file": "spells/143-leomunds-tiny-hut.html"
+  },
+  {
+    "title": "Лечащее слово",
+    "titleEn": "Healing word",
+    "file": "spells/144-healing-word.html"
+  },
+  {
+    "title": "Лечение ран",
+    "titleEn": "Cure wounds",
+    "file": "spells/145-cure-wounds.html"
+  },
+  {
+    "title": "Лунный луч",
+    "titleEn": "Moonbeam",
+    "file": "spells/146-moonbeam.html"
+  },
+  {
+    "title": "Луч болезни",
+    "titleEn": "Ray of sickness",
+    "file": "spells/147-ray-of-sickness.html"
+  },
+  {
+    "title": "Луч слабости",
+    "titleEn": "Ray of enfeeblement",
+    "file": "spells/148-ray-of-enfeeblement.html"
+  },
+  {
+    "title": "Луч холода",
+    "titleEn": "Ray of frost",
+    "file": "spells/149-ray-of-frost.html"
+  },
+  {
+    "title": "Магические врата",
+    "titleEn": "Arcane gate",
+    "file": "spells/150-arcane-gate.html"
+  },
+  {
+    "title": "Магический глаз",
+    "titleEn": "Arcane eye",
+    "file": "spells/151-arcane-eye.html"
+  },
+  {
+    "title": "Магический круг",
+    "titleEn": "Magic circle",
+    "file": "spells/152-magic-circle.html"
+  },
+  {
+    "title": "Магическое оружие",
+    "titleEn": "Magic weapon",
+    "file": "spells/153-magic-weapon.html"
+  },
+  {
+    "title": "Малая иллюзия",
+    "titleEn": "Minor illusion",
+    "file": "spells/154-minor-illusion.html"
+  },
+  {
+    "title": "Малое восстановление",
+    "titleEn": "Lesser restoration",
+    "file": "spells/155-lesser-restoration.html"
+  },
+  {
+    "title": "Мантия крестоносца",
+    "titleEn": "Crusader's mantle",
+    "file": "spells/156-crusaders-mantle.html"
+  },
+  {
+    "title": "Маскировка",
+    "titleEn": "Disguise self",
+    "file": "spells/157-disguise-self.html"
+  },
+  {
+    "title": "Маяк надежды",
+    "titleEn": "Beacon of hope",
+    "file": "spells/158-beacon-of-hope.html"
+  },
+  {
+    "title": "Мельфова кислотная стрела",
+    "titleEn": "Melf's acid arrow",
+    "file": "spells/159-melfs-acid-arrow.html"
+  },
+  {
+    "title": "Ментальная связь Рэри",
+    "titleEn": "Rary's telepathic bond",
+    "file": "spells/160-rarys-telepathic-bond.html"
+  },
+  {
+    "title": "Мерцание",
+    "titleEn": "Blink",
+    "file": "spells/161-blink.html"
+  },
+  {
+    "title": "Метель",
+    "titleEn": "Sleet storm",
+    "file": "spells/162-sleet-storm.html"
+  },
+  {
+    "title": "Метеоритный дождь",
+    "titleEn": "Meteor swarm",
+    "file": "spells/163-meteor-swarm.html"
+  },
+  {
+    "title": "Метка охотника",
+    "titleEn": "Hunter's mark",
+    "file": "spells/164-hunters-mark.html"
+  },
+  {
+    "title": "Меткий удар",
+    "titleEn": "True strike",
+    "file": "spells/165-true-strike.html"
+  },
+  {
+    "title": "Меч Морденкайнена",
+    "titleEn": "Mordenkainen's sword",
+    "file": "spells/166-mordenkainens-sword.html"
+  },
+  {
+    "title": "Мираж",
+    "titleEn": "Hallucinatory terrain",
+    "file": "spells/167-hallucinatory-terrain.html"
+  },
+  {
+    "title": "Мистический заряд",
+    "titleEn": "Eldritch blast",
+    "file": "spells/168-eldritch-blast.html"
+  },
+  {
+    "title": "Множественное внушение",
+    "titleEn": "Mass suggestion",
+    "file": "spells/169-mass-suggestion.html"
+  },
+  {
+    "title": "Множественное лечащее слово",
+    "titleEn": "Mass healing word",
+    "file": "spells/170-mass-healing-word.html"
+  },
+  {
+    "title": "Множественное лечение ран",
+    "titleEn": "Mass cure wounds",
+    "file": "spells/171-mass-cure-wounds.html"
+  },
+  {
+    "title": "Множественное полное исцеление",
+    "titleEn": "Mass heal",
+    "file": "spells/172-mass-heal.html"
+  },
+  {
+    "title": "Молебен лечения",
+    "titleEn": "Prayer of healing",
+    "file": "spells/173-prayer-of-healing.html"
+  },
+  {
+    "title": "Молниевая стрела",
+    "titleEn": "Lightning arrow",
+    "file": "spells/174-lightning-arrow.html"
+  },
+  {
+    "title": "Молния",
+    "titleEn": "Lightning bolt",
+    "file": "spells/175-lightning-bolt.html"
+  },
+  {
+    "title": "Наблюдение",
+    "titleEn": "Scrying",
+    "file": "spells/176-scrying.html"
+  },
+  {
+    "title": "Нанесение ран",
+    "titleEn": "Inflict wounds",
+    "file": "spells/177-inflict-wounds.html"
+  },
+  {
+    "title": "Направляющий снаряд",
+    "titleEn": "Guiding bolt",
+    "file": "spells/178-guiding-bolt.html"
+  },
+  {
+    "title": "Находчивость",
+    "titleEn": "Glibness",
+    "file": "spells/179-glibness.html"
+  },
+  {
+    "title": "Нашествие насекомых",
+    "titleEn": "Insect plague",
+    "file": "spells/180-insect-plague.html"
+  },
+  {
+    "title": "Небесный огонь",
+    "titleEn": "Flame strike",
+    "file": "spells/181-flame-strike.html"
+  },
+  {
+    "title": "Невидимое письмо",
+    "titleEn": "Illusory script",
+    "file": "spells/182-illusory-script.html"
+  },
+  {
+    "title": "Невидимость",
+    "titleEn": "Invisibility",
+    "file": "spells/183-invisibility.html"
+  },
+  {
+    "title": "Невидимый слуга",
+    "titleEn": "Unseen servant",
+    "file": "spells/184-unseen-servant.html"
+  },
+  {
+    "title": "Необнаружимость",
+    "titleEn": "Nondetection",
+    "file": "spells/185-nondetection.html"
+  },
+  {
+    "title": "Нетленные останки",
+    "titleEn": "Gentle repose",
+    "file": "spells/186-gentle-repose.html"
+  },
+  {
+    "title": "Неудержимая пляска Отто",
+    "titleEn": "Otto's irresistible dance",
+    "file": "spells/187-ottos-irresistible-dance.html"
+  },
+  {
+    "title": "Нистулова ложная аура",
+    "titleEn": "Nystul's magic aura",
+    "file": "spells/188-nystuls-magic-aura.html"
+  },
+  {
+    "title": "Обет",
+    "titleEn": "Geas",
+    "file": "spells/189-geas.html"
+  },
+  {
+    "title": "Облако кинжалов",
+    "titleEn": "Cloud of daggers",
+    "file": "spells/190-cloud-of-daggers.html"
+  },
+  {
+    "title": "Облако смерти",
+    "titleEn": "Cloudkill",
+    "file": "spells/191-cloudkill.html"
+  },
+  {
+    "title": "Область истины",
+    "titleEn": "Zone of truth",
+    "file": "spells/192-zone-of-truth.html"
+  },
+  {
+    "title": "Обнаружение болезней и яда",
+    "titleEn": "Detect poison and disease",
+    "file": "spells/193-detect-poison-and-disease.html"
+  },
+  {
+    "title": "Обнаружение зла и добра",
+    "titleEn": "Detect evil and good",
+    "file": "spells/194-detect-evil-and-good.html"
+  },
+  {
+    "title": "Обнаружение магии",
+    "titleEn": "Detect magic",
+    "file": "spells/195-detect-magic.html"
+  },
+  {
+    "title": "Обнаружение мыслей",
+    "titleEn": "Detect thoughts",
+    "file": "spells/196-detect-thoughts.html"
+  },
+  {
+    "title": "Образ",
+    "titleEn": "Major image",
+    "file": "spells/197-major-image.html"
+  },
+  {
+    "title": "Общение",
+    "titleEn": "Commune",
+    "file": "spells/198-commune.html"
+  },
+  {
+    "title": "Общение с природой",
+    "titleEn": "Commune with nature",
+    "file": "spells/199-commune-with-nature.html"
+  },
+  {
+    "title": "Оглушающая кара",
+    "titleEn": "Staggering smite",
+    "file": "spells/200-staggering-smite.html"
+  },
+  {
+    "title": "Огненная буря",
+    "titleEn": "Fire storm",
+    "file": "spells/201-fire-storm.html"
+  },
+  {
+    "title": "Огненная стена",
+    "titleEn": "Wall of fire",
+    "file": "spells/202-wall-of-fire.html"
+  },
+  {
+    "title": "Огненные ладони",
+    "titleEn": "Burning hands",
+    "file": "spells/203-burning-hands.html"
+  },
+  {
+    "title": "Огненный снаряд",
+    "titleEn": "Fire bolt",
+    "file": "spells/204-fire-bolt.html"
+  },
+  {
+    "title": "Огненный шар",
+    "titleEn": "Fireball",
+    "file": "spells/205-fireball.html"
+  },
+  {
+    "title": "Огненный щит",
+    "titleEn": "Fire shield",
+    "file": "spells/206-fire-shield.html"
+  },
+  {
+    "title": "Огонь фей",
+    "titleEn": "Faerie fire",
+    "file": "spells/207-faerie-fire.html"
+  },
+  {
+    "title": "Оживление",
+    "titleEn": "Raise dead",
+    "file": "spells/208-raise-dead.html"
+  },
+  {
+    "title": "Окаменение",
+    "titleEn": "Flesh to stone",
+    "file": "spells/209-flesh-to-stone.html"
+  },
+  {
+    "title": "Опознание",
+    "titleEn": "Identify",
+    "file": "spells/210-identify.html"
+  },
+  {
+    "title": "Опутывание",
+    "titleEn": "Entangle",
+    "file": "spells/211-entangle.html"
+  },
+  {
+    "title": "Опутывающий удар",
+    "titleEn": "Ensnaring strike",
+    "file": "spells/212-ensnaring-strike.html"
+  },
+  {
+    "title": "Ослепляющая кара",
+    "titleEn": "Blinding smite",
+    "file": "spells/213-blinding-smite.html"
+  },
+  {
+    "title": "Остановка времени",
+    "titleEn": "Time stop",
+    "file": "spells/214-time-stop.html"
+  },
+  {
+    "title": "Отилюков ледяной шар",
+    "titleEn": "Otiluke's Freezing Sphere",
+    "file": "spells/215-otilukes-freezing-sphere.html"
+  },
+  {
+    "title": "Отилюков упругий шар",
+    "titleEn": "Otiluke's resilient sphere",
+    "file": "spells/216-otilukes-resilient-sphere.html"
+  },
+  {
+    "title": "Открывание",
+    "titleEn": "Knock",
+    "file": "spells/217-knock.html"
+  },
+  {
+    "title": "Отражения",
+    "titleEn": "Mirror image",
+    "file": "spells/218-mirror-image.html"
+  },
+  {
+    "title": "Охранная руна",
+    "titleEn": "Glyph of warding",
+    "file": "spells/219-glyph-of-warding.html"
+  },
+  {
+    "title": "Охраняющая связь",
+    "titleEn": "Warding bond",
+    "file": "spells/220-warding-bond.html"
+  },
+  {
+    "title": "Очарование личности",
+    "titleEn": "Charm person",
+    "file": "spells/221-charm-person.html"
+  },
+  {
+    "title": "Очищение пищи и питья",
+    "titleEn": "Purify food and drink",
+    "file": "spells/222-purify-food-and-drink.html"
+  },
+  {
+    "title": "Падение пёрышком",
+    "titleEn": "Feather fall",
+    "file": "spells/223-feather-fall.html"
+  },
+  {
+    "title": "Палящая кара",
+    "titleEn": "Searing smite",
+    "file": "spells/224-searing-smite.html"
+  },
+  {
+    "title": "Палящий луч",
+    "titleEn": "Scorching ray",
+    "file": "spells/225-scorching-ray.html"
+  },
+  {
+    "title": "Паук",
+    "titleEn": "Spider climb",
+    "file": "spells/226-spider-climb.html"
+  },
+  {
+    "title": "Паутина",
+    "titleEn": "Web",
+    "file": "spells/227-web.html"
+  },
+  {
+    "title": "Переносящая дверь",
+    "titleEn": "Dimension door",
+    "file": "spells/228-dimension-door.html"
+  },
+  {
+    "title": "Перст смерти",
+    "titleEn": "Finger of death",
+    "file": "spells/229-finger-of-death.html"
+  },
+  {
+    "title": "Пир героев",
+    "titleEn": "Heroes' feast",
+    "file": "spells/230-heroes-feast.html"
+  },
+  {
+    "title": "Планарные узы",
+    "titleEn": "Planar binding",
+    "file": "spells/231-planar-binding.html"
+  },
+  {
+    "title": "Планарный союзник",
+    "titleEn": "Planar ally",
+    "file": "spells/232-planar-ally.html"
+  },
+  {
+    "title": "Пляшущая молния",
+    "titleEn": "Chain lightning",
+    "file": "spells/233-chain-lightning.html"
+  },
+  {
+    "title": "Пляшущие огоньки",
+    "titleEn": "Dancing lights",
+    "file": "spells/234-dancing-lights.html"
+  },
+  {
+    "title": "Подводное дыхание",
+    "titleEn": "Water breathing",
+    "file": "spells/235-water-breathing.html"
+  },
+  {
+    "title": "Подмога",
+    "titleEn": "Aid",
+    "file": "spells/236-aid.html"
+  },
+  {
+    "title": "Подобие",
+    "titleEn": "Simulacrum",
+    "file": "spells/237-simulacrum.html"
+  },
+  {
+    "title": "Подсматривание",
+    "titleEn": "Clairvoyance",
+    "file": "spells/238-clairvoyance.html"
+  },
+  {
+    "title": "Подчинение зверя",
+    "titleEn": "Dominate beast",
+    "file": "spells/239-dominate-beast.html"
+  },
+  {
+    "title": "Подчинение личности",
+    "titleEn": "Dominate person",
+    "file": "spells/240-dominate-person.html"
+  },
+  {
+    "title": "Подчинение чудовища",
+    "titleEn": "Dominate monster",
+    "file": "spells/241-dominate-monster.html"
+  },
+  {
+    "title": "Поиск животных или растений",
+    "titleEn": "Locate animals or plants",
+    "file": "spells/242-locate-animals-or-plants.html"
+  },
+  {
+    "title": "Поиск ловушек",
+    "titleEn": "Find traps",
+    "file": "spells/243-find-traps.html"
+  },
+  {
+    "title": "Поиск предмета",
+    "titleEn": "Locate object",
+    "file": "spells/244-locate-object.html"
+  },
+  {
+    "title": "Поиск пути",
+    "titleEn": "Find the path",
+    "file": "spells/245-find-the-path.html"
+  },
+  {
+    "title": "Поиск скакуна",
+    "titleEn": "Find steed",
+    "file": "spells/246-find-steed.html"
+  },
+  {
+    "title": "Поиск существа",
+    "titleEn": "Locate creature",
+    "file": "spells/247-locate-creature.html"
+  },
+  {
+    "title": "Поиск фамильяра",
+    "titleEn": "Find familiar",
+    "file": "spells/248-find-familiar.html"
+  },
+  {
+    "title": "Полёт",
+    "titleEn": "Fly",
+    "file": "spells/249-fly.html"
+  },
+  {
+    "title": "Полное исцеление",
+    "titleEn": "Heal",
+    "file": "spells/250-heal.html"
+  },
+  {
+    "title": "Полное превращение",
+    "titleEn": "Shapechange",
+    "file": "spells/251-shapechange.html"
+  },
+  {
+    "title": "Понимание языков",
+    "titleEn": "Comprehend languages",
+    "file": "spells/252-comprehend-languages.html"
+  },
+  {
+    "title": "Поражение",
+    "titleEn": "Harm",
+    "file": "spells/253-harm.html"
+  },
+  {
+    "title": "Порча",
+    "titleEn": "Bane",
+    "file": "spells/254-bane.html"
+  },
+  {
+    "title": "Порыв ветра",
+    "titleEn": "Gust of wind",
+    "file": "spells/255-gust-of-wind.html"
+  },
+  {
+    "title": "Послание",
+    "titleEn": "Sending",
+    "file": "spells/256-sending.html"
+  },
+  {
+    "title": "Поспешное отступление",
+    "titleEn": "Expeditious retreat",
+    "file": "spells/257-expeditious-retreat.html"
+  },
+  {
+    "title": "Починка",
+    "titleEn": "Mending",
+    "file": "spells/258-mending.html"
+  },
+  {
+    "title": "Почтовое животное",
+    "titleEn": "Animal messenger",
+    "file": "spells/259-animal-messenger.html"
+  },
+  {
+    "title": "Превращение",
+    "titleEn": "Polymorph",
+    "file": "spells/260-polymorph.html"
+  },
+  {
+    "title": "Превращение в животных",
+    "titleEn": "Animal shapes",
+    "file": "spells/261-animal-shapes.html"
+  },
+  {
+    "title": "Преграда жизни",
+    "titleEn": "Antilife shell",
+    "file": "spells/262-antilife-shell.html"
+  },
+  {
+    "title": "Преграда магии",
+    "titleEn": "Antimagic Field",
+    "file": "spells/263-antimagic-field.html"
+  },
+  {
+    "title": "Предвидение",
+    "titleEn": "Foresight",
+    "file": "spells/264-foresight.html"
+  },
+  {
+    "title": "Предосторожность",
+    "titleEn": "Contingency",
+    "file": "spells/265-contingency.html"
+  },
+  {
+    "title": "Предсказание",
+    "titleEn": "Divination",
+    "file": "spells/266-divination.html"
+  },
+  {
+    "title": "Призыв животных",
+    "titleEn": "Conjure animals",
+    "file": "spells/267-conjure-animals.html"
+  },
+  {
+    "title": "Призыв заграждения",
+    "titleEn": "Conjure barrage",
+    "file": "spells/268-conjure-barrage.html"
+  },
+  {
+    "title": "Призыв залпа",
+    "titleEn": "Conjure volley",
+    "file": "spells/269-conjure-volley.html"
+  },
+  {
+    "title": "Призыв лесных обитателей",
+    "titleEn": "Conjure woodland beings",
+    "file": "spells/270-conjure-woodland-beings.html"
+  },
+  {
+    "title": "Призыв малых элементалей",
+    "titleEn": "Conjure minor elementals",
+    "file": "spells/271-conjure-minor-elementals.html"
+  },
+  {
+    "title": "Призыв молнии",
+    "titleEn": "Call lightning",
+    "file": "spells/272-call-lightning.html"
+  },
+  {
+    "title": "Призыв небожителя",
+    "titleEn": "Conjure celestial",
+    "file": "spells/273-conjure-celestial.html"
+  },
+  {
+    "title": "Призыв феи",
+    "titleEn": "Conjure fey",
+    "file": "spells/274-conjure-fey.html"
+  },
+  {
+    "title": "Призыв элементаля",
+    "titleEn": "Conjure elemental",
+    "file": "spells/275-conjure-elemental.html"
+  },
+  {
+    "title": "Приказ",
+    "titleEn": "Command",
+    "file": "spells/276-command.html"
+  },
+  {
+    "title": "Прикосновение вампира",
+    "titleEn": "Vampiric touch",
+    "file": "spells/277-vampiric-touch.html"
+  },
+  {
+    "title": "Принуждение",
+    "titleEn": "Compulsion",
+    "file": "spells/278-compulsion.html"
+  },
+  {
+    "title": "Призрачный скакун",
+    "titleEn": "Phantom steed",
+    "file": "spells/279-phantom-steed.html"
+  },
+  {
+    "title": "Притворная смерть",
+    "titleEn": "Feign death",
+    "file": "spells/280-feign-death.html"
+  },
+  {
+    "title": "Притворство",
+    "titleEn": "Seeming",
+    "file": "spells/281-seeming.html"
+  },
+  {
+    "title": "Пробуждение разума",
+    "titleEn": "Awaken",
+    "file": "spells/282-awaken.html"
+  },
+  {
+    "title": "Проекция",
+    "titleEn": "Project image",
+    "file": "spells/283-project-image.html"
+  },
+  {
+    "title": "Проекция в астрал",
+    "titleEn": "Astral projection",
+    "file": "spells/284-astral-projection.html"
+  },
+  {
+    "title": "Проклятие",
+    "titleEn": "Bestow curse",
+    "file": "spells/285-bestow-curse.html"
+  },
+  {
+    "title": "Прыжок",
+    "titleEn": "Jump",
+    "file": "spells/286-jump.html"
+  },
+  {
+    "title": "Псевдожизнь",
+    "titleEn": "False life",
+    "file": "spells/287-false-life.html"
+  },
+  {
+    "title": "Путешествие через растения",
+    "titleEn": "Transport via plants",
+    "file": "spells/288-transport-via-plants.html"
+  },
+  {
+    "title": "Пылающий шар",
+    "titleEn": "Flaming sphere",
+    "file": "spells/289-flaming-sphere.html"
+  },
+  {
+    "title": "Радужная стена",
+    "titleEn": "Prismatic wall",
+    "file": "spells/290-prismatic-wall.html"
+  },
+  {
+    "title": "Радужные брызги",
+    "titleEn": "Prismatic spray",
+    "file": "spells/291-prismatic-spray.html"
+  },
+  {
+    "title": "Разговор с животными",
+    "titleEn": "Speak with animals",
+    "file": "spells/292-speak-with-animals.html"
+  },
+  {
+    "title": "Разговор с мёртвыми",
+    "titleEn": "Speak with dead",
+    "file": "spells/293-speak-with-dead.html"
+  },
+  {
+    "title": "Разговор с растениями",
+    "titleEn": "Speak with plants",
+    "file": "spells/294-speak-with-plants.html"
+  },
+  {
+    "title": "Размытый образ",
+    "titleEn": "Blur",
+    "file": "spells/295-blur.html"
+  },
+  {
+    "title": "Разрушительная волна",
+    "titleEn": "Destructive wave",
+    "file": "spells/296-destructive-wave.html"
+  },
+  {
+    "title": "Разящее око",
+    "titleEn": "Eyebite",
+    "file": "spells/297-eyebite.html"
+  },
+  {
+    "title": "Раскалённый металл",
+    "titleEn": "Heat metal",
+    "file": "spells/298-heat-metal.html"
+  },
+  {
+    "title": "Распад",
+    "titleEn": "Disintegrate",
+    "file": "spells/299-disintegrate.html"
+  },
+  {
+    "title": "Рассеивание зла и добра",
+    "titleEn": "Dispel evil and good",
+    "file": "spells/300-dispel-evil-and-good.html"
+  },
+  {
+    "title": "Рассеивание магии",
+    "titleEn": "Dispel magic",
+    "file": "spells/301-dispel-magic.html"
+  },
+  {
+    "title": "Регенерация",
+    "titleEn": "Regenerate",
+    "file": "spells/302-regenerate.html"
+  },
+  {
+    "title": "Речь златоуста",
+    "titleEn": "Enthrall",
+    "file": "spells/303-enthrall.html"
+  },
+  {
+    "title": "Рост растений",
+    "titleEn": "Plant growth",
+    "file": "spells/304-plant-growth.html"
+  },
+  {
+    "title": "Руки Хадара",
+    "titleEn": "Arms of Hadar",
+    "file": "spells/305-arms-of-hadar.html"
+  },
+  {
+    "title": "Сверкающие брызги",
+    "titleEn": "Color spray",
+    "file": "spells/306-color-spray.html"
+  },
+  {
+    "title": "Свет",
+    "titleEn": "Light",
+    "file": "spells/307-light.html"
+  },
+  {
+    "title": "Свобода перемещения",
+    "titleEn": "Freedom of movement",
+    "file": "spells/308-freedom-of-movement.html"
+  },
+  {
+    "title": "Связь с иным миром",
+    "titleEn": "Contact other plane",
+    "file": "spells/309-contact-other-plane.html"
+  },
+  {
+    "title": "Святилище",
+    "titleEn": "Hallow",
+    "file": "spells/310-hallow.html"
+  },
+  {
+    "title": "Священное пламя",
+    "titleEn": "Sacred flame",
+    "file": "spells/311-sacred-flame.html"
+  },
+  {
+    "title": "Сглаз",
+    "titleEn": "Hex",
+    "file": "spells/312-hex.html"
+  },
+  {
+    "title": "Сигнал тревоги",
+    "titleEn": "Alarm",
+    "file": "spells/313-alarm.html"
+  },
+  {
+    "title": "Силовая стена",
+    "titleEn": "Wall of force",
+    "file": "spells/314-wall-of-force.html"
+  },
+  {
+    "title": "Скольжение",
+    "titleEn": "Grease",
+    "file": "spells/315-grease.html"
+  },
+  {
+    "title": "Скороход",
+    "titleEn": "Longstrider",
+    "file": "spells/316-longstrider.html"
+  },
+  {
+    "title": "Слабоумие",
+    "titleEn": "Feeblemind",
+    "file": "spells/317-feeblemind.html"
+  },
+  {
+    "title": "Слияние с камнем",
+    "titleEn": "Meld into stone",
+    "file": "spells/318-meld-into-stone.html"
+  },
+  {
+    "title": "Слово возврата",
+    "titleEn": "Word of recall",
+    "file": "spells/319-word-of-recall.html"
+  },
+  {
+    "title": "Слово силы: исцеление",
+    "titleEn": "Power word heal",
+    "file": "spells/320-power-word-heal.html"
+  },
+  {
+    "title": "Слово силы: ошеломление",
+    "titleEn": "Power word stun",
+    "file": "spells/321-power-word-stun.html"
+  },
+  {
+    "title": "Слово силы: смерть",
+    "titleEn": "Power word kill",
+    "file": "spells/322-power-word-kill.html"
+  },
+  {
+    "title": "Смена обличья",
+    "titleEn": "Alter self",
+    "file": "spells/323-alter-self.html"
+  },
+  {
+    "title": "Смертный ужас",
+    "titleEn": "Weird",
+    "file": "spells/324-weird.html"
+  },
+  {
+    "title": "Смятение",
+    "titleEn": "Confusion",
+    "file": "spells/325-confusion.html"
+  },
+  {
+    "title": "Снятие проклятия",
+    "titleEn": "Remove curse",
+    "file": "spells/326-remove-curse.html"
+  },
+  {
+    "title": "Создание прохода",
+    "titleEn": "Passwall",
+    "file": "spells/327-passwall.html"
+  },
+  {
+    "title": "Сокрытие разума",
+    "titleEn": "Mind blank",
+    "file": "spells/328-mind-blank.html"
+  },
+  {
+    "title": "Солнечный луч",
+    "titleEn": "Sunbeam",
+    "file": "spells/329-sunbeam.html"
+  },
+  {
+    "title": "Солнечный ожог",
+    "titleEn": "Sunburst",
+    "file": "spells/330-sunburst.html"
+  },
+  {
+    "title": "Сообщение",
+    "titleEn": "Message",
+    "file": "spells/331-message.html"
+  },
+  {
+    "title": "Сопротивление",
+    "titleEn": "Resistance",
+    "file": "spells/332-resistance.html"
+  },
+  {
+    "title": "Сотворение или уничтожение воды",
+    "titleEn": "Create or destroy water",
+    "file": "spells/333-create-or-destroy-water.html"
+  },
+  {
+    "title": "Сотворение нежити",
+    "titleEn": "Create undead",
+    "file": "spells/334-create-undead.html"
+  },
+  {
+    "title": "Сотворение пищи и воды",
+    "titleEn": "Create food and water",
+    "file": "spells/335-create-food-and-water.html"
+  },
+  {
+    "title": "Сотворение пламени",
+    "titleEn": "Produce flame",
+    "file": "spells/336-produce-flame.html"
+  },
+  {
+    "title": "Стена ветров",
+    "titleEn": "Wind wall",
+    "file": "spells/337-wind-wall.html"
+  },
+  {
+    "title": "Стена клинков",
+    "titleEn": "Blade barrier",
+    "file": "spells/338-blade-barrier.html"
+  },
+  {
+    "title": "Стихийное оружие",
+    "titleEn": "Elemental weapon",
+    "file": "spells/339-elemental-weapon.html"
+  },
+  {
+    "title": "Страж веры",
+    "titleEn": "Guardian of faith",
+    "file": "spells/340-guardian-of-faith.html"
+  },
+  {
+    "title": "Стражи",
+    "titleEn": "Guards and wards",
+    "file": "spells/341-guards-and-wards.html"
+  },
+  {
+    "title": "Сфера неуязвимости",
+    "titleEn": "Globe of invulnerability",
+    "file": "spells/342-globe-of-invulnerability.html"
+  },
+  {
+    "title": "Таинственный мираж",
+    "titleEn": "Mirage arcane",
+    "file": "spells/343-mirage-arcane.html"
+  },
+  {
+    "title": "Телекинез",
+    "titleEn": "Telekinesis",
+    "file": "spells/344-telekinesis.html"
+  },
+  {
+    "title": "Телепатия",
+    "titleEn": "Telepathy",
+    "file": "spells/345-telepathy.html"
+  },
+  {
+    "title": "Тензеров парящий диск",
+    "titleEn": "Tenser’s floating disk",
+    "file": "spells/346-tensers-floating-disk.html"
+  },
+  {
+    "title": "Терновая стена",
+    "titleEn": "Wall of thorns",
+    "file": "spells/347-wall-of-thorns.html"
+  },
+  {
+    "title": "Терновый кнут",
+    "titleEn": "Thorn whip",
+    "file": "spells/348-thorn-whip.html"
+  },
+  {
+    "title": "Тишина",
+    "titleEn": "Silence",
+    "file": "spells/349-silence.html"
+  },
+  {
+    "title": "Трюк с верёвкой",
+    "titleEn": "Rope trick",
+    "file": "spells/350-rope-trick.html"
+  },
+  {
+    "title": "Туманное облако",
+    "titleEn": "Fog cloud",
+    "file": "spells/351-fog-cloud.html"
+  },
+  {
+    "title": "Туманный шаг",
+    "titleEn": "Misty step",
+    "file": "spells/352-misty-step.html"
+  },
+  {
+    "title": "Тьма",
+    "titleEn": "Darkness",
+    "file": "spells/353-darkness.html"
+  },
+  {
+    "title": "Убежище",
+    "titleEn": "Sanctuary",
+    "file": "spells/354-sanctuary.html"
+  },
+  {
+    "title": "Увеличение/уменьшение",
+    "titleEn": "Enlarge/reduce",
+    "file": "spells/355-enlargereduce.html"
+  },
+  {
+    "title": "Удержание личности",
+    "titleEn": "Hold person",
+    "file": "spells/356-hold-person.html"
+  },
+  {
+    "title": "Оживление вещей",
+    "titleEn": "Animate objects",
+    "file": "spells/364-animate-objects.html"
+  },
+  {
+    "title": "Реинкарнация",
+    "titleEn": "Reincarnate",
+    "file": "spells/365-reincarnate.html"
+  },
+  {
+    "title": "Сотворение",
+    "titleEn": "Creation",
+    "file": "spells/366-creation.html"
+  },
+  {
+    "title": "Телепортация",
+    "titleEn": "Teleport",
+    "file": "spells/367-teleport.html"
+  },
+  {
+    "title": "Тёмное зрение",
+    "titleEn": "Darkvision",
+    "file": "spells/368-darkvision.html"
+  },
+  {
+    "title": "Власть над ветрами",
+    "titleEn": "Control winds",
+    "file": "spells/373-control-winds.html"
+  },
+  {
+    "title": "Власть над огнём",
+    "titleEn": "Control flames",
+    "file": "spells/374-control-flames.html"
+  },
+  {
+    "title": "Водоворот",
+    "titleEn": "Maelstrom",
+    "file": "spells/375-maelstrom.html"
+  },
+  {
+    "title": "Водяная стена",
+    "titleEn": "Wall of water",
+    "file": "spells/376-wall-of-water.html"
+  },
+  {
+    "title": "Водяная сфера",
+    "titleEn": "Watery sphere",
+    "file": "spells/377-watery-sphere.html"
+  },
+  {
+    "title": "Волшебный камень",
+    "titleEn": "Magic stone",
+    "file": "spells/378-magic-stone.html"
+  },
+  {
+    "title": "Дрожь земли",
+    "titleEn": "Earth tremor",
+    "file": "spells/379-earth-tremor.html"
+  },
+  {
+    "title": "Едкий шар",
+    "titleEn": "Vitriolic sphere",
+    "file": "spells/380-vitriolic-sphere.html"
+  },
+  {
+    "title": "Защитный ветер",
+    "titleEn": "Warding wind",
+    "file": "spells/381-warding-wind.html"
+  },
+  {
+    "title": "Звериные узы",
+    "titleEn": "Beast bond",
+    "file": "spells/382-beast-bond.html"
+  },
+  {
+    "title": "Земляная хватка Максимилиана",
+    "titleEn": "Maximilian's earthen grasp",
+    "file": "spells/383-maximilians-earthen-grasp.html"
+  },
+  {
+    "title": "Извержение земли",
+    "titleEn": "Erupting earth",
+    "file": "spells/384-erupting-earth.html"
+  },
+  {
+    "title": "Испепеление",
+    "titleEn": "Immolation",
+    "file": "spells/385-immolation.html"
+  },
+  {
+    "title": "Катапульта",
+    "titleEn": "Catapult",
+    "file": "spells/386-catapult.html"
+  },
+  {
+    "title": "Кости земли",
+    "titleEn": "Bones of the earth",
+    "file": "spells/387-bones-of-the-earth.html"
+  },
+  {
+    "title": "Ледяной кинжал",
+    "titleEn": "Ice knife",
+    "file": "spells/388-ice-knife.html"
+  },
+  {
+    "title": "Лепка земли",
+    "titleEn": "Mold earth",
+    "file": "spells/389-mold-earth.html"
+  },
+  {
+    "title": "Мельфовы маленькие метеоры",
+    "titleEn": "Melf's minute meteors",
+    "file": "spells/390-melfs-minute-meteors.html"
+  },
+  {
+    "title": "Небесные письмена",
+    "titleEn": "Skywrite",
+    "file": "spells/391-skywrite.html"
+  },
+  {
+    "title": "Облачение ветра",
+    "titleEn": "Investiture of wind",
+    "file": "spells/392-investiture-of-wind.html"
+  },
+  {
+    "title": "Облачение камня",
+    "titleEn": "Investiture of stone",
+    "file": "spells/393-investiture-of-stone.html"
+  },
+  {
+    "title": "Облачение льда",
+    "titleEn": "Investiture of ice",
+    "file": "spells/394-investiture-of-ice.html"
+  },
+  {
+    "title": "Облачение огня",
+    "titleEn": "Investiture of flame",
+    "file": "spells/395-investiture-of-flame.html"
+  },
+  {
+    "title": "Обморожение",
+    "titleEn": "Frostbite",
+    "file": "spells/396-frostbite.html"
+  },
+  {
+    "title": "Пекло Аганаззара",
+    "titleEn": "Aganazzar's scorcher",
+    "file": "spells/397-aganazzars-scorcher.html"
+  },
+  {
+    "title": "Первородный страж",
+    "titleEn": "Primordial ward",
+    "file": "spells/398-primordial-ward.html"
+  },
+  {
+    "title": "Песчаная стена",
+    "titleEn": "Wall of sand",
+    "file": "spells/399-wall-of-sand.html"
+  },
+  {
+    "title": "Пиротехника",
+    "titleEn": "Pyrotechnics",
+    "file": "spells/400-pyrotechnics.html"
+  },
+  {
+    "title": "Поглощение стихий",
+    "titleEn": "Absorb elements",
+    "file": "spells/401-absorb-elements.html"
+  },
+  {
+    "title": "Преобразование камня",
+    "titleEn": "Transmute rock",
+    "file": "spells/402-transmute-rock.html"
+  },
+  {
+    "title": "Приливная волна",
+    "titleEn": "Tidal wave",
+    "file": "spells/403-tidal-wave.html"
+  },
+  {
+    "title": "Проклятие стихии",
+    "titleEn": "Elemental Bane",
+    "file": "spells/404-elemental-bane.html"
+  },
+  {
+    "title": "Пылающие стрелы",
+    "titleEn": "Flame arrows",
+    "file": "spells/405-flame-arrows.html"
+  },
+  {
+    "title": "Пылевой вихрь",
+    "titleEn": "Dust devil",
+    "file": "spells/406-dust-devil.html"
+  },
+  {
+    "title": "Раскат грома",
+    "titleEn": "Thunderclap",
+    "file": "spells/407-thunderclap.html"
+  },
+  {
+    "title": "Смерч",
+    "titleEn": "Whirlwind",
+    "file": "spells/408-whirlwind.html"
+  },
+  {
+    "title": "Снежный шквал Сниллока",
+    "titleEn": "Snilloc's snowball swarm",
+    "file": "spells/409-snillocs-snowball-swarm.html"
+  },
+  {
+    "title": "Сотворение костра",
+    "titleEn": "Create bonfire",
+    "file": "spells/410-create-bonfire.html"
+  },
+  {
+    "title": "Сфера бури",
+    "titleEn": "Storm sphere",
+    "file": "spells/411-storm-sphere.html"
+  },
+  {
+    "title": "Ужасное увядание Аби-Далзима",
+    "titleEn": "Abi-Dalzim's horrid wilting",
+    "file": "spells/412-abi-dalzims-horrid-wilting.html"
+  },
+  {
+    "title": "Узы земли",
+    "titleEn": "Earthbind",
+    "file": "spells/413-earthbind.html"
+  },
+  {
+    "title": "Формование воды",
+    "titleEn": "Shape water",
+    "file": "spells/414-shape-water.html"
+  },
+  {
+    "title": "Шквал",
+    "titleEn": "Gust",
+    "file": "spells/415-gust.html"
+  },
+  {
+    "title": "Первобытная дикость",
+    "titleEn": "Primal savagery",
+    "file": "spells/454-primal-savagery.html"
+  },
+  {
+    "title": "Слово сияния",
+    "titleEn": "Word of radiance",
+    "file": "spells/455-word-of-radiance.html"
+  },
+  {
+    "title": "Нашествие",
+    "titleEn": "Infestation",
+    "file": "spells/456-infestation.html"
+  },
+  {
+    "title": "Погребальный звон",
+    "titleEn": "Toll the dead",
+    "file": "spells/457-toll-the-dead.html"
+  },
+  {
+    "title": "Громовой клинок",
+    "titleEn": "Booming blade",
+    "file": "spells/458-booming-blade.html"
+  },
+  {
+    "title": "Клинок зелёного пламени",
+    "titleEn": "Green-flame blade",
+    "file": "spells/459-green-flame-blade.html"
+  },
+  {
+    "title": "Лассо молнии",
+    "titleEn": "Lightning lure",
+    "file": "spells/460-lightning-lure.html"
+  },
+  {
+    "title": "Вспышка мечей",
+    "titleEn": "Sword burst",
+    "file": "spells/461-sword-burst.html"
+  },
+  {
+    "title": "Вызов страха",
+    "titleEn": "Cause fear",
+    "file": "spells/462-cause-fear.html"
+  },
+  {
+    "title": "Силок",
+    "titleEn": "Snare",
+    "file": "spells/463-snare.html"
+  },
+  {
+    "title": "Снаряд хаоса",
+    "titleEn": "Chaos bolt",
+    "file": "spells/464-chaos-bolt.html"
+  },
+  {
+    "title": "Церемония",
+    "titleEn": "Ceremony",
+    "file": "spells/465-ceremony.html"
+  },
+  {
+    "title": "Удар Зефира",
+    "titleEn": "Zephyr strike",
+    "file": "spells/466-zephyr-strike.html"
+  },
+  {
+    "title": "Дыхание дракона",
+    "titleEn": "Dragon's breath",
+    "file": "spells/467-dragons-breath.html"
+  },
+  {
+    "title": "Исцеляющий дух",
+    "titleEn": "Healing spirit",
+    "file": "spells/468-healing-spirit.html"
+  },
+  {
+    "title": "Пронзание разума",
+    "titleEn": "Mind spike",
+    "file": "spells/469-mind-spike.html"
+  },
+  {
+    "title": "Теневой клинок",
+    "titleEn": "Shadow blade",
+    "file": "spells/470-shadow-blade.html"
+  },
+  {
+    "title": "Громовой шаг",
+    "titleEn": "Thunder step",
+    "file": "spells/471-thunder-step.html"
+  },
+  {
+    "title": "Дрёма",
+    "titleEn": "Catnap",
+    "file": "spells/472-catnap.html"
+  },
+  {
+    "title": "Изобилие врагов",
+    "titleEn": "Enemies abound",
+    "file": "spells/473-enemies-abound.html"
+  },
+  {
+    "title": "Крошечный слуга",
+    "titleEn": "Tiny servant",
+    "file": "spells/474-tiny-servant.html"
+  },
+  {
+    "title": "Передача жизни",
+    "titleEn": "Life transference",
+    "file": "spells/475-life-transference.html"
+  },
+  {
+    "title": "Болезненное сияние",
+    "titleEn": "Sickening radiance",
+    "file": "spells/477-sickening-radiance.html"
+  },
+  {
+    "title": "Очарование чудовища",
+    "titleEn": "Charm monster",
+    "file": "spells/479-charm-monster.html"
+  },
+  {
+    "title": "Поиск высшего скакуна",
+    "titleEn": "Find greater steed",
+    "file": "spells/480-find-greater-steed.html"
+  },
+  {
+    "title": "Призыв высшего демона",
+    "titleEn": "Summon greater demon",
+    "file": "spells/481-summon-greater-demon.html"
+  },
+  {
+    "title": "Страж природы",
+    "titleEn": "Guardian of nature",
+    "file": "spells/482-guardian-of-nature.html"
+  },
+  {
+    "title": "Гнев природы",
+    "titleEn": "Wrath of nature",
+    "file": "spells/483-wrath-of-nature.html"
+  },
+  {
+    "title": "Далёкий шаг",
+    "titleEn": "Far step",
+    "file": "spells/484-far-step.html"
+  },
+  {
+    "title": "Инфернальный зов",
+    "titleEn": "Infernal calling",
+    "file": "spells/485-infernal-calling.html"
+  },
+  {
+    "title": "Обессиливание",
+    "titleEn": "Enervation",
+    "file": "spells/486-enervation.html"
+  },
+  {
+    "title": "Пляска смерти",
+    "titleEn": "Danse macabre",
+    "file": "spells/487-danse-macabre.html"
+  },
+  {
+    "title": "Поток негативной энергии",
+    "titleEn": "Negative energy flood",
+    "file": "spells/488-negative-energy-flood.html"
+  },
+  {
+    "title": "Рассвет",
+    "titleEn": "Dawn",
+    "file": "spells/489-dawn.html"
+  },
+  {
+    "title": "Священное оружие",
+    "titleEn": "Holy weapon",
+    "file": "spells/490-holy-weapon.html"
+  },
+  {
+    "title": "Синаптический разряд",
+    "titleEn": "Synaptic static",
+    "file": "spells/491-synaptic-static.html"
+  },
+  {
+    "title": "Стена света",
+    "titleEn": "Wall of light",
+    "file": "spells/492-wall-of-light.html"
+  },
+  {
+    "title": "Удар стального ветра",
+    "titleEn": "Steel wind strike",
+    "file": "spells/493-steel-wind-strike.html"
+  },
+  {
+    "title": "Усиление навыка",
+    "titleEn": "Skill empowerment",
+    "file": "spells/494-skill-empowerment.html"
+  },
+  {
+    "title": "Клетка душ",
+    "titleEn": "Soul cage",
+    "file": "spells/495-soul-cage.html"
+  },
+  {
+    "title": "Ментальная тюрьма",
+    "titleEn": "Mental prison",
+    "file": "spells/496-mental-prison.html"
+  },
+  {
+    "title": "Раскидывание",
+    "titleEn": "Scatter",
+    "file": "spells/497-scatter.html"
+  },
+  {
+    "title": "Роща друида",
+    "titleEn": "Druid grove",
+    "file": "spells/498-druid-grove.html"
+  },
+  {
+    "title": "Сотворение гомункула",
+    "titleEn": "Create homunculus",
+    "file": "spells/499-create-homunculus.html"
+  },
+  {
+    "title": "Трансформация Тензера",
+    "titleEn": "Tenser's transformation",
+    "file": "spells/500-tensers-transformation.html"
+  },
+  {
+    "title": "Корона звёзд",
+    "titleEn": "Crown of stars",
+    "file": "spells/501-crown-of-stars.html"
+  },
+  {
+    "title": "Слово силы: боль",
+    "titleEn": "Power word pain",
+    "file": "spells/502-power-word-pain.html"
+  },
+  {
+    "title": "Храм богов",
+    "titleEn": "Temple of the gods",
+    "file": "spells/503-temple-of-the-gods.html"
+  },
+  {
+    "title": "Иллюзорный дракон",
+    "titleEn": "Illusory dragon",
+    "file": "spells/504-illusory-dragon.html"
+  },
+  {
+    "title": "Могучая крепость",
+    "titleEn": "Mighty fortress",
+    "file": "spells/505-mighty-fortress.html"
+  },
+  {
+    "title": "Одуряющая тьма",
+    "titleEn": "Maddening darkness",
+    "file": "spells/506-maddening-darkness.html"
+  },
+  {
+    "title": "Множественное превращение",
+    "titleEn": "Mass polymorph",
+    "file": "spells/507-mass-polymorph.html"
+  },
+  {
+    "title": "Неуязвимость",
+    "titleEn": "Invulnerability",
+    "file": "spells/508-invulnerability.html"
+  },
+  {
+    "title": "Психический крик",
+    "titleEn": "Psychic scream",
+    "file": "spells/509-psychic-scream.html"
+  },
+  {
+    "title": "Кодировка мыслей",
+    "titleEn": "Encode thoughts",
+    "file": "spells/741-encode-thoughts.html"
+  },
+  {
+    "title": "Быстрые друзья",
+    "titleEn": "Fast friends",
+    "file": "spells/1921-fast-friends.html"
+  },
+  {
+    "title": "Подарок болтуна",
+    "titleEn": "Gift of gab",
+    "file": "spells/1922-gift-of-gab.html"
+  },
+  {
+    "title": "Спровоцированная жадность",
+    "titleEn": "Incite Greed",
+    "file": "spells/1923-incite-greed.html"
+  },
+  {
+    "title": "Искажение цены",
+    "titleEn": "Distort Value",
+    "file": "spells/2018-distort-value.html"
+  },
+  {
+    "title": "Призыв низших демонов",
+    "titleEn": "Summon lesser demons",
+    "file": "spells/2202-summon-lesser-demons.html"
+  },
+  {
+    "title": "Сверкающая монета Джима",
+    "titleEn": "Jims Glowing Coin",
+    "file": "spells/2340-jims-glowing-coin.html"
+  },
+  {
+    "title": "Волшебная стрела Джима",
+    "titleEn": "Jims Magic Missile",
+    "file": "spells/2341-jims-magic-missile.html"
+  },
+  {
+    "title": "Мотивирующая речь",
+    "titleEn": "Motivational Speech",
+    "file": "spells/2344-motivational-speech.html"
+  },
+  {
+    "title": "Иссушающий укол",
+    "titleEn": "Sapping sting",
+    "file": "spells/2441-sapping-sting.html"
+  },
+  {
+    "title": "Дар готовности",
+    "titleEn": "Gift of alacrity",
+    "file": "spells/2442-gift-of-alacrity.html"
+  },
+  {
+    "title": "Притяжение",
+    "titleEn": "Magnify gravity",
+    "file": "spells/2444-magnify-gravity.html"
+  },
+  {
+    "title": "Благословение удачи",
+    "titleEn": "Fortune's favor",
+    "file": "spells/2445-fortunes-favor.html"
+  },
+  {
+    "title": "Неподвижный предмет",
+    "titleEn": "Immovable object",
+    "file": "spells/2446-immovable-object.html"
+  },
+  {
+    "title": "Карман на запястье",
+    "titleEn": "Wristpocket",
+    "file": "spells/2447-wristpocket.html"
+  },
+  {
+    "title": "Силовая волна",
+    "titleEn": "Pulse wave",
+    "file": "spells/2448-pulse-wave.html"
+  },
+  {
+    "title": "Центр притяжения",
+    "titleEn": "Gravity sinkhole",
+    "file": "spells/2449-gravity-sinkhole.html"
+  },
+  {
+    "title": "Временной сдвиг",
+    "titleEn": "Temporal shunt",
+    "file": "spells/2450-temporal-shunt.html"
+  },
+  {
+    "title": "Гравитационный разлом",
+    "titleEn": "Gravity fissure",
+    "file": "spells/2451-gravity-fissure.html"
+  },
+  {
+    "title": "Единство сущностей",
+    "titleEn": "Tether essence",
+    "file": "spells/2452-tether-essence.html"
+  },
+  {
+    "title": "Тёмная звезда",
+    "titleEn": "Dark star",
+    "file": "spells/2453-dark-star.html"
+  },
+  {
+    "title": "Брешь в реальности",
+    "titleEn": "Reality break",
+    "file": "spells/2454-reality-break.html"
+  },
+  {
+    "title": "Ревущая бездна",
+    "titleEn": "Ravenous void",
+    "file": "spells/2455-ravenous-void.html"
+  },
+  {
+    "title": "Утрата времени",
+    "titleEn": "Time ravage",
+    "file": "spells/2456-time-ravage.html"
+  },
+  {
+    "title": "Ледяные пальцы",
+    "titleEn": "Frost fingers",
+    "file": "spells/3022-frost-fingers.html"
+  },
+  {
+    "title": "Сотворение магена",
+    "titleEn": "Create magen",
+    "file": "spells/3023-create-magen.html"
+  },
+  {
+    "title": "Едкое варево Таши",
+    "titleEn": "Tasha's Caustic Brew",
+    "file": "spells/3047-tashas-caustic-brew.html"
+  },
+  {
+    "title": "Клинок разрушения",
+    "titleEn": "Blade of Disaster",
+    "file": "spells/3048-blade-of-disaster.html"
+  },
+  {
+    "title": "Крепость интеллекта",
+    "titleEn": "Intellect Fortress",
+    "file": "spells/3049-intellect-fortress.html"
+  },
+  {
+    "title": "Расщепление разума",
+    "titleEn": "Mind Sliver",
+    "file": "spells/3050-mind-sliver.html"
+  },
+  {
+    "title": "Покров духа",
+    "titleEn": "Spirit shroud",
+    "file": "spells/3051-spirit-shroud.html"
+  },
+  {
+    "title": "Потусторонний облик Таши",
+    "titleEn": "Tasha's Otherworldly Guise",
+    "file": "spells/3052-tashas-otherworldly-guise.html"
+  },
+  {
+    "title": "Психическая плеть Таши",
+    "titleEn": "Tasha's mind whip",
+    "file": "spells/3053-tashas-mind-whip.html"
+  },
+  {
+    "title": "Сон синей вуали",
+    "titleEn": "Dream of the Blue Veil",
+    "file": "spells/3054-dream-of-the-blue-veil.html"
+  },
+  {
+    "title": "Призыв духа аберрации",
+    "titleEn": "Summon aberration",
+    "file": "spells/3062-summon-aberration.html"
+  },
+  {
+    "title": "Призыв духа зверя",
+    "titleEn": "Summon Beast",
+    "file": "spells/3063-summon-beast.html"
+  },
+  {
+    "title": "Призыв духа исчадия",
+    "titleEn": "Summon fiend",
+    "file": "spells/3064-summon-fiend.html"
+  },
+  {
+    "title": "Призыв духа конструкта",
+    "titleEn": "Summon Construct",
+    "file": "spells/3065-summon-construct.html"
+  },
+  {
+    "title": "Призыв духа небожителя",
+    "titleEn": "Summon Celestial",
+    "file": "spells/3066-summon-celestial.html"
+  },
+  {
+    "title": "Призыв духа нежити",
+    "titleEn": "Summon Undead",
+    "file": "spells/3067-summon-undead.html"
+  },
+  {
+    "title": "Призыв духа стихии",
+    "titleEn": "Summon Elemental",
+    "file": "spells/3068-summon-elemental.html"
+  },
+  {
+    "title": "Призыв духа тени",
+    "titleEn": "Summon Shadowspawn",
+    "file": "spells/3069-summon-shadowspawn.html"
+  },
+  {
+    "title": "Призыв духа феи",
+    "titleEn": "Summon Fey",
+    "file": "spells/3070-summon-fey.html"
+  },
+  {
+    "title": "Ашардалонова поступь",
+    "titleEn": "Ashardalon's Stride",
+    "file": "spells/3813-ashardalons-stride.html"
+  },
+  {
+    "title": "Драконоподобное превращение",
+    "titleEn": "Draconic Transformation",
+    "file": "spells/3814-draconic-transformation.html"
+  },
+  {
+    "title": "Платиновый щит Физбана",
+    "titleEn": "Fizban's Platinum Shield",
+    "file": "spells/3815-fizbans-platinum-shield.html"
+  },
+  {
+    "title": "Натайрово озорство",
+    "titleEn": "Nathair's Mischief",
+    "file": "spells/3816-nathairs-mischief.html"
+  },
+  {
+    "title": "Психическое копьё Раулотима",
+    "titleEn": "Raulothim's Psychic Lance",
+    "file": "spells/3817-raulothims-psychic-lance.html"
+  },
+  {
+    "title": "Сковывающий лёд Раймы",
+    "titleEn": "Rime's binding ice",
+    "file": "spells/3818-rimes-binding-ice.html"
+  },
+  {
+    "title": "Призыв духа дракона",
+    "titleEn": "Summon Draconic Spirit",
+    "file": "spells/3819-summon-draconic-spirit.html"
+  },
+  {
+    "title": "Стая фамильяров",
+    "titleEn": "Flock of Familiars",
+    "file": "spells/3847-flock-of-familiars.html"
+  },
+  {
+    "title": "Быстрый гонец Гальдера",
+    "titleEn": "Galder's Speedy Courier",
+    "file": "spells/3848-galders-speedy-courier.html"
+  },
+  {
+    "title": "Гальдерова башня",
+    "titleEn": "Galder's Tower",
+    "file": "spells/3849-galders-tower.html"
+  },
+  {
+    "title": "Заимствованные знания",
+    "titleEn": "Borrowed Knowledge",
+    "file": "spells/3938-borrowed-knowledge.html"
+  },
+  {
+    "title": "Увлекательная прогулка",
+    "titleEn": "Kinetic Jaunt",
+    "file": "spells/3939-kinetic-jaunt.html"
+  },
+  {
+    "title": "Искусная острота",
+    "titleEn": "Silvery barbs",
+    "file": "spells/3946-silvery-barbs.html"
+  },
+  {
+    "title": "Вихрь искривления",
+    "titleEn": "Vortex warp",
+    "file": "spells/3947-vortex-warp.html"
+  },
+  {
+    "title": "Увядание и цветение",
+    "titleEn": "Wither and Bloom",
+    "file": "spells/3948-wither-and-bloom.html"
+  },
+  {
+    "title": "Враждебность",
+    "titleEn": "Antagonize",
+    "file": "spells/4660-antagonize.html"
+  },
+  {
+    "title": "Дух смерти",
+    "titleEn": "Spirit of Death",
+    "file": "spells/4663-spirit-of-death.html"
+  },
+  {
+    "title": "Разбрасывание карт",
+    "titleEn": "Spray of Cards",
+    "file": "spells/4664-spray-of-cards.html"
+  },
+  {
+    "title": "Воздушный пузырь",
+    "titleEn": "Air bubble",
+    "file": "spells/4760-air-bubble.html"
+  },
+  {
+    "title": "Сотворение магического руля",
+    "titleEn": "Creating spelljamming helm",
+    "file": "spells/4761-creating-spelljamming-helm.html"
+  },
+  {
+    "title": "Запечатывание врат",
+    "titleEn": "Gate seal",
+    "file": "spells/6578-gate-seal.html"
+  },
+  {
+    "title": "Чувство искажения",
+    "titleEn": "Warp sense",
+    "file": "spells/6579-warp-sense.html"
+  }
+]
