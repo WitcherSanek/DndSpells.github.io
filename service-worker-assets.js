@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "RkMPYbD5",
+  "version": "Qm4VW6jZ",
   "assets": [
     {
       "hash": "sha256-OdSNkjLTUYkj6IT3jFm/oxzKIBuKLcqmo4JNMFrbMvk=",
@@ -2110,8 +2110,12 @@ self.assetsManifest = {
       "url": "SpellData/spells/99-protection-from-evil-and-good.html"
     },
     {
-      "hash": "sha256-fPyit2q89yTM0VuijeMVfj5NbU+8bP0+7RQohg8HLAo=",
-      "url": "_framework/BlazorSpellsPicker.wp66swgilo.wasm"
+      "hash": "sha256-AD0nYg812luEpvZ2tk8qePYYt0q1PydPK3yRH2qKlfU=",
+      "url": "_framework/BlazorSpellsPicker.wsf4aor5k1.wasm"
+    },
+    {
+      "hash": "sha256-C6McHa29pnhqhNjv8P2cyIzcBT6+ucrCvKcZ0p4wRXg=",
+      "url": "_framework/Microsoft.AspNetCore.Components.7p0qhjsu36.wasm"
     },
     {
       "hash": "sha256-R2FrilSZJLCyjBrTWneaFhW8hKFVxnYjX/PCqCXIXMo=",
@@ -2120,10 +2124,6 @@ self.assetsManifest = {
     {
       "hash": "sha256-yuk3jNlC3nnBLJ+lZAH3U8nKItG2uaaPSXAZ1cC3/rc=",
       "url": "_framework/Microsoft.AspNetCore.Components.WebAssembly.mkpbwczbcp.wasm"
-    },
-    {
-      "hash": "sha256-+UhfSo9kZ3RKvJhCcJ4SUGOuc3h6oA5Wr3L5Bhu5Y4U=",
-      "url": "_framework/Microsoft.AspNetCore.Components.x290b4q8lz.wasm"
     },
     {
       "hash": "sha256-FngMKPqjYJ/ug7cPfNm4X9SuncFTFku8vfzirt9fM9M=",
@@ -2218,8 +2218,8 @@ self.assetsManifest = {
       "url": "_framework/System.Net.Primitives.23g81yvrov.wasm"
     },
     {
-      "hash": "sha256-2C1/CFp3OtdcTZT2HcD2VhAHhJObne8lVfzMjkp15H4=",
-      "url": "_framework/System.Private.CoreLib.ge9p6rehvo.wasm"
+      "hash": "sha256-WMoCu167EG2YrVpgCoThv6WZm8ZLaYQumTnH8j6kwe4=",
+      "url": "_framework/System.Private.CoreLib.wis1btrj80.wasm"
     },
     {
       "hash": "sha256-JH9mRaWI5dM5O0KqKhfedt9S8vknjnoMw/3pRew4XNQ=",
@@ -2230,8 +2230,8 @@ self.assetsManifest = {
       "url": "_framework/System.Runtime.InteropServices.JavaScript.i2ix6lwh25.wasm"
     },
     {
-      "hash": "sha256-Lax99uO6rhu1iIYDZRbZvCQzq3iInMdQbdxtCYdJB1Q=",
-      "url": "_framework/System.Runtime.v5w8v08w5n.wasm"
+      "hash": "sha256-f980Uom9fHZc5ZwZBWdM5TJMaNH8SL+EPah6rXKKqWQ=",
+      "url": "_framework/System.Runtime.v4hjepbaa2.wasm"
     },
     {
       "hash": "sha256-0pI1j/Zg5vLeeWfzHe25ZNTUkGImNi+puc0csHLdA4s=",
@@ -2246,7 +2246,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.r3pajpjfnd.wasm"
     },
     {
-      "hash": "sha256-pDcIXm2QvlZxcm3P4Vv5AVIdfq7SUYfphLFcPIuAH/0=",
+      "hash": "sha256-rlE7kv9nQ/QZ4sEm7dG64tKxxKx5S70nuPDe51sLvCs=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -2306,11 +2306,11 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-0R4BpkTQsSbJk5nJfsafEh41+fDD0xBNwdYI621qaJc=",
+      "hash": "sha256-fisBEYGNzlt92wv4hXxsNIMBCUr17YjBSYFqOVB15y4=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-XOHnHNex9saM4P8j7ytYEWzgObOWnckpyOPGcWJXMyk=",
+      "hash": "sha256-hkONPoILSKCpC7+IkyWono1JOUk7sVwHzxe0hd+8tmU=",
       "url": "js/spells-interop.js"
     },
     {
