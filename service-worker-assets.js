@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "xGsJm5r6",
+  "version": "2GvfYfxm",
   "assets": [
     {
       "hash": "sha256-OdSNkjLTUYkj6IT3jFm/oxzKIBuKLcqmo4JNMFrbMvk=",
@@ -5698,8 +5698,8 @@ self.assetsManifest = {
       "url": "SpellData/spells/99-protection-from-evil-and-good.html"
     },
     {
-      "hash": "sha256-h5Av5BQEraYYDbljVMFz7PdLlvnsugGLgI9KpEyosvY=",
-      "url": "_framework/BlazorSpellsPicker.nscb7lenia.wasm"
+      "hash": "sha256-vIu/5G1m/PXkddXiZpiFui6m8oBnErxRkzyo7jOA7vM=",
+      "url": "_framework/BlazorSpellsPicker.w9m2v2pttv.wasm"
     },
     {
       "hash": "sha256-o8HNp1RA6Reb1A/JIIsoMcujOynSG9i3mBBSr/r2PDc=",
@@ -5834,7 +5834,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.ivnnkacsm3.wasm"
     },
     {
-      "hash": "sha256-Q/9AzWDoY27of31nRxdwVt40dkeN6jMMswTsf8cWaz0=",
+      "hash": "sha256-nCetnVVT73n5P9EL95ZtkP/N4buQv7kWvzEYwt/Agtg=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -5846,8 +5846,8 @@ self.assetsManifest = {
       "url": "_framework/dotnet.js"
     },
     {
-      "hash": "sha256-Vdi9b9KRPRLbvp8gJd/ru96h5vlPol/VOKlj/YKVQPY=",
-      "url": "_framework/dotnet.native.je6l4kgv9x.wasm"
+      "hash": "sha256-4GhK9C3ewcixln/CxDLIgSVSE4V/+yFgF13uMGGQUfw=",
+      "url": "_framework/dotnet.native.oeh4m8v6d5.wasm"
     },
     {
       "hash": "sha256-IpTF2jSoliI3DzLJNfcu+RJ7GAnV2GLhWuGtfqtQFAI=",
