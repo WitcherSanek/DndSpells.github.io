@@ -1,0 +1,3574 @@
+[
+  {
+    "title": "Защита без доспехов",
+    "file": "features/1-unarmored-defense.html"
+  },
+  {
+    "title": "Ярость",
+    "file": "features/2-rage.html"
+  },
+  {
+    "title": "Безрассудная атака",
+    "file": "features/3-reckless-attack.html"
+  },
+  {
+    "title": "Чувство опасности",
+    "file": "features/4-danger-sense.html"
+  },
+  {
+    "title": "Путь дикости",
+    "file": "features/5-primal-path.html"
+  },
+  {
+    "title": "Первобытное знание",
+    "file": "features/6-primal-knowledge.html"
+  },
+  {
+    "title": "Увеличение характеристик",
+    "file": "features/7-ability-score-improvement.html"
+  },
+  {
+    "title": "Быстрое передвижение",
+    "file": "features/8-fast-movement.html"
+  },
+  {
+    "title": "Дополнительная атака",
+    "file": "features/9-extra-attack.html"
+  },
+  {
+    "title": "Дикий инстинкт",
+    "file": "features/10-feral-instinct.html"
+  },
+  {
+    "title": "Сильный критический удар",
+    "file": "features/11-brutal-critical.html"
+  },
+  {
+    "title": "Непреклонная ярость",
+    "file": "features/12-relentless-rage.html"
+  },
+  {
+    "title": "Непрерывная ярость",
+    "file": "features/13-persistent-rage.html"
+  },
+  {
+    "title": "Неукротимая мощь",
+    "file": "features/14-indomitable-might.html"
+  },
+  {
+    "title": "Дикий чемпион",
+    "file": "features/15-primal-champion.html"
+  },
+  {
+    "title": "Инстинктивный бросок",
+    "file": "features/16-instinctive-pounce.html"
+  },
+  {
+    "title": "Бешенство",
+    "file": "features/17-frenzy.html"
+  },
+  {
+    "title": "Бездумная ярость",
+    "file": "features/18-mindless-rage.html"
+  },
+  {
+    "title": "Пугающее присутствие",
+    "file": "features/19-intimidating-presence.html"
+  },
+  {
+    "title": "Ответный удар",
+    "file": "features/20-retaliation.html"
+  },
+  {
+    "title": "Искатель духов",
+    "file": "features/21-spirit-seeker.html"
+  },
+  {
+    "title": "Тотемный дух",
+    "file": "features/22-totem-spirit.html"
+  },
+  {
+    "title": "Аспект зверя",
+    "file": "features/23-aspect-of-the-beast.html"
+  },
+  {
+    "title": "Гуляющий с духами",
+    "file": "features/24-spirit-walker.html"
+  },
+  {
+    "title": "Гармония тотема",
+    "file": "features/25-totemic-attunement.html"
+  },
+  {
+    "title": "Ограничение: только для дварфов",
+    "file": "features/26-restriction-dwarves-only.html"
+  },
+  {
+    "title": "Броня бушующего в бою",
+    "file": "features/27-battlerager-armor.html"
+  },
+  {
+    "title": "Полное безрассудство",
+    "file": "features/28-reckless-abandon.html"
+  },
+  {
+    "title": "Налёт бушующего в бою",
+    "file": "features/29-battlerager-charge.html"
+  },
+  {
+    "title": "Шипованная расплата",
+    "file": "features/30-spiked-retribution.html"
+  },
+  {
+    "title": "Аура бури",
+    "file": "features/31-storm-aura.html"
+  },
+  {
+    "title": "Душа бури",
+    "file": "features/32-storm-soul.html"
+  },
+  {
+    "title": "Ограждающая буря",
+    "file": "features/33-shielding-storm.html"
+  },
+  {
+    "title": "Неистовство бури",
+    "file": "features/34-raging-storm.html"
+  },
+  {
+    "title": "Древние защитники",
+    "file": "features/35-ancestral-protectors.html"
+  },
+  {
+    "title": "Щит предков",
+    "file": "features/36-spirit-shield.html"
+  },
+  {
+    "title": "Совет предков",
+    "file": "features/37-consult-the-spirits.html"
+  },
+  {
+    "title": "Мстительные предки",
+    "file": "features/38-vengeful-ancestors.html"
+  },
+  {
+    "title": "Божественный гнев",
+    "file": "features/39-divine-fury.html"
+  },
+  {
+    "title": "Воин богов",
+    "file": "features/40-warrior-of-the-gods.html"
+  },
+  {
+    "title": "Концентрация фанатика",
+    "file": "features/41-fanatical-focus.html"
+  },
+  {
+    "title": "Фанатичное присутствие",
+    "file": "features/42-zealous-presence.html"
+  },
+  {
+    "title": "Ярость превыше смерти",
+    "file": "features/43-rage-beyond-death.html"
+  },
+  {
+    "title": "Магическая осведомлённость",
+    "file": "features/44-magic-awareness.html"
+  },
+  {
+    "title": "Всплеск дикости",
+    "file": "features/45-wild-surge.html"
+  },
+  {
+    "title": "Поддерживающая магия",
+    "file": "features/46-bolstering-magic.html"
+  },
+  {
+    "title": "Нестабильная отдача",
+    "file": "features/47-unstable-backlash.html"
+  },
+  {
+    "title": "Контролируемый всплеск",
+    "file": "features/48-controlled-surge.html"
+  },
+  {
+    "title": "Форма зверя",
+    "file": "features/49-form-of-the-beast.html"
+  },
+  {
+    "title": "Звериная душа",
+    "file": "features/50-bestial-soul.html"
+  },
+  {
+    "title": "Заразная ярость",
+    "file": "features/51-infectious-fury.html"
+  },
+  {
+    "title": "Зов охоты",
+    "file": "features/52-call-the-hunt.html"
+  },
+  {
+    "title": "Сила великана",
+    "file": "features/53-giant-s-power.html"
+  },
+  {
+    "title": "Великанье разрушение",
+    "file": "features/54-giant-s-havoc.html"
+  },
+  {
+    "title": "Стихийный тесак",
+    "file": "features/55-elemental-cleaver.html"
+  },
+  {
+    "title": "Пробуждение мощи",
+    "file": "features/56-mighty-impel.html"
+  },
+  {
+    "title": "Демиург-колосс",
+    "file": "features/57-demiurgic-colossus.html"
+  },
+  {
+    "title": "ПОТУСТОРОННИЙ ПОКРОВИТЕЛЬ",
+    "file": "features/58-otherwordly-patron.html"
+  },
+  {
+    "title": "МАГИЯ ДОГОВОРА",
+    "file": "features/59-pact-magic.html"
+  },
+  {
+    "title": "Дополнительные заклинания колдуна",
+    "file": "features/60-extra-spells.html"
+  },
+  {
+    "title": "ТАИНСТВЕННЫЕ ВОЗЗВАНИЯ",
+    "file": "features/61-eldritch-invocations.html"
+  },
+  {
+    "title": "ПРЕДМЕТ ДОГОВОРА",
+    "file": "features/62-pact-boon.html"
+  },
+  {
+    "title": "УВЕЛИЧЕНИЕ ХАРАКТЕРИСТИК",
+    "file": "features/63-asi.html"
+  },
+  {
+    "title": "Мистическая универсальность",
+    "file": "features/64-eldritch-versatility.html"
+  },
+  {
+    "title": "ТАИНСТВЕННЫЙ АРКАНУМ",
+    "file": "features/65-mystic-arcanum.html"
+  },
+  {
+    "title": "ТАИНСТВЕННЫЙ МАСТЕР",
+    "file": "features/66-eldritch-master.html"
+  },
+  {
+    "title": "ВЕДЬМАЧИЙ ВЗОР",
+    "file": "features/67-vedmachiy-vzor.html"
+  },
+  {
+    "title": "ВЗОР ДВУХ УМОВ",
+    "file": "features/68-vzor-dvukh-umov.html"
+  },
+  {
+    "title": "ВИДЕНИЯ ДАЛЁКИХ КОРОЛЕВСТВ",
+    "file": "features/69-videniya-dalyokikh-korolevstv.html"
+  },
+  {
+    "title": "ВОР ПЯТИ СУДЕБ",
+    "file": "features/70-vor-pyati-sudeb.html"
+  },
+  {
+    "title": "ВОСХОДЯЩИЙ ШАГ",
+    "file": "features/71-voskhodyashchiy-shag.html"
+  },
+  {
+    "title": "ГЛАЗА ХРАНИТЕЛЯ РУН",
+    "file": "features/72-glaza-khranitelya-run.html"
+  },
+  {
+    "title": "ГЛАС ЦЕПНОГО МАСТЕРА",
+    "file": "features/73-glas-tsepnogo-mastera.html"
+  },
+  {
+    "title": "ДОСПЕХ ТЕНЕЙ",
+    "file": "features/74-dospekh-teney.html"
+  },
+  {
+    "title": "ДЬЯВОЛЬСКИЙ ВЗГЛЯД",
+    "file": "features/75-dyavolskiy-vzglyad.html"
+  },
+  {
+    "title": "ЖАЖДУЩИЙ КЛИНОК",
+    "file": "features/76-thirsting-blade.html"
+  },
+  {
+    "title": "ЖИВОТНАЯ РЕЧЬ",
+    "file": "features/77-zhivotnaya-rech.html"
+  },
+  {
+    "title": "ЗАВОРАЖИВАЮЩИЙ ШЁПОТ",
+    "file": "features/78-zavorazhivayushchiy-shyopot.html"
+  },
+  {
+    "title": "ЗНАК ДУРНОГО ПРЕДЗНАМЕНОВАНИЯ",
+    "file": "features/79-znak-durnogo-predznamenovaniya.html"
+  },
+  {
+    "title": "КНИГА ДРЕВНИХ СЕКРЕТОВ",
+    "file": "features/80-kniga-drevnikh-sekretov.html"
+  },
+  {
+    "title": "МАСКА МНОГИХ ЛИЦ",
+    "file": "features/81-maska-mnogikh-lits.html"
+  },
+  {
+    "title": "МАСТЕР БЕСЧИСЛЕННЫХ ОБЛИКОВ",
+    "file": "features/82-master-beschislennykh-oblikov.html"
+  },
+  {
+    "title": "МИСТИЧЕСКОЕ КОПЬЁ",
+    "file": "features/83-misticheskoe-kopyo.html"
+  },
+  {
+    "title": "МОГИЛЬНЫЙ ШЁПОТ",
+    "file": "features/84-mogilnyy-shyopot.html"
+  },
+  {
+    "title": "МОЩЬ ИСЧАДИЯ",
+    "file": "features/85-moshch-ischadiya.html"
+  },
+  {
+    "title": "МУЧИТЕЛЬНЫЙ ВЗРЫВ",
+    "file": "features/86-muchitelnyy-vzryv.html"
+  },
+  {
+    "title": "ОБМАНЧИВОЕ ВЛИЯНИЕ",
+    "file": "features/87-obmanchivoe-vliyanie.html"
+  },
+  {
+    "title": "ОДИН СРЕДИ ТЕНЕЙ",
+    "file": "features/88-odin-sredi-teney.html"
+  },
+  {
+    "title": "ОТТАЛКИВАЮЩИЙ ЗАРЯД",
+    "file": "features/89-ottalkivayushchiy-zaryad.html"
+  },
+  {
+    "title": "ПОТУСТОРОННИЙ ПРЫЖОК",
+    "file": "features/90-potustoronniy-pryzhok.html"
+  },
+  {
+    "title": "ПЬЮЩИЙ ЖИЗНЬ",
+    "file": "features/91-pyushchiy-zhizn.html"
+  },
+  {
+    "title": "СКУЛЬПТОР ПЛОТИ",
+    "file": "features/92-skulptor-ploti.html"
+  },
+  {
+    "title": "СЛУГИ ХАОСА",
+    "file": "features/93-slugi-khaosa.html"
+  },
+  {
+    "title": "ТАИНСТВЕННЫЙ ВЗГЛЯД",
+    "file": "features/94-tainstvennyy-vzglyad.html"
+  },
+  {
+    "title": "ТРЯСИНА РАЗУМА",
+    "file": "features/95-tryasina-razuma.html"
+  },
+  {
+    "title": "ТУМАННЫЕ ВИДЕНИЯ",
+    "file": "features/96-tumannye-videniya.html"
+  },
+  {
+    "title": "УЖАСАЮЩЕЕ СЛОВО",
+    "file": "features/97-uzhasayushchee-slovo.html"
+  },
+  {
+    "title": "ЦЕПИ КАРЦЕРИ",
+    "file": "features/98-tsepi-kartseri.html"
+  },
+  {
+    "title": "Аспект луны",
+    "file": "features/99-aspekt-luny.html"
+  },
+  {
+    "title": "Безжалостное проклятие",
+    "file": "features/100-bezzhalostnoe-proklyatie.html"
+  },
+  {
+    "title": "Безумное проклятие",
+    "file": "features/101-bezumnoe-proklyatie.html"
+  },
+  {
+    "title": "Гробница Левистуса",
+    "file": "features/102-grobnitsa-levistusa.html"
+  },
+  {
+    "title": "Дар вечноживых",
+    "file": "features/103-dar-vechnozhivykh.html"
+  },
+  {
+    "title": "Дар глубин",
+    "file": "features/104-dar-glubin.html"
+  },
+  {
+    "title": "Копье Летаргии",
+    "file": "features/105-kope-letargii.html"
+  },
+  {
+    "title": "Мистическая кара",
+    "file": "features/106-misticheskaya-kara.html"
+  },
+  {
+    "title": "Плащ мух",
+    "file": "features/107-plashch-mukh.html"
+  },
+  {
+    "title": "Побег обманщика",
+    "file": "features/108-pobeg-obmanshchika.html"
+  },
+  {
+    "title": "Призрачный взор",
+    "file": "features/109-prizrachnyy-vzor.html"
+  },
+  {
+    "title": "Саван теней",
+    "file": "features/110-savan-teney.html"
+  },
+  {
+    "title": "Улучшенное оружие договора",
+    "file": "features/111-uluchshennoe-oruzhie-dogovora.html"
+  },
+  {
+    "title": "Хватка Хадара",
+    "file": "features/112-khvatka-khadara.html"
+  },
+  {
+    "title": "Бессмертный раб",
+    "file": "features/113-bessmertnyy-rab.html"
+  },
+  {
+    "title": "Дар защитников",
+    "file": "features/114-dar-zashchitnikov.html"
+  },
+  {
+    "title": "Дар мастера цепи",
+    "file": "features/115-dar-mastera-tsepi.html"
+  },
+  {
+    "title": "Защита талисмана",
+    "file": "features/116-zashchita-talismana.html"
+  },
+  {
+    "title": "Книжник из дали",
+    "file": "features/117-knizhnik-iz-dali.html"
+  },
+  {
+    "title": "Мистический разум",
+    "file": "features/118-misticheskiy-razum.html"
+  },
+  {
+    "title": "Порицание талисмана",
+    "file": "features/119-poritsanie-talismana.html"
+  },
+  {
+    "title": "Связь с талисманом",
+    "file": "features/120-svyaz-s-talismanom.html"
+  },
+  {
+    "title": "РАСШИРЕННЫЙ СПИСОК ЗАКЛИНАНИЙ",
+    "file": "features/121-rasshirennyy-spisok-zaklinaniy.html"
+  },
+  {
+    "title": "Фейское присутствие",
+    "file": "features/122-feyskoe-prisutstvie.html"
+  },
+  {
+    "title": "ТУМАННОЕ ИСЧЕЗНОВЕНИЕ",
+    "file": "features/123-tumannoe-ischeznovenie.html"
+  },
+  {
+    "title": "ЧАРУЮЩАЯ ЗАЩИТА",
+    "file": "features/124-charuyushchaya-zashchita.html"
+  },
+  {
+    "title": "ТЁМНОЕ ИССТУПЛЕНИЕ",
+    "file": "features/125-tyomnoe-isstuplenie.html"
+  },
+  {
+    "title": "РАСШИРЕННЫЙ СПИСОК ЗАКЛИНАНИЙ",
+    "file": "features/126-rasshirennyy-spisok-zaklinaniy.html"
+  },
+  {
+    "title": "БЛАГОСЛОВЕНИЕ ТЕМНЕЙШЕГО",
+    "file": "features/127-blagoslovenie-temneyshego.html"
+  },
+  {
+    "title": "УДАЧА ТЕМНЕЙШЕГО",
+    "file": "features/128-udacha-temneyshego.html"
+  },
+  {
+    "title": "УСТОЙЧИВОСТЬ ИСЧАДИЯ",
+    "file": "features/129-ustoychivost-ischadiya.html"
+  },
+  {
+    "title": "БРОСОК СКВОЗЬ АД",
+    "file": "features/130-brosok-skvoz-ad.html"
+  },
+  {
+    "title": "РАСШИРЕННЫЙ СПИСОК ЗАКЛИНАНИЙ",
+    "file": "features/131-rasshirennyy-spisok-zaklinaniy.html"
+  },
+  {
+    "title": "ПРОБУЖДЁННЫЙ РАЗУМ",
+    "file": "features/132-probuzhdyonnyy-razum.html"
+  },
+  {
+    "title": "ЭНТРОПИЧЕСКАЯ ОПЕКА",
+    "file": "features/133-entropicheskaya-opeka.html"
+  },
+  {
+    "title": "МЕНТАЛЬНЫЙ ЩИТ",
+    "file": "features/134-mentalnyy-shchit.html"
+  },
+  {
+    "title": "СОЗДАТЬ РАБА",
+    "file": "features/135-sozdat-raba.html"
+  },
+  {
+    "title": "РАСШИРЕННЫЙ СПИСОК ЗАКЛИНАНИЙ",
+    "file": "features/136-rasshirennyy-spisok-zaklinaniy.html"
+  },
+  {
+    "title": "СРЕДИ МЁРТВЫХ",
+    "file": "features/137-sredi-myortvykh.html"
+  },
+  {
+    "title": "ОТРИНУВ СМЕРТЬ",
+    "file": "features/138-otrinuv-smert.html"
+  },
+  {
+    "title": "БЕССМЕРТНАЯ ПРИРОДА",
+    "file": "features/139-bessmertnaya-priroda.html"
+  },
+  {
+    "title": "НЕРУШИМАЯ ЖИЗНЬ",
+    "file": "features/140-nerushimaya-zhizn.html"
+  },
+  {
+    "title": "РАСШИРЕННЫЙ СПИСОК ЗАКЛИНАНИЙ",
+    "file": "features/141-rasshirennyy-spisok-zaklinaniy.html"
+  },
+  {
+    "title": "ПРОКЛЯТИЕ ВЕДЬМОВСКОГО КЛИНКА",
+    "file": "features/142-proklyatie-vedmovskogo-klinka.html"
+  },
+  {
+    "title": "ПРОКЛЯТЫЙ ВОИТЕЛЬ",
+    "file": "features/143-proklyatyy-voitel.html"
+  },
+  {
+    "title": "ПРОКЛЯТЫЙ СПЕКТР",
+    "file": "features/144-proklyatyy-spektr.html"
+  },
+  {
+    "title": "ПРОКЛЯТЫЙ ДОСПЕХ",
+    "file": "features/145-proklyatyy-dospekh.html"
+  },
+  {
+    "title": "МАСТЕР ПРОКЛЯТИЙ",
+    "file": "features/146-master-proklyatiy.html"
+  },
+  {
+    "title": "РАСШИРЕННЫЙ СПИСОК ЗАКЛИНАНИЙ",
+    "file": "features/147-rasshirennyy-spisok-zaklinaniy.html"
+  },
+  {
+    "title": "ДОПОЛНИТЕЛЬНЫЕ ЗАГОВОРЫ",
+    "file": "features/148-dopolnitelnye-zagovory.html"
+  },
+  {
+    "title": "ЛЕЧАЩИЙ СВЕТ",
+    "file": "features/149-lechashchiy-svet.html"
+  },
+  {
+    "title": "СИЯЮЩАЯ ДУША",
+    "file": "features/150-siyayushchaya-dusha.html"
+  },
+  {
+    "title": "НЕБЕСНОЕ СОПРОТИВЛЕНИЕ",
+    "file": "features/151-nebesnoe-soprotivlenie.html"
+  },
+  {
+    "title": "ЖГУЧЕЕ ВОЗМЕЗДИЕ",
+    "file": "features/152-zhguchee-vozmezdie.html"
+  },
+  {
+    "title": "Расширенный список заклинаний",
+    "file": "features/153-rasshirennyy-spisok-zaklinaniy.html"
+  },
+  {
+    "title": "Щупальце из глубин",
+    "file": "features/154-shchupaltse-iz-glubin.html"
+  },
+  {
+    "title": "Дар моря",
+    "file": "features/155-dar-morya.html"
+  },
+  {
+    "title": "Океаническая душа",
+    "file": "features/156-okeanicheskaya-dusha.html"
+  },
+  {
+    "title": "Защитный изгиб",
+    "file": "features/157-zashchitnyy-izgib.html"
+  },
+  {
+    "title": "Опутывающие щупальца",
+    "file": "features/158-oputyvayushchie-shchupaltsa.html"
+  },
+  {
+    "title": "Бездонное погружение",
+    "file": "features/159-bezdonnoe-pogruzhenie.html"
+  },
+  {
+    "title": "Расширенный список заклинаний",
+    "file": "features/160-rasshirennyy-spisok-zaklinaniy.html"
+  },
+  {
+    "title": "Сосуд гения",
+    "file": "features/161-sosud-geniya.html"
+  },
+  {
+    "title": "Стихийный дар",
+    "file": "features/162-stikhiynyy-dar.html"
+  },
+  {
+    "title": "Спасительный сосуд",
+    "file": "features/163-spasitelnyy-sosud.html"
+  },
+  {
+    "title": "Ограниченное желание",
+    "file": "features/164-ogranichennoe-zhelanie.html"
+  },
+  {
+    "title": "Расширенный список заклинаний",
+    "file": "features/165-rasshirennyy-spisok-zaklinaniy.html"
+  },
+  {
+    "title": "Ужасающий облик",
+    "file": "features/166-uzhasayushchiy-oblik.html"
+  },
+  {
+    "title": "Затронутый могилой",
+    "file": "features/167-zatronutyy-mogiloy.html"
+  },
+  {
+    "title": "Омертвевшая оболочка",
+    "file": "features/168-omertvevshaya-obolochka.html"
+  },
+  {
+    "title": "Духовная проекция",
+    "file": "features/169-dukhovnaya-proektsiya.html"
+  },
+  {
+    "title": "МАГИЧЕСКИЙ МАСТЕРОВОЙ",
+    "file": "features/170-magical-tinkering.html"
+  },
+  {
+    "title": "Использование заклинаний",
+    "file": "features/171-spellcasting.html"
+  },
+  {
+    "title": "ИНФУЗИРОВАНИЕ ПРЕДМЕТА",
+    "file": "features/172-infuse-item.html"
+  },
+  {
+    "title": "СПЕЦИАЛЬНОСТЬ ИЗОБРЕТАТЕЛЯ",
+    "file": "features/173-specialist.html"
+  },
+  {
+    "title": "ПОДХОДЯЩИЙ ИНСТРУМЕНТ",
+    "file": "features/174-right-tool-for-the-job.html"
+  },
+  {
+    "title": "УВЕЛИЧЕНИЕ ХАРАКТЕРИСТИК",
+    "file": "features/175-asi.html"
+  },
+  {
+    "title": "КОМПЕТЕНТНОСТЬ ВО ВЛАДЕНИИ ИНСТРУМЕНТАМИ",
+    "file": "features/176-tool-expertise.html"
+  },
+  {
+    "title": "ПРОБЛЕСК ГЕНИАЛЬНОСТИ",
+    "file": "features/177-flash-of-genius.html"
+  },
+  {
+    "title": "ЭКСПЕРТ В ОБРАЩЕНИИ С МАГИЧЕСКИМИ ПРЕДМЕТАМИ",
+    "file": "features/178-magic-item-adept.html"
+  },
+  {
+    "title": "ХРАНЯЩИЙ ЗАКЛИНАНИЯ ПРЕДМЕТ",
+    "file": "features/179-spell-storing-item.html"
+  },
+  {
+    "title": "УЧЁНЫЙ ПО МАГИЧЕСКИМ ПРЕДМЕТАМ",
+    "file": "features/180-magic-item-savant.html"
+  },
+  {
+    "title": "МАСТЕР В ОБРАЩЕНИИ С МАГИЧЕСКИМИ ПРЕДМЕТАМИ",
+    "file": "features/181-magic-item-master.html"
+  },
+  {
+    "title": "ДУША ИЗОБРЕТЕНИЯ",
+    "file": "features/182-soul-of-artifice.html"
+  },
+  {
+    "title": "ВОЗВРАЩАЮЩЕЕСЯ ОРУЖИЕ",
+    "file": "features/183-vozvrashchayushcheesya-oruzhie.html"
+  },
+  {
+    "title": "ДВИЖИМЫЙ МАГИЕЙ ДОСПЕХ",
+    "file": "features/184-dvizhimyy-magiey-dospekh.html"
+  },
+  {
+    "title": "ДОСПЕХ МАГИЧЕСКОЙ СИЛЫ",
+    "file": "features/185-dospekh-magicheskoy-sily.html"
+  },
+  {
+    "title": "ДОСПЕХ СОПРОТИВЛЕНИЯ",
+    "file": "features/186-dospekh-soprotivleniya.html"
+  },
+  {
+    "title": "ИЗЛУЧАЮЩЕЕ СВЕТ ОРУЖИЕ",
+    "file": "features/187-izluchayushchee-svet-oruzhie.html"
+  },
+  {
+    "title": "КОЛЬЦО ВОССТАНОВЛЕНИЯ ЗАКЛИНАНИЙ",
+    "file": "features/188-koltso-vosstanovleniya-zaklinaniy.html"
+  },
+  {
+    "title": "КОПИЯ МАГИЧЕСКОГО ПРЕДМЕТА",
+    "file": "features/189-kopiya-magicheskogo-predmeta.html"
+  },
+  {
+    "title": "ОТТАЛКИВАЮЩИЙ ЩИТ",
+    "file": "features/190-ottalkivayushchiy-shchit.html"
+  },
+  {
+    "title": "ПОВТОРНЫЙ ВЫСТРЕЛ",
+    "file": "features/191-povtornyy-vystrel.html"
+  },
+  {
+    "title": "САПОГИ ИЗВИЛИСТОГО ПУТИ",
+    "file": "features/192-sapogi-izvilistogo-puti.html"
+  },
+  {
+    "title": "СЛУГА-ГОМУНКУЛ",
+    "file": "features/193-sluga-gomunkul.html"
+  },
+  {
+    "title": "УЛУЧШЕННАЯ ЗАЩИТА",
+    "file": "features/194-uluchshennaya-zashchita.html"
+  },
+  {
+    "title": "УЛУЧШЕННАЯ МАГИЧЕСКАЯ ФОКУСИРОВКА",
+    "file": "features/195-uluchshennaya-magicheskaya-fokusirovka.html"
+  },
+  {
+    "title": "УЛУЧШЕННОЕ ОРУЖИЕ",
+    "file": "features/196-uluchshennoe-oruzhie.html"
+  },
+  {
+    "title": "УСИЛИТЕЛЬ РАЗУМА",
+    "file": "features/197-usilitel-razuma.html"
+  },
+  {
+    "title": "ШЛЕМ ОСВЕДОМЛЁННОСТИ",
+    "file": "features/198-shlem-osvedomlyonnosti.html"
+  },
+  {
+    "title": "ВЛАДЕНИЕ ИНСТРУМЕНТАМИ",
+    "file": "features/199-vladenie-instrumentami.html"
+  },
+  {
+    "title": "ЗАКЛИНАНИЯ АЛХИМИКОВ",
+    "file": "features/200-zaklinaniya-alkhimikov.html"
+  },
+  {
+    "title": "ЭКСПЕРИМЕНТАЛЬНЫЙ ЭЛИКСИР",
+    "file": "features/201-eksperimentalnyy-eliksir.html"
+  },
+  {
+    "title": "УЧЁНЫЙ АЛХИМИК",
+    "file": "features/202-uchyonyy-alkhimik.html"
+  },
+  {
+    "title": "ВОССТАНАВЛИВАЮЩИЕ РЕАГЕНТЫ",
+    "file": "features/203-vosstanavlivayushchie-reagenty.html"
+  },
+  {
+    "title": "ХИМИЧЕСКОЕ МАСТЕРСТВО",
+    "file": "features/204-khimicheskoe-masterstvo.html"
+  },
+  {
+    "title": "Владение инструментами",
+    "file": "features/205-vladenie-instrumentami.html"
+  },
+  {
+    "title": "ЗАКЛИНАНИЯ АРТИЛЛЕРИСТА",
+    "file": "features/206-zaklinaniya-artillerista.html"
+  },
+  {
+    "title": "МИСТИЧЕСКАЯ ПУШКА",
+    "file": "features/207-misticheskaya-pushka.html"
+  },
+  {
+    "title": "Мистическое ОГНЕСТРЕЛЬНОЕ ОРУЖИЕ",
+    "file": "features/208-misticheskoe-ognestrelnoe-oruzhie.html"
+  },
+  {
+    "title": "ВЗРЫВООПАСНАЯ ПУШКА",
+    "file": "features/209-vzryvoopasnaya-pushka.html"
+  },
+  {
+    "title": "УКРЕПЛЁННАЯ ПОЗИЦИЯ",
+    "file": "features/210-ukreplyonnaya-pozitsiya.html"
+  },
+  {
+    "title": "ВЛАДЕНИЕ ИНСТРУМЕНТАМИ",
+    "file": "features/211-vladenie-instrumentami.html"
+  },
+  {
+    "title": "ЗАКЛИНАНИЯ БОЕВОГО КУЗНЕЦА",
+    "file": "features/212-zaklinaniya-boevogo-kuznetsa.html"
+  },
+  {
+    "title": "БОЕВАЯ ГОТОВНОСТЬ",
+    "file": "features/213-boevaya-gotovnost.html"
+  },
+  {
+    "title": "СТАЛЬНОЙ ЗАЩИТНИК",
+    "file": "features/214-stalnoy-zashchitnik.html"
+  },
+  {
+    "title": "ДОПОЛНИТЕЛЬНАЯ АТАКА",
+    "file": "features/215-dopolnitelnaya-ataka.html"
+  },
+  {
+    "title": "МАГИЧЕСКАЯ ВСТРЯСКА",
+    "file": "features/216-magicheskaya-vstryaska.html"
+  },
+  {
+    "title": "УЛУЧШЕННЫЙ ЗАЩИТНИК",
+    "file": "features/217-uluchshennyy-zashchitnik.html"
+  },
+  {
+    "title": "ВЛАДЕНИЕ ИНСТРУМЕНТАМИ",
+    "file": "features/218-vladenie-instrumentami.html"
+  },
+  {
+    "title": "ЗАКЛИНАНИЯ БРОННИКА",
+    "file": "features/219-zaklinaniya-bronnika.html"
+  },
+  {
+    "title": "мистический ДОСПЕХ",
+    "file": "features/220-misticheskiy-dospekh.html"
+  },
+  {
+    "title": "МОДЕЛЬ ДОСПЕХА",
+    "file": "features/221-model-dospekha.html"
+  },
+  {
+    "title": "ДОПОЛНИТЕЛЬНАЯ АТАКА",
+    "file": "features/222-dopolnitelnaya-ataka.html"
+  },
+  {
+    "title": "МОДИФИКАЦИИ ДОСПЕХА",
+    "file": "features/223-modifikatsii-dospekha.html"
+  },
+  {
+    "title": "ИДЕАЛЬНАЯ БРОНЯ",
+    "file": "features/224-idealnaya-bronya.html"
+  },
+  {
+    "title": "Боевой стиль",
+    "file": "features/225-fighting-style.html"
+  },
+  {
+    "title": "ВТОРОЕ ДЫХАНИЕ",
+    "file": "features/226-second-wind.html"
+  },
+  {
+    "title": "ВСПЛЕСК ДЕЙСТВИЙ",
+    "file": "features/227-action-surge.html"
+  },
+  {
+    "title": "ВОИНСКИЙ АРХЕТИП",
+    "file": "features/228-martial-archetype.html"
+  },
+  {
+    "title": "УВЕЛИЧЕНИЕ ХАРАКТЕРИСТИК",
+    "file": "features/229-asi.html"
+  },
+  {
+    "title": "Универсальность воина",
+    "file": "features/230-martial-versatility.html"
+  },
+  {
+    "title": "ДОПОЛНИТЕЛЬНАЯ АТАКА",
+    "file": "features/231-extra-attack.html"
+  },
+  {
+    "title": "УПОРНЫЙ",
+    "file": "features/232-indomitable.html"
+  },
+  {
+    "title": "Активное уклонение",
+    "file": "features/233-aktivnoe-uklonenie.html"
+  },
+  {
+    "title": "Атака с выпадом",
+    "file": "features/234-lunging-attack.html"
+  },
+  {
+    "title": "Атака с манёвром",
+    "file": "features/235-maneuvering-attack.html"
+  },
+  {
+    "title": "Атака с угрозой",
+    "file": "features/236-menacing-attack.html"
+  },
+  {
+    "title": "Атака с финтом",
+    "file": "features/237-ataka-s-fintom.html"
+  },
+  {
+    "title": "Обезоруживающая атака",
+    "file": "features/238-obezoruzhivayushchaya-ataka.html"
+  },
+  {
+    "title": "Опрокидывающая атака",
+    "file": "features/239-oprokidyvayushchaya-ataka.html"
+  },
+  {
+    "title": "Ответный удар",
+    "file": "features/240-otvetnyy-udar.html"
+  },
+  {
+    "title": "Отвлекающий удар",
+    "file": "features/241-distracting-strike.html"
+  },
+  {
+    "title": "Парирование",
+    "file": "features/242-parirovanie.html"
+  },
+  {
+    "title": "Провоцирующая атака",
+    "file": "features/243-goading-attack.html"
+  },
+  {
+    "title": "Сплочение",
+    "file": "features/244-rally.html"
+  },
+  {
+    "title": "Толкающая атака",
+    "file": "features/245-pushing-attack.html"
+  },
+  {
+    "title": "Точная атака",
+    "file": "features/246-precision-attack.html"
+  },
+  {
+    "title": "Удар командующего",
+    "file": "features/247-commander-strike.html"
+  },
+  {
+    "title": "Широкая атака",
+    "file": "features/248-shirokaya-ataka.html"
+  },
+  {
+    "title": "Атака с захватом",
+    "file": "features/249-ataka-s-zakhvatom.html"
+  },
+  {
+    "title": "Быстрый бросок",
+    "file": "features/250-bystryy-brosok.html"
+  },
+  {
+    "title": "Готовность",
+    "file": "features/251-gotovnost.html"
+  },
+  {
+    "title": "Засада",
+    "file": "features/252-ambush.html"
+  },
+  {
+    "title": "Командирский напор",
+    "file": "features/253-komandirskiy-napor.html"
+  },
+  {
+    "title": "Подмена",
+    "file": "features/254-podmena.html"
+  },
+  {
+    "title": "Тактическая оценка",
+    "file": "features/255-takticheskaya-otsenka.html"
+  },
+  {
+    "title": "БОЕВОЕ ПРЕВОСХОДСТВО",
+    "file": "features/256-boevoe-prevoskhodstvo.html"
+  },
+  {
+    "title": "УЧЕНИК ВОЙНЫ",
+    "file": "features/257-uchenik-voyny.html"
+  },
+  {
+    "title": "ПОЗНАЙ СВОЕГО ВРАГА",
+    "file": "features/258-poznay-svoego-vraga.html"
+  },
+  {
+    "title": "УЛУЧШЕННОЕ БОЕВОЕ ПРЕВОСХОДСТВО",
+    "file": "features/259-uluchshennoe-boevoe-prevoskhodstvo.html"
+  },
+  {
+    "title": "НЕОСЛАБЕВАЮЩИЙ",
+    "file": "features/260-neoslabevayushchiy.html"
+  },
+  {
+    "title": "ИСПОЛЬЗОВАНИЕ ЗАКЛИНАНИЙ",
+    "file": "features/261-ispolzovanie-zaklinaniy.html"
+  },
+  {
+    "title": "СВЯЗЬ С ОРУЖИЕМ",
+    "file": "features/262-svyaz-s-oruzhiem.html"
+  },
+  {
+    "title": "БОЕВАЯ МАГИЯ",
+    "file": "features/263-boevaya-magiya.html"
+  },
+  {
+    "title": "МИСТИЧЕСКИЙ УДАР",
+    "file": "features/264-misticheskiy-udar.html"
+  },
+  {
+    "title": "ВОЛШЕБНЫЙ РЫВОК",
+    "file": "features/265-volshebnyy-ryvok.html"
+  },
+  {
+    "title": "УЛУЧШЕННАЯ БОЕВАЯ МАГИЯ",
+    "file": "features/266-uluchshennaya-boevaya-magiya.html"
+  },
+  {
+    "title": "УЛУЧШЕННЫЕ КРИТИЧЕСКИЕ ПОПАДАНИЯ",
+    "file": "features/267-uluchshennye-kriticheskie-popadaniya.html"
+  },
+  {
+    "title": "ВЫДАЮЩИЙСЯ АТЛЕТ",
+    "file": "features/268-vydayushchiysya-atlet.html"
+  },
+  {
+    "title": "ДОПОЛНИТЕЛЬНЫЙ БОЕВОЙ СТИЛЬ",
+    "file": "features/269-dopolnitelnyy-boevoy-stil.html"
+  },
+  {
+    "title": "ПРЕВОСХОДНЫЕ КРИТИЧЕСКИЕ ПОПАДАНИЯ",
+    "file": "features/270-prevoskhodnye-kriticheskie-popadaniya.html"
+  },
+  {
+    "title": "УЦЕЛЕВШИЙ",
+    "file": "features/271-utselevshiy.html"
+  },
+  {
+    "title": "Ограничение: Рыцарство",
+    "file": "features/272-ogranichenie-rytsarstvo.html"
+  },
+  {
+    "title": "СПЛОЧАЮЩИЙ КРИК",
+    "file": "features/273-splochayushchiy-krik.html"
+  },
+  {
+    "title": "ПОСЛАННИК КОРОНЫ",
+    "file": "features/274-poslannik-korony.html"
+  },
+  {
+    "title": "ВДОХНОВЛЯЮЩИЙ ВСПЛЕСК",
+    "file": "features/275-vdokhnovlyayushchiy-vsplesk.html"
+  },
+  {
+    "title": "ОПЛОТ",
+    "file": "features/276-oplot.html"
+  },
+  {
+    "title": "ДОПОЛНИТЕЛЬНЫЕ ВЛАДЕНИЯ",
+    "file": "features/277-dopolnitelnye-vladeniya.html"
+  },
+  {
+    "title": "НЕПОКОЛЕБИМАЯ МЕТКА",
+    "file": "features/278-nepokolebimaya-metka.html"
+  },
+  {
+    "title": "РОЖДЕННЫЙ В СЕДЛЕ",
+    "file": "features/279-rozhdennyy-v-sedle.html"
+  },
+  {
+    "title": "ЗАЩИТНЫЙ МАНЕВР",
+    "file": "features/280-zashchitnyy-manevr.html"
+  },
+  {
+    "title": "ДЕРЖАТЬ СТРОЙ",
+    "file": "features/281-derzhat-stroy.html"
+  },
+  {
+    "title": "СВИРЕПЫЙ НАТИСК",
+    "file": "features/282-svirepyy-natisk.html"
+  },
+  {
+    "title": "БДИТЕЛЬНЫЙ ЗАЩИТНИК",
+    "file": "features/283-bditelnyy-zashchitnik.html"
+  },
+  {
+    "title": "ЗНАНИЯ МИСТИЧЕСКОГО ЛУЧНИКА",
+    "file": "features/284-znaniya-misticheskogo-luchnika.html"
+  },
+  {
+    "title": "МАГИЧЕСКИЙ ВЫСТРЕЛ",
+    "file": "features/285-magicheskiy-vystrel.html"
+  },
+  {
+    "title": "ЗАЧАРОВАННАЯ СТРЕЛА",
+    "file": "features/286-zacharovannaya-strela.html"
+  },
+  {
+    "title": "СТРАНСТВУЮЩАЯ СТРЕЛА",
+    "file": "features/287-stranstvuyushchaya-strela.html"
+  },
+  {
+    "title": "ВЫСТРЕЛ ВСЕГДА НАГОТОВЕ",
+    "file": "features/288-vystrel-vsegda-nagotove.html"
+  },
+  {
+    "title": "ВАРИАНТЫ МАГИЧЕСКОГО ВЫСТРЕЛА",
+    "file": "features/289-varianty-magicheskogo-vystrela.html"
+  },
+  {
+    "title": "ДОПОЛНИТЕЛЬНЫЕ ВЛАДЕНИЯ",
+    "file": "features/290-dopolnitelnye-vladeniya.html"
+  },
+  {
+    "title": "БОЕВОЙ ДУХ",
+    "file": "features/291-boevoy-dukh.html"
+  },
+  {
+    "title": "ЭЛЕГАНТНЫЙ ПРИДВОРНЫЙ",
+    "file": "features/292-elegantnyy-pridvornyy.html"
+  },
+  {
+    "title": "НЕУТОМИМАЯ ДУША",
+    "file": "features/293-neutomimaya-dusha.html"
+  },
+  {
+    "title": "СТРЕМИТЕЛЬНЫЙ УДАР",
+    "file": "features/294-stremitelnyy-udar.html"
+  },
+  {
+    "title": "СТОЙКОСТЬ ПЕРЕД СМЕРТЬЮ",
+    "file": "features/295-stoykost-pered-smertyu.html"
+  },
+  {
+    "title": "МАНИФЕСТ ЭХа",
+    "file": "features/296-manifest-ekha.html"
+  },
+  {
+    "title": "РАСКРЫТЬ ПОТЕНЦИАЛ",
+    "file": "features/297-raskryt-potentsial.html"
+  },
+  {
+    "title": "АВАТАР эха",
+    "file": "features/298-avatar-ekha.html"
+  },
+  {
+    "title": "ЭХО-МУЧЕНИК",
+    "file": "features/299-ekho-muchenik.html"
+  },
+  {
+    "title": "ПОГЛОТИТЬ ПОТЕНЦИАЛ",
+    "file": "features/300-poglotit-potentsial.html"
+  },
+  {
+    "title": "ЛЕГИОН еДиНОГО",
+    "file": "features/301-legion-edinogo.html"
+  },
+  {
+    "title": "Псионическая сила",
+    "file": "features/302-psionicheskaya-sila.html"
+  },
+  {
+    "title": "Адепт-телекинетик",
+    "file": "features/303-adept-telekinetik.html"
+  },
+  {
+    "title": "Защищённый разум",
+    "file": "features/304-zashchishchyonnyy-razum.html"
+  },
+  {
+    "title": "Оплот силы",
+    "file": "features/305-oplot-sily.html"
+  },
+  {
+    "title": "Мастер телекинеза",
+    "file": "features/306-master-telekineza.html"
+  },
+  {
+    "title": "Бонусные владения",
+    "file": "features/307-bonusnye-vladeniya.html"
+  },
+  {
+    "title": "Резчик рун",
+    "file": "features/308-rezchik-run.html"
+  },
+  {
+    "title": "Мощь великана",
+    "file": "features/309-moshch-velikana.html"
+  },
+  {
+    "title": "Рунический щит",
+    "file": "features/310-runicheskiy-shchit.html"
+  },
+  {
+    "title": "Великий рост",
+    "file": "features/311-velikiy-rost.html"
+  },
+  {
+    "title": "Мастер рун",
+    "file": "features/312-master-run.html"
+  },
+  {
+    "title": "Рунический джаггернаут",
+    "file": "features/313-runicheskiy-dzhaggernaut.html"
+  },
+  {
+    "title": "ПРОИСХОЖДЕНИЕ ЧАРОДЕЯ",
+    "file": "features/314-sorcerous-origin.html"
+  },
+  {
+    "title": "Использование заклинаний",
+    "file": "features/315-spellcasting.html"
+  },
+  {
+    "title": "Дополнительные заклинания чародея",
+    "file": "features/316-extra-spells.html"
+  },
+  {
+    "title": "ИСТОЧНИК МАГИИ",
+    "file": "features/317-font-of-magic.html"
+  },
+  {
+    "title": "Метамагия",
+    "file": "features/318-metamagic.html"
+  },
+  {
+    "title": "Аккуратное заклинание",
+    "file": "features/319-akkuratnoe-zaklinanie.html"
+  },
+  {
+    "title": "Далёкое заклинание",
+    "file": "features/320-dalyokoe-zaklinanie.html"
+  },
+  {
+    "title": "Непреодолимое заклинание",
+    "file": "features/321-nepreodolimoe-zaklinanie.html"
+  },
+  {
+    "title": "Неуловимое заклинание",
+    "file": "features/322-neulovimoe-zaklinanie.html"
+  },
+  {
+    "title": "Продлённое заклинание",
+    "file": "features/323-prodlyonnoe-zaklinanie.html"
+  },
+  {
+    "title": "Удвоенное заклинание",
+    "file": "features/324-double.html"
+  },
+  {
+    "title": "Усиленное заклинание",
+    "file": "features/325-fast.html"
+  },
+  {
+    "title": "Ускоренное заклинание",
+    "file": "features/326-uskorennoe-zaklinanie.html"
+  },
+  {
+    "title": "Ищущее заклинание",
+    "file": "features/327-metamagic-options.html"
+  },
+  {
+    "title": "Преобразованное заклинание",
+    "file": "features/328-preobrazovannoe-zaklinanie.html"
+  },
+  {
+    "title": "УВЕЛИЧЕНИЕ ХАРАКТЕРИСТИК",
+    "file": "features/329-asi.html"
+  },
+  {
+    "title": "Универсальность чародея",
+    "file": "features/330-sorcerous-versatility.html"
+  },
+  {
+    "title": "Волшебное указание",
+    "file": "features/331-magical-guidance.html"
+  },
+  {
+    "title": "ЧАРОДЕЙСКОЕ ВОССТАНОВЛЕНИЕ",
+    "file": "features/332-sorcerous-restoration.html"
+  },
+  {
+    "title": "ДРАКОНИЙ ПРЕДОК",
+    "file": "features/333-drakoniy-predok.html"
+  },
+  {
+    "title": "ДРАКОНЬЯ УСТОЙЧИВОСТЬ",
+    "file": "features/334-drakonya-ustoychivost.html"
+  },
+  {
+    "title": "РОДСТВО СО СТИХИЕЙ",
+    "file": "features/335-rodstvo-so-stikhiey.html"
+  },
+  {
+    "title": "КРЫЛЬЯ ДРАКОНА",
+    "file": "features/336-krylya-drakona.html"
+  },
+  {
+    "title": "ОБРАЗ ДРАКОНА",
+    "file": "features/337-obraz-drakona.html"
+  },
+  {
+    "title": "ВОЛНА ДИКОЙ МАГИИ",
+    "file": "features/338-volna-dikoy-magii.html"
+  },
+  {
+    "title": "ПОТОК ХАОСА",
+    "file": "features/339-potok-khaosa.html"
+  },
+  {
+    "title": "ПОДЧИНЕНИЕ УДАЧИ",
+    "file": "features/340-podchinenie-udachi.html"
+  },
+  {
+    "title": "КОНТРОЛИРУЕМЫЙ ХАОС",
+    "file": "features/341-kontroliruemyy-khaos.html"
+  },
+  {
+    "title": "РАЗРУШИТЕЛЬНЫЕ ЗАКЛИНАНИЯ",
+    "file": "features/342-razrushitelnye-zaklinaniya.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННАЯ МАГИЯ",
+    "file": "features/343-bozhestvennaya-magiya.html"
+  },
+  {
+    "title": "ЛЮБИМЧИК БОГОВ",
+    "file": "features/344-lyubimchik-bogov.html"
+  },
+  {
+    "title": "УСИЛЕННОЕ ЛЕЧЕНИЕ",
+    "file": "features/345-usilennoe-lechenie.html"
+  },
+  {
+    "title": "КРЫЛЬЯ ИЗ ДРУГОГО МИРА",
+    "file": "features/346-krylya-iz-drugogo-mira.html"
+  },
+  {
+    "title": "НЕЗЕМНОЕ ВОССТАНОВЛЕНИЕ",
+    "file": "features/347-nezemnoe-vosstanovlenie.html"
+  },
+  {
+    "title": "ГЛАЗА ТЬМЫ",
+    "file": "features/348-glaza-tmy.html"
+  },
+  {
+    "title": "СИЛА МОГИЛЫ",
+    "file": "features/349-sila-mogily.html"
+  },
+  {
+    "title": "ГОНЧАЯ ДУРНОГО ЗНАМЕНИЯ",
+    "file": "features/350-gonchaya-durnogo-znameniya.html"
+  },
+  {
+    "title": "ХОЖДЕНИЕ ПО ТЕНЯМ",
+    "file": "features/351-khozhdenie-po-tenyam.html"
+  },
+  {
+    "title": "МРАЧНАЯ ФОРМА",
+    "file": "features/352-mrachnaya-forma.html"
+  },
+  {
+    "title": "УСТА ВЕТРА",
+    "file": "features/353-usta-vetra.html"
+  },
+  {
+    "title": "БУРНАЯ МАГИЯ",
+    "file": "features/354-burnaya-magiya.html"
+  },
+  {
+    "title": "СЕРДЦЕ ШТОРМА",
+    "file": "features/355-serdtse-shtorma.html"
+  },
+  {
+    "title": "УПРАВЛЕНИЕ ШТОРМОМ",
+    "file": "features/356-upravlenie-shtormom.html"
+  },
+  {
+    "title": "ЯРОСТЬ ШТОРМА",
+    "file": "features/357-yarost-shtorma.html"
+  },
+  {
+    "title": "ДУША ВЕТРА",
+    "file": "features/358-dusha-vetra.html"
+  },
+  {
+    "title": "Псионические заклинания",
+    "file": "features/359-psionicheskie-zaklinaniya.html"
+  },
+  {
+    "title": "Телепатическая речь",
+    "file": "features/360-telepaticheskaya-rech.html"
+  },
+  {
+    "title": "Псионическое чародейство",
+    "file": "features/361-psionicheskoe-charodeystvo.html"
+  },
+  {
+    "title": "Психическая защита",
+    "file": "features/362-psikhicheskaya-zashchita.html"
+  },
+  {
+    "title": "Откровение во плоти",
+    "file": "features/363-otkrovenie-vo-ploti.html"
+  },
+  {
+    "title": "Искажающий взрыв",
+    "file": "features/364-iskazhayushchiy-vzryv.html"
+  },
+  {
+    "title": "Заводная магия",
+    "file": "features/365-zavodnaya-magiya.html"
+  },
+  {
+    "title": "Восстановление баланса",
+    "file": "features/366-vosstanovlenie-balansa.html"
+  },
+  {
+    "title": "Бастион закона",
+    "file": "features/367-bastion-zakona.html"
+  },
+  {
+    "title": "Медитация порядка",
+    "file": "features/368-meditatsiya-poryadka.html"
+  },
+  {
+    "title": "Заводная кавалькада",
+    "file": "features/369-zavodnaya-kavalkada.html"
+  },
+  {
+    "title": "Защита без доспехов",
+    "file": "features/370-unarmored-defence.html"
+  },
+  {
+    "title": "Боевые искусства",
+    "file": "features/371-martial-arts.html"
+  },
+  {
+    "title": "Ци",
+    "file": "features/372-ki.html"
+  },
+  {
+    "title": "Движение без доспехов",
+    "file": "features/373-unarmored-movement.html"
+  },
+  {
+    "title": "Выбранное оружие",
+    "file": "features/374-dedicated-weapon.html"
+  },
+  {
+    "title": "Монастырская традиция",
+    "file": "features/375-monastic-tradition.html"
+  },
+  {
+    "title": "Отражение снарядов",
+    "file": "features/376-deflect-missiles.html"
+  },
+  {
+    "title": "Атака, наделённая ци",
+    "file": "features/377-ki-fueled-attack.html"
+  },
+  {
+    "title": "Увеличение характеристик",
+    "file": "features/378-asi.html"
+  },
+  {
+    "title": "Медленное падение",
+    "file": "features/379-slow-fall.html"
+  },
+  {
+    "title": "Ускоренное исцеление",
+    "file": "features/380-quickened-healing.html"
+  },
+  {
+    "title": "Дополнительная атака",
+    "file": "features/381-extra-attack.html"
+  },
+  {
+    "title": "Ошеломляющий удар",
+    "file": "features/382-stunning-strike.html"
+  },
+  {
+    "title": "Фокусировка на цели",
+    "file": "features/383-focused-aim.html"
+  },
+  {
+    "title": "Энергетические удары",
+    "file": "features/384-ki-empowered-strikes.html"
+  },
+  {
+    "title": "Увёртливость",
+    "file": "features/385-evasion.html"
+  },
+  {
+    "title": "Спокойствие разума",
+    "file": "features/386-stillness-of-mind.html"
+  },
+  {
+    "title": "Чистота тела",
+    "file": "features/387-purity-of-body.html"
+  },
+  {
+    "title": "Язык солнца и луны",
+    "file": "features/388-tongue-of-sun-and-moon.html"
+  },
+  {
+    "title": "Алмазная душа",
+    "file": "features/389-diamond-soul.html"
+  },
+  {
+    "title": "Безвременное тело",
+    "file": "features/390-timeless-body.html"
+  },
+  {
+    "title": "Пустое тело",
+    "file": "features/391-empty-body.html"
+  },
+  {
+    "title": "Совершенство",
+    "file": "features/392-perfect-self.html"
+  },
+  {
+    "title": "ТЕХНИКИ ОТКРЫТОЙ ЛАДОНИ",
+    "file": "features/393-tekhniki-otkrytoy-ladoni.html"
+  },
+  {
+    "title": "ИСЦЕЛЕНИЕ ТЕЛА",
+    "file": "features/394-istselenie-tela.html"
+  },
+  {
+    "title": "УМИРОТВОРЕНИЕ",
+    "file": "features/395-umirotvorenie.html"
+  },
+  {
+    "title": "ДРОЖАЩАЯ ЛАДОНЬ",
+    "file": "features/396-drozhashchaya-ladon.html"
+  },
+  {
+    "title": "ТЕХНИКА ТЕНИ",
+    "file": "features/397-tekhnika-teni.html"
+  },
+  {
+    "title": "ШАГ ТЕНИ",
+    "file": "features/398-shag-teni.html"
+  },
+  {
+    "title": "ПЛАЩ ТЕНЕЙ",
+    "file": "features/399-plashch-teney.html"
+  },
+  {
+    "title": "ОППОРТУНИСТ",
+    "file": "features/400-opportunist.html"
+  },
+  {
+    "title": "АДЕПТ СТИХИЙ",
+    "file": "features/401-adept-stikhiy.html"
+  },
+  {
+    "title": "СТИХИЙНЫЕ ПРАКТИКИ",
+    "file": "features/402-stikhiynye-praktiki.html"
+  },
+  {
+    "title": "КАСАНИЕ СМЕРТИ",
+    "file": "features/403-kasanie-smerti.html"
+  },
+  {
+    "title": "ЧАС ЖАТВЫ",
+    "file": "features/404-chas-zhatvy.html"
+  },
+  {
+    "title": "МАСТЕРСТВО СМЕРТИ",
+    "file": "features/405-masterstvo-smerti.html"
+  },
+  {
+    "title": "КАСАНИЕ ДОЛГОЙ СМЕРТИ",
+    "file": "features/406-kasanie-dolgoy-smerti.html"
+  },
+  {
+    "title": "ПУТЬ КэНСЕЯ",
+    "file": "features/407-put-kenseya.html"
+  },
+  {
+    "title": "ЕДИНСТВО С КЛИНКОМ",
+    "file": "features/408-edinstvo-s-klinkom.html"
+  },
+  {
+    "title": "ЗАОСТРЕННЫЙ КЛИНОК",
+    "file": "features/409-zaostrennyy-klinok.html"
+  },
+  {
+    "title": "БЕЗОШИБОЧНАЯ ТОЧНОСТЬ",
+    "file": "features/410-bezoshibochnaya-tochnost.html"
+  },
+  {
+    "title": "ДОПОЛНИТЕЛЬНЫЕ ВЛАДЕНИЯ",
+    "file": "features/411-dopolnitelnye-vladeniya.html"
+  },
+  {
+    "title": "ТЕХНИКА ПЬЯНИЦЫ",
+    "file": "features/412-tekhnika-pyanitsy.html"
+  },
+  {
+    "title": "ПЬЯНАЯ ПОХОДКА",
+    "file": "features/413-pyanaya-pokhodka.html"
+  },
+  {
+    "title": "УДАЧА ПЬЯНИЦЫ",
+    "file": "features/414-udacha-pyanitsy.html"
+  },
+  {
+    "title": "ОПЬЯНЯЮЩАЯ ЯРОСТЬ",
+    "file": "features/415-opyanyayushchaya-yarost.html"
+  },
+  {
+    "title": "ЛУЧ СИЯЮЩЕГО СОЛНЦА",
+    "file": "features/416-luch-siyayushchego-solntsa.html"
+  },
+  {
+    "title": "УДАР ПЫЛАЮЩЕЙ ДУГИ",
+    "file": "features/417-udar-pylayushchey-dugi.html"
+  },
+  {
+    "title": "ПЫЛАЮЩИЙ СОЛНЕЧНЫЙ ВЗРЫВ",
+    "file": "features/418-pylayushchiy-solnechnyy-vzryv.html"
+  },
+  {
+    "title": "СОЛНЕЧНЫЙ ЩИТ",
+    "file": "features/419-solnechnyy-shchit.html"
+  },
+  {
+    "title": "Руки астрального тела",
+    "file": "features/420-ruki-astralnogo-tela.html"
+  },
+  {
+    "title": "Лик астрального тела",
+    "file": "features/421-lik-astralnogo-tela.html"
+  },
+  {
+    "title": "Торс астрального тела",
+    "file": "features/422-tors-astralnogo-tela.html"
+  },
+  {
+    "title": "Пробуждение астрального тела",
+    "file": "features/423-probuzhdenie-astralnogo-tela.html"
+  },
+  {
+    "title": "Орудия милосердия",
+    "file": "features/424-orudiya-miloserdiya.html"
+  },
+  {
+    "title": "Исцеляющая рука",
+    "file": "features/425-istselyayushchaya-ruka.html"
+  },
+  {
+    "title": "Повреждающая рука",
+    "file": "features/426-povrezhdayushchaya-ruka.html"
+  },
+  {
+    "title": "Прикосновение целителя",
+    "file": "features/427-prikosnovenie-tselitelya.html"
+  },
+  {
+    "title": "Шквал исцеления и повреждения",
+    "file": "features/428-shkval-istseleniya-i-povrezhdeniya.html"
+  },
+  {
+    "title": "Рука абсолютного милосердия",
+    "file": "features/429-ruka-absolyutnogo-miloserdiya.html"
+  },
+  {
+    "title": "Ученик дракона",
+    "file": "features/430-uchenik-drakona.html"
+  },
+  {
+    "title": "Дыхание дракона",
+    "file": "features/431-dykhanie-drakona.html"
+  },
+  {
+    "title": "Расправленные крылья",
+    "file": "features/432-raspravlennye-krylya.html"
+  },
+  {
+    "title": "АСпект вирма",
+    "file": "features/433-aspekt-virma.html"
+  },
+  {
+    "title": "Аспект восхождения",
+    "file": "features/434-aspekt-voskhozhdeniya.html"
+  },
+  {
+    "title": "Лунное воплощение",
+    "file": "features/435-lunnoe-voploshchenie.html"
+  },
+  {
+    "title": "Лунный Огонь",
+    "file": "features/436-lunnyy-ogon.html"
+  },
+  {
+    "title": "Лунные Дары",
+    "file": "features/437-lunnye-dary.html"
+  },
+  {
+    "title": "Убывание И Рост",
+    "file": "features/438-ubyvanie-i-rost.html"
+  },
+  {
+    "title": "Лунное Усиление",
+    "file": "features/439-lunnoe-usilenie.html"
+  },
+  {
+    "title": "Лунный Феномен",
+    "file": "features/440-lunnyy-fenomen.html"
+  },
+  {
+    "title": "ИСПОЛЬЗОВАНИЕ ЗАКЛИНАНИЙ",
+    "file": "features/441-spellcasting.html"
+  },
+  {
+    "title": "Дополнительные заклинания барда",
+    "file": "features/442-extra-spells.html"
+  },
+  {
+    "title": "ВДОХНОВЕНИЕ БАРДА",
+    "file": "features/443-bardic-inspiration.html"
+  },
+  {
+    "title": "МАСТЕР НА ВСЕ РУКИ",
+    "file": "features/444-jack-of-all-trades.html"
+  },
+  {
+    "title": "ПЕСНЬ ОТДЫХА",
+    "file": "features/445-song-of-rest.html"
+  },
+  {
+    "title": "Магическое вдохновение",
+    "file": "features/446-magical-inspiration.html"
+  },
+  {
+    "title": "КОЛЛЕГИЯ БАРДОВ",
+    "file": "features/447-bard-college.html"
+  },
+  {
+    "title": "КОМПЕТЕНТНОСТЬ",
+    "file": "features/448-expertise.html"
+  },
+  {
+    "title": "УВЕЛИЧЕНИЕ ХАРАКТЕРИСТИК",
+    "file": "features/449-asi.html"
+  },
+  {
+    "title": "Многогранность барда",
+    "file": "features/450-bardic-versatility.html"
+  },
+  {
+    "title": "ИСТОЧНИК ВДОХНОВЕНИЯ",
+    "file": "features/451-font-of-inspiration.html"
+  },
+  {
+    "title": "КОНТРОЧАРОВАНИЕ",
+    "file": "features/452-countercharm.html"
+  },
+  {
+    "title": "ТАЙНЫ МАГИИ",
+    "file": "features/453-magical-secrets.html"
+  },
+  {
+    "title": "ПРЕВОСХОДНОЕ ВДОХНОВЕНИЕ",
+    "file": "features/454-superior-inspiration.html"
+  },
+  {
+    "title": "ДОПОЛНИТЕЛЬНЫЕ НАВЫКИ",
+    "file": "features/455-dopolnitelnye-navyki.html"
+  },
+  {
+    "title": "БОЕВОЕ ВДОХНОВЕНИЕ",
+    "file": "features/456-boevoe-vdokhnovenie.html"
+  },
+  {
+    "title": "ДОПОЛНИТЕЛЬНАЯ АТАКА",
+    "file": "features/457-dopolnitelnaya-ataka.html"
+  },
+  {
+    "title": "БОЕВАЯ МАГИЯ",
+    "file": "features/458-boevaya-magiya.html"
+  },
+  {
+    "title": "ДОПОЛНИТЕЛЬНЫЕ НАВЫКИ",
+    "file": "features/459-dopolnitelnye-navyki.html"
+  },
+  {
+    "title": "ОСТРОЕ СЛОВЦО",
+    "file": "features/460-ostroe-slovtso.html"
+  },
+  {
+    "title": "ДОПОЛНИТЕЛЬНЫЕ ТАЙНЫ МАГИИ",
+    "file": "features/461-dopolnitelnye-tayny-magii.html"
+  },
+  {
+    "title": "НЕПРЕВЗОЙДЁННЫЙ НАВЫК",
+    "file": "features/462-neprevzoydyonnyy-navyk.html"
+  },
+  {
+    "title": "БОЕВОЙ СТИЛЬ",
+    "file": "features/463-boevoy-stil.html"
+  },
+  {
+    "title": "ДОПОЛНИТЕЛЬНЫЕ ВЛАДЕНИЯ",
+    "file": "features/464-dopolnitelnye-vladeniya.html"
+  },
+  {
+    "title": "росчерк КЛИНКа",
+    "file": "features/465-roscherk-klinka.html"
+  },
+  {
+    "title": "ДОПОЛНИТЕЛЬНАЯ АТАКА",
+    "file": "features/466-dopolnitelnaya-ataka.html"
+  },
+  {
+    "title": "МАСТЕРСКий Росчерк",
+    "file": "features/467-masterskiy-roscherk.html"
+  },
+  {
+    "title": "ЗАВОРАЖИВАЮЩЕЕ ВЫСТУПЛЕНИЕ",
+    "file": "features/468-zavorazhivayushchee-vystuplenie.html"
+  },
+  {
+    "title": "МАНТИЯ ВДОХНОВЕНИЯ",
+    "file": "features/469-mantiya-vdokhnoveniya.html"
+  },
+  {
+    "title": "МАНТИЯ ВЕЛИЧИЯ",
+    "file": "features/470-mantiya-velichiya.html"
+  },
+  {
+    "title": "НЕСОКРУШИМОЕ ВЕЛИЧИЕ",
+    "file": "features/471-nesokrushimoe-velichie.html"
+  },
+  {
+    "title": "ПСИХИЧЕСКИЕ КЛИНКИ",
+    "file": "features/472-psikhicheskie-klinki.html"
+  },
+  {
+    "title": "СЛОВА УЖАСА",
+    "file": "features/473-slova-uzhasa.html"
+  },
+  {
+    "title": "МАНТИЯ ШЁПОТОВ",
+    "file": "features/474-mantiya-shyopotov.html"
+  },
+  {
+    "title": "ЗНАНИЕ ТЕНИ",
+    "file": "features/475-znanie-teni.html"
+  },
+  {
+    "title": "Златоуст",
+    "file": "features/476-zlatoust.html"
+  },
+  {
+    "title": "Тревожащие слова",
+    "file": "features/477-trevozhashchie-slova.html"
+  },
+  {
+    "title": "Неисчерпаемое вдохновение",
+    "file": "features/478-neischerpaemoe-vdokhnovenie.html"
+  },
+  {
+    "title": "Универсальная речь",
+    "file": "features/479-universalnaya-rech.html"
+  },
+  {
+    "title": "Заразительное вдохновение",
+    "file": "features/480-zarazitelnoe-vdokhnovenie.html"
+  },
+  {
+    "title": "Частица потенциала",
+    "file": "features/481-chastitsa-potentsiala.html"
+  },
+  {
+    "title": "Созидательное выступление",
+    "file": "features/482-sozidatelnoe-vystuplenie.html"
+  },
+  {
+    "title": "Оживляющее выступление",
+    "file": "features/483-ozhivlyayushchee-vystuplenie.html"
+  },
+  {
+    "title": "Крещендо созидания",
+    "file": "features/484-kreshchendo-sozidaniya.html"
+  },
+  {
+    "title": "Направляющий шёпот",
+    "file": "features/485-napravlyayushchiy-shyopot.html"
+  },
+  {
+    "title": "Спиритическая фокусировка",
+    "file": "features/486-spiriticheskaya-fokusirovka.html"
+  },
+  {
+    "title": "Истории с того света",
+    "file": "features/487-istorii-s-togo-sveta.html"
+  },
+  {
+    "title": "Спиритический сеанс",
+    "file": "features/488-spiriticheskiy-seans.html"
+  },
+  {
+    "title": "Мистическая связь",
+    "file": "features/489-misticheskaya-svyaz.html"
+  },
+  {
+    "title": "Использование заклинаний",
+    "file": "features/490-spellcasting.html"
+  },
+  {
+    "title": "Дополнительные заклинания жреца",
+    "file": "features/491-dopolnitelnye-zaklinaniya-zhretsa.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ ДОМЕН",
+    "file": "features/492-divine-domain.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ КАНАЛ",
+    "file": "features/493-channel-divinity.html"
+  },
+  {
+    "title": "Праведное восстановление",
+    "file": "features/494-harness-divine-power.html"
+  },
+  {
+    "title": "УВЕЛИЧЕНИЕ ХАРАКТЕРИСТИК",
+    "file": "features/495-asi.html"
+  },
+  {
+    "title": "Универсальность заговоров",
+    "file": "features/496-cantrip-versatility.html"
+  },
+  {
+    "title": "УНИЧТОЖЕНИЕ НЕЖИТИ",
+    "file": "features/497-destroy-undead.html"
+  },
+  {
+    "title": "Благословлённые удары",
+    "file": "features/498-blessed-strikes.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННОЕ ВМЕШАТЕЛЬСТВО",
+    "file": "features/499-divine-intervention.html"
+  },
+  {
+    "title": "БОНУСНОЕ ВЛАДЕНИЕ",
+    "file": "features/500-bonusnoe-vladenie.html"
+  },
+  {
+    "title": "ГНЕВ БУРИ",
+    "file": "features/501-gnev-buri.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ КАНАЛ: РАЗРУШИТЕЛЬНЫЙ ГНЕВ",
+    "file": "features/502-bozhestvennyy-kanal-razrushitelnyy-gnev.html"
+  },
+  {
+    "title": "УДАР ГРОМА",
+    "file": "features/503-udar-groma.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ УДАР",
+    "file": "features/504-bozhestvennyy-udar.html"
+  },
+  {
+    "title": "РОЖДЁННЫЙ БУРЕЙ",
+    "file": "features/505-rozhdyonnyy-burey.html"
+  },
+  {
+    "title": "БОНУСНОЕ ВЛАДЕНИЕ",
+    "file": "features/506-bonusnoe-vladenie.html"
+  },
+  {
+    "title": "БОЕВОЙ СВЯЩЕННИК",
+    "file": "features/507-boevoy-svyashchennik.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ КАНАЛ: НАПРАВЛЕННЫЙ УДАР",
+    "file": "features/508-bozhestvennyy-kanal-napravlennyy-udar.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ КАНАЛ: БЛАГОСЛОВЕНИЕ БОГА ВОЙНЫ",
+    "file": "features/509-bozhestvennyy-kanal-blagoslovenie-boga-voyny.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ УДАР",
+    "file": "features/510-bozhestvennyy-udar.html"
+  },
+  {
+    "title": "ВОПЛОЩЕНИЕ БИТВЫ",
+    "file": "features/511-voploshchenie-bitvy.html"
+  },
+  {
+    "title": "БОНУСНОЕ ВЛАДЕНИЕ",
+    "file": "features/512-bonusnoe-vladenie.html"
+  },
+  {
+    "title": "ПОБОРНИК ЖИЗНИ",
+    "file": "features/513-pobornik-zhizni.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ КАНАЛ: СОХРАНЕНИЕ ЖИЗНИ",
+    "file": "features/514-bozhestvennyy-kanal-sokhranenie-zhizni.html"
+  },
+  {
+    "title": "БЛАГОСЛОВЕННЫЙ ЦЕЛИТЕЛЬ",
+    "file": "features/515-blagoslovennyy-tselitel.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ УДАР",
+    "file": "features/516-bozhestvennyy-udar.html"
+  },
+  {
+    "title": "ВЫСШЕЕ ИСЦЕЛЕНИЕ",
+    "file": "features/517-vysshee-istselenie.html"
+  },
+  {
+    "title": "БЛАГОСЛОВЕНИЕ ЗНАНИЙ",
+    "file": "features/518-blagoslovenie-znaniy.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ КАНАЛ: ЗНАНИЯ ВЕКОВ",
+    "file": "features/519-bozhestvennyy-kanal-znaniya-vekov.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ КАНАЛ: ЧТЕНИЕ МЫСЛЕЙ",
+    "file": "features/520-bozhestvennyy-kanal-chtenie-mysley.html"
+  },
+  {
+    "title": "МОГУЩЕСТВЕННОЕ КОЛДОВСТВО",
+    "file": "features/521-mogushchestvennoe-koldovstvo.html"
+  },
+  {
+    "title": "ВИДЕНИЯ ПРОШЛОГО",
+    "file": "features/522-videniya-proshlogo.html"
+  },
+  {
+    "title": "БЛАГОСЛОВЕНИЕ ОБМАНЩИКА",
+    "file": "features/523-blagoslovenie-obmanshchika.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ КАНАЛ: ДВУЛИЧНОСТЬ",
+    "file": "features/524-bozhestvennyy-kanal-dvulichnost.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ КАНАЛ: ПЛАЩ ТЕНЕЙ",
+    "file": "features/525-bozhestvennyy-kanal-plashch-teney.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ УДАР",
+    "file": "features/526-bozhestvennyy-udar.html"
+  },
+  {
+    "title": "УЛУЧШЕННАЯ ДВУЛИЧНОСТЬ",
+    "file": "features/527-uluchshennaya-dvulichnost.html"
+  },
+  {
+    "title": "ПОСЛУШНИК ПРИРОДЫ",
+    "file": "features/528-poslushnik-prirody.html"
+  },
+  {
+    "title": "БОНУСНОЕ ВЛАДЕНИЕ",
+    "file": "features/529-bonusnoe-vladenie.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ КАНАЛ: ОЧАРОВАНИЕ ЖИВОТНЫХ И РАСТЕНИЙ",
+    "file": "features/530-bozhestvennyy-kanal-ocharovanie-zhivotnykh-i-rasteniy.html"
+  },
+  {
+    "title": "СДЕРЖИВАНИЕ СТИХИЙ",
+    "file": "features/531-sderzhivanie-stikhiy.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ УДАР",
+    "file": "features/532-bozhestvennyy-udar.html"
+  },
+  {
+    "title": "МАСТЕР ПРИРОДЫ",
+    "file": "features/533-master-prirody.html"
+  },
+  {
+    "title": "ДОПОЛНИТЕЛЬНЫЙ ЗАГОВОР",
+    "file": "features/534-dopolnitelnyy-zagovor.html"
+  },
+  {
+    "title": "ЗАЩИЩАЮЩАЯ ВСПЫШКА",
+    "file": "features/535-zashchishchayushchaya-vspyshka.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ КАНАЛ: СИЯНИЕ РАССВЕТА",
+    "file": "features/536-bozhestvennyy-kanal-siyanie-rassveta.html"
+  },
+  {
+    "title": "УЛУЧШЕННАЯ ВСПЫШКА",
+    "file": "features/537-uluchshennaya-vspyshka.html"
+  },
+  {
+    "title": "МОГУЩЕСТВЕННОЕ КОЛДОВСТВО",
+    "file": "features/538-mogushchestvennoe-koldovstvo.html"
+  },
+  {
+    "title": "КОРОНА СВЕТА",
+    "file": "features/539-korona-sveta.html"
+  },
+  {
+    "title": "БОНУСНОЕ ВЛАДЕНИЕ",
+    "file": "features/540-bonusnoe-vladenie.html"
+  },
+  {
+    "title": "ЖНЕЦ",
+    "file": "features/541-zhnets.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ КАНАЛ: КАСАНИЕ СМЕРТИ",
+    "file": "features/542-bozhestvennyy-kanal-kasanie-smerti.html"
+  },
+  {
+    "title": "НЕИЗБЕЖНОЕ РАЗРУШЕНИЕ",
+    "file": "features/543-neizbezhnoe-razrushenie.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ УДАР",
+    "file": "features/544-bozhestvennyy-udar.html"
+  },
+  {
+    "title": "УЛУЧШЕННЫЙ ЖНЕЦ",
+    "file": "features/545-uluchshennyy-zhnets.html"
+  },
+  {
+    "title": "НАЧИНАЮЩИЙ МАГ",
+    "file": "features/546-nachinayushchiy-mag.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ КАНАЛ: ОГРАЖДЕНИЕ МАГИЕЙ",
+    "file": "features/547-bozhestvennyy-kanal-ograzhdenie-magiey.html"
+  },
+  {
+    "title": "РАЗРУШИТЕЛЬ ЗАКЛИНАНИЙ",
+    "file": "features/548-razrushitel-zaklinaniy.html"
+  },
+  {
+    "title": "Могущественное КОЛДОВСТВО",
+    "file": "features/549-mogushchestvennoe-koldovstvo.html"
+  },
+  {
+    "title": "МАСТЕРСТВО МАГИИ",
+    "file": "features/550-masterstvo-magii.html"
+  },
+  {
+    "title": "БОНУСНОЕ ВЛАДЕНИЕ",
+    "file": "features/551-bonusnoe-vladenie.html"
+  },
+  {
+    "title": "БЛАГОСЛОВЛЕНИЕ КУЗНИЦЫ",
+    "file": "features/552-blagoslovlenie-kuznitsy.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ КАНАЛ: БЛАГОСЛОВЕНИЕ РЕМЕСЛЕННИКА",
+    "file": "features/553-bozhestvennyy-kanal-blagoslovenie-remeslennika.html"
+  },
+  {
+    "title": "ДУША КУЗНИЦЫ",
+    "file": "features/554-dusha-kuznitsy.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ УДАР",
+    "file": "features/555-bozhestvennyy-udar.html"
+  },
+  {
+    "title": "СВЯТОЙ КУЗНИЦЫ И ОГНЯ",
+    "file": "features/556-svyatoy-kuznitsy-i-ognya.html"
+  },
+  {
+    "title": "КРУГ СМЕРТИ",
+    "file": "features/557-krug-smerti.html"
+  },
+  {
+    "title": "ГЛАЗА МОГИЛЫ",
+    "file": "features/558-glaza-mogily.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ КАНАЛ: ПУТЬ К МОГИЛЕ",
+    "file": "features/559-bozhestvennyy-kanal-put-k-mogile.html"
+  },
+  {
+    "title": "СТРАЖ НА ПОРОГЕ СМЕРТИ",
+    "file": "features/560-strazh-na-poroge-smerti.html"
+  },
+  {
+    "title": "МОГУЩЕСТВЕННОЕ КОЛДОВСТВО",
+    "file": "features/561-mogushchestvennoe-koldovstvo.html"
+  },
+  {
+    "title": "ХРАНИТЕЛЬ ДУШ",
+    "file": "features/562-khranitel-dush.html"
+  },
+  {
+    "title": "Заклинания домена",
+    "file": "features/563-zaklinaniya-domena.html"
+  },
+  {
+    "title": "Установление мира",
+    "file": "features/564-ustanovlenie-mira.html"
+  },
+  {
+    "title": "Ободряющая связь",
+    "file": "features/565-obodryayushchaya-svyaz.html"
+  },
+  {
+    "title": "Божественный канал: Бальзам мира",
+    "file": "features/566-bozhestvennyy-kanal-balzam-mira.html"
+  },
+  {
+    "title": "Защитная связь",
+    "file": "features/567-zashchitnaya-svyaz.html"
+  },
+  {
+    "title": "Могущественное колдовство",
+    "file": "features/568-mogushchestvennoe-koldovstvo.html"
+  },
+  {
+    "title": "Расширенная связь",
+    "file": "features/569-rasshirennaya-svyaz.html"
+  },
+  {
+    "title": "Заклинания домена",
+    "file": "features/570-zaklinaniya-domena.html"
+  },
+  {
+    "title": "Бонусные владения",
+    "file": "features/571-bonusnye-vladeniya.html"
+  },
+  {
+    "title": "Голос авторитета",
+    "file": "features/572-golos-avtoriteta.html"
+  },
+  {
+    "title": "Божественный канал: Требование порядка",
+    "file": "features/573-bozhestvennyy-kanal-trebovanie-poryadka.html"
+  },
+  {
+    "title": "Воплощение закона",
+    "file": "features/574-voploshchenie-zakona.html"
+  },
+  {
+    "title": "Божественный удар",
+    "file": "features/575-bozhestvennyy-udar.html"
+  },
+  {
+    "title": "Гнев порядка",
+    "file": "features/576-gnev-poryadka.html"
+  },
+  {
+    "title": "Заклинания домена",
+    "file": "features/577-zaklinaniya-domena.html"
+  },
+  {
+    "title": "БОНУСНОЕ ВЛАДЕНИЕ",
+    "file": "features/578-bonusnoe-vladenie.html"
+  },
+  {
+    "title": "Глаза ночи",
+    "file": "features/579-glaza-nochi.html"
+  },
+  {
+    "title": "Благословение бдительности",
+    "file": "features/580-blagoslovenie-bditelnosti.html"
+  },
+  {
+    "title": "Божественный канал: Сумеречное святилище",
+    "file": "features/581-bozhestvennyy-kanal-sumerechnoe-svyatilishche.html"
+  },
+  {
+    "title": "Шаги ночи",
+    "file": "features/582-shagi-nochi.html"
+  },
+  {
+    "title": "Божественный удар",
+    "file": "features/583-bozhestvennyy-udar.html"
+  },
+  {
+    "title": "Сумеречная пелена",
+    "file": "features/584-sumerechnaya-pelena.html"
+  },
+  {
+    "title": "ДРУИДИЧЕСКИЙ ЯЗЫК",
+    "file": "features/585-druidic.html"
+  },
+  {
+    "title": "Использование заклинаний",
+    "file": "features/586-spellcasting.html"
+  },
+  {
+    "title": "Дополнительные заклинания друидов",
+    "file": "features/587-extra-spells.html"
+  },
+  {
+    "title": "Дикий облик",
+    "file": "features/588-wild-shape.html"
+  },
+  {
+    "title": "Дикий спутник",
+    "file": "features/589-wild-companion.html"
+  },
+  {
+    "title": "КРУГ ДРУИДОВ",
+    "file": "features/590-druid-circle.html"
+  },
+  {
+    "title": "УВЕЛИЧЕНИЕ ХАРАКТЕРИСТИК",
+    "file": "features/591-asi.html"
+  },
+  {
+    "title": "Универсальность заговоров",
+    "file": "features/592-cantrip-versatility.html"
+  },
+  {
+    "title": "БЕЗВРЕМЕННОЕ ТЕЛО",
+    "file": "features/593-timeless-body.html"
+  },
+  {
+    "title": "ЗАКЛИНАНИЯ ЗВЕРЯ",
+    "file": "features/594-beast-spells.html"
+  },
+  {
+    "title": "АРХИДРУИД",
+    "file": "features/595-archdruid.html"
+  },
+  {
+    "title": "ДОПОЛНИТЕЛЬНЫЙ ЗАГОВОР",
+    "file": "features/596-dopolnitelnyy-zagovor.html"
+  },
+  {
+    "title": "ЕСТЕСТВЕННОЕ ВОССТАНОВЛЕНИЕ",
+    "file": "features/597-estestvennoe-vosstanovlenie.html"
+  },
+  {
+    "title": "ЗАКЛИНАНИЯ КРУГА",
+    "file": "features/598-zaklinaniya-kruga.html"
+  },
+  {
+    "title": "ТРОПАМИ ЗЕМЛИ",
+    "file": "features/599-tropami-zemli.html"
+  },
+  {
+    "title": "ПОКРОВИТЕЛЬСТВО ПРИРОДЫ",
+    "file": "features/600-pokrovitelstvo-prirody.html"
+  },
+  {
+    "title": "ПРИРОДНАЯ БЛАГОДАТЬ",
+    "file": "features/601-prirodnaya-blagodat.html"
+  },
+  {
+    "title": "БОЕВОЙ ДИКИЙ ОБЛИК",
+    "file": "features/602-boevoy-dikiy-oblik.html"
+  },
+  {
+    "title": "ОБЛИКИ КРУГА",
+    "file": "features/603-obliki-kruga.html"
+  },
+  {
+    "title": "ПРИРОДНЫЙ УДАР",
+    "file": "features/604-prirodnyy-udar.html"
+  },
+  {
+    "title": "СТИХИЙНЫЙ ДИКИЙ ОБЛИК",
+    "file": "features/605-stikhiynyy-dikiy-oblik.html"
+  },
+  {
+    "title": "ТЫСЯЧА ЛИЦ",
+    "file": "features/606-tysyacha-lits.html"
+  },
+  {
+    "title": "РЕЧЬ ЛЕСОВ",
+    "file": "features/607-rech-lesov.html"
+  },
+  {
+    "title": "ТОТЕМ ДУХОВ",
+    "file": "features/608-totem-dukhov.html"
+  },
+  {
+    "title": "МОГУЩЕСТВЕННЫЙ ПРИЗЫВАТЕЛЬ",
+    "file": "features/609-mogushchestvennyy-prizyvatel.html"
+  },
+  {
+    "title": "ДУХ ЗАЩИТНИК",
+    "file": "features/610-dukh-zashchitnik.html"
+  },
+  {
+    "title": "ВЕРНЫЕ ПРИЗВАННЫЕ",
+    "file": "features/611-vernye-prizvannye.html"
+  },
+  {
+    "title": "УТЕШЕНИЕ ЛЕТНЕГО ДВОРА",
+    "file": "features/612-uteshenie-letnego-dvora.html"
+  },
+  {
+    "title": "ОЧАГ ЛУННОГО СВЕТА И ТЕНИ",
+    "file": "features/613-ochag-lunnogo-sveta-i-teni.html"
+  },
+  {
+    "title": "СКРЫТЫЕ ПУТИ",
+    "file": "features/614-skrytye-puti.html"
+  },
+  {
+    "title": "СТРАННИК ВО СНАХ",
+    "file": "features/615-strannik-vo-snakh.html"
+  },
+  {
+    "title": "Заклинания круга",
+    "file": "features/616-zaklinaniya-kruga.html"
+  },
+  {
+    "title": "Призыв духа дикого огня",
+    "file": "features/617-prizyv-dukha-dikogo-ognya.html"
+  },
+  {
+    "title": "Усиленная связь",
+    "file": "features/618-usilennaya-svyaz.html"
+  },
+  {
+    "title": "Прижигающее пламя",
+    "file": "features/619-prizhigayushchee-plamya.html"
+  },
+  {
+    "title": "Огненное возрождение",
+    "file": "features/620-ognennoe-vozrozhdenie.html"
+  },
+  {
+    "title": "Звёздная карта",
+    "file": "features/621-zvyozdnaya-karta.html"
+  },
+  {
+    "title": "Звёздный облик",
+    "file": "features/622-zvyozdnyy-oblik.html"
+  },
+  {
+    "title": "Космическое знамение",
+    "file": "features/623-kosmicheskoe-znamenie.html"
+  },
+  {
+    "title": "Мерцающие созвездия",
+    "file": "features/624-mertsayushchie-sozvezdiya.html"
+  },
+  {
+    "title": "Состоящий из звёзд",
+    "file": "features/625-sostoyashchiy-iz-zvyozd.html"
+  },
+  {
+    "title": "Заклинания круга",
+    "file": "features/626-zaklinaniya-kruga.html"
+  },
+  {
+    "title": "Ореол спор",
+    "file": "features/627-oreol-spor.html"
+  },
+  {
+    "title": "Симбиотическая сущность",
+    "file": "features/628-simbioticheskaya-sushchnost.html"
+  },
+  {
+    "title": "Грибковая инфекция",
+    "file": "features/629-gribkovaya-infektsiya.html"
+  },
+  {
+    "title": "Распространение спор",
+    "file": "features/630-rasprostranenie-spor.html"
+  },
+  {
+    "title": "Грибное тело",
+    "file": "features/631-gribnoe-telo.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННОЕ ЧУВСТВО",
+    "file": "features/632-divine-sense.html"
+  },
+  {
+    "title": "НАЛОЖЕНИЕ РУК",
+    "file": "features/633-lay-on-hands.html"
+  },
+  {
+    "title": "Боевой стиль",
+    "file": "features/634-fighting-style.html"
+  },
+  {
+    "title": "Использование заклинаний",
+    "file": "features/635-spellcasting.html"
+  },
+  {
+    "title": "Дополнительные заклинания паладина",
+    "file": "features/636-tce-spells.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННАЯ КАРА",
+    "file": "features/637-divine-smite.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННОЕ ЗДОРОВЬЕ",
+    "file": "features/638-divine-health.html"
+  },
+  {
+    "title": "СВЯЩЕННАЯ КЛЯТВА",
+    "file": "features/639-sacred-oath.html"
+  },
+  {
+    "title": "Праведное восстановление",
+    "file": "features/640-harness-divine-power.html"
+  },
+  {
+    "title": "УВЕЛИЧЕНИЕ ХАРАКТЕРИСТИК",
+    "file": "features/641-asi.html"
+  },
+  {
+    "title": "Универсальность воина",
+    "file": "features/642-martial-versatility.html"
+  },
+  {
+    "title": "ДОПОЛНИТЕЛЬНАЯ АТАКА",
+    "file": "features/643-extra-attack.html"
+  },
+  {
+    "title": "АУРА ЗАЩИТЫ",
+    "file": "features/644-aura-of-protection.html"
+  },
+  {
+    "title": "АУРА ОТВАГИ",
+    "file": "features/645-aura-of-courage.html"
+  },
+  {
+    "title": "УЛУЧШЕННАЯ БОЖЕСТВЕННАЯ КАРА",
+    "file": "features/646-improved-divine-smite.html"
+  },
+  {
+    "title": "ОЧИЩАЮЩЕЕ КАСАНИЕ",
+    "file": "features/647-cleansing-touch.html"
+  },
+  {
+    "title": "ДОГМАТЫ ПРЕДАННОСТИ",
+    "file": "features/648-dogmaty-predannosti.html"
+  },
+  {
+    "title": "ЗАКЛИНАНИЯ КЛЯТВЫ",
+    "file": "features/649-zaklinaniya-klyatvy.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ КАНАЛ",
+    "file": "features/650-bozhestvennyy-kanal.html"
+  },
+  {
+    "title": "АУРА ПРЕДАННОСТИ",
+    "file": "features/651-aura-predannosti.html"
+  },
+  {
+    "title": "ЧИСТОТА ДУХА",
+    "file": "features/652-chistota-dukha.html"
+  },
+  {
+    "title": "СВЯТОЙ НИМБ",
+    "file": "features/653-svyatoy-nimb.html"
+  },
+  {
+    "title": "ДОГМАТЫ ДРЕВНИХ",
+    "file": "features/654-dogmaty-drevnikh.html"
+  },
+  {
+    "title": "ЗАКЛИНАНИЯ КЛЯТВЫ",
+    "file": "features/655-zaklinaniya-klyatvy.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ КАНАЛ",
+    "file": "features/656-bozhestvennyy-kanal.html"
+  },
+  {
+    "title": "АУРА ОПЕКИ",
+    "file": "features/657-aura-opeki.html"
+  },
+  {
+    "title": "БЕССМЕРТНЫЙ СТРАЖ",
+    "file": "features/658-bessmertnyy-strazh.html"
+  },
+  {
+    "title": "ДРЕВНИЙ ЧЕМПИОН",
+    "file": "features/659-drevniy-chempion.html"
+  },
+  {
+    "title": "ДОГМАТЫ МЕСТИ",
+    "file": "features/660-dogmaty-mesti.html"
+  },
+  {
+    "title": "ЗАКЛИНАНИЯ КЛЯТВЫ",
+    "file": "features/661-zaklinaniya-klyatvy.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ КАНАЛ",
+    "file": "features/662-bozhestvennyy-kanal.html"
+  },
+  {
+    "title": "НЕУМОЛИМЫЙ МСТИТЕЛЬ",
+    "file": "features/663-neumolimyy-mstitel.html"
+  },
+  {
+    "title": "ДУША МЕСТИ",
+    "file": "features/664-dusha-mesti.html"
+  },
+  {
+    "title": "МСТЯЩИЙ АНГЕЛ",
+    "file": "features/665-mstyashchiy-angel.html"
+  },
+  {
+    "title": "ПРИНЦИПЫ КОРОНЫ",
+    "file": "features/666-printsipy-korony.html"
+  },
+  {
+    "title": "ЗАКЛИНАНИЯ КЛЯТВЫ",
+    "file": "features/667-zaklinaniya-klyatvy.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ КАНАЛ",
+    "file": "features/668-bozhestvennyy-kanal.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННАЯ ПРЕДАННОСТЬ",
+    "file": "features/669-bozhestvennaya-predannost.html"
+  },
+  {
+    "title": "НЕПОКОЛЕБИМЫЙ ДУХ",
+    "file": "features/670-nepokolebimyy-dukh.html"
+  },
+  {
+    "title": "ВОЗВЫШЕННЫЙ ЧЕМПИОН",
+    "file": "features/671-vozvyshennyy-chempion.html"
+  },
+  {
+    "title": "ДОГМАТЫ ИСКУПЛЕНИЯ",
+    "file": "features/672-dogmaty-iskupleniya.html"
+  },
+  {
+    "title": "ЗАКЛИНАНИЯ КЛЯТВЫ",
+    "file": "features/673-zaklinaniya-klyatvy.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ КАНАЛ",
+    "file": "features/674-bozhestvennyy-kanal.html"
+  },
+  {
+    "title": "АУРА Защитника",
+    "file": "features/675-aura-zashchitnika.html"
+  },
+  {
+    "title": "ДУХ ЗАЩИТНИК",
+    "file": "features/676-dukh-zashchitnik.html"
+  },
+  {
+    "title": "ЭМИССАР ИСКУПЛЕНИЯ",
+    "file": "features/677-emissar-iskupleniya.html"
+  },
+  {
+    "title": "ДОГМАТЫ ПОКОРЕНИЯ",
+    "file": "features/678-dogmaty-pokoreniya.html"
+  },
+  {
+    "title": "ЗАКЛИНАНИЯ КЛЯТВЫ",
+    "file": "features/679-zaklinaniya-klyatvy.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ КАНАЛ",
+    "file": "features/680-bozhestvennyy-kanal.html"
+  },
+  {
+    "title": "АУРА ПОКОРЕНИЯ",
+    "file": "features/681-aura-pokoreniya.html"
+  },
+  {
+    "title": "ПРЕЗРИТЕЛЬНОЕ ВОЗМЕЗДИЕ",
+    "file": "features/682-prezritelnoe-vozmezdie.html"
+  },
+  {
+    "title": "НЕПОБЕДИМЫЙ ПОКОРИТЕЛЬ",
+    "file": "features/683-nepobedimyy-pokoritel.html"
+  },
+  {
+    "title": "Догматы славы",
+    "file": "features/684-dogmaty-slavy.html"
+  },
+  {
+    "title": "Заклинания клятвы",
+    "file": "features/685-zaklinaniya-klyatvy.html"
+  },
+  {
+    "title": "Божественный канал",
+    "file": "features/686-bozhestvennyy-kanal.html"
+  },
+  {
+    "title": "Аура рвения",
+    "file": "features/687-aura-rveniya.html"
+  },
+  {
+    "title": "Блестящая оборона",
+    "file": "features/688-blestyashchaya-oborona.html"
+  },
+  {
+    "title": "Живая легенда",
+    "file": "features/689-zhivaya-legenda.html"
+  },
+  {
+    "title": "Догматы смотрителей",
+    "file": "features/690-dogmaty-smotriteley.html"
+  },
+  {
+    "title": "Заклинания клятвы",
+    "file": "features/691-zaklinaniya-klyatvy.html"
+  },
+  {
+    "title": "Божественный канал",
+    "file": "features/692-bozhestvennyy-kanal.html"
+  },
+  {
+    "title": "Аура стража",
+    "file": "features/693-aura-strazha.html"
+  },
+  {
+    "title": "Бдительное возмездие",
+    "file": "features/694-bditelnoe-vozmezdie.html"
+  },
+  {
+    "title": "Оплот смертных",
+    "file": "features/695-oplot-smertnykh.html"
+  },
+  {
+    "title": "ИЗБРАННЫЙ ВРАГ",
+    "file": "features/696-favored-enemy.html"
+  },
+  {
+    "title": "Предпочтительный противник",
+    "file": "features/697-favored-foe.html"
+  },
+  {
+    "title": "ИССЛЕДОВАТЕЛЬ ПРИРОДЫ",
+    "file": "features/698-natural-explorer.html"
+  },
+  {
+    "title": "Искусный исследователь",
+    "file": "features/699-deft-explorer.html"
+  },
+  {
+    "title": "Боевой стиль",
+    "file": "features/700-fighting-style.html"
+  },
+  {
+    "title": "Использование заклинаний",
+    "file": "features/701-spellcasting.html"
+  },
+  {
+    "title": "Дополнительные заклинания следопыта",
+    "file": "features/702-extra-spells.html"
+  },
+  {
+    "title": "АРХЕТИП СЛЕДОПЫТА",
+    "file": "features/703-ranger-archetype.html"
+  },
+  {
+    "title": "ПЕРВОЗДАННАЯ ОСВЕДОМЛЁННОСТЬ",
+    "file": "features/704-primeval-awareness.html"
+  },
+  {
+    "title": "Изначальная осведомлённость",
+    "file": "features/705-primal-awareness.html"
+  },
+  {
+    "title": "УВЕЛИЧЕНИЕ ХАРАКТЕРИСТИК",
+    "file": "features/706-asi.html"
+  },
+  {
+    "title": "Универсальность воина",
+    "file": "features/707-martial-versatility.html"
+  },
+  {
+    "title": "ДОПОЛНИТЕЛЬНАЯ АТАКА",
+    "file": "features/708-extra-attack.html"
+  },
+  {
+    "title": "ТРОПАМИ ЗЕМЛИ",
+    "file": "features/709-lands-stride.html"
+  },
+  {
+    "title": "МАСКИРОВКА НА ВИДУ",
+    "file": "features/710-hide-in-plain-sight.html"
+  },
+  {
+    "title": "Природная завеса",
+    "file": "features/711-natures-veil.html"
+  },
+  {
+    "title": "ИСЧЕЗНОВЕНИЕ",
+    "file": "features/712-vanish.html"
+  },
+  {
+    "title": "ДИКИЕ ЧУВСТВА",
+    "file": "features/713-feral-senses.html"
+  },
+  {
+    "title": "УБИЙЦА ВРАГОВ",
+    "file": "features/714-foe-slayer.html"
+  },
+  {
+    "title": "ДОБЫЧА ОХОТНИКА",
+    "file": "features/715-dobycha-okhotnika.html"
+  },
+  {
+    "title": "ОБОРОНИТЕЛЬНАЯ ТАКТИКА",
+    "file": "features/716-oboronitelnaya-taktika.html"
+  },
+  {
+    "title": "МУЛЬТИАТАКА",
+    "file": "features/717-multiataka.html"
+  },
+  {
+    "title": "УЛУЧШЕННАЯ ЗАЩИТА ОХОТНИКА",
+    "file": "features/718-uluchshennaya-zashchita-okhotnika.html"
+  },
+  {
+    "title": "СПУТНИК СЛЕДОПЫТА",
+    "file": "features/719-sputnik-sledopyta.html"
+  },
+  {
+    "title": "ИСКЛЮЧИТЕЛЬНАЯ ДРЕССИРОВКА",
+    "file": "features/720-isklyuchitelnaya-dressirovka.html"
+  },
+  {
+    "title": "ЗВЕРИНАЯ ЯРОСТЬ",
+    "file": "features/721-zverinaya-yarost.html"
+  },
+  {
+    "title": "ОБЩИЕ ЗАКЛИНАНИЯ",
+    "file": "features/722-obshchie-zaklinaniya.html"
+  },
+  {
+    "title": "Первичный спутник",
+    "file": "features/723-pervichnyy-sputnik.html"
+  },
+  {
+    "title": "МАГИЯ СТРАННИКОВ ГОРИЗОНТА",
+    "file": "features/724-magiya-strannikov-gorizonta.html"
+  },
+  {
+    "title": "ОБНАРУЖИТЬ ПОРТАЛ",
+    "file": "features/725-obnaruzhit-portal.html"
+  },
+  {
+    "title": "ПЛАНАРНЫЙ ВОИН",
+    "file": "features/726-planarnyy-voin.html"
+  },
+  {
+    "title": "ЭФИРНЫЙ ШАГ",
+    "file": "features/727-efirnyy-shag.html"
+  },
+  {
+    "title": "ДАЛЁКИЙ УДАР",
+    "file": "features/728-dalyokiy-udar.html"
+  },
+  {
+    "title": "СПЕКТРАЛЬНАЯ ЗАЩИТА",
+    "file": "features/729-spektralnaya-zashchita.html"
+  },
+  {
+    "title": "МАГИЯ СУМРАЧНОГО ОХОТНИКА",
+    "file": "features/730-magiya-sumrachnogo-okhotnika.html"
+  },
+  {
+    "title": "УГРОЗА ИЗ ЗАСАДЫ",
+    "file": "features/731-dread-ambusher.html"
+  },
+  {
+    "title": "ТЕНЕВОЙ ВЗОР",
+    "file": "features/732-tenevoy-vzor.html"
+  },
+  {
+    "title": "ЖЕЛЕЗНЫЙ РАЗУМ",
+    "file": "features/733-zheleznyy-razum.html"
+  },
+  {
+    "title": "ОХОТНИЧЬЯ ЯРОСТЬ",
+    "file": "features/734-okhotnichya-yarost.html"
+  },
+  {
+    "title": "ТЕНЕВОЕ УКЛОНЕНИЕ",
+    "file": "features/735-tenevoe-uklonenie.html"
+  },
+  {
+    "title": "МАГИЯ УБИЙЦЫ чудовищ",
+    "file": "features/736-magiya-ubiytsy-chudovishch.html"
+  },
+  {
+    "title": "ОХОТНИЧЬИ ЧУВСТВА",
+    "file": "features/737-okhotnichi-chuvstva.html"
+  },
+  {
+    "title": "ДОБЫЧА УБИЙЦЫ",
+    "file": "features/738-dobycha-ubiytsy.html"
+  },
+  {
+    "title": "СВЕРХЪЕСТЕСТВЕННАЯ ЗАЩИТА",
+    "file": "features/739-sverkhestestvennaya-zashchita.html"
+  },
+  {
+    "title": "ВРАГ ЗАКЛИНАТЕЛЯ",
+    "file": "features/740-vrag-zaklinatelya.html"
+  },
+  {
+    "title": "КОНТРАТАКА УБИЙЦЫ",
+    "file": "features/741-kontrataka-ubiytsy.html"
+  },
+  {
+    "title": "Ужасающие удары",
+    "file": "features/742-uzhasayushchie-udary.html"
+  },
+  {
+    "title": "Магия странника фей",
+    "file": "features/743-magiya-strannika-fey.html"
+  },
+  {
+    "title": "Потустороннее очарование",
+    "file": "features/744-potustoronnee-ocharovanie.html"
+  },
+  {
+    "title": "Заманивающий трюк",
+    "file": "features/745-zamanivayushchiy-tryuk.html"
+  },
+  {
+    "title": "Подкрепление фей",
+    "file": "features/746-podkreplenie-fey.html"
+  },
+  {
+    "title": "Туманный странник",
+    "file": "features/747-tumannyy-strannik.html"
+  },
+  {
+    "title": "Собранный рой",
+    "file": "features/748-sobrannyy-roy.html"
+  },
+  {
+    "title": "Магия хранителя роя",
+    "file": "features/749-magiya-khranitelya-roya.html"
+  },
+  {
+    "title": "Извивающаяся волна",
+    "file": "features/750-izvivayushchayasya-volna.html"
+  },
+  {
+    "title": "Могущественный рой",
+    "file": "features/751-mogushchestvennyy-roy.html"
+  },
+  {
+    "title": "Растворение в рое",
+    "file": "features/752-rastvorenie-v-roe.html"
+  },
+  {
+    "title": "Драконий дар",
+    "file": "features/753-drakoniy-dar.html"
+  },
+  {
+    "title": "Дрейк-компаньон",
+    "file": "features/754-dreyk-kompanon.html"
+  },
+  {
+    "title": "Единство клыков и чешуи",
+    "file": "features/755-edinstvo-klykov-i-cheshui.html"
+  },
+  {
+    "title": "Дыхание дрейка",
+    "file": "features/756-dykhanie-dreyka.html"
+  },
+  {
+    "title": "Превосходная связь",
+    "file": "features/757-prevoskhodnaya-svyaz.html"
+  },
+  {
+    "title": "КОМПЕТЕНТНОСТЬ",
+    "file": "features/758-expertise.html"
+  },
+  {
+    "title": "СКРЫТАЯ АТАКА",
+    "file": "features/759-sneak-attack.html"
+  },
+  {
+    "title": "ВОРОВСКОЙ ЖАРГОН",
+    "file": "features/760-thieves-cant.html"
+  },
+  {
+    "title": "ХИТРОЕ ДЕЙСТВИЕ",
+    "file": "features/761-cunning-action.html"
+  },
+  {
+    "title": "АРХЕТИП ПЛУТА",
+    "file": "features/762-roguish-archetype.html"
+  },
+  {
+    "title": "Точное прицеливание",
+    "file": "features/763-steady-aim.html"
+  },
+  {
+    "title": "УВЕЛИЧЕНИЕ ХАРАКТЕРИСТИК",
+    "file": "features/764-asi.html"
+  },
+  {
+    "title": "НЕВЕРОЯТНОЕ УКЛОНЕНИЕ",
+    "file": "features/765-uncanny-dodge.html"
+  },
+  {
+    "title": "УВЁРТЛИВОСТЬ",
+    "file": "features/766-evasion.html"
+  },
+  {
+    "title": "НАДЁЖНЫЙ ТАЛАНТ",
+    "file": "features/767-reliable-talent.html"
+  },
+  {
+    "title": "СЛЕПОЕ ЗРЕНИЕ",
+    "file": "features/768-blindsense.html"
+  },
+  {
+    "title": "СКОЛЬЗКИЙ УМ",
+    "file": "features/769-slippery-mind.html"
+  },
+  {
+    "title": "НЕУЛОВИМОСТЬ",
+    "file": "features/770-elusive.html"
+  },
+  {
+    "title": "УДАЧА",
+    "file": "features/771-stroke-of-luck.html"
+  },
+  {
+    "title": "БЫСТРЫЕ РУКИ",
+    "file": "features/772-bystrye-ruki.html"
+  },
+  {
+    "title": "ФОРТОЧНИК",
+    "file": "features/773-fortochnik.html"
+  },
+  {
+    "title": "ВЫСОКАЯ СКРЫТНОСТЬ",
+    "file": "features/774-vysokaya-skrytnost.html"
+  },
+  {
+    "title": "ИСПОЛЬЗОВАНИЕ МАГИЧЕСКИХ ПРЕДМЕТОВ",
+    "file": "features/775-ispolzovanie-magicheskikh-predmetov.html"
+  },
+  {
+    "title": "ВОРОВСКИЕ РЕФЛЕКСЫ",
+    "file": "features/776-vorovskie-refleksy.html"
+  },
+  {
+    "title": "ДОПОЛНИТЕЛЬНЫЕ ВЛАДЕНИЯ",
+    "file": "features/777-dopolnitelnye-vladeniya.html"
+  },
+  {
+    "title": "ЛИКВИДАЦИЯ",
+    "file": "features/778-assassinate.html"
+  },
+  {
+    "title": "МАСТЕР ПРОНИКНОВЕНИЯ",
+    "file": "features/779-master-proniknoveniya.html"
+  },
+  {
+    "title": "САМОЗВАНЕЦ",
+    "file": "features/780-samozvanets.html"
+  },
+  {
+    "title": "СМЕРТЕЛЬНЫЙ УДАР",
+    "file": "features/781-smertelnyy-udar.html"
+  },
+  {
+    "title": "ИСПОЛЬЗОВАНИЕ ЗАКЛИНАНИЙ",
+    "file": "features/782-ispolzovanie-zaklinaniy.html"
+  },
+  {
+    "title": "УЛУЧШЕННАЯ ВОЛШЕБНАЯ РУКА",
+    "file": "features/783-uluchshennaya-volshebnaya-ruka.html"
+  },
+  {
+    "title": "МАГИЧЕСКАЯ ЗАСАДА",
+    "file": "features/784-magicheskaya-zasada.html"
+  },
+  {
+    "title": "МНОГОГРАННЫЙ ЛОВКАЧ",
+    "file": "features/785-mnogogrannyy-lovkach.html"
+  },
+  {
+    "title": "ВОР ЗАКЛИНАНИЙ",
+    "file": "features/786-vor-zaklinaniy.html"
+  },
+  {
+    "title": "ЛОВКОЕ МАНЕВРИРОВАНИЕ",
+    "file": "features/787-lovkoe-manevrirovanie.html"
+  },
+  {
+    "title": "ЛИХАЯ УДАЛЬ",
+    "file": "features/788-likhaya-udal.html"
+  },
+  {
+    "title": "ЩЕГОЛЬСТВО",
+    "file": "features/789-shchegolstvo.html"
+  },
+  {
+    "title": "ЭЛЕГАНТНЫЙ МАНЁВР",
+    "file": "features/790-elegantnyy-manyovr.html"
+  },
+  {
+    "title": "МАСТЕР ДУЭЛЯНТ",
+    "file": "features/791-master-duelyant.html"
+  },
+  {
+    "title": "ИНТРИГАН",
+    "file": "features/792-intrigan.html"
+  },
+  {
+    "title": "МАСТЕР ТАКТИКИ",
+    "file": "features/793-master-taktiki.html"
+  },
+  {
+    "title": "ПРОНИЦАТЕЛЬНЫЙ МАНИПУЛЯТОР",
+    "file": "features/794-pronitsatelnyy-manipulyator.html"
+  },
+  {
+    "title": "ПОДМЕНА",
+    "file": "features/795-podmena.html"
+  },
+  {
+    "title": "ДУША ОБМАНА",
+    "file": "features/796-dusha-obmana.html"
+  },
+  {
+    "title": "ЗАЧИНЩИК",
+    "file": "features/797-zachinshchik.html"
+  },
+  {
+    "title": "ВЫЖИВАЛЬЩИК",
+    "file": "features/798-vyzhivalshchik.html"
+  },
+  {
+    "title": "ПРЕВОСХОДНАЯ МОБИЛЬНОСТЬ",
+    "file": "features/799-prevoskhodnaya-mobilnost.html"
+  },
+  {
+    "title": "МАСТЕР ЗАСАД",
+    "file": "features/800-master-zasad.html"
+  },
+  {
+    "title": "ВНЕЗАПНЫЙ УДАР",
+    "file": "features/801-vnezapnyy-udar.html"
+  },
+  {
+    "title": "СЛУХ НА ОБМАН",
+    "file": "features/802-slukh-na-obman.html"
+  },
+  {
+    "title": "ВНИМАТЕЛЬНЫЙ ВЗГЛЯД",
+    "file": "features/803-vnimatelnyy-vzglyad.html"
+  },
+  {
+    "title": "ПРОНИЦАТЕЛЬНЫЙ БОЙ",
+    "file": "features/804-pronitsatelnyy-boy.html"
+  },
+  {
+    "title": "НЕТОРОПЛИВЫЙ ВЗГЛЯД",
+    "file": "features/805-netoroplivyy-vzglyad.html"
+  },
+  {
+    "title": "БЕЗОШИБОЧНЫЙ ВЗГЛЯД",
+    "file": "features/806-bezoshibochnyy-vzglyad.html"
+  },
+  {
+    "title": "ВЗГЛЯД НА СЛАБОСТЬ",
+    "file": "features/807-vzglyad-na-slabost.html"
+  },
+  {
+    "title": "Шёпот мёртвых",
+    "file": "features/808-shyopot-myortvykh.html"
+  },
+  {
+    "title": "Могильные вопли",
+    "file": "features/809-mogilnye-vopli.html"
+  },
+  {
+    "title": "Частица души усопшего",
+    "file": "features/810-chastitsa-dushi-usopshego.html"
+  },
+  {
+    "title": "Призрачная походка",
+    "file": "features/811-prizrachnaya-pokhodka.html"
+  },
+  {
+    "title": "Друг смерти",
+    "file": "features/812-drug-smerti.html"
+  },
+  {
+    "title": "Псионическая сила",
+    "file": "features/813-psionicheskaya-sila.html"
+  },
+  {
+    "title": "Психические клинки",
+    "file": "features/814-psikhicheskie-klinki.html"
+  },
+  {
+    "title": "Клинки души",
+    "file": "features/815-klinki-dushi.html"
+  },
+  {
+    "title": "Психическая завеса",
+    "file": "features/816-psikhicheskaya-zavesa.html"
+  },
+  {
+    "title": "Раздирание разума",
+    "file": "features/817-razdiranie-razuma.html"
+  },
+  {
+    "title": "Использование заклинаний",
+    "file": "features/818-spellcasting.html"
+  },
+  {
+    "title": "Дополнительные заклинания волшебника",
+    "file": "features/819-extra-spells.html"
+  },
+  {
+    "title": "МАГИЧЕСКОЕ ВОССТАНОВЛЕНИЕ",
+    "file": "features/820-arcane-recovery.html"
+  },
+  {
+    "title": "МАГИЧЕСКИЕ ТРАДИЦИИ",
+    "file": "features/821-arcane-tradition.html"
+  },
+  {
+    "title": "Формулы заговоров",
+    "file": "features/822-cantrip-formulas.html"
+  },
+  {
+    "title": "УВЕЛИЧЕНИЕ ХАРАКТЕРИСТИК",
+    "file": "features/823-asi.html"
+  },
+  {
+    "title": "МАСТЕРСТВО ЗАКЛИНАТЕЛЯ",
+    "file": "features/824-spell-mastery.html"
+  },
+  {
+    "title": "ФИРМЕННОЕ ЗАКЛИНАНИЕ",
+    "file": "features/825-signature-spells.html"
+  },
+  {
+    "title": "МАСТЕР ВОПЛОЩЕНИЯ",
+    "file": "features/826-master-voploshcheniya.html"
+  },
+  {
+    "title": "ПОСТРОЕНИЕ ЗАКЛИНАНИЙ",
+    "file": "features/827-postroenie-zaklinaniy.html"
+  },
+  {
+    "title": "МОЩНЫЙ ЗАГОВОР",
+    "file": "features/828-moshchnyy-zagovor.html"
+  },
+  {
+    "title": "УСИЛЕННОЕ ВОПЛОЩЕНИЕ",
+    "file": "features/829-usilennoe-voploshchenie.html"
+  },
+  {
+    "title": "ПЕРЕГРУЗКА",
+    "file": "features/830-peregruzka.html"
+  },
+  {
+    "title": "МАСТЕР СОЗИДАНИЯ",
+    "file": "features/831-master-sozidaniya.html"
+  },
+  {
+    "title": "МАЛЫЙ ВЫЗОВ",
+    "file": "features/832-malyy-vyzov.html"
+  },
+  {
+    "title": "БЕЗОПАСНОЕ ПЕРЕМЕЩЕНИЕ",
+    "file": "features/833-bezopasnoe-peremeshchenie.html"
+  },
+  {
+    "title": "ФОКУСИРОВАННЫЙ ВЫЗОВ",
+    "file": "features/834-fokusirovannyy-vyzov.html"
+  },
+  {
+    "title": "НАДЁЖНЫЙ ПРИЗЫВ",
+    "file": "features/835-nadyozhnyy-prizyv.html"
+  },
+  {
+    "title": "МАСТЕР ИЛЛЮЗИЙ",
+    "file": "features/836-master-illyuziy.html"
+  },
+  {
+    "title": "УЛУЧШЕННАЯ МАЛАЯ ИЛЛЮЗИЯ",
+    "file": "features/837-uluchshennaya-malaya-illyuziya.html"
+  },
+  {
+    "title": "ПЛАСТИЧНЫЕ ИЛЛЮЗИИ",
+    "file": "features/838-plastichnye-illyuzii.html"
+  },
+  {
+    "title": "СОБСТВЕННАЯ ИЛЛЮЗОРНОСТЬ",
+    "file": "features/839-sobstvennaya-illyuzornost.html"
+  },
+  {
+    "title": "ИЛЛЮЗОРНАЯ РЕАЛЬНОСТЬ",
+    "file": "features/840-illyuzornaya-realnost.html"
+  },
+  {
+    "title": "МАСТЕР НЕКРОМАНТИИ",
+    "file": "features/841-master-nekromantii.html"
+  },
+  {
+    "title": "МРАЧНАЯ ЖАТВА",
+    "file": "features/842-mrachnaya-zhatva.html"
+  },
+  {
+    "title": "НЕЖИВЫЕ РАБЫ",
+    "file": "features/843-nezhivye-raby.html"
+  },
+  {
+    "title": "ЕДИНЕНИЕ С НЕ-ЖИЗНЬЮ",
+    "file": "features/844-edinenie-s-ne-zhiznyu.html"
+  },
+  {
+    "title": "УПРАВЛЕНИЕ НЕЖИТЬЮ",
+    "file": "features/845-upravlenie-nezhityu.html"
+  },
+  {
+    "title": "МАСТЕР ОГРАЖДЕНИЯ",
+    "file": "features/846-master-ograzhdeniya.html"
+  },
+  {
+    "title": "МАГИЧЕСКАЯ ЗАЩИТА",
+    "file": "features/847-magicheskaya-zashchita.html"
+  },
+  {
+    "title": "ПРОЕКЦИЯ ЗАЩИТЫ",
+    "file": "features/848-proektsiya-zashchity.html"
+  },
+  {
+    "title": "УЛУЧШЕННОЕ ОГРАЖДЕНИЕ",
+    "file": "features/849-uluchshennoe-ograzhdenie.html"
+  },
+  {
+    "title": "СОПРОТИВЛЕНИЕ ЗАКЛИНАНИЯМ",
+    "file": "features/850-soprotivlenie-zaklinaniyam.html"
+  },
+  {
+    "title": "МАСТЕР ОЧАРОВАНИЯ",
+    "file": "features/851-master-ocharovaniya.html"
+  },
+  {
+    "title": "ГИПНОТИЧЕСКИЙ ВЗГЛЯД",
+    "file": "features/852-gipnoticheskiy-vzglyad.html"
+  },
+  {
+    "title": "ИНСТИНКТИВНОЕ ОЧАРОВАНИЕ",
+    "file": "features/853-instinktivnoe-ocharovanie.html"
+  },
+  {
+    "title": "УСИЛЕННОЕ ОЧАРОВАНИЕ",
+    "file": "features/854-usilennoe-ocharovanie.html"
+  },
+  {
+    "title": "ЛОЖНЫЕ ВОСПОМИНАНИЯ",
+    "file": "features/855-lozhnye-vospominaniya.html"
+  },
+  {
+    "title": "МАСТЕР ПРЕОБРАЗОВАНИЯ",
+    "file": "features/856-master-preobrazovaniya.html"
+  },
+  {
+    "title": "МАЛАЯ АЛХИМИЯ",
+    "file": "features/857-malaya-alkhimiya.html"
+  },
+  {
+    "title": "КАМЕНЬ ПРЕОБРАЗОВАНИЯ",
+    "file": "features/858-kamen-preobrazovaniya.html"
+  },
+  {
+    "title": "ПЕРЕВЁРТЫШ",
+    "file": "features/859-perevyortysh.html"
+  },
+  {
+    "title": "ГЕНИЙ ПРЕОБРАЗОВАНИЯ",
+    "file": "features/860-geniy-preobrazovaniya.html"
+  },
+  {
+    "title": "МАСТЕР ПРОРИЦАНИЯ",
+    "file": "features/861-master-proritsaniya.html"
+  },
+  {
+    "title": "ЗНАМЕНИЕ",
+    "file": "features/862-znamenie.html"
+  },
+  {
+    "title": "ЭКСПЕРТ ПРОРИЦАНИЯ",
+    "file": "features/863-ekspert-proritsaniya.html"
+  },
+  {
+    "title": "ТРЕТИЙ ГЛАЗ",
+    "file": "features/864-tretiy-glaz.html"
+  },
+  {
+    "title": "ВЕЛИКОЕ ЗНАМЕНИЕ",
+    "file": "features/865-velikoe-znamenie.html"
+  },
+  {
+    "title": "МАГИЧЕСКОЕ ОТРАЖЕНИЕ",
+    "file": "features/866-magicheskoe-otrazhenie.html"
+  },
+  {
+    "title": "ТАКТИЧЕСКАЯ СМЕКАЛКА",
+    "file": "features/867-takticheskaya-smekalka.html"
+  },
+  {
+    "title": "ВСПЛЕСК МОЩИ",
+    "file": "features/868-vsplesk-moshchi.html"
+  },
+  {
+    "title": "СТОЙКАЯ МАГИЯ",
+    "file": "features/869-stoykaya-magiya.html"
+  },
+  {
+    "title": "ОТРАЖАЮЩИЙ ПОКРОВ",
+    "file": "features/870-otrazhayushchiy-pokrov.html"
+  },
+  {
+    "title": "ХРОНО-СДВИГ",
+    "file": "features/871-khrono-sdvig.html"
+  },
+  {
+    "title": "ВНЕВРЕМЕННАЯ ОСВЕДОМЛЕННОСТЬ",
+    "file": "features/872-vnevremennaya-osvedomlennost.html"
+  },
+  {
+    "title": "КРАТКОВРЕМЕННЫЙ СТАЗИС",
+    "file": "features/873-kratkovremennyy-stazis.html"
+  },
+  {
+    "title": "СЖАТИЕ МАГИИ",
+    "file": "features/874-szhatie-magii.html"
+  },
+  {
+    "title": "ВЕРОЯТНОЕ БУДУЩЕЕ",
+    "file": "features/875-veroyatnoe-budushchee.html"
+  },
+  {
+    "title": "УПРАВЛЕНИЕ ТЯЖЕСТЬЮ",
+    "file": "features/876-upravlenie-tyazhestyu.html"
+  },
+  {
+    "title": "ГРАВИТАЦИОННЫЙ КОЛОДЕЦ",
+    "file": "features/877-gravitatsionnyy-kolodets.html"
+  },
+  {
+    "title": "АГРЕССИВНОЕ ПРИТЯЖЕНИЕ",
+    "file": "features/878-agressivnoe-prityazhenie.html"
+  },
+  {
+    "title": "ГОРИЗОНТ СОБЫТИЙ",
+    "file": "features/879-gorizont-sobytiy.html"
+  },
+  {
+    "title": "Волшебное перо",
+    "file": "features/880-volshebnoe-pero.html"
+  },
+  {
+    "title": "Пробуждённая книга заклинаний",
+    "file": "features/881-probuzhdyonnaya-kniga-zaklinaniy.html"
+  },
+  {
+    "title": "Пробуждение разума",
+    "file": "features/882-probuzhdenie-razuma.html"
+  },
+  {
+    "title": "Мастер скриптория",
+    "file": "features/883-master-skriptoriya.html"
+  },
+  {
+    "title": "Единство со словом",
+    "file": "features/884-edinstvo-so-slovom.html"
+  },
+  {
+    "title": "Тренировка войны и песни",
+    "file": "features/885-trenirovka-voyny-i-pesni.html"
+  },
+  {
+    "title": "Песнь клинка",
+    "file": "features/886-pesn-klinka.html"
+  },
+  {
+    "title": "Дополнительная атака",
+    "file": "features/887-dopolnitelnaya-ataka.html"
+  },
+  {
+    "title": "Песнь защиты",
+    "file": "features/888-pesn-zashchity.html"
+  },
+  {
+    "title": "Песнь победы",
+    "file": "features/889-pesn-pobedy.html"
+  },
+  {
+    "title": "БОЖЕСТВЕННЫЙ КАНАЛ",
+    "file": "features/890-bozhestvennyy-kanal.html"
+  },
+  {
+    "title": "АУРА НЕНАВИСТИ",
+    "file": "features/891-aura-nenavisti.html"
+  },
+  {
+    "title": "СВЕРХЪЕСТЕСТВЕННОЕ СОПРОТИВЛЕНИЕ",
+    "file": "features/892-sverkhestestvennoe-soprotivlenie.html"
+  },
+  {
+    "title": "ЖУТКИЙ ЛОРД",
+    "file": "features/893-zhutkiy-lord.html"
+  }
+]

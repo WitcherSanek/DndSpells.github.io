@@ -1,0 +1,885 @@
+{
+  "level": [
+    {
+      "value": "1",
+      "title": "1",
+      "group": null
+    },
+    {
+      "value": "2",
+      "title": "2",
+      "group": null
+    },
+    {
+      "value": "3",
+      "title": "3",
+      "group": null
+    },
+    {
+      "value": "4",
+      "title": "4",
+      "group": null
+    },
+    {
+      "value": "5",
+      "title": "5",
+      "group": null
+    },
+    {
+      "value": "6",
+      "title": "6",
+      "group": null
+    },
+    {
+      "value": "7",
+      "title": "7",
+      "group": null
+    },
+    {
+      "value": "8",
+      "title": "8",
+      "group": null
+    },
+    {
+      "value": "9",
+      "title": "9",
+      "group": null
+    },
+    {
+      "value": "10",
+      "title": "10",
+      "group": null
+    },
+    {
+      "value": "11",
+      "title": "11",
+      "group": null
+    },
+    {
+      "value": "12",
+      "title": "12",
+      "group": null
+    },
+    {
+      "value": "13",
+      "title": "13",
+      "group": null
+    },
+    {
+      "value": "14",
+      "title": "14",
+      "group": null
+    },
+    {
+      "value": "15",
+      "title": "15",
+      "group": null
+    },
+    {
+      "value": "16",
+      "title": "16",
+      "group": null
+    },
+    {
+      "value": "17",
+      "title": "17",
+      "group": null
+    },
+    {
+      "value": "18",
+      "title": "18",
+      "group": null
+    },
+    {
+      "value": "19",
+      "title": "19",
+      "group": null
+    },
+    {
+      "value": "20",
+      "title": "20",
+      "group": null
+    }
+  ],
+  "class": [
+    {
+      "value": "87",
+      "title": "Варвар",
+      "group": null
+    },
+    {
+      "value": "88",
+      "title": "Бард",
+      "group": null
+    },
+    {
+      "value": "89",
+      "title": "Жрец",
+      "group": null
+    },
+    {
+      "value": "90",
+      "title": "Друид",
+      "group": null
+    },
+    {
+      "value": "91",
+      "title": "Воин",
+      "group": null
+    },
+    {
+      "value": "93",
+      "title": "Монах",
+      "group": null
+    },
+    {
+      "value": "94",
+      "title": "Паладин",
+      "group": null
+    },
+    {
+      "value": "97",
+      "title": "Следопыт",
+      "group": null
+    },
+    {
+      "value": "99",
+      "title": "Плут",
+      "group": null
+    },
+    {
+      "value": "101",
+      "title": "Чародей",
+      "group": null
+    },
+    {
+      "value": "104",
+      "title": "Колдун",
+      "group": null
+    },
+    {
+      "value": "105",
+      "title": "Волшебник",
+      "group": null
+    },
+    {
+      "value": "137",
+      "title": "Изобретатель",
+      "group": null
+    }
+  ],
+  "archetype": [
+    {
+      "value": "101",
+      "title": "Коллегия знаний",
+      "group": "Бард"
+    },
+    {
+      "value": "107",
+      "title": "Коллегия духов",
+      "group": "Бард"
+    },
+    {
+      "value": "291",
+      "title": "Путь великана",
+      "group": "Варвар"
+    },
+    {
+      "value": "117",
+      "title": "Мистический рыцарь",
+      "group": "Воин"
+    },
+    {
+      "value": "121",
+      "title": "Мистический лучник",
+      "group": "Воин"
+    },
+    {
+      "value": "124",
+      "title": "Пси-воин",
+      "group": "Воин"
+    },
+    {
+      "value": "135",
+      "title": "Магия хронургии",
+      "group": "Волшебник"
+    },
+    {
+      "value": "136",
+      "title": "Магия гравитургии",
+      "group": "Волшебник"
+    },
+    {
+      "value": "137",
+      "title": "Орден писцов",
+      "group": "Волшебник"
+    },
+    {
+      "value": "139",
+      "title": "Круг земли",
+      "group": "Друид"
+    },
+    {
+      "value": "143",
+      "title": "Круг дикого огня",
+      "group": "Друид"
+    },
+    {
+      "value": "144",
+      "title": "Круг звёзд",
+      "group": "Друид"
+    },
+    {
+      "value": "145",
+      "title": "Круг спор",
+      "group": "Друид"
+    },
+    {
+      "value": "146",
+      "title": "Домен бури",
+      "group": "Жрец"
+    },
+    {
+      "value": "147",
+      "title": "Домен войны",
+      "group": "Жрец"
+    },
+    {
+      "value": "148",
+      "title": "Домен жизни",
+      "group": "Жрец"
+    },
+    {
+      "value": "149",
+      "title": "Домен знаний",
+      "group": "Жрец"
+    },
+    {
+      "value": "150",
+      "title": "Домен обмана",
+      "group": "Жрец"
+    },
+    {
+      "value": "151",
+      "title": "Домен природы",
+      "group": "Жрец"
+    },
+    {
+      "value": "152",
+      "title": "Домен света",
+      "group": "Жрец"
+    },
+    {
+      "value": "153",
+      "title": "Домен смерти",
+      "group": "Жрец"
+    },
+    {
+      "value": "154",
+      "title": "Домен магии",
+      "group": "Жрец"
+    },
+    {
+      "value": "155",
+      "title": "Домен кузни",
+      "group": "Жрец"
+    },
+    {
+      "value": "156",
+      "title": "Домен упокоения",
+      "group": "Жрец"
+    },
+    {
+      "value": "157",
+      "title": "Домен мира",
+      "group": "Жрец"
+    },
+    {
+      "value": "158",
+      "title": "Домен порядка",
+      "group": "Жрец"
+    },
+    {
+      "value": "159",
+      "title": "Домен сумерек",
+      "group": "Жрец"
+    },
+    {
+      "value": "160",
+      "title": "Алхимик",
+      "group": "Изобретатель"
+    },
+    {
+      "value": "161",
+      "title": "Артиллерист",
+      "group": "Изобретатель"
+    },
+    {
+      "value": "162",
+      "title": "Боевой кузнец",
+      "group": "Изобретатель"
+    },
+    {
+      "value": "163",
+      "title": "Бронник",
+      "group": "Изобретатель"
+    },
+    {
+      "value": "164",
+      "title": "Архифея",
+      "group": "Колдун"
+    },
+    {
+      "value": "165",
+      "title": "Исчадие",
+      "group": "Колдун"
+    },
+    {
+      "value": "166",
+      "title": "Великий Древний",
+      "group": "Колдун"
+    },
+    {
+      "value": "167",
+      "title": "Бессмертный",
+      "group": "Колдун"
+    },
+    {
+      "value": "168",
+      "title": "Ведьмовской клинок",
+      "group": "Колдун"
+    },
+    {
+      "value": "169",
+      "title": "Небожитель",
+      "group": "Колдун"
+    },
+    {
+      "value": "170",
+      "title": "Бездонный",
+      "group": "Колдун"
+    },
+    {
+      "value": "171",
+      "title": "Гений",
+      "group": "Колдун"
+    },
+    {
+      "value": "172",
+      "title": "Нежить",
+      "group": "Колдун"
+    },
+    {
+      "value": "174",
+      "title": "Путь тени",
+      "group": "Монах"
+    },
+    {
+      "value": "175",
+      "title": "Путь четырёх стихий",
+      "group": "Монах"
+    },
+    {
+      "value": "179",
+      "title": "Путь солнечной души",
+      "group": "Монах"
+    },
+    {
+      "value": "183",
+      "title": "Клятва преданности",
+      "group": "Паладин"
+    },
+    {
+      "value": "184",
+      "title": "Клятва древних",
+      "group": "Паладин"
+    },
+    {
+      "value": "185",
+      "title": "Клятва мести",
+      "group": "Паладин"
+    },
+    {
+      "value": "186",
+      "title": "Клятвопреступник",
+      "group": "Паладин"
+    },
+    {
+      "value": "187",
+      "title": "Клятва короны",
+      "group": "Паладин"
+    },
+    {
+      "value": "188",
+      "title": "Клятва искупления",
+      "group": "Паладин"
+    },
+    {
+      "value": "189",
+      "title": "Клятва покорения",
+      "group": "Паладин"
+    },
+    {
+      "value": "190",
+      "title": "Клятва славы",
+      "group": "Паладин"
+    },
+    {
+      "value": "191",
+      "title": "Клятва смотрителей",
+      "group": "Паладин"
+    },
+    {
+      "value": "194",
+      "title": "Мистический ловкач",
+      "group": "Плут"
+    },
+    {
+      "value": "203",
+      "title": "Странник горизонта",
+      "group": "Следопыт"
+    },
+    {
+      "value": "204",
+      "title": "Сумрачный охотник",
+      "group": "Следопыт"
+    },
+    {
+      "value": "205",
+      "title": "Убийца монстров",
+      "group": "Следопыт"
+    },
+    {
+      "value": "206",
+      "title": "Странник фей",
+      "group": "Следопыт"
+    },
+    {
+      "value": "207",
+      "title": "Хранитель роя",
+      "group": "Следопыт"
+    },
+    {
+      "value": "208",
+      "title": "Наездник на дрейке",
+      "group": "Следопыт"
+    },
+    {
+      "value": "211",
+      "title": "Божественная душа",
+      "group": "Чародей"
+    },
+    {
+      "value": "212",
+      "title": "Теневая магия",
+      "group": "Чародей"
+    },
+    {
+      "value": "214",
+      "title": "Аберрантный разум",
+      "group": "Чародей"
+    },
+    {
+      "value": "215",
+      "title": "Заводная душа",
+      "group": "Чародей"
+    },
+    {
+      "value": "286",
+      "title": "Лунное чародейство",
+      "group": "Чародей"
+    },
+    {
+      "value": "300",
+      "title": "Путь берсерка",
+      "group": "Варвар"
+    },
+    {
+      "value": "301",
+      "title": "Путь тотемного воина",
+      "group": "Варвар"
+    },
+    {
+      "value": "302",
+      "title": "Путь бушующего в бою",
+      "group": "Варвар"
+    },
+    {
+      "value": "303",
+      "title": "Путь буревестника",
+      "group": "Варвар"
+    },
+    {
+      "value": "304",
+      "title": "Путь предка-хранителя",
+      "group": "Варвар"
+    },
+    {
+      "value": "305",
+      "title": "Путь фанатика",
+      "group": "Варвар"
+    },
+    {
+      "value": "306",
+      "title": "Путь дикой магии",
+      "group": "Варвар"
+    },
+    {
+      "value": "307",
+      "title": "Путь зверя",
+      "group": "Варвар"
+    },
+    {
+      "value": "308",
+      "title": "Таинственные воззвания",
+      "group": "Колдун"
+    },
+    {
+      "value": "309",
+      "title": "Инфузии изобретателя",
+      "group": "Изобретатель"
+    },
+    {
+      "value": "310",
+      "title": "Боевые приёмы",
+      "group": "Воин"
+    },
+    {
+      "value": "311",
+      "title": "Мастер боевых искусств",
+      "group": "Воин"
+    },
+    {
+      "value": "312",
+      "title": "Чемпион",
+      "group": "Воин"
+    },
+    {
+      "value": "313",
+      "title": "Рыцарь Пурпурного дракона",
+      "group": "Воин"
+    },
+    {
+      "value": "314",
+      "title": "Кавалерист",
+      "group": "Воин"
+    },
+    {
+      "value": "315",
+      "title": "Самурай",
+      "group": "Воин"
+    },
+    {
+      "value": "316",
+      "title": "Рыцарь Эха",
+      "group": "Воин"
+    },
+    {
+      "value": "317",
+      "title": "Рунный рыцарь",
+      "group": "Воин"
+    },
+    {
+      "value": "318",
+      "title": "Метамагия",
+      "group": "Чародей"
+    },
+    {
+      "value": "319",
+      "title": "Наследие драконьей крови",
+      "group": "Чародей"
+    },
+    {
+      "value": "320",
+      "title": "Дикая магия",
+      "group": "Чародей"
+    },
+    {
+      "value": "321",
+      "title": "Штормовое колдовство",
+      "group": "Чародей"
+    },
+    {
+      "value": "322",
+      "title": "Путь открытой ладони",
+      "group": "Монах"
+    },
+    {
+      "value": "323",
+      "title": "Путь долгой смерти",
+      "group": "Монах"
+    },
+    {
+      "value": "324",
+      "title": "Путь кэнсэя",
+      "group": "Монах"
+    },
+    {
+      "value": "325",
+      "title": "Путь пьяного мастера",
+      "group": "Монах"
+    },
+    {
+      "value": "326",
+      "title": "Путь астрального тела",
+      "group": "Монах"
+    },
+    {
+      "value": "327",
+      "title": "Путь милосердия",
+      "group": "Монах"
+    },
+    {
+      "value": "328",
+      "title": "Путь восходящего дракона",
+      "group": "Монах"
+    },
+    {
+      "value": "329",
+      "title": "Коллегия доблести",
+      "group": "Бард"
+    },
+    {
+      "value": "330",
+      "title": "Коллегия мечей",
+      "group": "Бард"
+    },
+    {
+      "value": "331",
+      "title": "Коллегия очарования",
+      "group": "Бард"
+    },
+    {
+      "value": "332",
+      "title": "Коллегия шёпотов",
+      "group": "Бард"
+    },
+    {
+      "value": "333",
+      "title": "Коллегия красноречия",
+      "group": "Бард"
+    },
+    {
+      "value": "334",
+      "title": "Коллегия созидания",
+      "group": "Бард"
+    },
+    {
+      "value": "335",
+      "title": "Круг луны",
+      "group": "Друид"
+    },
+    {
+      "value": "336",
+      "title": "Круг пастыря",
+      "group": "Друид"
+    },
+    {
+      "value": "337",
+      "title": "Круг снов",
+      "group": "Друид"
+    },
+    {
+      "value": "338",
+      "title": "Охотник",
+      "group": "Следопыт"
+    },
+    {
+      "value": "339",
+      "title": "Повелитель зверей",
+      "group": "Следопыт"
+    },
+    {
+      "value": "340",
+      "title": "Убийца чудовищ",
+      "group": "Следопыт"
+    },
+    {
+      "value": "341",
+      "title": "Вор",
+      "group": "Плут"
+    },
+    {
+      "value": "342",
+      "title": "Убийца",
+      "group": "Плут"
+    },
+    {
+      "value": "343",
+      "title": "Дуэлянт",
+      "group": "Плут"
+    },
+    {
+      "value": "344",
+      "title": "Комбинатор",
+      "group": "Плут"
+    },
+    {
+      "value": "345",
+      "title": "Скаут",
+      "group": "Плут"
+    },
+    {
+      "value": "346",
+      "title": "Сыщик",
+      "group": "Плут"
+    },
+    {
+      "value": "347",
+      "title": "Фантом",
+      "group": "Плут"
+    },
+    {
+      "value": "348",
+      "title": "Клинок души",
+      "group": "Плут"
+    },
+    {
+      "value": "349",
+      "title": "Школа Воплощения",
+      "group": "Волшебник"
+    },
+    {
+      "value": "350",
+      "title": "Школа Вызова",
+      "group": "Волшебник"
+    },
+    {
+      "value": "351",
+      "title": "Школа Иллюзии",
+      "group": "Волшебник"
+    },
+    {
+      "value": "352",
+      "title": "Школа Некромантии",
+      "group": "Волшебник"
+    },
+    {
+      "value": "353",
+      "title": "Школа Ограждения",
+      "group": "Волшебник"
+    },
+    {
+      "value": "354",
+      "title": "Школа Очарования",
+      "group": "Волшебник"
+    },
+    {
+      "value": "355",
+      "title": "Школа Преобразования",
+      "group": "Волшебник"
+    },
+    {
+      "value": "356",
+      "title": "Школа Прорицания",
+      "group": "Волшебник"
+    },
+    {
+      "value": "357",
+      "title": "Военная магия",
+      "group": "Волшебник"
+    },
+    {
+      "value": "358",
+      "title": "Песнь клинка",
+      "group": "Волшебник"
+    }
+  ],
+  "source": [
+    {
+      "value": "102",
+      "title": "Player's Handbook",
+      "group": "Core"
+    },
+    {
+      "value": "115",
+      "title": "Acquisition Incorporated",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "207",
+      "title": "The Book of Many Things",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "213",
+      "title": "Bigby Presents: Glory of the Giants",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "116",
+      "title": "Explorer's Guide to Wildemount",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "152",
+      "title": "Fizban's Treasury of Dragons",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "112",
+      "title": "Guildmasters' guide to Ravnica",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "160",
+      "title": "Spelljammer: Adventures in Space",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "205",
+      "title": "Planescape: Adventures in the Multiverse",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "108",
+      "title": "Sword Coast Adventurer's Guide",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "117",
+      "title": "Tasha's Cauldron of Everything",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "109",
+      "title": "Xanathar's Guide to Everything",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "145",
+      "title": "Van Richten's Guide to Ravenloft",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "200",
+      "title": "Dragonlance: Shadow of the Dragon Queen",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "103",
+      "title": "Dungeon Master Guide",
+      "group": "Core"
+    },
+    {
+      "value": "120",
+      "title": "Icewind Dale: Rime of the Frostmaiden",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "107",
+      "title": "Princes of the Apocalypse",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "155",
+      "title": "Strixhaven: A Curriculum of Chaos",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "153",
+      "title": "Lost Laboratory of Kwalish",
+      "group": "Adventurers League"
+    }
+  ]
+}
