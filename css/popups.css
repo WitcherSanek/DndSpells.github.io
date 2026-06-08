@@ -21,6 +21,15 @@ main {
     pointer-events: none;
 }
 
+/* Promote the canvas to its own compositor layer only for the duration of a pinch
+   (the .zooming class is toggled at gesture start/end). The GPU then composite-scales
+   the stable layer each frame instead of re-rastering, and the layer is dropped on
+   release (one crisp repaint) so it can't accumulate in GPU memory the way an always-on
+   will-change does. Pinch only — button zoom is atomic and gains nothing from promotion. */
+.canvas-wrapper.zooming .popup-canvas {
+    will-change: transform;
+}
+
 .canvas-page {
     display: flex;
     flex-direction: column;
@@ -373,6 +382,7 @@ main {
     padding: 20px;
     transform: translate(var(--dx, 0px), var(--dy, 0px));
     pointer-events: none;
+    contain: paint layout;
 }
 
 .popup {
@@ -383,11 +393,11 @@ main {
     background: #f5e6c8;
     color: #3b2412;
     border: 2px solid #8b6914;
-    border-radius: 4px;
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5);
+    //border-radius: 4px;
+    //box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5);
     overflow: hidden;
-    opacity: 0.9;
-    transition: opacity 0.15s, box-shadow 0.15s;
+    //opacity: 1;
+    //transition: opacity 0.15s, box-shadow 0.15s;
     display: flex;
     flex-direction: column;
     max-height: min(350px, 50dvh);
@@ -426,7 +436,7 @@ main {
 .popup-active {
     opacity: 1;
     border-color: #c9941a;
-    box-shadow: 0 0 0 2px #c9941a, 0 6px 24px rgba(0, 0, 0, 0.5);
+    // box-shadow: 0 0 0 2px #c9941a, 0 6px 24px rgba(0, 0, 0, 0.5);
 }
 
 .popup-header {
@@ -474,12 +484,29 @@ main {
 
 .popup-body {
     padding: 0.075rem 0.1rem;
-    overflow-y: auto;
+    /* Inactive popups are NOT scroll containers, so Chrome doesn't promote them to
+       composited scrolling layers. That layer count (one per scrollable popup) was what
+       made Android drop/partially-present frames while zooming. Only the active popup
+       (below) gets a scrollbar, so there's at most one such layer at a time. Inactive
+       popups clip their overflow — focus a popup to scroll it. */
+    overflow-y: hidden;
     flex: 1 1 auto;
     font-family: 'Segoe UI', system-ui, -apple-system, "Segoe UI", sans-serif;
     font-size: 0.75rem;
     line-height: 1.4;
     color: #2b1a08;
+}
+
+/* The active (top) popup is the only scrollable one. overflow:hidden preserves scrollTop,
+   so a popup keeps its scroll position when it goes inactive and back. */
+.popup-active .popup-body {
+    overflow-y: auto;
+}
+
+/* During a pinch gesture, drop even the active popup's scroll layer (higher specificity
+   than .popup-active above) so zero scrolling layers are composited mid-zoom. */
+.canvas-wrapper.zooming .popup-body {
+    overflow-y: hidden;
 }
 
 .popup-body h2 {

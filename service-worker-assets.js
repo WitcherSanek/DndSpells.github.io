@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "pJQqfagV",
+  "version": "AzH6mjGA",
   "assets": [
     {
       "hash": "sha256-OdSNkjLTUYkj6IT3jFm/oxzKIBuKLcqmo4JNMFrbMvk=",
@@ -5706,8 +5706,8 @@ self.assetsManifest = {
       "url": "SpellData/spells/99-protection-from-evil-and-good.html"
     },
     {
-      "hash": "sha256-dYeBmMo6ebcJmLEw2yZbLm6t4TLecWXxyMtPXpDy5Os=",
-      "url": "_framework/BlazorSpellsPicker.hlbj2xq37i.wasm"
+      "hash": "sha256-y5SjtPSwzJu5R/qxmjv9eGAW/iB8J8UZuXLDy1+DUpM=",
+      "url": "_framework/BlazorSpellsPicker.ta3yeqbwz2.wasm"
     },
     {
       "hash": "sha256-R2FrilSZJLCyjBrTWneaFhW8hKFVxnYjX/PCqCXIXMo=",
@@ -5794,8 +5794,8 @@ self.assetsManifest = {
       "url": "_framework/System.IO.Pipelines.ozf0bs3f96.wasm"
     },
     {
-      "hash": "sha256-meQN2UoLsBsTPxPj7Miqjefbm+Q6bXwLFEbs3SatIQA=",
-      "url": "_framework/System.Linq.l5134ifz53.wasm"
+      "hash": "sha256-i926sUWV6RC8OImjdkx3Q/E3j/c4G8gJtkH5jCs0O3g=",
+      "url": "_framework/System.Linq.lcnlhmfsf6.wasm"
     },
     {
       "hash": "sha256-wXr8pChHfXS2yIja0E17H6ZCmh9l8oha1SP2kIwW2Qs=",
@@ -5806,16 +5806,16 @@ self.assetsManifest = {
       "url": "_framework/System.Net.Http.Json.mpimampc4z.wasm"
     },
     {
-      "hash": "sha256-DfJ7eXxIWUXTUjG0xP1xuy+AgN97dFI/B6k7mRx34Lc=",
-      "url": "_framework/System.Net.Http.b6dhh8egsr.wasm"
+      "hash": "sha256-aY8IOBsd7atSE+3Nb6fgndm+F71DfEolQj3aez2G4OM=",
+      "url": "_framework/System.Net.Http.lxvznnx3dd.wasm"
     },
     {
       "hash": "sha256-0F+u4JxhdQYussxi3Ux6N0+rGVaFkPwGeirkzA/eFhA=",
       "url": "_framework/System.Net.Primitives.g4rev0eqo7.wasm"
     },
     {
-      "hash": "sha256-W6z5QsDhPy00hYOvkMvK/6C7TlsY4WWRr18/79pG/88=",
-      "url": "_framework/System.Private.CoreLib.3u24daf5e2.wasm"
+      "hash": "sha256-sUTp2GOx10XKWDPzNwBez+6/LGZZmPdZzZfNsNirpu0=",
+      "url": "_framework/System.Private.CoreLib.fknsdqo8pj.wasm"
     },
     {
       "hash": "sha256-RWO/0ao7JZ1SRlh8NW5Yw567QN7eCLwHD+qkBXDYQe8=",
@@ -5830,8 +5830,8 @@ self.assetsManifest = {
       "url": "_framework/System.Runtime.seo9ln2yva.wasm"
     },
     {
-      "hash": "sha256-GOF63R6OqnfSF7psV1/38Ik+4LuTQI+lV04LVKsJNhg=",
-      "url": "_framework/System.Text.Encodings.Web.s3avakcc6h.wasm"
+      "hash": "sha256-g/Cc00CC4N00kHv3CM4swNDmJiXIGFZ51wbyItw+7tw=",
+      "url": "_framework/System.Text.Encodings.Web.jcc0mnauy4.wasm"
     },
     {
       "hash": "sha256-R0JnRnYphspU+d3LihAw0+2BC9sQX2grIrYkKxTzJns=",
@@ -5842,7 +5842,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.rs9b7ykfzr.wasm"
     },
     {
-      "hash": "sha256-5iayzDT68pZeHCad1XgwtcWxZGRWEMRipsm0mIPvXwc=",
+      "hash": "sha256-RXIloTBPcKGe+g7qHbK+QO+YhDmBkTU50v/tWWn3z/Q=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -5854,12 +5854,12 @@ self.assetsManifest = {
       "url": "_framework/dotnet.js"
     },
     {
-      "hash": "sha256-Hh8vTpy66mdHjfwKnm9N+cWr+6JDReOZJfS6ap1qpEQ=",
-      "url": "_framework/dotnet.native.uc9z1p6gwp.wasm"
+      "hash": "sha256-YxDvvZCJRByOitDKfJH1SgdBASjt3cZHWa5Ce2eC7gc=",
+      "url": "_framework/dotnet.native.1zjieb233b.js"
     },
     {
-      "hash": "sha256-IpTF2jSoliI3DzLJNfcu+RJ7GAnV2GLhWuGtfqtQFAI=",
-      "url": "_framework/dotnet.native.uhymgz42e4.js"
+      "hash": "sha256-RCA2S8icubuqMLdVc4eo/r39m28KM0ciCk/Z6Rah4fA=",
+      "url": "_framework/dotnet.native.8duktvfs1q.wasm"
     },
     {
       "hash": "sha256-zZ0MGlWZF0pG99PvNYvOdUvox/BZe6pddrswXlZoKyc=",
@@ -5882,7 +5882,7 @@ self.assetsManifest = {
       "url": "css/app.css"
     },
     {
-      "hash": "sha256-YS09tmcD5Dp61y0uIPGG0g5vW18i2nu4MnaNOxknmio=",
+      "hash": "sha256-IvrDGeDrEDvsrtkW+GZOuXOkHk07Q6lc/204l4kRp0g=",
       "url": "css/popups.css"
     },
     {
@@ -5910,7 +5910,7 @@ self.assetsManifest = {
       "url": "index.html"
     },
     {
-      "hash": "sha256-V1in4jl8VAPqnO30ciJkdh+vrZfYDT12fia6zpcaGcs=",
+      "hash": "sha256-4o82WVk66cZuUja7xnweTm60n/nSbe9CwSrVEHw2GCI=",
       "url": "js/popup-interop.js"
     },
     {

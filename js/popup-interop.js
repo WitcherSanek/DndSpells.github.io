@@ -1,7 +1,4 @@
 window.popupInterop = {
-    getPopupHeights: () =>
-        Array.from(document.querySelectorAll('.popup')).map(p => p.offsetHeight),
-
     getWrapperWidth: () => {
         const wrapper = document.querySelector('.canvas-wrapper');
         return wrapper ? wrapper.getBoundingClientRect().width : 0;
@@ -53,14 +50,14 @@ window.popupInterop = {
         const wrapper = document.querySelector('.canvas-wrapper');
         if (wrapper) {
             const r = wrapper.getBoundingClientRect();
-            self._applyZoom(value, true, r.left + r.width / 2, r.top + r.height / 2);
+            self._applyZoom(value, true, r.left + r.width / 2, r.top + r.height / 2, false);
         } else {
-            self._applyZoom(value, true);
+            self._applyZoom(value, true, undefined, undefined, false);
         }
     },
 
     // focalClientX/Y (optional): keep the content point under that screen point fixed.
-    _applyZoom: function (value, committed, focalClientX, focalClientY) {
+    _applyZoom: function (value, committed, focalClientX, focalClientY, notify) {
         const self = window.popupInterop;
         let z1 = Math.min(self._zoomMax, Math.max(self._zoomMin, value));
         z1 = Math.round(z1 * 1000) / 1000;
@@ -80,9 +77,32 @@ window.popupInterop = {
             wrapper.scrollTop = (wrapper.scrollTop + fy) * ratio - fy;
         }
 
-        if (self._zoomRef) {
+        // Live pinch/gesture frames update the % label directly here (a textContent
+        // write doesn't force layout). .NET is notified only on commit, so Blazor does
+        // not re-diff the whole popup list on every frame — the visual zoom is already
+        // done by the --zoom CSS var above.
+        self._updateZoomLabel(z1);
+        // notify === false: caller is button zoom, which already ran in .NET and will
+        // persist itself — skip the JS→.NET callback so it doesn't re-render the popup
+        // list a second time. Pinch/wheel leave notify undefined and still commit here.
+        if (committed && notify !== false && self._zoomRef) {
             self._zoomRef.invokeMethodAsync('OnZoomChanged', z1, committed);
         }
+    },
+
+    _updateZoomLabel: function (z) {
+        const label = document.querySelector('.canvas-zoom-reset');
+        if (label) label.textContent = Math.round(z * 100) + '%';
+    },
+
+    // Toggle a class on the wrapper for the duration of a pinch gesture. The CSS sets
+    // .popup-body to overflow-y: hidden while it's on, so popup scrollbars are gone and
+    // the scroll containers aren't re-painted/re-composited on every zoom frame (a source
+    // of Android zoom flicker). overflow:hidden keeps scrollTop, so scroll position is
+    // preserved; it flips back to auto on release.
+    _setZooming: function (on) {
+        const wrapper = document.querySelector('.canvas-wrapper');
+        if (wrapper) wrapper.classList.toggle('zooming', on);
     },
 
     _onWheel: function (e) {
@@ -102,6 +122,7 @@ window.popupInterop = {
         const self = window.popupInterop;
         self._pinchStartDist = self._dist(e.touches[0], e.touches[1]);
         self._pinchStartZoom = self._zoom;
+        self._setZooming(true);
         e.preventDefault();
     },
 
@@ -123,6 +144,7 @@ window.popupInterop = {
         const self = window.popupInterop;
         if (e.touches.length < 2 && self._pinchStartDist > 0) {
             self._pinchStartDist = 0;
+            self._setZooming(false);
             self._applyZoom(self._zoom, true); // commit final value for persistence
         }
     },
@@ -132,6 +154,7 @@ window.popupInterop = {
         const self = window.popupInterop;
         self._iosGesture = true;
         self._gestureStartZoom = self._zoom;
+        self._setZooming(true);
     },
 
     _onGestureChange: function (e) {
@@ -144,31 +167,8 @@ window.popupInterop = {
         e.preventDefault();
         const self = window.popupInterop;
         self._iosGesture = false;
+        self._setZooming(false);
         self._applyZoom(self._zoom, true);
-    },
-
-    _scrollPositions: new Map(),
-
-    syncScroll: function () {
-        const self = window.popupInterop;
-        const bodies = document.querySelectorAll('.popup-body[data-popup-key]');
-        bodies.forEach(body => {
-            const key = body.getAttribute('data-popup-key');
-            if (!body.dataset.scrollWired) {
-                body.dataset.scrollWired = '1';
-                body.addEventListener('scroll', () => {
-                    self._scrollPositions.set(key, body.scrollTop);
-                }, { passive: true });
-            }
-            const saved = self._scrollPositions.get(key);
-            if (saved !== undefined && body.scrollTop !== saved) {
-                body.scrollTop = saved;
-            }
-        });
-    },
-
-    forgetScroll: function (key) {
-        window.popupInterop._scrollPositions.delete(key);
     },
 
     ensureVisible: function (key) {
