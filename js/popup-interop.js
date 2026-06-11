@@ -21,15 +21,29 @@ window.popupInterop = {
     _pinchStartZoom: 1,
     _iosGesture: false,
     _gestureStartZoom: 1,
+    _wrapper: null,
+    _label: null,
+    // Captured once per pinch by _beginGesture so _applyZoom never has to read
+    // rect/scroll mid-gesture (each such read forces a layout flush per frame).
+    _gestureRect: null,
+    _scrollX: 0,
+    _scrollY: 0,
+    _wheelTimer: 0,
+    // Active popup body that was at scrollTop 0 and got nudged to 1px for the gesture
+    // (see _beginGesture); restored by _endGesture after the overflow flip settles.
+    _nudgedBody: null,
 
     initZoom: function (ref, min, max, initial) {
         const self = window.popupInterop;
         self._zoomRef = ref;
         self._zoomMin = min;
         self._zoomMax = max;
+        // Navigation recreates the canvas DOM, so re-resolve cached nodes before applying.
+        const wrapper = document.querySelector('.canvas-wrapper');
+        self._wrapper = wrapper;
+        self._label = document.querySelector('.canvas-zoom-reset');
         self._applyZoom(initial, false);
 
-        const wrapper = document.querySelector('.canvas-wrapper');
         if (!wrapper || wrapper.dataset.zoomWired) return;
         wrapper.dataset.zoomWired = '1';
 
@@ -47,7 +61,7 @@ window.popupInterop = {
     setZoom: function (value) {
         // No pointer for button presses: zoom around the viewport centre.
         const self = window.popupInterop;
-        const wrapper = document.querySelector('.canvas-wrapper');
+        const wrapper = self._wrapper;
         if (wrapper) {
             const r = wrapper.getBoundingClientRect();
             self._applyZoom(value, true, r.left + r.width / 2, r.top + r.height / 2, false);
@@ -64,17 +78,37 @@ window.popupInterop = {
         const z0 = self._zoom;
 
         self._zoom = z1;
-        document.documentElement.style.setProperty('--zoom', z1);
+        const wrapper = self._wrapper;
+        // Only .popup-canvas consumes --zoom, so set it on the wrapper to keep style
+        // invalidation scoped to the canvas subtree instead of the whole document.
+        (wrapper || document.documentElement).style.setProperty('--zoom', z1);
 
-        const wrapper = document.querySelector('.canvas-wrapper');
         if (wrapper && z0 > 0 && z1 !== z0 && focalClientX !== undefined) {
-            const rect = wrapper.getBoundingClientRect();
+            // Mid-gesture, use the rect/scroll captured by _beginGesture: the wrapper
+            // itself is never scaled, so its rect can't change during the pinch, and
+            // reading rect/scroll here would force a layout flush on every frame
+            // (layout is already dirty from the --zoom write above).
+            let rect, sx, sy;
+            if (self._gestureRect) {
+                rect = self._gestureRect;
+                sx = self._scrollX;
+                sy = self._scrollY;
+            } else {
+                rect = wrapper.getBoundingClientRect();
+                sx = wrapper.scrollLeft;
+                sy = wrapper.scrollTop;
+            }
             const fx = focalClientX - rect.left;
             const fy = focalClientY - rect.top;
             const ratio = z1 / z0;
-            // Setting scroll forces reflow with the new scale, then clamps to range.
-            wrapper.scrollLeft = (wrapper.scrollLeft + fx) * ratio - fx;
-            wrapper.scrollTop = (wrapper.scrollTop + fy) * ratio - fy;
+            // The scroll write flushes layout once (the browser clamps against the new
+            // scale); reading the clamped values straight back is then free.
+            wrapper.scrollLeft = (sx + fx) * ratio - fx;
+            wrapper.scrollTop = (sy + fy) * ratio - fy;
+            if (self._gestureRect) {
+                self._scrollX = wrapper.scrollLeft;
+                self._scrollY = wrapper.scrollTop;
+            }
         }
 
         // Live pinch/gesture frames update the % label directly here (a textContent
@@ -91,7 +125,7 @@ window.popupInterop = {
     },
 
     _updateZoomLabel: function (z) {
-        const label = document.querySelector('.canvas-zoom-reset');
+        const label = window.popupInterop._label;
         if (label) label.textContent = Math.round(z * 100) + '%';
     },
 
@@ -101,8 +135,51 @@ window.popupInterop = {
     // of Android zoom flicker). overflow:hidden keeps scrollTop, so scroll position is
     // preserved; it flips back to auto on release.
     _setZooming: function (on) {
-        const wrapper = document.querySelector('.canvas-wrapper');
+        const wrapper = window.popupInterop._wrapper;
         if (wrapper) wrapper.classList.toggle('zooming', on);
+    },
+
+    _beginGesture: function () {
+        const self = window.popupInterop;
+        const wrapper = self._wrapper;
+        if (wrapper) {
+            // One read per gesture; _applyZoom works off these for every frame.
+            self._gestureRect = wrapper.getBoundingClientRect();
+            self._scrollX = wrapper.scrollLeft;
+            self._scrollY = wrapper.scrollTop;
+
+            // A scrollable popup body sitting at scrollTop 0 blanks for a frame when
+            // .zooming comes off: the overflow hidden→auto flip makes Chrome rebuild its
+            // scroller layer from scratch, and the frame presents before the tiles are
+            // rastered. A body that is scrolled keeps its compositor scroll state alive
+            // through overflow:hidden (observed on Android Chrome), so the flip is cheap.
+            // Nudge an unscrolled active body 1px for the duration of the gesture to put
+            // it on that path; _endGesture restores it once the flip has settled.
+            const body = wrapper.querySelector('.popup-active .popup-body');
+            self._nudgedBody = null;
+            if (body && body.scrollTop === 0) {
+                body.scrollTop = 1; // no-op (clamped) if the body has nothing to scroll
+                if (body.scrollTop === 1) self._nudgedBody = body;
+            }
+        }
+        self._setZooming(true);
+    },
+
+    _endGesture: function () {
+        const self = window.popupInterop;
+        self._gestureRect = null;
+        self._setZooming(false);
+        const nudged = self._nudgedBody;
+        self._nudgedBody = null;
+        if (nudged) {
+            // Two rAFs: the overflow flip must commit (with the body still "scrolled")
+            // before the offset goes back to 0, or this recreates the unscrolled case.
+            requestAnimationFrame(() => requestAnimationFrame(() => {
+                if (!self._gestureRect && nudged.isConnected && nudged.scrollTop === 1) {
+                    nudged.scrollTop = 0;
+                }
+            }));
+        }
     },
 
     _onWheel: function (e) {
@@ -110,7 +187,11 @@ window.popupInterop = {
         e.preventDefault();
         const self = window.popupInterop;
         const factor = e.deltaY < 0 ? 1.1 : 1 / 1.1;
-        self._applyZoom(self._zoom * factor, true, e.clientX, e.clientY);
+        // Apply uncommitted, then commit once the wheel goes quiet — a fast spin would
+        // otherwise re-render the popup list and write localStorage on every tick.
+        self._applyZoom(self._zoom * factor, false, e.clientX, e.clientY);
+        clearTimeout(self._wheelTimer);
+        self._wheelTimer = setTimeout(() => self._applyZoom(self._zoom, true), 200);
     },
 
     _dist: function (a, b) {
@@ -122,7 +203,7 @@ window.popupInterop = {
         const self = window.popupInterop;
         self._pinchStartDist = self._dist(e.touches[0], e.touches[1]);
         self._pinchStartZoom = self._zoom;
-        self._setZooming(true);
+        self._beginGesture();
         e.preventDefault();
     },
 
@@ -144,7 +225,7 @@ window.popupInterop = {
         const self = window.popupInterop;
         if (e.touches.length < 2 && self._pinchStartDist > 0) {
             self._pinchStartDist = 0;
-            self._setZooming(false);
+            self._endGesture();
             self._applyZoom(self._zoom, true); // commit final value for persistence
         }
     },
@@ -154,7 +235,7 @@ window.popupInterop = {
         const self = window.popupInterop;
         self._iosGesture = true;
         self._gestureStartZoom = self._zoom;
-        self._setZooming(true);
+        self._beginGesture();
     },
 
     _onGestureChange: function (e) {
@@ -167,7 +248,10 @@ window.popupInterop = {
         e.preventDefault();
         const self = window.popupInterop;
         self._iosGesture = false;
-        self._setZooming(false);
+        // The trailing touchend must not see a live pinch, or it would commit a second
+        // time (double OnZoomChanged + double save).
+        self._pinchStartDist = 0;
+        self._endGesture();
         self._applyZoom(self._zoom, true);
     },
 

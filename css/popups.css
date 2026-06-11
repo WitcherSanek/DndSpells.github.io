@@ -506,7 +506,7 @@ main {
 /* During a pinch gesture, drop even the active popup's scroll layer (higher specificity
    than .popup-active above) so zero scrolling layers are composited mid-zoom. */
 .canvas-wrapper.zooming .popup-body {
-    overflow-y: hidden;
+    //overflow-y: hidden;
 }
 
 .popup-body h2 {

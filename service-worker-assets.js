@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "AzH6mjGA",
+  "version": "wfnP+PZU",
   "assets": [
     {
       "hash": "sha256-OdSNkjLTUYkj6IT3jFm/oxzKIBuKLcqmo4JNMFrbMvk=",
@@ -5706,8 +5706,8 @@ self.assetsManifest = {
       "url": "SpellData/spells/99-protection-from-evil-and-good.html"
     },
     {
-      "hash": "sha256-y5SjtPSwzJu5R/qxmjv9eGAW/iB8J8UZuXLDy1+DUpM=",
-      "url": "_framework/BlazorSpellsPicker.ta3yeqbwz2.wasm"
+      "hash": "sha256-S/gbY9FBX6CBtA0/dTIY6dqrBmUuOGx59b8Z/fPiIvY=",
+      "url": "_framework/BlazorSpellsPicker.11lh7r1vcs.wasm"
     },
     {
       "hash": "sha256-R2FrilSZJLCyjBrTWneaFhW8hKFVxnYjX/PCqCXIXMo=",
@@ -5842,7 +5842,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.rs9b7ykfzr.wasm"
     },
     {
-      "hash": "sha256-RXIloTBPcKGe+g7qHbK+QO+YhDmBkTU50v/tWWn3z/Q=",
+      "hash": "sha256-sgdTv6jJab1bpU4naR+Z9RWcLbhvLG1+IvRbrY2BOrA=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -5882,7 +5882,7 @@ self.assetsManifest = {
       "url": "css/app.css"
     },
     {
-      "hash": "sha256-IvrDGeDrEDvsrtkW+GZOuXOkHk07Q6lc/204l4kRp0g=",
+      "hash": "sha256-fSqnSBbUflCIL2BnnS+sUKN+iweFd08NHbYdWlyeRNE=",
       "url": "css/popups.css"
     },
     {
@@ -5910,7 +5910,7 @@ self.assetsManifest = {
       "url": "index.html"
     },
     {
-      "hash": "sha256-4o82WVk66cZuUja7xnweTm60n/nSbe9CwSrVEHw2GCI=",
+      "hash": "sha256-DuLKy2WMcvaRTKzcp6RGLoKOcQJwgEBB4k1poOBVcpM=",
       "url": "js/popup-interop.js"
     },
     {
