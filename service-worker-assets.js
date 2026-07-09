@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "W1CveQt0",
+  "version": "l0uMdcZL",
   "assets": [
     {
       "hash": "sha256-OdSNkjLTUYkj6IT3jFm/oxzKIBuKLcqmo4JNMFrbMvk=",
@@ -5886,11 +5886,11 @@ self.assetsManifest = {
       "url": "_framework/icudt_no_CJK.lfu7j35m59.dat"
     },
     {
-      "hash": "sha256-V3h+cTYUSSuNQLmhdooj/PwNAQijMj/SnOb2S8clx+g=",
+      "hash": "sha256-n/AUH/vcKnwRbXoMtkiBG3PFFoXe1DCu2qqx2CODJwI=",
       "url": "css/app.css"
     },
     {
-      "hash": "sha256-jCE7HNHpzdbQpZwJ/kwrKsCmNL7flwZwFQhPlGQq3E0=",
+      "hash": "sha256-RJL1tnJlesnZXYK8QbliElhtVxjmVY2Gja/tU7mkFCQ=",
       "url": "css/popups.css"
     },
     {
@@ -5904,6 +5904,18 @@ self.assetsManifest = {
     {
       "hash": "sha256-iRlR316LWw8Lx2DTE3VAXnlcZmta3XBDfeEtSmSCsz8=",
       "url": "fonts/Caveat-latin.woff2"
+    },
+    {
+      "hash": "sha256-AflNZ021WVLDWJj6TaIsPnBlw8xNu8yct764trAX+8k=",
+      "url": "fonts/roboto-cyrillic-ext.woff2"
+    },
+    {
+      "hash": "sha256-SB3QwB5ruxKf0UfrXYVxAWGTy6FBxGJ8pgzqvbWkbqg=",
+      "url": "fonts/roboto-cyrillic.woff2"
+    },
+    {
+      "hash": "sha256-FATKNIvXXvg29N2LbyzHGUWGQtEjfDaClrL8ZS3KR9w=",
+      "url": "fonts/roboto-latin.woff2"
     },
     {
       "hash": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=",

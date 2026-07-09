@@ -748,7 +748,9 @@ main {
        take layout space and reflow/shrink the content. */
     scrollbar-gutter: stable;
     flex: 1 1 auto;
-    font-family: 'Segoe UI', system-ui, -apple-system, "Segoe UI", sans-serif;
+    /* Bundled font, NOT a system stack: popup auto-height must measure identically on
+       every device or shared sheet layouts drift (see @font-face in app.css). */
+    font-family: 'Roboto', 'Segoe UI', system-ui, sans-serif;
     font-size: 0.75rem;
     line-height: 1.4;
     color: #2b1a08;
