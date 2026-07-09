@@ -1,3 +1,10 @@
+html {
+    /* Keep mobile Chrome/Safari from "font boosting" text — inflated titles wrap
+       differently than on desktop even though popup geometry transfers identically. */
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+}
+
 main {
     overflow: visible !important;
     background: #1f2933;
@@ -37,40 +44,280 @@ main {
 
 .canvas-toolbar {
     display: flex;
+    flex-direction: column;
     position: fixed;
     left: 0;
     right: 0;
-    align-items: center;
     gap: 0.5rem;
     padding: 0.5rem 0.75rem;
     z-index: 1;
     /* Full-width bar, but only the controls themselves should catch clicks —
-       the empty middle stays click-through so popups underneath stay usable. */
+       the empty space stays click-through so popups underneath stay usable. */
     pointer-events: none;
 }
 
-.canvas-toolbar > * {
+/* Row 1: add | page switch | fold. Row 2 (foldable): share | user | zoom.
+   The left/center/right rhythm is identical in both rows. */
+.canvas-toolbar-row {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    pointer-events: none;
+}
+
+.canvas-toolbar-row > * {
     pointer-events: auto;
 }
 
-.canvas-add-btn {
+/* Folded: the secondary row is hidden but kept in the DOM (visibility, not @if),
+   because popup-interop.js caches the .canvas-zoom-reset node once at init for
+   live pinch-zoom % updates. The visibility delay lets the fade-out finish. */
+.canvas-toolbar-row-secondary {
+    transition: opacity 150ms ease, transform 150ms ease, visibility 0s linear 0s;
+}
+
+.canvas-toolbar-folded .canvas-toolbar-row-secondary {
+    visibility: hidden;
+    opacity: 0;
+    transform: translateY(-0.25rem);
+    transition: opacity 150ms ease, transform 150ms ease, visibility 0s linear 150ms;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .canvas-toolbar-row-secondary,
+    .canvas-toolbar-folded .canvas-toolbar-row-secondary {
+        transition: none;
+    }
+}
+
+/* The character menu stays open across switches, and it is anchored in the secondary
+   row — so while it's open, that row is pinned visible even if the newly selected
+   character saved a folded toolbar. The fold applies once the menu closes. */
+.canvas-toolbar-menu-open .canvas-toolbar-row-secondary {
+    visibility: visible;
+    opacity: 1;
+    transform: none;
+}
+
+/* Shared square icon button: +, fold, share, user switch. */
+.canvas-tool-btn {
     background: #8b6914;
     color: #f5e6c8;
     border: 2px solid #6b4f0a;
     border-radius: 6px;
-    padding: 0.45rem 0.9rem;
+    padding: 0.45rem 0;
+    width: 2.75rem;
+    text-align: center;
     font-size: 1rem;
     font-weight: 600;
+    line-height: 1.5;
     cursor: pointer;
 }
 
-.canvas-add-btn:hover:not([disabled]) {
+.canvas-tool-btn:hover:not([disabled]) {
     background: #a88018;
 }
 
-.canvas-add-btn[disabled] {
+/* Touch feedback: the tap must be visible even before any async work finishes. */
+.canvas-tool-btn:active:not([disabled]) {
+    background: #6b4f0a;
+}
+
+.canvas-tool-btn[disabled] {
     opacity: 0.5;
     cursor: not-allowed;
+}
+
+/* Right slot of each row: fold (row 1) and character switch (row 2, under fold). */
+.canvas-fold-btn,
+.canvas-user-wrap {
+    margin-left: auto;
+}
+
+.canvas-user-wrap {
+    position: relative;
+}
+
+/* Popups have a higher z-index than the toolbar; while the character menu is open
+   the whole toolbar is lifted above them so the menu is never buried. */
+.canvas-toolbar-menu-open {
+    z-index: 60;
+}
+
+.char-menu-backdrop {
+    position: fixed;
+    inset: 0;
+}
+
+.canvas-char-menu {
+    position: absolute;
+    right: 0;
+    top: calc(100% + 0.4rem);
+    min-width: 15rem;
+    background: #f5e6c8;
+    border: 2px solid #6b4f0a;
+    border-radius: 6px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5);
+    padding: 0.35rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    z-index: 1;
+}
+
+.char-row {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    border-radius: 4px;
+}
+
+.char-row.char-active {
+    background: rgba(139, 105, 20, 0.18);
+}
+
+.char-name {
+    flex: 1 1 auto;
+    min-width: 0;
+    text-align: left;
+    background: transparent;
+    border: none;
+    padding: 0.35rem 0.5rem;
+    cursor: pointer;
+    color: #3b2412;
+    font-size: 0.9rem;
+    border-radius: 4px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.char-row.char-active .char-name {
+    font-weight: 700;
+}
+
+.char-name:hover {
+    background: rgba(139, 105, 20, 0.25);
+}
+
+.char-action {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0.25rem;
+    font-size: 0.85rem;
+    opacity: 0.75;
+}
+
+.char-action:hover:not([disabled]) {
+    opacity: 1;
+}
+
+.char-action[disabled] {
+    opacity: 0.3;
+    cursor: not-allowed;
+}
+
+.char-rename-input {
+    flex: 1 1 auto;
+    min-width: 0;
+    font-size: 0.9rem;
+    padding: 0.3rem 0.4rem;
+    border: 1px solid #8b6914;
+    border-radius: 4px;
+    background: #fff8ea;
+    color: #3b2412;
+}
+
+.char-add {
+    margin-top: 0.25rem;
+    background: #8b6914;
+    color: #f5e6c8;
+    border: 2px solid #6b4f0a;
+    border-radius: 4px;
+    padding: 0.3rem 0.5rem;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.85rem;
+}
+
+.char-add:hover {
+    background: #a88018;
+}
+
+/* ---- Share panel (anchored under the 📤 button, mirrors the character menu) ---- */
+
+.canvas-share-wrap {
+    position: relative;
+}
+
+.canvas-share-menu {
+    position: absolute;
+    left: 0;
+    top: calc(100% + 0.4rem);
+    background: #f5e6c8;
+    border: 2px solid #6b4f0a;
+    border-radius: 6px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5);
+    padding: 0.6rem;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.4rem;
+    width: 16rem;
+    z-index: 1;
+}
+
+.share-title {
+    font-weight: 700;
+    font-size: 0.95rem;
+    color: #3b2412;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.share-qr {
+    align-self: center;
+    width: 14rem;
+    height: 14rem;
+    /* The PNG is usually larger than 14rem and gets downscaled; default (smooth)
+       scaling must be kept — nearest-neighbor here can drop QR modules. */
+    background: #fff;
+    border-radius: 4px;
+}
+
+.share-btn {
+    background: #8b6914;
+    color: #f5e6c8;
+    border: 2px solid #6b4f0a;
+    border-radius: 4px;
+    padding: 0.3rem 0.5rem;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.85rem;
+    text-align: center;
+    margin: 0;
+}
+
+.share-btn:hover {
+    background: #a88018;
+}
+
+.share-file-input {
+    display: none;
+}
+
+.share-note {
+    font-size: 0.8rem;
+    color: #5b3a10;
+    text-align: center;
+}
+
+.share-error {
+    color: #9c2b2b;
 }
 
 .canvas-toolbar-center {
@@ -102,7 +349,6 @@ main {
 .canvas-zoom {
     display: inline-flex;
     align-items: stretch;
-    margin-left: auto;
     border: 2px solid #6b4f0a;
     border-radius: 6px;
     overflow: hidden;
@@ -124,7 +370,12 @@ main {
 }
 
 .canvas-zoom-reset {
-    min-width: 3.2rem;
+    /* Fixed width sized for the widest value ("200%") so the button doesn't
+       resize when the percentage crosses between 2 and 3 digits. */
+    width: 3.9rem;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
     font-variant-numeric: tabular-nums;
 }
 
@@ -490,6 +741,10 @@ main {
        (below) gets a scrollbar, so there's at most one such layer at a time. Inactive
        popups clip their overflow — focus a popup to scroll it. */
     overflow-y: hidden;
+    /* Reserve the scrollbar strip permanently: when the popup becomes active and
+       overflow flips to auto (below), a classic desktop scrollbar would otherwise
+       take layout space and reflow/shrink the content. */
+    scrollbar-gutter: stable;
     flex: 1 1 auto;
     font-family: 'Segoe UI', system-ui, -apple-system, "Segoe UI", sans-serif;
     font-size: 0.75rem;
