@@ -639,8 +639,10 @@ main {
 .popup {
     position: relative;
     pointer-events: auto;
+    /* Fixed CSS-px geometry only — viewport units (vw/dvh) here would make the same
+       saved layout render different popup sizes per device (gaps in shared sheets).
+       Small screens compensate with the canvas pinch-zoom, not with shrinking popups. */
     width: 420px;
-    max-width: 92vw;
     background: #f5e6c8;
     color: #3b2412;
     border: 2px solid #8b6914;
@@ -651,7 +653,7 @@ main {
     //transition: opacity 0.15s, box-shadow 0.15s;
     display: flex;
     flex-direction: column;
-    max-height: min(350px, 50dvh);
+    max-height: 350px;
 }
 
 .popup-sized {

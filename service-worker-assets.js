@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "+RRMh276",
+  "version": "W1CveQt0",
   "assets": [
     {
       "hash": "sha256-OdSNkjLTUYkj6IT3jFm/oxzKIBuKLcqmo4JNMFrbMvk=",
@@ -5890,7 +5890,7 @@ self.assetsManifest = {
       "url": "css/app.css"
     },
     {
-      "hash": "sha256-ez23/g6dvwHNVGZ+/7hzuoAPxFnMrLJFdrP45YxUhL4=",
+      "hash": "sha256-jCE7HNHpzdbQpZwJ/kwrKsCmNL7flwZwFQhPlGQq3E0=",
       "url": "css/popups.css"
     },
     {
