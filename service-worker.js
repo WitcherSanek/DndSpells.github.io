@@ -1,4 +1,4 @@
-/* Manifest version: SEtuS08/ */
+/* Manifest version: av93YIit */
 // Caution! Be sure you understand the caveats before publishing an application with
 // offline support. See https://aka.ms/blazor-offline-considerations
 
@@ -6,6 +6,11 @@ self.importScripts('./service-worker-assets.js');
 self.addEventListener('install', event => event.waitUntil(onInstall(event)));
 self.addEventListener('activate', event => event.waitUntil(onActivate(event)));
 self.addEventListener('fetch', event => event.respondWith(onFetch(event)));
+// Sent by the in-app restart button: take over now instead of waiting for
+// every tab to close. Pages reload themselves on the controllerchange that follows.
+self.addEventListener('message', event => {
+    if (event.data && event.data.type === 'skipWaiting') self.skipWaiting();
+});
 
 const cacheNamePrefix = 'offline-cache-';
 const cacheName = `${cacheNamePrefix}${self.assetsManifest.version}`;
@@ -26,6 +31,12 @@ async function onInstall(event) {
         .filter(asset => !offlineAssetsExclude.some(pattern => pattern.test(asset.url)))
         .map(asset => new Request(asset.url, { integrity: asset.hash, cache: 'no-cache' }));
     await caches.open(cacheName).then(cache => cache.addAll(assetsRequests));
+
+    // Every asset is cached — tell the open pages (none are controlled by this
+    // worker yet, hence includeUncontrolled). pwa-interop.js turns this into
+    // "available offline" on first install or "update ready" on later ones.
+    const clients = await self.clients.matchAll({ includeUncontrolled: true });
+    clients.forEach(client => client.postMessage({ type: 'pwa-cached' }));
 }
 
 async function onActivate(event) {

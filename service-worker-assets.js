@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "SEtuS08/",
+  "version": "av93YIit",
   "assets": [
     {
       "hash": "sha256-OdSNkjLTUYkj6IT3jFm/oxzKIBuKLcqmo4JNMFrbMvk=",
@@ -5706,8 +5706,8 @@ self.assetsManifest = {
       "url": "SpellData/spells/99-protection-from-evil-and-good.html"
     },
     {
-      "hash": "sha256-QAIWoGS2QChABX3cgIKGDNM9vDXXdgiuDEkpUiJgmFk=",
-      "url": "_framework/BlazorSpellsPicker.wwuv44cyh9.wasm"
+      "hash": "sha256-mP7B2NNkaufC8of/2NqzgsxVuzLYw5IRu5LwoSbSdS4=",
+      "url": "_framework/BlazorSpellsPicker.c3jboh1jka.wasm"
     },
     {
       "hash": "sha256-kisEClbwgsMNmBQYT/KbEoqtBKuRF/6dG8b7/DMyWwM=",
@@ -5834,8 +5834,8 @@ self.assetsManifest = {
       "url": "_framework/System.Runtime.InteropServices.JavaScript.pkvqfb5bgf.wasm"
     },
     {
-      "hash": "sha256-7zPfe4A6FKUDpxEcY21QLRYD/b09oM+D6qfihb6Srqk=",
-      "url": "_framework/System.Runtime.bd10d47gym.wasm"
+      "hash": "sha256-c6gzgrC3/3Ncvr76NvLMGV7GlQ7Ed7VRh9um+n7Iss8=",
+      "url": "_framework/System.Runtime.j4lqvj9mr0.wasm"
     },
     {
       "hash": "sha256-g/Cc00CC4N00kHv3CM4swNDmJiXIGFZ51wbyItw+7tw=",
@@ -5850,7 +5850,11 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.rs9b7ykfzr.wasm"
     },
     {
-      "hash": "sha256-W0k4qORIBedL/o4Fal5C9NQJP1A5jIdKJ5ahZoYrFA0=",
+      "hash": "sha256-NAT337jZ8vKKqEaIIZX7h6Ebx8VSc6hIlBPK0fPmL28=",
+      "url": "_framework/System.Threading.ck7ypa45et.wasm"
+    },
+    {
+      "hash": "sha256-RrXoM2tv4/XoWpT78i4G5cBk2g1fJf0eYSRoh+2RNms=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -5890,7 +5894,7 @@ self.assetsManifest = {
       "url": "css/app.css"
     },
     {
-      "hash": "sha256-Nt8dY+gXZBCzyNkVxRTjUXfcdoZQyWuTmK/2jYa90Kc=",
+      "hash": "sha256-tTpZ4W0V8lja9Un5GdCR94bX9rsEUJzKLTB9Ujqzyh0=",
       "url": "css/popups.css"
     },
     {
@@ -5926,12 +5930,16 @@ self.assetsManifest = {
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-/skhJO4HSEVp+XPLB4PXeKem9VLBwpKyfXNuFzZXKjI=",
+      "hash": "sha256-VSOxoMX6z06RXhrhSAxK36R+uj/8sojeE99HTuyWLpE=",
       "url": "index.html"
     },
     {
       "hash": "sha256-frAQy7YHmn4G1fIWfwnHYPae6E2qgDZeTuEyWJK1cUI=",
       "url": "js/popup-interop.js"
+    },
+    {
+      "hash": "sha256-iIZlO6Up+KhWUxOal3k71C4fAhWScRr1PtS3x4gppww=",
+      "url": "js/pwa-interop.js"
     },
     {
       "hash": "sha256-Yy5/hBqRmmU2MJ1TKwP2aXoTO6+OjzrLmJIsC2Wy4H8=",

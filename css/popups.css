@@ -135,6 +135,16 @@ main {
     margin-left: auto;
 }
 
+/* Update-restart button (shown only while a new version is waiting): it takes over
+   the auto margin so it docks right next to the fold button's left side. */
+.canvas-restart-btn {
+    margin-left: auto;
+}
+
+.canvas-restart-btn + .canvas-fold-btn {
+    margin-left: 0;
+}
+
 .canvas-user-wrap {
     position: relative;
 }
@@ -1046,4 +1056,43 @@ main {
     cursor: nwse-resize;
     background: transparent;
     touch-action: none;
+}
+
+/* ---- PWA status toast (MainLayout): "available offline" / "update ready" ---- */
+.pwa-toast {
+    position: fixed;
+    left: 50%;
+    bottom: 1.25rem;
+    transform: translateX(-50%);
+    /* Above the picker overlay (2000) — the toast is informational and brief. */
+    z-index: 3000;
+    padding: 0.5rem 1rem;
+    background: #f5e6c8;
+    color: #3b2412;
+    border: 2px solid #6b4f0a;
+    border-radius: 6px;
+    box-shadow: 0 4px 12px rgba(59, 36, 18, 0.35);
+    font-size: 0.95rem;
+    white-space: nowrap;
+    /* Purely informational — never block taps on what's underneath. */
+    pointer-events: none;
+    animation: pwa-toast-in 200ms ease-out;
+}
+
+@keyframes pwa-toast-in {
+    from {
+        opacity: 0;
+        transform: translateX(-50%) translateY(0.5rem);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(-50%) translateY(0);
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .pwa-toast {
+        animation: none;
+    }
 }
