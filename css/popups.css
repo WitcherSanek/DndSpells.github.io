@@ -288,6 +288,7 @@ main {
     /* QR + buttons exceed a landscape-phone viewport; cap and scroll like the char menu. */
     max-height: calc(100dvh - 8rem);
     scrollbar-gutter: stable;
+    scrollbar-width: thin;
     overflow-y: auto;
 }
 
@@ -993,8 +994,11 @@ main {
     overflow-y: hidden;
     /* Reserve the scrollbar strip permanently: when the popup becomes active and
        overflow flips to auto (below), a classic desktop scrollbar would otherwise
-       take layout space and reflow/shrink the content. */
-    scrollbar-gutter: stable;
+       take layout space and reflow/shrink the content. Thin halves the reserved
+       strip, so desktop text wraps closer to mobile (whose overlay scrollbars
+       take no layout space at all). */
+    //scrollbar-gutter: stable;
+    scrollbar-width: thin;
     flex: 1 1 auto;
     /* Bundled font, NOT a system stack: popup auto-height must measure identically on
        every device or shared sheet layouts drift (see @font-face in app.css). */
