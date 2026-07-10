@@ -145,9 +145,13 @@ main {
     z-index: 60;
 }
 
+/* Shared outside-click catcher for all toolbar overlays. First child of the toolbar,
+   so the button rows (later in DOM) paint above it and stay clickable. The toolbar
+   itself is pointer-events: none, so the backdrop opts back in explicitly. */
 .char-menu-backdrop {
     position: fixed;
     inset: 0;
+    pointer-events: auto;
 }
 
 .canvas-char-menu {
@@ -164,6 +168,10 @@ main {
     flex-direction: column;
     gap: 0.15rem;
     z-index: 1;
+    /* The menu hangs ~7rem below the viewport top; without a cap, many characters
+       (or a landscape phone) push entries off-screen with no way to reach them. */
+    max-height: calc(100dvh - 8rem);
+    overflow-y: auto;
 }
 
 .char-row {
@@ -267,6 +275,14 @@ main {
     gap: 0.4rem;
     width: 16rem;
     z-index: 1;
+    /* QR + buttons exceed a landscape-phone viewport; cap and scroll like the char menu. */
+    max-height: calc(100dvh - 8rem);
+    scrollbar-gutter: stable;
+    overflow-y: auto;
+}
+
+.share-qr {
+    flex-shrink: 0;
 }
 
 .share-title {
@@ -281,12 +297,31 @@ main {
 
 .share-qr {
     align-self: center;
-    width: 14rem;
-    height: 14rem;
-    /* The PNG is usually larger than 14rem and gets downscaled; default (smooth)
+    /* A QR is only useful fully visible at once — on very short viewports it shrinks
+       (second min() term) rather than extending past the screen edge. */
+    width: min(14rem, 100dvh - 6rem);
+    /* Yield to the scrollbar gutter instead of overflowing sideways: a rigid 14rem
+       doesn't fit once the vertical scrollbar takes its slice of the 16rem panel. */
+    max-width: 100%;
+    /* Source PNG is square; auto height keeps it square at any width. The PNG is
+       usually larger than the display size and gets downscaled; default (smooth)
        scaling must be kept — nearest-neighbor here can drop QR modules. */
+    height: auto;
     background: #fff;
     border-radius: 4px;
+}
+
+/* Short viewports (landscape phones): detach the menu from the 📤 button and use
+   (almost) the full height, like the resource panel — under the 8rem toolbar offset
+   the QR could never be entirely on screen, which makes it unscannable. */
+@media (max-height: 32rem) {
+    .canvas-share-menu {
+        position: fixed;
+        left: 50%;
+        top: 0.5rem;
+        transform: translateX(-50%);
+        max-height: calc(100dvh - 1rem);
+    }
 }
 
 .share-btn {
@@ -318,6 +353,209 @@ main {
 
 .share-error {
     color: #9c2b2b;
+}
+
+.share-size {
+    font-variant-numeric: tabular-nums;
+    opacity: 0.75;
+    margin-top: -0.3rem;
+}
+
+/* ---- Resource tracker: fixed overlay, immune to canvas zoom/pan.
+   Wide screens: card docked right. Narrow screens: bottom sheet. ---- */
+
+.resource-panel {
+    position: fixed;
+    z-index: 71;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding: 0.6rem 0.75rem;
+    background: #f5e6c8;
+    border: 2px solid #6b4f0a;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5);
+    color: #3b2412;
+}
+
+@media (min-width: 700px) {
+    .resource-panel {
+        top: 6.5rem;
+        right: 0.75rem;
+        width: 23rem;
+        max-height: calc(100dvh - 8rem);
+        border-radius: 6px;
+    }
+}
+
+@media (max-width: 699.98px) {
+    .resource-panel {
+        left: 0;
+        right: 0;
+        bottom: 0;
+        max-height: 70dvh;
+        border-bottom: none;
+        border-radius: 12px 12px 0 0;
+    }
+}
+
+/* Short viewports (landscape phones): the 6.5rem top offset and 70dvh cap leave no
+   room for the counter list between the rest buttons and the add button — let the
+   panel take (almost) the whole height instead. */
+@media (min-width: 700px) and (max-height: 32rem) {
+    .resource-panel {
+        top: 0.5rem;
+        max-height: calc(100dvh - 1rem);
+    }
+}
+
+@media (max-width: 699.98px) and (max-height: 32rem) {
+    .resource-panel {
+        max-height: calc(100dvh - 0.5rem);
+    }
+}
+
+.resource-panel-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: 700;
+    font-size: 0.95rem;
+}
+
+.resource-x {
+    background: none;
+    border: none;
+    font-size: 1.4rem;
+    line-height: 1;
+    padding: 0 0.3rem;
+    cursor: pointer;
+    color: #6b4f0a;
+}
+
+.resource-rest-row {
+    display: flex;
+    gap: 0.4rem;
+}
+
+.resource-rest-row .share-btn {
+    flex: 1 1 0;
+}
+
+.resource-list {
+    flex: 1 1 auto;
+    /* At least ~two rows stay visible even when the viewport squeezes the panel;
+       the list scrolls for the rest. */
+    min-height: 4.5rem;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+}
+
+.resource-row {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+.resource-name {
+    flex: 1 1 auto;
+    min-width: 0;
+    font-size: 0.9rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* Small pools render as spell-slot style diamonds; tap to spend/restore. */
+.resource-pips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+    padding: 0.25rem;
+}
+
+.resource-pip {
+    width: 1.15rem;
+    height: 1.15rem;
+    padding: 0;
+    border: 2px solid #8b6914;
+    border-radius: 3px;
+    background: transparent;
+    transform: rotate(45deg);
+    cursor: pointer;
+}
+
+.resource-pip.pip-full {
+    background: #8b6914;
+}
+
+.resource-stepper {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+}
+
+.resource-step-btn {
+    width: 1.9rem;
+    height: 1.9rem;
+    padding: 0;
+    background: #8b6914;
+    color: #f5e6c8;
+    border: 2px solid #6b4f0a;
+    border-radius: 4px;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1;
+    cursor: pointer;
+}
+
+.resource-step-btn:hover:not([disabled]) {
+    background: #a88018;
+}
+
+.resource-step-btn[disabled] {
+    opacity: 0.4;
+    cursor: not-allowed;
+}
+
+.resource-count {
+    min-width: 3.4rem;
+    text-align: center;
+    font-size: 0.9rem;
+    font-variant-numeric: tabular-nums;
+}
+
+.resource-max-input {
+    width: 3.6rem;
+    flex: 0 0 auto;
+}
+
+.resource-reset-select {
+    flex: 0 0 auto;
+    font-size: 0.85rem;
+    padding: 0.25rem 0.2rem;
+    border: 1px solid #8b6914;
+    border-radius: 4px;
+    background: #fff8ea;
+    color: #3b2412;
+}
+
+/* Touch targets grow by input capability, not by screen width. */
+@media (pointer: coarse) {
+    .resource-pip {
+        width: 1.5rem;
+        height: 1.5rem;
+    }
+
+    .resource-pips {
+        gap: 0.6rem;
+    }
+
+    .resource-step-btn {
+        width: 2.5rem;
+        height: 2.5rem;
+    }
 }
 
 .canvas-toolbar-center {
