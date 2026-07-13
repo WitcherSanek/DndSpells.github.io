@@ -1,9 +1,453 @@
 self.assetsManifest = {
-  "version": "J5S59fOV",
+  "version": "iqCSEbDn",
   "assets": [
     {
       "hash": "sha256-OdSNkjLTUYkj6IT3jFm/oxzKIBuKLcqmo4JNMFrbMvk=",
       "url": "BlazorSpellsPicker.styles.css"
+    },
+    {
+      "hash": "sha256-CRF26y4hpZnyLEP1SPFFcGeJr1u59DzKk2xqDB9feoY=",
+      "url": "FeatData/README.md"
+    },
+    {
+      "hash": "sha256-KOCcTbZltcjZVBuR5aeh32fCuVf9gjI4Rbf6ACH6PqQ=",
+      "url": "FeatData/REVIEW.md"
+    },
+    {
+      "hash": "sha256-odBAGirTVsGuVFOpqGYyB84S+uMO0m4NmuzcCb0FycU=",
+      "url": "FeatData/feats-bundle.json"
+    },
+    {
+      "hash": "sha256-AOC4BxPrEO+II4FFsFxmdjF9xDoQjZP1Q+dZ0lRZqxM=",
+      "url": "FeatData/feats/101-actor.html"
+    },
+    {
+      "hash": "sha256-UFesFYyORyNG+WW0nxd0CeYDGjeFmc8/YVeWFilr/AE=",
+      "url": "FeatData/feats/102-athlete.html"
+    },
+    {
+      "hash": "sha256-aeE5xkPZhMLeE8FlmFRtNg6RQFoN3dP8GMW5W+AOdCE=",
+      "url": "FeatData/feats/103-alert.html"
+    },
+    {
+      "hash": "sha256-W178A+2B8euxZLG+YkIc9VB2SMYOdN8BA13r0ApAhg0=",
+      "url": "FeatData/feats/104-war-caster.html"
+    },
+    {
+      "hash": "sha256-hzdgxv+DlTmNFjH1xjteSXXoesoZmfrOQMtmkoqE3kQ=",
+      "url": "FeatData/feats/105-grappler.html"
+    },
+    {
+      "hash": "sha256-V1l0vVEku5rMQUdXoboOyxsowaa1b8qdowEYUggDs8E=",
+      "url": "FeatData/feats/106-lucky.html"
+    },
+    {
+      "hash": "sha256-KLZwcCwrWMRGD3rgs3nwiAoT9z5hs3IX31kQUffEH1A=",
+      "url": "FeatData/feats/107-mounted-combatant.html"
+    },
+    {
+      "hash": "sha256-dR0RMMDB/UlChdrpWueyBWsIB9SfpN6n1BNAiVg/CMs=",
+      "url": "FeatData/feats/108-observant.html"
+    },
+    {
+      "hash": "sha256-6zfwqDCRYdFx7HEYN2nv10Iolfnn0k9ydz1W56JHNv0=",
+      "url": "FeatData/feats/109-martial-adept.html"
+    },
+    {
+      "hash": "sha256-sZSf50dhSS8vh4h7i6dm0EGAQ+dX5P0pgr4X6EOUAQ8=",
+      "url": "FeatData/feats/110-inspiring-leader.html"
+    },
+    {
+      "hash": "sha256-P/HMkXbrWp2xFZQDekA4vqevDnSkGflzPnWJTtl/PzI=",
+      "url": "FeatData/feats/111-savage-attacker.html"
+    },
+    {
+      "hash": "sha256-9hn056ruxvpSap3hrHDssSnEpdqam1tRY430aEHfttY=",
+      "url": "FeatData/feats/112-tavern-brawler.html"
+    },
+    {
+      "hash": "sha256-WL/LXPDRczOyZcvDk6eGkbBBXvxpS68aSZCTXd5eIS4=",
+      "url": "FeatData/feats/113-lightly-armored.html"
+    },
+    {
+      "hash": "sha256-WLbDI4tOcCdYZDlFu5FaADdOs/NSAqkvmQgSNVSqT2g=",
+      "url": "FeatData/feats/114-moderately-armored.html"
+    },
+    {
+      "hash": "sha256-gjGgH7znOS0ISJYKnX23dr0N3Um8XeXoBfmNdH3r8/4=",
+      "url": "FeatData/feats/115-heavily-armored.html"
+    },
+    {
+      "hash": "sha256-v7ZPsSuyxOYSNuMKL4tu2y3YCfIEFddTJfv8nLDiE0A=",
+      "url": "FeatData/feats/116-dual-wielder.html"
+    },
+    {
+      "hash": "sha256-eTMRMcS7szdpiBiNpJNMJvcWCaWOmTws6+7zCOUjn7I=",
+      "url": "FeatData/feats/117-dungeon-delver.html"
+    },
+    {
+      "hash": "sha256-CdfIx8TbIxf2ugyTTBCHAj7UY+TaDinNculrEkZVOok=",
+      "url": "FeatData/feats/118-tough.html"
+    },
+    {
+      "hash": "sha256-hvrYC7dBlZtvAzufMmnZP9DF/yQUDPivhrlO2maWC0c=",
+      "url": "FeatData/feats/119-healer.html"
+    },
+    {
+      "hash": "sha256-EwK+U3lMrdjZnz6U/h2Z1CGva7kZMpsQ8ssOl5curyk=",
+      "url": "FeatData/feats/120-great-weapon-master.html"
+    },
+    {
+      "hash": "sha256-KCbxVjR5LrQ3KJvGQa9bhAWNHabTwOeE8oE0202lWSk=",
+      "url": "FeatData/feats/121-polearm-master.html"
+    },
+    {
+      "hash": "sha256-Wlq+2mc/KrLSJQxc+Kr+z9sQSD8X8rtkq7OGKwwf/TI=",
+      "url": "FeatData/feats/122-weapon-master.html"
+    },
+    {
+      "hash": "sha256-4SMOtzX08o90TB0CrDqw+jjX0TD5wfEwVuQu3o/j9xg=",
+      "url": "FeatData/feats/123-medium-armor-master.html"
+    },
+    {
+      "hash": "sha256-xBGFz7HKv6fJa8+Y4FV6bhh+2IwF4TF3ISnWFatsbJs=",
+      "url": "FeatData/feats/124-heavy-armor-master.html"
+    },
+    {
+      "hash": "sha256-1x11qTpzkKyAuIdRLmj2QY0LJYbojcHYoLUbDfZ16y0=",
+      "url": "FeatData/feats/125-shield-master.html"
+    },
+    {
+      "hash": "sha256-pkvcjybL/1VIxisMBNY2/UjRh4j/f+ClL4QtTaqBiNc=",
+      "url": "FeatData/feats/126-spell-sniper.html"
+    },
+    {
+      "hash": "sha256-/WVmTm6d3UT3AFoJ9f9j7aP8XCvHmU66h+mFGvemJfI=",
+      "url": "FeatData/feats/127-sharpshooter.html"
+    },
+    {
+      "hash": "sha256-oURPlI2EO+JGZpx5dl9XqyFDgFv0BLk6WNd3OD7WXuA=",
+      "url": "FeatData/feats/128-charger.html"
+    },
+    {
+      "hash": "sha256-agAjGvbX38eO7FVOz1+dT4r2an3tkJcqF+Ms3LNOx0Y=",
+      "url": "FeatData/feats/129-defensive-duelist.html"
+    },
+    {
+      "hash": "sha256-2nZTktu0oIZ59jB2CGuxdcdf2thPUNIs21lhK49RPB8=",
+      "url": "FeatData/feats/130-skilled.html"
+    },
+    {
+      "hash": "sha256-Yy+AWgEZNMrp6pVmi4iS31mzh8884qUFhG2Hc2MyKm0=",
+      "url": "FeatData/feats/131-keen-mind.html"
+    },
+    {
+      "hash": "sha256-cqb0QWzsxWAePU10oeiiuQJPXyRdQpeu9dGkc29kiws=",
+      "url": "FeatData/feats/132-mobile.html"
+    },
+    {
+      "hash": "sha256-VlOo4RK+hX7g5KNc/Ms8JFWyKFVs3LRwIyxzmCfcNgA=",
+      "url": "FeatData/feats/133-magic-initiate.html"
+    },
+    {
+      "hash": "sha256-MFBQhsPuC9B1mi3Bi1fPzJBUQTgqgtqpTE0qbUGS9Is=",
+      "url": "FeatData/feats/134-skulker.html"
+    },
+    {
+      "hash": "sha256-j59AjRVV2iZX98on4bg0grwcpIKEc+b/rYjL1kstQS0=",
+      "url": "FeatData/feats/135-ritual-caster.html"
+    },
+    {
+      "hash": "sha256-1dkNFXTJtXd4E15lpEGP+1OzgbpgPpAVhVxgMfxwofI=",
+      "url": "FeatData/feats/136-elemental-adept.html"
+    },
+    {
+      "hash": "sha256-mm38yzJpkDiPcPMTNEA1bb5eh+NVu8auZTORweicKm4=",
+      "url": "FeatData/feats/137-durable.html"
+    },
+    {
+      "hash": "sha256-7OuWo0gfdR0gtAdAC/V4anqy5TjA57R982/Lj065xFE=",
+      "url": "FeatData/feats/138-sentinel.html"
+    },
+    {
+      "hash": "sha256-IXf+y+ccm/SETV+R6Vdkph9BPiw79MAcgDEyLJLA584=",
+      "url": "FeatData/feats/139-mage-slayer.html"
+    },
+    {
+      "hash": "sha256-7nNxEsVrsRb002PQ7qeHBwDdQds9UmWGaAA+qX050Ns=",
+      "url": "FeatData/feats/140-resilient.html"
+    },
+    {
+      "hash": "sha256-85hTKwl15O5L3gL8eaXZUuEoo4xRxLslZiCCL1u+QMk=",
+      "url": "FeatData/feats/141-crossbow-expert.html"
+    },
+    {
+      "hash": "sha256-FeGF5KJbDh4U04rVSo+uhaHsz5M1WfmISaHYfK80ftM=",
+      "url": "FeatData/feats/142-linguist.html"
+    },
+    {
+      "hash": "sha256-8bEvvpw3knWYL1vVoJvjnLPOaunkHiuAIhjfeyScdqY=",
+      "url": "FeatData/feats/143-bountiful-luck.html"
+    },
+    {
+      "hash": "sha256-Rp+H8wKTpDLxtcRRDvihWh+90G7s3adCaNoKlT5Yuhg=",
+      "url": "FeatData/feats/144-second-chance.html"
+    },
+    {
+      "hash": "sha256-PwsuNniCkD4rFV13j7XuuXrqsbiMTtGCuGjCLolIbZo=",
+      "url": "FeatData/feats/145-prodigy.html"
+    },
+    {
+      "hash": "sha256-wVELKRWo0lpADR9BNSxeQbgG3Suitt1DSqvZFta4xuE=",
+      "url": "FeatData/feats/146-drow-high-magic.html"
+    },
+    {
+      "hash": "sha256-1MwxICw4FDXWlALQgO20JqIFEYkyRTNt4F66u2JsRQ8=",
+      "url": "FeatData/feats/147-dwarven-fortitude.html"
+    },
+    {
+      "hash": "sha256-6s//S6L0oDZYPjLyoCFIhe7YYTVXbuZeldNEZQ184bE=",
+      "url": "FeatData/feats/148-dragon-fear.html"
+    },
+    {
+      "hash": "sha256-u6Q8gMvz32P0+b/qwu9hFmPaRc9Wfc5oO/XfBFnXpQw=",
+      "url": "FeatData/feats/149-dragon-hide.html"
+    },
+    {
+      "hash": "sha256-BGsL0OjwAcOE6boCqIYwDwgCdyY1WX6rqAsMlKzTAaU=",
+      "url": "FeatData/feats/150-infernal-constitution.html"
+    },
+    {
+      "hash": "sha256-u0bTccw69271kGCk6P4V9SNOa64Si+FNybWCoLBQ8pI=",
+      "url": "FeatData/feats/151-fade-away.html"
+    },
+    {
+      "hash": "sha256-Hjz99nDqORH+krDM02HiRMbhjkeQlm/Y/oFeZ1Wx4nI=",
+      "url": "FeatData/feats/152-wood-elf-magic.html"
+    },
+    {
+      "hash": "sha256-U38HksgigJSR0ojyLCP7LcUPl+Ulf4jrRX2sEf9F7fk=",
+      "url": "FeatData/feats/153-squat-nimbleness.html"
+    },
+    {
+      "hash": "sha256-iQcU30hyMkOHD3liuv/WC1euh2F+eqcwnPUqtQhuWwo=",
+      "url": "FeatData/feats/154-orcish-fury.html"
+    },
+    {
+      "hash": "sha256-yW1Ma0Nc7qSzt/PvrBGiVGnm3YZh8xS3XIIraHHqE6E=",
+      "url": "FeatData/feats/155-flames-of-phlegethos.html"
+    },
+    {
+      "hash": "sha256-iyAevbC+yekpHqmSvz3P9Rce0Jc2hypC1wD0rAfH91I=",
+      "url": "FeatData/feats/156-fey-teleportation.html"
+    },
+    {
+      "hash": "sha256-gKlQh4rjOLRk4SB3UJfC/MMsbdDHoALmHXgKGJLlcf0=",
+      "url": "FeatData/feats/157-elven-accuracy.html"
+    },
+    {
+      "hash": "sha256-xQlOLBkVvkEK+vssnAZaxKO/A0cMPkzetmh67pl9zDg=",
+      "url": "FeatData/feats/158-metamagic-adept.html"
+    },
+    {
+      "hash": "sha256-NY/Mr+Z65CKlPOymUp3l9tcashgWJVLg9o/NqVWKIDo=",
+      "url": "FeatData/feats/159-eldritch-adept.html"
+    },
+    {
+      "hash": "sha256-OvJkw9sxkbpaeicHhINiuy/z1pcY4YKL04l650bLZPA=",
+      "url": "FeatData/feats/160-shadow-touched.html"
+    },
+    {
+      "hash": "sha256-+iPKYmX7vttOnj8oRYQzExiF1D/wI6gRGGuLSQQnG50=",
+      "url": "FeatData/feats/161-fey-touched.html"
+    },
+    {
+      "hash": "sha256-AZy/J79rx6DAzj+ax8WTKekKlFgUnFq1x0WtVIOw460=",
+      "url": "FeatData/feats/162-gunner.html"
+    },
+    {
+      "hash": "sha256-O2PG/ZkpxPw44KtXmW1akXlYyRLVCoGD1KQ4DqMqSNQ=",
+      "url": "FeatData/feats/163-crusher.html"
+    },
+    {
+      "hash": "sha256-cFH4nn73cj68q7+3hULwy/dF1agYDlTUTccTCkRQcJo=",
+      "url": "FeatData/feats/164-poisoner.html"
+    },
+    {
+      "hash": "sha256-BWQSIFLDDEmTu0gzTm7dfu1c9ZYlQCrIDQeoLQs7JOQ=",
+      "url": "FeatData/feats/165-fighting-initiate.html"
+    },
+    {
+      "hash": "sha256-Or/OSG3HlQPaiYLzvCdD59kh+cmSd9yhA1kz/eR7ias=",
+      "url": "FeatData/feats/166-artificer-initiate.html"
+    },
+    {
+      "hash": "sha256-RzFEXqkGaQ5v6pmeGTcBzZ8FSDYzwQQgnHqEeDzZDDA=",
+      "url": "FeatData/feats/167-piercer.html"
+    },
+    {
+      "hash": "sha256-j5ETJ20hXsNZoJQxr3TTlb0RWVx0VSRxLHuOhhjls+s=",
+      "url": "FeatData/feats/168-slasher.html"
+    },
+    {
+      "hash": "sha256-+3Z3OHUiCbzkBxd/gDOCQjF4wWRuVPsgk0HwCYvXHSA=",
+      "url": "FeatData/feats/169-telekinetic.html"
+    },
+    {
+      "hash": "sha256-RVAjhjBQypcqsqv1vBN2iousbR/3W7T2PII3HwH9bBI=",
+      "url": "FeatData/feats/170-telepathic.html"
+    },
+    {
+      "hash": "sha256-qamm3BMcDbGVLtHgd3gaXrmge25Tj9A6e9pJrBvsiGo=",
+      "url": "FeatData/feats/171-chef.html"
+    },
+    {
+      "hash": "sha256-gSEURLTgY90oelvATF0YKovkC+G96bpg4YB02IaZFgk=",
+      "url": "FeatData/feats/172-skill-expert.html"
+    },
+    {
+      "hash": "sha256-miFaglk6F8QD8T6V34fuPXdJsl8vfm+8jN7mk44gyTM=",
+      "url": "FeatData/feats/173-aberrant-dragonmark.html"
+    },
+    {
+      "hash": "sha256-Llk4QaQSBEVlQui9z0eRGYT8eV1Ha6cTAjEphAzCgHU=",
+      "url": "FeatData/feats/174-revenant-blade.html"
+    },
+    {
+      "hash": "sha256-V6z9ZenaiY3JjAzGyJKLO7Afbf00PDKZaIPBzkG04NI=",
+      "url": "FeatData/feats/175-gift-of-metallic-dragon.html"
+    },
+    {
+      "hash": "sha256-zxNd2L2oHtZ/rvTQGqzmBFKIK9yfV8yMoXYqR7Gd+qY=",
+      "url": "FeatData/feats/176-gift-of-gem-dragon.html"
+    },
+    {
+      "hash": "sha256-n5jcugqnUAGkZVsRpyeKmis0Uwh/eIo0GEfSgkbsPPw=",
+      "url": "FeatData/feats/177-gift-of-chromatic-dragon.html"
+    },
+    {
+      "hash": "sha256-lhY8cL1mh/3qhWFeaX1lwcxaqZN221WavXBdTT4Sykw=",
+      "url": "FeatData/feats/178-svirfneblin-magic.html"
+    },
+    {
+      "hash": "sha256-i6KeBprknPMrCxnmLdD53wXvTytzO2z09AKg49hKZ1A=",
+      "url": "FeatData/feats/179-strixhaven-initiate.html"
+    },
+    {
+      "hash": "sha256-kYCUUB3a8P9Xnl9UCt6pasGGDNOWBkCkLZvnFxo2FJY=",
+      "url": "FeatData/feats/180-strixhaven-mascot.html"
+    },
+    {
+      "hash": "sha256-N4o6frOuHI1JpIMJTXSPf/CN1T7Jzq/IurtY27/lakQ=",
+      "url": "FeatData/feats/213-soul-of-the-storm-giant.html"
+    },
+    {
+      "hash": "sha256-WwGVpHAfiFUGkytvvBjYSwwFdOyCsMBp13U5dVPhRuo=",
+      "url": "FeatData/feats/215-guile-of-the-cloud-giant.html"
+    },
+    {
+      "hash": "sha256-g5YAmw9uinMaTYP4HDLHMThhR9Hxq6kELAHr/JcGpak=",
+      "url": "FeatData/feats/216-fury-of-the-frost-giant.html"
+    },
+    {
+      "hash": "sha256-edoB9tzQsvpsFPwb/PZqA8qwiokySQyeW51wgORACM0=",
+      "url": "FeatData/feats/217-embar-of-the-fire-giant.html"
+    },
+    {
+      "hash": "sha256-fQ5ZCiqfN/gHgyMFpD8vCxtd7CNrjn6joIlXdJMruXE=",
+      "url": "FeatData/feats/218-rune-shaper.html"
+    },
+    {
+      "hash": "sha256-4hzet++AU1qUA0G3dKJUcm7iB524laJAZ+X/p7TuAkM=",
+      "url": "FeatData/feats/220-vigor-of-the-hill-giant.html"
+    },
+    {
+      "hash": "sha256-oiyJ4wHE8YiogMm/wXA18i/zeX8Lr/3hcv68KuoQSSk=",
+      "url": "FeatData/feats/221-keenness-of-the-stone-giant.html"
+    },
+    {
+      "hash": "sha256-HjStJCkru3dCu/K/Kl9C92oc1x71zfqnB0qLLEJaFkE=",
+      "url": "FeatData/feats/222-agent-of-order.html"
+    },
+    {
+      "hash": "sha256-KlxMWZ9nSMMXqDV8bXR858hADl1EsLDxDj3S1OSs3UU=",
+      "url": "FeatData/feats/223-baleful-scion.html"
+    },
+    {
+      "hash": "sha256-YzG4uM7N8eGMXd+YRyfaxzy4K+z+F1y/tbR8LxV2BCU=",
+      "url": "FeatData/feats/224-cartomancer.html"
+    },
+    {
+      "hash": "sha256-DDlp8I9KylqspR5g8Y0dQGPKCn8PcNcwM0lXIG7sJ4o=",
+      "url": "FeatData/feats/225-cohort-of-chaos.html"
+    },
+    {
+      "hash": "sha256-jveUvn7N6MYe+do08m0nmdFh0wGxW04h50xdaY5MqFk=",
+      "url": "FeatData/feats/226-outlands-envoy.html"
+    },
+    {
+      "hash": "sha256-NSsw2Na3Sle8FVdw84NH7/uoywx6QA7wEH2X6qL3vb0=",
+      "url": "FeatData/feats/227-planar-wanderer.html"
+    },
+    {
+      "hash": "sha256-19FaEoR+Z3q84j7UD8ZGh3xpSf+OpRcVKesy161sDCY=",
+      "url": "FeatData/feats/228-righteous-heritor.html"
+    },
+    {
+      "hash": "sha256-QT+dPsWrtFiekxEvt8Ld6rWIu1ekztOVvTcFqtJl6ug=",
+      "url": "FeatData/feats/233-scion-of-the-outer-planes.html"
+    },
+    {
+      "hash": "sha256-N1EGulVD7yh3AwHmW+WQR8gAH6q+CDv3U5qZrF4f+XQ=",
+      "url": "FeatData/feats/234-strike-of-the-giants.html"
+    },
+    {
+      "hash": "sha256-xv7HBaEiD1gOe8EgY39N3ualphuigAX+ggdiXGjhbrE=",
+      "url": "FeatData/feats/247-divinely-favored.html"
+    },
+    {
+      "hash": "sha256-UolUMulwRBiXL82asa7RU9L2ce9CBtF7QvBLQb5DO4Q=",
+      "url": "FeatData/feats/248-initiate-of-high-sorcery.html"
+    },
+    {
+      "hash": "sha256-0sww38g9vbvsZ0QfFhwSVbEjhfTeLqAndkq14mOeXcU=",
+      "url": "FeatData/feats/249-adept-of-the-black-robes.html"
+    },
+    {
+      "hash": "sha256-woI2UTTdoTVxQTJnS13zMqV0UCwdTTgJOswyp+8Kgko=",
+      "url": "FeatData/feats/250-adept-of-the-red-robes.html"
+    },
+    {
+      "hash": "sha256-8V7pgMvVQKkZ7uA3lm4r10IfeGJ+LXLOMfjDpDdQrlo=",
+      "url": "FeatData/feats/251-adept-of-the-white-robes.html"
+    },
+    {
+      "hash": "sha256-EbyX2WB26iTrUtMYJMNOw/WWKWmd4Ov9Z4sAIsAYX0c=",
+      "url": "FeatData/feats/252-squire-of-solamnia.html"
+    },
+    {
+      "hash": "sha256-0qeXa9XVoSd+4Ca3kBJcrf69I/55dzSFxRJgbsoRmXg=",
+      "url": "FeatData/feats/253-knight-of-the-crown.html"
+    },
+    {
+      "hash": "sha256-PWigezaPwXJQ6dCRIqAXnc+uc+pnCai7a6zpudUBaR4=",
+      "url": "FeatData/feats/254-knight-of-the-rose.html"
+    },
+    {
+      "hash": "sha256-YBndvKisL2+2jURDGAah7bzeg6q/akQj1v7lVYmmu+s=",
+      "url": "FeatData/feats/255-knight-of-the-sword.html"
+    },
+    {
+      "hash": "sha256-Zxh310p2gWtmNFJH8ZU78b6rjki5vM/8b509+RDDbio=",
+      "url": "FeatData/index-full.json"
+    },
+    {
+      "hash": "sha256-BDChLQ52NEKfgquCWNtCHKshn1BivHgE3Xvd49TFhU4=",
+      "url": "FeatData/index.json"
+    },
+    {
+      "hash": "sha256-7tUXnU2EF2CqtSuDpVEZtasXumCine+00WcgveXCFVw=",
+      "url": "FeatData/lookups.json"
     },
     {
       "hash": "sha256-YgnG4nRie6QYoXK51Yqfl0zAgPu6X2q/6ustzAMgFlA=",
@@ -5706,12 +6150,8 @@ self.assetsManifest = {
       "url": "SpellData/spells/99-protection-from-evil-and-good.html"
     },
     {
-      "hash": "sha256-mP7B2NNkaufC8of/2NqzgsxVuzLYw5IRu5LwoSbSdS4=",
-      "url": "_framework/BlazorSpellsPicker.c3jboh1jka.wasm"
-    },
-    {
-      "hash": "sha256-kisEClbwgsMNmBQYT/KbEoqtBKuRF/6dG8b7/DMyWwM=",
-      "url": "_framework/Microsoft.AspNetCore.Components.67x2bbedbb.wasm"
+      "hash": "sha256-nc9bH+UY9FbCDvEYIVwFDqdAD9U85IMRNgYH+9fCcbI=",
+      "url": "_framework/BlazorSpellsPicker.77eaqsklkf.wasm"
     },
     {
       "hash": "sha256-AyHbOGfQrdhEZshfbhZCSD/Rbw3noqlw2dOUEUywllk=",
@@ -5720,6 +6160,10 @@ self.assetsManifest = {
     {
       "hash": "sha256-bwExIeafSSeDe3ejJgFvGXT2zhDkTiWm1OkZVJPSICg=",
       "url": "_framework/Microsoft.AspNetCore.Components.WebAssembly.lztvdezope.wasm"
+    },
+    {
+      "hash": "sha256-lgJcVJx/hBF3SzGcYBtKtJO+TVLIZAfrwG+AA3xGtDk=",
+      "url": "_framework/Microsoft.AspNetCore.Components.uah46rwb9m.wasm"
     },
     {
       "hash": "sha256-FngMKPqjYJ/ug7cPfNm4X9SuncFTFku8vfzirt9fM9M=",
@@ -5802,8 +6246,8 @@ self.assetsManifest = {
       "url": "_framework/System.IO.Pipelines.ozf0bs3f96.wasm"
     },
     {
-      "hash": "sha256-oeMcmhODDQPsHjKZpAefNKXgjINS51FFf98GcvhYFRw=",
-      "url": "_framework/System.Linq.7i9llpsklm.wasm"
+      "hash": "sha256-7IcMLTjY3X/DPnFye2/obQD9sLSD9542ef8DBQPbL+Q=",
+      "url": "_framework/System.Linq.0lmjznc4ep.wasm"
     },
     {
       "hash": "sha256-wXr8pChHfXS2yIja0E17H6ZCmh9l8oha1SP2kIwW2Qs=",
@@ -5822,28 +6266,28 @@ self.assetsManifest = {
       "url": "_framework/System.Net.Primitives.g4rev0eqo7.wasm"
     },
     {
-      "hash": "sha256-wdUEyn9n1H6TUy/SfbL+kO60Y/6IVpAs07xBcCIs6kw=",
-      "url": "_framework/System.Private.CoreLib.r9y3qw0qfu.wasm"
+      "hash": "sha256-UOTdDjojnkp0+oB8DE1p57ALXmvVkjsYtxqI/w2R3io=",
+      "url": "_framework/System.Private.CoreLib.cdzli7vm6t.wasm"
     },
     {
       "hash": "sha256-RWO/0ao7JZ1SRlh8NW5Yw567QN7eCLwHD+qkBXDYQe8=",
       "url": "_framework/System.Private.Uri.5k78bg64a2.wasm"
     },
     {
-      "hash": "sha256-p1LD0fpgFsTckIcsUH+xkP6qPuHbu2ht7Qc9DhOztmY=",
-      "url": "_framework/System.Runtime.InteropServices.JavaScript.pkvqfb5bgf.wasm"
+      "hash": "sha256-PPOkeo79KsaRzeViohgoEjrRifyoSbTb7fmY9We5jSY=",
+      "url": "_framework/System.Runtime.0pwlozjfgn.wasm"
     },
     {
-      "hash": "sha256-c6gzgrC3/3Ncvr76NvLMGV7GlQ7Ed7VRh9um+n7Iss8=",
-      "url": "_framework/System.Runtime.j4lqvj9mr0.wasm"
+      "hash": "sha256-p1LD0fpgFsTckIcsUH+xkP6qPuHbu2ht7Qc9DhOztmY=",
+      "url": "_framework/System.Runtime.InteropServices.JavaScript.pkvqfb5bgf.wasm"
     },
     {
       "hash": "sha256-g/Cc00CC4N00kHv3CM4swNDmJiXIGFZ51wbyItw+7tw=",
       "url": "_framework/System.Text.Encodings.Web.jcc0mnauy4.wasm"
     },
     {
-      "hash": "sha256-1AWsMvHCgzlX3fiTauZcel4cz51SOHnPFHR9HLA5THU=",
-      "url": "_framework/System.Text.Json.orjniol9mf.wasm"
+      "hash": "sha256-omHGPfm5AdA7xknv2Av0E7syJoKapc/MxBqt2wndP28=",
+      "url": "_framework/System.Text.Json.qmr7erwb4i.wasm"
     },
     {
       "hash": "sha256-WzXHMmZ1kz109jtctos7qA2Km7G32rQUz7UcatGJvCg=",
@@ -5854,7 +6298,7 @@ self.assetsManifest = {
       "url": "_framework/System.Threading.ck7ypa45et.wasm"
     },
     {
-      "hash": "sha256-RrXoM2tv4/XoWpT78i4G5cBk2g1fJf0eYSRoh+2RNms=",
+      "hash": "sha256-VSqdMz4Zj3r+n3RhXR+n/aQOhBHSebup1aOA8gj18TY=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -5870,8 +6314,8 @@ self.assetsManifest = {
       "url": "_framework/dotnet.native.1zjieb233b.js"
     },
     {
-      "hash": "sha256-GGGg5UGuH9hLzWryur66kNzbXHXB+eYKbQ8m1ZEqmWM=",
-      "url": "_framework/dotnet.native.oslf1t5rnp.wasm"
+      "hash": "sha256-gu82sca8jpe2F+OZdohIUCel8N7bHsvxvtqQzGcLEyQ=",
+      "url": "_framework/dotnet.native.atav4djjtu.wasm"
     },
     {
       "hash": "sha256-zZ0MGlWZF0pG99PvNYvOdUvox/BZe6pddrswXlZoKyc=",
@@ -5894,7 +6338,7 @@ self.assetsManifest = {
       "url": "css/app.css"
     },
     {
-      "hash": "sha256-rZghnUdFwpuoWuSBKugMyuSHaY1t2aa5oCfS7/OrIc8=",
+      "hash": "sha256-SU2oaLUVp8EYdlrD1h9UqO/+JuRHvpHolpCWgTkJgmM=",
       "url": "css/popups.css"
     },
     {

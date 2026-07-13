@@ -1,0 +1,527 @@
+[
+  {
+    "title": "Артистичный",
+    "titleEn": "Actor",
+    "file": "feats/101-actor.html"
+  },
+  {
+    "title": "Атлетичный",
+    "titleEn": "Athlete",
+    "file": "feats/102-athlete.html"
+  },
+  {
+    "title": "Бдительный",
+    "titleEn": "Alert",
+    "file": "feats/103-alert.html"
+  },
+  {
+    "title": "Боевой заклинатель",
+    "titleEn": "War Caster",
+    "file": "feats/104-war-caster.html"
+  },
+  {
+    "title": "Борец",
+    "titleEn": "Grappler",
+    "file": "feats/105-grappler.html"
+  },
+  {
+    "title": "Везунчик",
+    "titleEn": "Lucky",
+    "file": "feats/106-lucky.html"
+  },
+  {
+    "title": "Верховой боец",
+    "titleEn": "Mounted combatant",
+    "file": "feats/107-mounted-combatant.html"
+  },
+  {
+    "title": "Внимательный",
+    "titleEn": "Observant",
+    "file": "feats/108-observant.html"
+  },
+  {
+    "title": "Воинский адепт",
+    "titleEn": "Martial adept",
+    "file": "feats/109-martial-adept.html"
+  },
+  {
+    "title": "Воодушевляющий лидер",
+    "titleEn": "Inspiring leader",
+    "file": "feats/110-inspiring-leader.html"
+  },
+  {
+    "title": "Дикий атакующий",
+    "titleEn": "Savage attacker",
+    "file": "feats/111-savage-attacker.html"
+  },
+  {
+    "title": "Драчун",
+    "titleEn": "Tavern brawler",
+    "file": "feats/112-tavern-brawler.html"
+  },
+  {
+    "title": "Знаток лёгких доспехов",
+    "titleEn": "Lightly armored",
+    "file": "feats/113-lightly-armored.html"
+  },
+  {
+    "title": "Знаток средних доспехов",
+    "titleEn": "Moderately armored",
+    "file": "feats/114-moderately-armored.html"
+  },
+  {
+    "title": "Знаток тяжёлых доспехов",
+    "titleEn": "Heavily armored",
+    "file": "feats/115-heavily-armored.html"
+  },
+  {
+    "title": "Использование двух оружий",
+    "titleEn": "Dual wielder",
+    "file": "feats/116-dual-wielder.html"
+  },
+  {
+    "title": "Исследователь подземелий",
+    "titleEn": "Dungeon delver",
+    "file": "feats/117-dungeon-delver.html"
+  },
+  {
+    "title": "Крепкий",
+    "titleEn": "Tough",
+    "file": "feats/118-tough.html"
+  },
+  {
+    "title": "Лекарь",
+    "titleEn": "Healer",
+    "file": "feats/119-healer.html"
+  },
+  {
+    "title": "Мастер большого оружия",
+    "titleEn": "Great weapon master",
+    "file": "feats/120-great-weapon-master.html"
+  },
+  {
+    "title": "Мастер древкового оружия",
+    "titleEn": "Polearm master",
+    "file": "feats/121-polearm-master.html"
+  },
+  {
+    "title": "Мастер оружия",
+    "titleEn": "Weapon master",
+    "file": "feats/122-weapon-master.html"
+  },
+  {
+    "title": "Мастер средних доспехов",
+    "titleEn": "Medium armor master",
+    "file": "feats/123-medium-armor-master.html"
+  },
+  {
+    "title": "Мастер тяжёлых доспехов",
+    "titleEn": "Heavy armor master",
+    "file": "feats/124-heavy-armor-master.html"
+  },
+  {
+    "title": "Мастер щитов",
+    "titleEn": "Shield master",
+    "file": "feats/125-shield-master.html"
+  },
+  {
+    "title": "Меткие заклинания",
+    "titleEn": "Spell sniper",
+    "file": "feats/126-spell-sniper.html"
+  },
+  {
+    "title": "Меткий стрелок",
+    "titleEn": "Sharpshooter",
+    "file": "feats/127-sharpshooter.html"
+  },
+  {
+    "title": "Налётчик",
+    "titleEn": "Charger",
+    "file": "feats/128-charger.html"
+  },
+  {
+    "title": "Оборонительный дуэлянт",
+    "titleEn": "Defensive duelist",
+    "file": "feats/129-defensive-duelist.html"
+  },
+  {
+    "title": "Одарённый",
+    "titleEn": "Skilled",
+    "file": "feats/130-skilled.html"
+  },
+  {
+    "title": "Отличная память",
+    "titleEn": "Keen mind",
+    "file": "feats/131-keen-mind.html"
+  },
+  {
+    "title": "Подвижный",
+    "titleEn": "Mobile",
+    "file": "feats/132-mobile.html"
+  },
+  {
+    "title": "Посвящённый в магию",
+    "titleEn": "Magic initiate",
+    "file": "feats/133-magic-initiate.html"
+  },
+  {
+    "title": "Проныра",
+    "titleEn": "Skulker",
+    "file": "feats/134-skulker.html"
+  },
+  {
+    "title": "Ритуальный заклинатель",
+    "titleEn": "Ritual caster",
+    "file": "feats/135-ritual-caster.html"
+  },
+  {
+    "title": "Стихийный адепт",
+    "titleEn": "Elemental adept",
+    "file": "feats/136-elemental-adept.html"
+  },
+  {
+    "title": "Стойкий",
+    "titleEn": "Durable",
+    "file": "feats/137-durable.html"
+  },
+  {
+    "title": "Страж",
+    "titleEn": "Sentinel",
+    "file": "feats/138-sentinel.html"
+  },
+  {
+    "title": "Убийца магов",
+    "titleEn": "Mage slayer",
+    "file": "feats/139-mage-slayer.html"
+  },
+  {
+    "title": "Устойчивый",
+    "titleEn": "Resilient",
+    "file": "feats/140-resilient.html"
+  },
+  {
+    "title": "Эксперт в арбалетах",
+    "titleEn": "Crossbow expert",
+    "file": "feats/141-crossbow-expert.html"
+  },
+  {
+    "title": "Языковед",
+    "titleEn": "Linguist",
+    "file": "feats/142-linguist.html"
+  },
+  {
+    "title": "Ваятель рун",
+    "titleEn": "Rune shaper",
+    "file": "feats/218-rune-shaper.html"
+  },
+  {
+    "title": "Душа штормового великана",
+    "titleEn": "Soul of the storm giant",
+    "file": "feats/213-soul-of-the-storm-giant.html"
+  },
+  {
+    "title": "Коварство облачного великана",
+    "titleEn": "Guile of the cloud giant",
+    "file": "feats/215-guile-of-the-cloud-giant.html"
+  },
+  {
+    "title": "Неистовство ледяного великана",
+    "titleEn": "Fury of the frost giant",
+    "file": "feats/216-fury-of-the-frost-giant.html"
+  },
+  {
+    "title": "Пылкость огненного великана",
+    "titleEn": "Embar of the fire giant",
+    "file": "feats/217-embar-of-the-fire-giant.html"
+  },
+  {
+    "title": "Стойкость холмового великана",
+    "titleEn": "Vigor of the hill giant",
+    "file": "feats/220-vigor-of-the-hill-giant.html"
+  },
+  {
+    "title": "Удар великанов",
+    "titleEn": "Strike of the giants",
+    "file": "feats/234-strike-of-the-giants.html"
+  },
+  {
+    "title": "Чуткость каменного великана",
+    "titleEn": "Keenness of the stone giant",
+    "file": "feats/221-keenness-of-the-stone-giant.html"
+  },
+  {
+    "title": "Картомант",
+    "titleEn": "Cartomancer,Карточник",
+    "file": "feats/224-cartomancer.html"
+  },
+  {
+    "title": "Искажённая метка дракона",
+    "titleEn": "Aberrant dragonmark",
+    "file": "feats/173-aberrant-dragonmark.html"
+  },
+  {
+    "title": "Призрачный клинок",
+    "titleEn": "Revenant blade",
+    "file": "feats/174-revenant-blade.html"
+  },
+  {
+    "title": "Дар металлического дракона",
+    "titleEn": "Gift of metallic dragon",
+    "file": "feats/175-gift-of-metallic-dragon.html"
+  },
+  {
+    "title": "Дар самоцветного дракона",
+    "titleEn": "Gift of gem dragon",
+    "file": "feats/176-gift-of-gem-dragon.html"
+  },
+  {
+    "title": "Дар цветного дракона",
+    "titleEn": "Gift of chromatic dragon",
+    "file": "feats/177-gift-of-chromatic-dragon.html"
+  },
+  {
+    "title": "Агент Порядка",
+    "titleEn": "Agent of order",
+    "file": "feats/222-agent-of-order.html"
+  },
+  {
+    "title": "Зловещий наследник",
+    "titleEn": "Baleful scion",
+    "file": "feats/223-baleful-scion.html"
+  },
+  {
+    "title": "Когорта Хаоса",
+    "titleEn": "Cohort of chaos",
+    "file": "feats/225-cohort-of-chaos.html"
+  },
+  {
+    "title": "Наследник внешних планов",
+    "titleEn": "Scion of the outer planes",
+    "file": "feats/233-scion-of-the-outer-planes.html"
+  },
+  {
+    "title": "Планарный странник",
+    "titleEn": "Planar wanderer",
+    "file": "feats/227-planar-wanderer.html"
+  },
+  {
+    "title": "Посол Внешних земель",
+    "titleEn": "Outlands envoy",
+    "file": "feats/226-outlands-envoy.html"
+  },
+  {
+    "title": "Праведный наследник",
+    "titleEn": "Righteous heritor",
+    "file": "feats/228-righteous-heritor.html"
+  },
+  {
+    "title": "Магия свирфнеблинов",
+    "titleEn": "Svirfneblin magic",
+    "file": "feats/178-svirfneblin-magic.html"
+  },
+  {
+    "title": "Адепт метамагии",
+    "titleEn": "Metamagic adept",
+    "file": "feats/158-metamagic-adept.html"
+  },
+  {
+    "title": "Адепт таинств",
+    "titleEn": "Eldritch adept",
+    "file": "feats/159-eldritch-adept.html"
+  },
+  {
+    "title": "Затронутый тенью",
+    "titleEn": "Shadow touched",
+    "file": "feats/160-shadow-touched.html"
+  },
+  {
+    "title": "Затронутый феями",
+    "titleEn": "Fey touched",
+    "file": "feats/161-fey-touched.html"
+  },
+  {
+    "title": "Знаток огнестрельного оружия",
+    "titleEn": "Gunner",
+    "file": "feats/162-gunner.html"
+  },
+  {
+    "title": "Крушитель",
+    "titleEn": "Crusher",
+    "file": "feats/163-crusher.html"
+  },
+  {
+    "title": "Отравитель",
+    "titleEn": "Poisoner",
+    "file": "feats/164-poisoner.html"
+  },
+  {
+    "title": "Посвящённый в боевое искусство",
+    "titleEn": "Fighting initiate",
+    "file": "feats/165-fighting-initiate.html"
+  },
+  {
+    "title": "Посвящённый в изобретательство",
+    "titleEn": "Artificer initiate",
+    "file": "feats/166-artificer-initiate.html"
+  },
+  {
+    "title": "Пронзатель",
+    "titleEn": "Piercer",
+    "file": "feats/167-piercer.html"
+  },
+  {
+    "title": "Рубака",
+    "titleEn": "Slasher",
+    "file": "feats/168-slasher.html"
+  },
+  {
+    "title": "Телекинетик",
+    "titleEn": "Telekinetic",
+    "file": "feats/169-telekinetic.html"
+  },
+  {
+    "title": "Телепат",
+    "titleEn": "Telepathic",
+    "file": "feats/170-telepathic.html"
+  },
+  {
+    "title": "Шеф-повар",
+    "titleEn": "Chef",
+    "file": "feats/171-chef.html"
+  },
+  {
+    "title": "Эксперт в навыке",
+    "titleEn": "Skill expert",
+    "file": "feats/172-skill-expert.html"
+  },
+  {
+    "title": "Бездонная удача",
+    "titleEn": "Bountiful luck",
+    "file": "feats/143-bountiful-luck.html"
+  },
+  {
+    "title": "Второй шанс",
+    "titleEn": "Second chance",
+    "file": "feats/144-second-chance.html"
+  },
+  {
+    "title": "Вундеркинд",
+    "titleEn": "Prodigy",
+    "file": "feats/145-prodigy.html"
+  },
+  {
+    "title": "Высшая магия дроу",
+    "titleEn": "Drow high magic",
+    "file": "feats/146-drow-high-magic.html"
+  },
+  {
+    "title": "Дварфийская стойкость",
+    "titleEn": "Dwarven Fortitude",
+    "file": "feats/147-dwarven-fortitude.html"
+  },
+  {
+    "title": "Драконий страх",
+    "titleEn": "Dragon fear",
+    "file": "feats/148-dragon-fear.html"
+  },
+  {
+    "title": "Драконья шкура",
+    "titleEn": "Dragon hide",
+    "file": "feats/149-dragon-hide.html"
+  },
+  {
+    "title": "Инфернальное телосложение",
+    "titleEn": "Infernal constitution",
+    "file": "feats/150-infernal-constitution.html"
+  },
+  {
+    "title": "Исчезновение",
+    "titleEn": "Fade away",
+    "file": "feats/151-fade-away.html"
+  },
+  {
+    "title": "Магия лесных эльфов",
+    "titleEn": "Wood elf magic",
+    "file": "feats/152-wood-elf-magic.html"
+  },
+  {
+    "title": "Низкорослое проворство",
+    "titleEn": "Squat nimbleness",
+    "file": "feats/153-squat-nimbleness.html"
+  },
+  {
+    "title": "Орочье буйство",
+    "titleEn": "Orcish fury",
+    "file": "feats/154-orcish-fury.html"
+  },
+  {
+    "title": "Пламя Флегетоса",
+    "titleEn": "Flames of Phlegethos",
+    "file": "feats/155-flames-of-phlegethos.html"
+  },
+  {
+    "title": "Телепортация фей",
+    "titleEn": "Fey teleportation",
+    "file": "feats/156-fey-teleportation.html"
+  },
+  {
+    "title": "Эльфийская точность",
+    "titleEn": "Elven accuracy",
+    "file": "feats/157-elven-accuracy.html"
+  },
+  {
+    "title": "Адепт Белых одежд",
+    "titleEn": "Adept of the White Robes",
+    "file": "feats/251-adept-of-the-white-robes.html"
+  },
+  {
+    "title": "Адепт Красных одежд",
+    "titleEn": "Adept of the Red Robes",
+    "file": "feats/250-adept-of-the-red-robes.html"
+  },
+  {
+    "title": "Адепт Чёрных одежд",
+    "titleEn": "Adept of the Black Robes",
+    "file": "feats/249-adept-of-the-black-robes.html"
+  },
+  {
+    "title": "Любимец богов",
+    "titleEn": "Divinely Favored",
+    "file": "feats/247-divinely-favored.html"
+  },
+  {
+    "title": "Оруженосец рыцаря Соламнии",
+    "titleEn": "Squire of Solamnia",
+    "file": "feats/252-squire-of-solamnia.html"
+  },
+  {
+    "title": "Посвящённый в Высшее волшебство",
+    "titleEn": "Initiate of High Sorcery",
+    "file": "feats/248-initiate-of-high-sorcery.html"
+  },
+  {
+    "title": "Рыцарь Короны",
+    "titleEn": "Knight of the Crown",
+    "file": "feats/253-knight-of-the-crown.html"
+  },
+  {
+    "title": "Рыцарь Меча",
+    "titleEn": "Knight of the Sword",
+    "file": "feats/255-knight-of-the-sword.html"
+  },
+  {
+    "title": "Рыцарь Розы",
+    "titleEn": "Knight of the Rose",
+    "file": "feats/254-knight-of-the-rose.html"
+  },
+  {
+    "title": "Поступивший в Стриксхейвен",
+    "titleEn": "Strixhaven initiate",
+    "file": "feats/179-strixhaven-initiate.html"
+  },
+  {
+    "title": "Талисман Стриксхейвена",
+    "titleEn": "Strixhaven Mascot",
+    "file": "feats/180-strixhaven-mascot.html"
+  }
+]

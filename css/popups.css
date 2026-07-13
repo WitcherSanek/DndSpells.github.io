@@ -115,13 +115,40 @@ main {
     cursor: pointer;
 }
 
-.canvas-tool-btn:hover:not([disabled]) {
-    background: #a88018;
+/* All :hover rules are gated on a real hover-capable pointer: on touch screens a tap
+   latches :hover, leaving the last-pressed button stuck in its hover color until the
+   next tap lands elsewhere. Tap feedback comes from the :active rules instead. */
+@media (hover: hover) {
+    .canvas-tool-btn:hover:not([disabled]) {
+        background: #a88018;
+    }
 }
 
 /* Touch feedback: the tap must be visible even before any async work finishes. */
 .canvas-tool-btn:active:not([disabled]) {
     background: #6b4f0a;
+}
+
+/* The same press feedback for every other gold button. */
+.share-btn:active,
+.char-add:active,
+.canvas-page-switch:active,
+.resource-step-btn:active:not([disabled]),
+.canvas-zoom-btn:active:not([disabled]) {
+    background: #6b4f0a;
+}
+
+.char-action:active:not([disabled]) {
+    opacity: 1;
+}
+
+.char-name:active {
+    background: rgba(139, 105, 20, 0.25);
+}
+
+.resource-x:active,
+.popup-close:active {
+    color: #3b2412;
 }
 
 .canvas-tool-btn[disabled] {
@@ -215,8 +242,10 @@ main {
     font-weight: 700;
 }
 
-.char-name:hover {
-    background: rgba(139, 105, 20, 0.25);
+@media (hover: hover) {
+    .char-name:hover {
+        background: rgba(139, 105, 20, 0.25);
+    }
 }
 
 .char-action {
@@ -228,8 +257,10 @@ main {
     opacity: 0.75;
 }
 
-.char-action:hover:not([disabled]) {
-    opacity: 1;
+@media (hover: hover) {
+    .char-action:hover:not([disabled]) {
+        opacity: 1;
+    }
 }
 
 .char-action[disabled] {
@@ -260,8 +291,10 @@ main {
     font-size: 0.85rem;
 }
 
-.char-add:hover {
-    background: #a88018;
+@media (hover: hover) {
+    .char-add:hover {
+        background: #a88018;
+    }
 }
 
 /* ---- Share panel (anchored under the 📤 button, mirrors the character menu) ---- */
@@ -348,8 +381,10 @@ main {
     margin: 0;
 }
 
-.share-btn:hover {
-    background: #a88018;
+@media (hover: hover) {
+    .share-btn:hover {
+        background: #a88018;
+    }
 }
 
 .share-file-input {
@@ -388,12 +423,41 @@ main {
     color: #3b2412;
 }
 
+/* On phones the dock is inert — the panel positions itself as a bottom sheet. */
+.panel-dock {
+    display: contents;
+}
+
+/* Desktop: the dock is a fixed, invisible flex column spanning (almost) the whole
+   viewport height. Its ::before is the toolbar clearance — 6rem of preferred space
+   and the ONLY shrinkable flex item, so it collapses (moving the card's top edge up)
+   before the card is touched. The card itself never shrinks via flex (a fractional
+   flex squeeze leaves the inner list 1px short of its content — phantom scrollbar);
+   it is capped by max-height instead, which only bites when content exceeds the
+   whole dock. Content-driven, not a viewport heuristic. */
 @media (min-width: 700px) {
-    .resource-panel {
-        top: 6.5rem;
+    .panel-dock {
+        display: flex;
+        flex-direction: column;
+        position: fixed;
+        top: 0.5rem;
+        bottom: 1.5rem;
         right: 0.75rem;
+        z-index: 71;
+        pointer-events: none;
+    }
+
+    .panel-dock::before {
+        content: "";
+        flex: 0 1 6rem;
+    }
+
+    .panel-dock .resource-panel {
+        position: static;
+        pointer-events: auto;
+        flex-shrink: 0;
+        max-height: 100%;
         width: 23rem;
-        max-height: calc(100dvh - 8rem);
         border-radius: 6px;
     }
 }
@@ -403,700 +467,1031 @@ main {
         left: 0;
         right: 0;
         bottom: 0;
-        max-height: 70dvh;
+        /* Not 70dvh: the sheet is content-sized (no height), so a cap only ever bites
+           when the content would scroll — exactly the case where it should be allowed
+           to use the whole screen instead. The 0.5rem sliver keeps it reading as a
+           sheet over the canvas rather than a separate page. */
+        max-height: calc(100dvh - 0.5rem);
         border-bottom: none;
         border-radius: 12px 12px 0 0;
     }
 }
 
-/* Short viewports (landscape phones): the 6.5rem top offset and 70dvh cap leave no
-   room for the counter list between the rest buttons and the add button — let the
-   panel take (almost) the whole height instead. */
-@media (min-width: 700px) and (max-height: 32rem) {
-    .resource-panel {
-        top: 0.5rem;
-        max-height: calc(100dvh - 1rem);
+
+
+
+    .resource-panel-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        font-weight: 700;
+        font-size: 0.95rem;
     }
-}
 
-@media (max-width: 699.98px) and (max-height: 32rem) {
-    .resource-panel {
-        max-height: calc(100dvh - 0.5rem);
+    .resource-x {
+        background: none;
+        border: none;
+        font-size: 1.4rem;
+        line-height: 1;
+        padding: 0 0.3rem;
+        cursor: pointer;
+        color: #6b4f0a;
     }
-}
 
-.resource-panel-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    font-weight: 700;
-    font-size: 0.95rem;
-}
+    .resource-rest-row {
+        display: flex;
+        gap: 0.4rem;
+    }
 
-.resource-x {
-    background: none;
-    border: none;
-    font-size: 1.4rem;
-    line-height: 1;
-    padding: 0 0.3rem;
-    cursor: pointer;
-    color: #6b4f0a;
-}
+        .resource-rest-row .share-btn {
+            flex: 1 1 0;
+        }
 
-.resource-rest-row {
-    display: flex;
-    gap: 0.4rem;
-}
+        /* Compact "+" at the end of the footer row: the rest buttons split the remaining width. */
+        .resource-rest-row .resource-add-btn {
+            flex: 0 0 auto;
+            width: 2.2rem;
+            padding-left: 0;
+            padding-right: 0;
+            font-size: 1rem;
+            line-height: 1;
+        }
 
-.resource-rest-row .share-btn {
-    flex: 1 1 0;
-}
+    /* ---- HP / combat state: pinned above the counter list, doesn't scroll with it. ---- */
+    .hp-block {
+        display: flex;
+        flex-direction: column;
+        gap: 0.35rem;
+        padding-bottom: 0.5rem;
+        border-bottom: 1px solid rgba(107, 79, 10, 0.3);
+    }
 
-.resource-list {
-    flex: 1 1 auto;
-    /* At least ~two rows stay visible even when the viewport squeezes the panel;
+    .hp-unset {
+        opacity: 0.55;
+    }
+
+    .hp-value {
+        font-size: 0.9rem;
+        font-weight: 700;
+        font-variant-numeric: tabular-nums;
+    }
+
+        .hp-value.hp-zero {
+            color: #8b1a1a;
+        }
+
+    .hp-temp {
+        font-size: 0.8rem;
+        font-weight: 700;
+        color: #2a5d8a;
+    }
+
+    /* Everything on one line: label + controls on the left, the readout right-aligned
+   like the counter values. */
+    .hp-apply-row {
+        gap: 0.3rem;
+    }
+
+        .hp-apply-row .resource-name {
+            flex: 0 0 auto;
+        }
+
+    .hp-amount-input {
+        flex: 0 0 auto;
+        width: 3rem;
+    }
+
+    .hp-temp-btn {
+        flex: 0 0 auto;
+        padding-left: 0.25rem;
+        padding-right: 0.25rem;
+        /* Match the −/+ buttons so the trio reads as one control (share-btn's own
+       font/padding otherwise makes it taller on desktop, shorter on touch). */
+        height: 1.9rem;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    /* Readout pushed to the right edge; when the temp chip is present it leads and
+   the value follows it directly. */
+    .hp-apply-row .hp-temp {
+        margin-left: auto;
+    }
+
+    .hp-apply-row .hp-value {
+        margin-left: auto;
+    }
+
+    .hp-apply-row .hp-temp + .hp-value {
+        margin-left: 0;
+    }
+
+    /* Death-save failures: same pip, wound-red. */
+    .resource-pip.pip-fail {
+        border-color: #8b1a1a;
+    }
+
+        .resource-pip.pip-fail.pip-full {
+            background: #8b1a1a;
+        }
+
+    .resource-list {
+        flex: 1 1 auto;
+        /* At least ~two rows stay visible even when the viewport squeezes the panel;
        the list scrolls for the rest. */
-    min-height: 4.5rem;
-    overflow-y: auto;
-    display: flex;
-    flex-direction: column;
-    gap: 0.35rem;
-}
-
-.resource-row {
-    display: flex;
-    align-items: center;
-    gap: 0.4rem;
-}
-
-.resource-name {
-    flex: 1 1 auto;
-    min-width: 0;
-    font-size: 0.9rem;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-}
-
-/* Small pools render as spell-slot style diamonds; tap to spend/restore. */
-.resource-pips {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.45rem;
-    padding: 0.25rem;
-}
-
-.resource-pip {
-    width: 1.15rem;
-    height: 1.15rem;
-    padding: 0;
-    border: 2px solid #8b6914;
-    border-radius: 3px;
-    background: transparent;
-    transform: rotate(45deg);
-    cursor: pointer;
-}
-
-.resource-pip.pip-full {
-    background: #8b6914;
-}
-
-.resource-stepper {
-    display: flex;
-    align-items: center;
-    gap: 0.25rem;
-}
-
-.resource-step-btn {
-    width: 1.9rem;
-    height: 1.9rem;
-    padding: 0;
-    background: #8b6914;
-    color: #f5e6c8;
-    border: 2px solid #6b4f0a;
-    border-radius: 4px;
-    font-size: 1rem;
-    font-weight: 600;
-    line-height: 1;
-    cursor: pointer;
-}
-
-.resource-step-btn:hover:not([disabled]) {
-    background: #a88018;
-}
-
-.resource-step-btn[disabled] {
-    opacity: 0.4;
-    cursor: not-allowed;
-}
-
-.resource-count {
-    min-width: 3.4rem;
-    text-align: center;
-    font-size: 0.9rem;
-    font-variant-numeric: tabular-nums;
-}
-
-.resource-max-input {
-    width: 3.6rem;
-    flex: 0 0 auto;
-}
-
-.resource-reset-select {
-    flex: 0 0 auto;
-    font-size: 0.85rem;
-    padding: 0.25rem 0.2rem;
-    border: 1px solid #8b6914;
-    border-radius: 4px;
-    background: #fff8ea;
-    color: #3b2412;
-}
-
-/* Touch targets grow by input capability, not by screen width. */
-@media (pointer: coarse) {
-    .resource-pip {
-        width: 1.5rem;
-        height: 1.5rem;
+        min-height: 4.5rem;
+        overflow-y: auto;
+        display: flex;
+        flex-direction: column;
+        gap: 0.35rem;
     }
 
+    .resource-row {
+        display: flex;
+        align-items: center;
+        gap: 0.4rem;
+    }
+
+    .resource-name {
+        flex: 1 1 auto;
+        min-width: 0;
+        font-size: 0.9rem;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    /* Small pools render as spell-slot style diamonds; tap to spend/restore. */
     .resource-pips {
-        gap: 0.6rem;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.45rem;
+        padding: 0.25rem;
+    }
+
+    .resource-pip {
+        width: 1.15rem;
+        height: 1.15rem;
+        padding: 0;
+        border: 2px solid #8b6914;
+        border-radius: 3px;
+        background: transparent;
+        transform: rotate(45deg);
+        cursor: pointer;
+    }
+
+        .resource-pip.pip-full {
+            background: #8b6914;
+        }
+
+    .resource-stepper {
+        display: flex;
+        align-items: center;
+        gap: 0.25rem;
     }
 
     .resource-step-btn {
-        width: 2.5rem;
-        height: 2.5rem;
+        width: 1.9rem;
+        height: 1.9rem;
+        padding: 0;
+        background: #8b6914;
+        color: #f5e6c8;
+        border: 2px solid #6b4f0a;
+        border-radius: 4px;
+        font-size: 1rem;
+        font-weight: 600;
+        line-height: 1;
+        cursor: pointer;
     }
-}
 
-.canvas-toolbar-center {
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
-    pointer-events: auto;
-}
+    @media (hover: hover) {
+        .resource-step-btn:hover:not([disabled]) {
+            background: #a88018;
+        }
+    }
 
-.canvas-page-switch {
-    background: #8b6914;
-    color: #f5e6c8;
-    border: 2px solid #6b4f0a;
-    border-radius: 6px;
-    padding: 0.45rem 0.45rem;
-    font-size: 1rem;
-    font-weight: 600;
-    cursor: pointer;
-    display: inline-flex;
-    align-items: center;
-    gap: 0.1rem;
-    white-space: nowrap;
-}
+    .resource-step-btn[disabled] {
+        opacity: 0.4;
+        cursor: not-allowed;
+    }
 
-.canvas-page-switch:hover {
-    background: #a88018;
-}
+    .resource-count {
+        min-width: 3.4rem;
+        text-align: center;
+        font-size: 0.9rem;
+        font-variant-numeric: tabular-nums;
+    }
 
-.canvas-zoom {
-    display: inline-flex;
-    align-items: stretch;
-    border: 2px solid #6b4f0a;
-    border-radius: 6px;
-    overflow: hidden;
-}
+    .resource-max-input {
+        width: 3.6rem;
+        flex: 0 0 auto;
+    }
 
-.canvas-zoom-btn {
-    background: #8b6914;
-    color: #f5e6c8;
-    border: none;
-    padding: 0.45rem 0.7rem;
-    font-size: 1rem;
-    font-weight: 600;
-    line-height: 1;
-    cursor: pointer;
-}
+    .resource-reset-select {
+        flex: 0 0 auto;
+        font-size: 0.85rem;
+        padding: 0.25rem 0.2rem;
+        border: 1px solid #8b6914;
+        border-radius: 4px;
+        background: #fff8ea;
+        color: #3b2412;
+    }
 
-.canvas-zoom-btn + .canvas-zoom-btn {
-    border-left: 1px solid #6b4f0a;
-}
+    /* Touch targets grow by input capability, not by screen width. */
+    @media (pointer: coarse) {
+        .resource-pip {
+            width: 1.5rem;
+            height: 1.5rem;
+        }
 
-.canvas-zoom-reset {
-    /* Fixed width sized for the widest value ("200%") so the button doesn't
+        .resource-pips {
+            gap: 0.6rem;
+            /* The rotated pips overhang their layout box by ~21% of their size; at 1.5rem
+           the base 0.25rem padding is ~1px short of covering it, and the overhang
+           extends the list's scrollable overflow — a phantom "99%" scrollbar. */
+            padding: 0.35rem;
+        }
+
+        .resource-step-btn {
+            width: 2.5rem;
+            height: 2.5rem;
+        }
+
+        .hp-temp-btn {
+            height: 2.5rem;
+        }
+    }
+
+    /* ---- Stats panel (характеристики): shares .resource-panel's fixed positioning.
+   Left column: the six classic ability cards. Right column: proficiency bonus,
+   saves, skills. Both scroll together — the content outgrows a phone screen. ---- */
+
+    @media (min-width: 700px) {
+        .panel-dock .stats-panel {
+            width: 26rem;
+        }
+    }
+
+    .stats-header-actions {
+        display: flex;
+        align-items: center;
+        gap: 0.15rem;
+    }
+
+    /* The misc-bonus edit toggle: visibly latched while the ± steppers are shown. */
+    .char-action.stats-edit-on {
+        opacity: 1;
+        background: rgba(139, 105, 20, 0.25);
+        border-radius: 4px;
+    }
+
+    .stats-body {
+        display: flex;
+        gap: 0.75rem;
+        min-height: 0;
+        overflow-y: auto;
+        scrollbar-width: thin;
+    }
+
+    .stats-abilities {
+        flex: 0 0 auto;
+        display: flex;
+        flex-direction: column;
+        gap: 0.6rem;
+    }
+
+    /* The card is a plain block, so it takes the block's width — which is set by the
+   −/score/+ row below. The card and the stepper row edges stay flush at any size. */
+    .ability-card {
+        border: 2px solid #6b4f0a;
+        border-radius: 8px;
+        padding: 0.25rem 0.2rem 0.55rem;
+        text-align: center;
+        background: #fff8ea;
+    }
+
+    .ability-abbr {
+        font-size: 0.65rem;
+        font-weight: 700;
+        letter-spacing: 0.05em;
+        color: #8a6d3b;
+    }
+
+    .ability-mod {
+        font-size: 1.35rem;
+        font-weight: 700;
+        line-height: 1.1;
+        font-variant-numeric: tabular-nums;
+    }
+
+    /* The score circle overlaps the card bottom, like the paper sheet's oval;
+   − and + hug the card's left/right edges. */
+    .ability-score-row {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 0.25rem;
+        margin-top: -0.85rem;
+    }
+
+    .ability-score {
+        width: 1.9rem;
+        height: 1.9rem;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        border: 2px solid #6b4f0a;
+        border-radius: 50%;
+        background: #f5e6c8;
+        font-size: 0.85rem;
+        font-weight: 600;
+        font-variant-numeric: tabular-nums;
+    }
+
+    .ability-step {
+        width: 1.25rem;
+        height: 1.25rem;
+        padding: 0;
+        flex: 0 0 auto;
+        background: #8b6914;
+        color: #f5e6c8;
+        border: 2px solid #6b4f0a;
+        border-radius: 4px;
+        font-size: 0.85rem;
+        font-weight: 600;
+        line-height: 1;
+        cursor: pointer;
+    }
+
+    @media (hover: hover) {
+        .ability-step:hover:not([disabled]) {
+            background: #a88018;
+        }
+    }
+
+    .ability-step:active:not([disabled]) {
+        background: #6b4f0a;
+    }
+
+    .ability-step[disabled] {
+        opacity: 0.4;
+        cursor: not-allowed;
+    }
+
+    .stats-right {
+        flex: 1 1 auto;
+        min-width: 0;
+        display: flex;
+        flex-direction: column;
+        gap: 0.1rem;
+    }
+
+    .stats-section-title {
+        font-size: 0.8rem;
+        font-weight: 700;
+        letter-spacing: 0.04em;
+        color: #8a6d3b;
+        margin-top: 0.3rem;
+        border-bottom: 1px solid rgba(107, 79, 10, 0.3);
+    }
+
+    .stats-row {
+        display: flex;
+        align-items: center;
+        gap: 0.4rem;
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        background: transparent;
+        border: none;
+        text-align: left;
+        color: #3b2412;
+        font-size: 0.9rem;
+        cursor: pointer;
+    }
+
+    /* In bonus-edit mode the row is a plain div: only the ± steppers are interactive. */
+    div.stats-row {
+        cursor: default;
+    }
+
+    /* Oval, not circle: wide enough for "+12" without touching the outline, and short
+   enough that it stops propping the rows open. */
+    .stats-val {
+        position: relative; /* anchors the misc-bonus dot */
+        flex: 0 0 auto;
+        width: 2rem;
+        height: 1.25rem;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        border: 2px solid transparent;
+        border-radius: 999px;
+        font-size: 0.85rem;
+        font-weight: 600;
+        font-variant-numeric: tabular-nums;
+    }
+
+    .stats-val-prof {
+        border-color: #6b4f0a;
+        background: #fff8ea;
+    }
+
+    /* Expertise: same outline, but a rectangle — instantly distinct from the oval. */
+    .stats-val-expert {
+        border-color: #6b4f0a;
+        background: #fff8ea;
+        border-radius: 4px;
+    }
+
+    /* A flat misc bonus is folded into the number — the dot is the reminder. */
+    .stats-val-bonus::after {
+        content: "•";
+        position: absolute;
+        top: -0.5rem;
+        right: -0.35rem;
+        color: #c9941a;
+        font-size: 0.9rem;
+        line-height: 1;
+    }
+
+    .stats-row-name {
+        flex: 1 1 auto;
+        min-width: 0;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .stats-row-abbr {
+        flex: 0 0 auto;
+        font-size: 0.7rem;
+        font-weight: 700;
+        color: #8a6d3b;
+    }
+
+    @media (pointer: coarse) {
+        .stats-row {
+            padding: 0;
+        }
+
+        .ability-step {
+            width: 1.25rem;
+            height: 1.25rem;
+        }
+    }
+
+    .canvas-toolbar-center {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        pointer-events: auto;
+    }
+
+    .canvas-page-switch {
+        background: #8b6914;
+        color: #f5e6c8;
+        border: 2px solid #6b4f0a;
+        border-radius: 6px;
+        padding: 0.45rem 0.45rem;
+        font-size: 1rem;
+        font-weight: 600;
+        cursor: pointer;
+        display: inline-flex;
+        align-items: center;
+        gap: 0.1rem;
+        white-space: nowrap;
+    }
+
+    @media (hover: hover) {
+        .canvas-page-switch:hover {
+            background: #a88018;
+        }
+    }
+
+    .canvas-zoom {
+        display: inline-flex;
+        align-items: stretch;
+        border: 2px solid #6b4f0a;
+        border-radius: 6px;
+        overflow: hidden;
+    }
+
+    .canvas-zoom-btn {
+        background: #8b6914;
+        color: #f5e6c8;
+        border: none;
+        padding: 0.45rem 0.7rem;
+        font-size: 1rem;
+        font-weight: 600;
+        line-height: 1;
+        cursor: pointer;
+    }
+
+        .canvas-zoom-btn + .canvas-zoom-btn {
+            border-left: 1px solid #6b4f0a;
+        }
+
+    .canvas-zoom-reset {
+        /* Fixed width sized for the widest value ("200%") so the button doesn't
        resize when the percentage crosses between 2 and 3 digits. */
-    width: 3.9rem;
-    padding-left: 0;
-    padding-right: 0;
-    text-align: center;
-    font-variant-numeric: tabular-nums;
-}
+        width: 3.9rem;
+        padding-left: 0;
+        padding-right: 0;
+        text-align: center;
+        font-variant-numeric: tabular-nums;
+    }
 
-.canvas-zoom-btn:hover:not([disabled]) {
-    background: #a88018;
-}
+    @media (hover: hover) {
+        .canvas-zoom-btn:hover:not([disabled]) {
+            background: #a88018;
+        }
+    }
 
-.canvas-zoom-btn[disabled] {
-    opacity: 0.5;
-    cursor: not-allowed;
-}
+    .canvas-zoom-btn[disabled] {
+        opacity: 0.5;
+        cursor: not-allowed;
+    }
 
-.picker-overlay {
-    position: fixed;
-    left: 0;
-    right: 0;
-    top: var(--vvtop, 0);
-    height: var(--vvh, 100dvh);
-    background: rgba(0, 0, 0, 0.55);
-    z-index: 2000;
-    display: flex;
-    align-items: flex-start;
-    justify-content: center;
-    padding: 1rem;
-    overflow: hidden;
-}
+    .picker-overlay {
+        position: fixed;
+        left: 0;
+        right: 0;
+        top: var(--vvtop, 0);
+        height: var(--vvh, 100dvh);
+        background: rgba(0, 0, 0, 0.55);
+        z-index: 2000;
+        display: flex;
+        align-items: flex-start;
+        justify-content: center;
+        padding: 1rem;
+        overflow: hidden;
+    }
 
-.picker-panel {
-    background: #f5e6c8;
-    color: #3b2412;
-    border: 2px solid #8b6914;
-    border-radius: 8px;
-    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.5);
-    width: 100%;
-    max-width: 560px;
-    height: 100%;
-    max-height: 100%;
-    display: flex;
-    flex-direction: column;
-    overflow: hidden;
-}
+    .picker-panel {
+        background: #f5e6c8;
+        color: #3b2412;
+        border: 2px solid #8b6914;
+        border-radius: 8px;
+        box-shadow: 0 4px 24px rgba(0, 0, 0, 0.5);
+        width: 100%;
+        max-width: 560px;
+        height: 100%;
+        max-height: 100%;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+    }
 
-.picker-header {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    padding: 0.6rem 0.75rem;
-    border-bottom: 1px solid #c4a265;
-    background: #e8d4a8;
-    flex: 0 0 auto;
-}
+    .picker-header {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        padding: 0.6rem 0.75rem;
+        border-bottom: 1px solid #c4a265;
+        background: #e8d4a8;
+        flex: 0 0 auto;
+    }
 
-.picker-input {
-    flex: 1 1 auto;
-    min-width: 0;
-    padding: 0.5rem 0.75rem;
-    border: 2px solid #8b6914;
-    border-radius: 6px;
-    font-size: 1rem;
-    background: #fff8e8;
-    color: #3b2412;
-}
+    .picker-input {
+        flex: 1 1 auto;
+        min-width: 0;
+        padding: 0.5rem 0.75rem;
+        border: 2px solid #8b6914;
+        border-radius: 6px;
+        font-size: 1rem;
+        background: #fff8e8;
+        color: #3b2412;
+    }
 
-.picker-cancel {
-    flex: 0 0 auto;
-    background: transparent;
-    border: 2px solid #8b6914;
-    color: #8b6914;
-    width: 36px;
-    height: 36px;
-    border-radius: 6px;
-    font-size: 1.2rem;
-    line-height: 1;
-    cursor: pointer;
-}
+    .picker-cancel {
+        flex: 0 0 auto;
+        background: transparent;
+        border: 2px solid #8b6914;
+        color: #8b6914;
+        width: 36px;
+        height: 36px;
+        border-radius: 6px;
+        font-size: 1.2rem;
+        line-height: 1;
+        cursor: pointer;
+    }
 
-.picker-filter-toggle {
-    flex: 0 0 auto;
-    background: transparent;
-    border: 2px solid #8b6914;
-    color: #8b6914;
-    width: 36px;
-    height: 36px;
-    border-radius: 6px;
-    font-size: 1.2rem;
-    line-height: 1;
-    cursor: pointer;
-}
+    .picker-filter-toggle {
+        flex: 0 0 auto;
+        background: transparent;
+        border: 2px solid #8b6914;
+        color: #8b6914;
+        width: 36px;
+        height: 36px;
+        border-radius: 6px;
+        font-size: 1.2rem;
+        line-height: 1;
+        cursor: pointer;
+    }
 
-.picker-filter-toggle.expanded {
-    background: #e8d4a8;
-}
+        .picker-filter-toggle.expanded {
+            background: #e8d4a8;
+        }
 
-.picker-filters {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.4rem;
-    padding: 0.5rem 0.75rem;
-    background: #efd9a5;
-    border-bottom: 1px solid #c4a265;
-    flex: 0 0 auto;
-}
+    .picker-filters {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.4rem;
+        padding: 0.5rem 0.75rem;
+        background: #efd9a5;
+        border-bottom: 1px solid #c4a265;
+        flex: 0 0 auto;
+    }
 
-.picker-filter-btn {
-    background: #f5e6c8;
-    border: 2px solid #8b6914;
-    color: #3b2412;
-    border-radius: 6px;
-    padding: 0.3rem 0.7rem;
-    font-size: 0.95rem;
-    cursor: pointer;
-}
+    .picker-filter-btn {
+        background: #f5e6c8;
+        border: 2px solid #8b6914;
+        color: #3b2412;
+        border-radius: 6px;
+        padding: 0.3rem 0.7rem;
+        font-size: 0.95rem;
+        cursor: pointer;
+    }
 
-.picker-filter-btn.active {
-    background: #c9941a;
-    color: #f5e6c8;
-}
+        .picker-filter-btn.active {
+            background: #c9941a;
+            color: #f5e6c8;
+        }
 
-.picker-list-wrap {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    flex: 1 1 auto;
-    min-height: 0;
-    overflow: hidden;
-}
+    .picker-list-wrap {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        flex: 1 1 auto;
+        min-height: 0;
+        overflow: hidden;
+    }
 
-.picker-list {
-    flex: 1 1 auto;
-    min-height: 0;
-    overflow-y: auto;
-    -webkit-overflow-scrolling: touch;
-    padding: 0.25rem 0;
-}
+    .picker-list {
+        flex: 1 1 auto;
+        min-height: 0;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+        padding: 0.25rem 0;
+    }
 
-.picker-filter-dropdown {
-    position: absolute;
-    inset: 0;
-    background: #f5e6c8;
-    overflow-y: auto;
-    -webkit-overflow-scrolling: touch;
-    padding: 0.25rem 0;
-    z-index: 1;
-}
+    .picker-filter-dropdown {
+        position: absolute;
+        inset: 0;
+        background: #f5e6c8;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+        padding: 0.25rem 0;
+        z-index: 1;
+    }
 
-.picker-filter-option {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    width: 100%;
-    background: transparent;
-    border: none;
-    border-bottom: 1px solid #d6bf8b;
-    text-align: left;
-    padding: 0.55rem 1rem;
-    cursor: pointer;
-    color: #3b2412;
-    font-size: 0.95rem;
-}
+    .picker-filter-option {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        width: 100%;
+        background: transparent;
+        border: none;
+        border-bottom: 1px solid #d6bf8b;
+        text-align: left;
+        padding: 0.55rem 1rem;
+        cursor: pointer;
+        color: #3b2412;
+        font-size: 0.95rem;
+    }
 
-.picker-filter-option:hover,
-.picker-filter-option:active,
-.picker-filter-option:focus {
-    background: #e8d4a8;
-    outline: none;
-}
+        .picker-filter-option:active,
+        .picker-filter-option:focus {
+            background: #e8d4a8;
+            outline: none;
+        }
 
-.picker-filter-option.selected {
-    background: #f0d68a;
-}
+    @media (hover: hover) {
+        .picker-filter-option:hover {
+            background: #e8d4a8;
+        }
+    }
 
-.picker-filter-check {
-    font-size: 1.1rem;
-    color: #6b4f0a;
-    flex: 0 0 auto;
-}
+    .picker-filter-option.selected {
+        background: #f0d68a;
+    }
 
-.picker-filter-group {
-    color: #6b4f0a;
-    font-size: 0.85rem;
-    margin-right: 0.25rem;
-}
+    .picker-filter-check {
+        font-size: 1.1rem;
+        color: #6b4f0a;
+        flex: 0 0 auto;
+    }
 
-.picker-item {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 0.1rem;
-    width: 100%;
-    background: transparent;
-    border: none;
-    border-bottom: 1px solid #d6bf8b;
-    text-align: left;
-    padding: 0.6rem 1rem;
-    cursor: pointer;
-    color: #3b2412;
-}
+    .picker-filter-group {
+        color: #6b4f0a;
+        font-size: 0.85rem;
+        margin-right: 0.25rem;
+    }
 
-.picker-item:hover,
-.picker-item:active,
-.picker-item:focus {
-    background: #e8d4a8;
-    outline: none;
-}
+    .picker-item {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.1rem;
+        width: 100%;
+        background: transparent;
+        border: none;
+        border-bottom: 1px solid #d6bf8b;
+        text-align: left;
+        padding: 0.6rem 1rem;
+        cursor: pointer;
+        color: #3b2412;
+    }
 
-.picker-item-open {
-    background: #d8e6c4;
-}
+        .picker-item:active,
+        .picker-item:focus {
+            background: #e8d4a8;
+            outline: none;
+        }
 
-.picker-item-open:hover,
-.picker-item-open:active,
-.picker-item-open:focus {
-    background: #c8dab0;
-}
+    @media (hover: hover) {
+        .picker-item:hover {
+            background: #e8d4a8;
+        }
+    }
 
-.picker-item-row {
-    display: flex;
-    align-items: baseline;
-    justify-content: space-between;
-    gap: 0.5rem;
-    width: 100%;
-}
+    .picker-item-open {
+        background: #d8e6c4;
+    }
 
-.picker-item-title {
-    font-weight: 600;
-    font-size: 1rem;
-}
+        .picker-item-open:active,
+        .picker-item-open:focus {
+            background: #c8dab0;
+        }
 
-.picker-item-level {
-    font-size: 0.9rem;
-    color: #6b4f0a;
-    flex: 0 0 auto;
-}
+    @media (hover: hover) {
+        .picker-item-open:hover {
+            background: #c8dab0;
+        }
+    }
 
-.picker-item-title-en {
-    font-size: 0.85rem;
-    color: #6b4f0a;
-}
+    .picker-item-row {
+        display: flex;
+        align-items: baseline;
+        justify-content: space-between;
+        gap: 0.5rem;
+        width: 100%;
+    }
 
-.picker-empty {
-    padding: 1rem;
-    text-align: center;
-    color: #6b4f0a;
-    font-style: italic;
-}
+    .picker-item-title {
+        font-weight: 600;
+        font-size: 1rem;
+    }
 
-.canvas-error {
-    margin: 0;
-}
+    .picker-item-level {
+        font-size: 0.9rem;
+        color: #6b4f0a;
+        flex: 0 0 auto;
+    }
 
-.popup-shell {
-    position: absolute;
-    top: 0;
-    left: 0;
-    padding: 20px;
-    transform: translate(var(--dx, 0px), var(--dy, 0px));
-    pointer-events: none;
-    contain: paint layout;
-}
+    .picker-item-title-en {
+        font-size: 0.85rem;
+        color: #6b4f0a;
+    }
 
-.popup {
-    position: relative;
-    pointer-events: auto;
-    /* Fixed CSS-px geometry only — viewport units (vw/dvh) here would make the same
+    .picker-empty {
+        padding: 1rem;
+        text-align: center;
+        color: #6b4f0a;
+        font-style: italic;
+    }
+
+    .canvas-error {
+        margin: 0;
+    }
+
+    .popup-shell {
+        position: absolute;
+        top: 0;
+        left: 0;
+        padding: 20px;
+        transform: translate(var(--dx, 0px), var(--dy, 0px));
+        pointer-events: none;
+        contain: paint layout;
+    }
+
+    .popup {
+        position: relative;
+        pointer-events: auto;
+        /* Fixed CSS-px geometry only — viewport units (vw/dvh) here would make the same
        saved layout render different popup sizes per device (gaps in shared sheets).
        Small screens compensate with the canvas pinch-zoom, not with shrinking popups. */
-    width: 420px;
-    background: #f5e6c8;
-    color: #3b2412;
-    border: 2px solid #8b6914;
-    //border-radius: 4px;
-    //box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5);
-    overflow: hidden;
-    //opacity: 1;
-    //transition: opacity 0.15s, box-shadow 0.15s;
-    display: flex;
-    flex-direction: column;
-    max-height: 350px;
-}
+        width: 420px;
+        background: #f5e6c8;
+        color: #3b2412;
+        border: 2px solid #8b6914;
+        //border-radius: 4px;
+        //box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5);
+        overflow: hidden;
+        //opacity: 1;
+        //transition: opacity 0.15s, box-shadow 0.15s;
+        display: flex;
+        flex-direction: column;
+        max-height: 350px;
+    }
 
-.popup-sized {
-    width: var(--pw);
-    height: var(--ph);
-    max-width: none;
-    max-height: none;
-}
+    .popup-sized {
+        width: var(--pw);
+        height: var(--ph);
+        max-width: none;
+        max-height: none;
+    }
 
-.popup-resize {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    width: 18px;
-    height: 18px;
-    display: flex;
-    align-items: flex-end;
-    justify-content: flex-end;
-    padding: 1px;
-    color: #8b6914;
-    font-size: 0.7rem;
-    line-height: 1;
-    cursor: nwse-resize;
-    user-select: none;
-    touch-action: none;
-    z-index: 2;
-}
+    .popup-resize {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        width: 18px;
+        height: 18px;
+        display: flex;
+        align-items: flex-end;
+        justify-content: flex-end;
+        padding: 1px;
+        color: #8b6914;
+        font-size: 0.7rem;
+        line-height: 1;
+        cursor: nwse-resize;
+        user-select: none;
+        touch-action: none;
+        z-index: 2;
+    }
 
-.popup-resize:hover {
-    color: #3b2412;
-}
+    @media (hover: hover) {
+        .popup-resize:hover {
+            color: #3b2412;
+        }
+    }
 
-.popup-active {
-    opacity: 1;
-    border-color: #c9941a;
-    // box-shadow: 0 0 0 2px #c9941a, 0 6px 24px rgba(0, 0, 0, 0.5);
-}
+    .popup-active {
+        opacity: 1;
+        border-color: #c9941a;
+        // box-shadow: 0 0 0 2px #c9941a, 0 6px 24px rgba(0, 0, 0, 0.5);
+    }
 
-.popup-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0.2rem 0.2rem 0.2rem 0.85rem;
-    background: #e8d4a8;
-    border-bottom: 1px solid #c4a265;
-    cursor: move;
-    user-select: none;
-    touch-action: none;
-    flex: 0 0 auto;
-}
+    .popup-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0.2rem 0.2rem 0.2rem 0.85rem;
+        background: #e8d4a8;
+        border-bottom: 1px solid #c4a265;
+        cursor: move;
+        user-select: none;
+        touch-action: none;
+        flex: 0 0 auto;
+    }
 
-.popup-active .popup-header {
-    background: #f0d68a;
-}
+    .popup-active .popup-header {
+        background: #f0d68a;
+    }
 
-.popup-title {
-    font-size: 0.9rem;
-    font-weight: 700;
-    color: #3b2412;
-}
+    .popup-title {
+        font-size: 0.9rem;
+        font-weight: 700;
+        color: #3b2412;
+    }
 
-.popup-title-level {
-    font-weight: 400;
-    color: #6b4f0a;
-    margin-left: 0.3rem;
-}
+    .popup-title-level {
+        font-weight: 400;
+        color: #6b4f0a;
+        margin-left: 0.3rem;
+    }
 
-.popup-close {
-    background: transparent;
-    border: none;
-    font-size: 1.4rem;
-    line-height: 1;
-    padding: 0 0.5rem;
-    color: #8b6914;
-    cursor: pointer;
-}
+    .popup-close {
+        background: transparent;
+        border: none;
+        font-size: 1.4rem;
+        line-height: 1;
+        padding: 0 0.5rem;
+        color: #8b6914;
+        cursor: pointer;
+    }
 
-.popup-close:hover {
-    color: #3b2412;
-}
+    @media (hover: hover) {
+        .popup-close:hover {
+            color: #3b2412;
+        }
+    }
 
-.popup-body {
-    padding: 0.075rem 0.1rem;
-    /* Inactive popups are NOT scroll containers, so Chrome doesn't promote them to
+    .popup-body {
+        padding: 0.075rem 0.1rem;
+        /* Inactive popups are NOT scroll containers, so Chrome doesn't promote them to
        composited scrolling layers. That layer count (one per scrollable popup) was what
        made Android drop/partially-present frames while zooming. Only the active popup
        (below) gets a scrollbar, so there's at most one such layer at a time. Inactive
        popups clip their overflow — focus a popup to scroll it. */
-    overflow-y: hidden;
-    /* Reserve the scrollbar strip permanently: when the popup becomes active and
+        overflow-y: hidden;
+        /* Reserve the scrollbar strip permanently: when the popup becomes active and
        overflow flips to auto (below), a classic desktop scrollbar would otherwise
        take layout space and reflow/shrink the content. Thin halves the reserved
        strip, so desktop text wraps closer to mobile (whose overlay scrollbars
        take no layout space at all). */
-    //scrollbar-gutter: stable;
-    scrollbar-width: thin;
-    flex: 1 1 auto;
-    /* Bundled font, NOT a system stack: popup auto-height must measure identically on
+        //scrollbar-gutter: stable;
+        scrollbar-width: thin;
+        flex: 1 1 auto;
+        /* Bundled font, NOT a system stack: popup auto-height must measure identically on
        every device or shared sheet layouts drift (see @font-face in app.css). */
-    font-family: 'Roboto', 'Segoe UI', system-ui, sans-serif;
-    font-size: 0.75rem;
-    line-height: 1.4;
-    color: #2b1a08;
-}
+        font-family: 'Roboto', 'Segoe UI', system-ui, sans-serif;
+        font-size: 0.75rem;
+        line-height: 1.4;
+        color: #2b1a08;
+    }
 
-/* The active (top) popup is the only scrollable one. overflow:hidden preserves scrollTop,
+    /* The active (top) popup is the only scrollable one. overflow:hidden preserves scrollTop,
    so a popup keeps its scroll position when it goes inactive and back. */
-.popup-active .popup-body {
-    overflow-y: auto;
-}
+    .popup-active .popup-body {
+        overflow-y: auto;
+    }
 
-/* During a pinch gesture, drop even the active popup's scroll layer (higher specificity
+    /* During a pinch gesture, drop even the active popup's scroll layer (higher specificity
    than .popup-active above) so zero scrolling layers are composited mid-zoom. */
-.canvas-wrapper.zooming .popup-body {
-    //overflow-y: hidden;
-}
-
-.popup-body h2 {
-    font-size: 0.9rem;
-    margin: 0 0 0.5rem;
-    color: #5b3a10;
-}
-
-.popup-body ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-.popup-body li {
-    margin: 0.2rem 0;
-}
-
-.popup-body li strong {
-    color: #5b3a10;
-}
-
-.popup-body p {
-    margin: 0.4rem 0;
-}
-
-.drag-overlay {
-    position: fixed;
-    inset: 0;
-    z-index: 1000;
-    cursor: move;
-    background: transparent;
-    touch-action: none;
-}
-
-.resize-overlay {
-    position: fixed;
-    inset: 0;
-    z-index: 1000;
-    cursor: nwse-resize;
-    background: transparent;
-    touch-action: none;
-}
-
-/* ---- PWA status toast (MainLayout): "available offline" / "update ready" ---- */
-.pwa-toast {
-    position: fixed;
-    left: 50%;
-    bottom: 1.25rem;
-    transform: translateX(-50%);
-    /* Above the picker overlay (2000) — the toast is informational and brief. */
-    z-index: 3000;
-    padding: 0.5rem 1rem;
-    background: #f5e6c8;
-    color: #3b2412;
-    border: 2px solid #6b4f0a;
-    border-radius: 6px;
-    box-shadow: 0 4px 12px rgba(59, 36, 18, 0.35);
-    font-size: 0.95rem;
-    white-space: nowrap;
-    /* Purely informational — never block taps on what's underneath. */
-    pointer-events: none;
-    animation: pwa-toast-in 200ms ease-out;
-}
-
-@keyframes pwa-toast-in {
-    from {
-        opacity: 0;
-        transform: translateX(-50%) translateY(0.5rem);
+    .canvas-wrapper.zooming .popup-body {
+        //overflow-y: hidden;
     }
 
-    to {
-        opacity: 1;
-        transform: translateX(-50%) translateY(0);
+    .popup-body h2 {
+        font-size: 0.9rem;
+        margin: 0 0 0.5rem;
+        color: #5b3a10;
     }
-}
 
-@media (prefers-reduced-motion: reduce) {
+    .popup-body ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .popup-body li {
+        margin: 0.2rem 0;
+    }
+
+        .popup-body li strong {
+            color: #5b3a10;
+        }
+
+    .popup-body p {
+        margin: 0.4rem 0;
+    }
+
+    .drag-overlay {
+        position: fixed;
+        inset: 0;
+        z-index: 1000;
+        cursor: move;
+        background: transparent;
+        touch-action: none;
+    }
+
+    .resize-overlay {
+        position: fixed;
+        inset: 0;
+        z-index: 1000;
+        cursor: nwse-resize;
+        background: transparent;
+        touch-action: none;
+    }
+
+    /* ---- PWA status toast (MainLayout): "available offline" / "update ready" ---- */
     .pwa-toast {
-        animation: none;
+        position: fixed;
+        left: 50%;
+        bottom: 1.25rem;
+        transform: translateX(-50%);
+        /* Above the picker overlay (2000) — the toast is informational and brief. */
+        z-index: 3000;
+        padding: 0.5rem 1rem;
+        background: #f5e6c8;
+        color: #3b2412;
+        border: 2px solid #6b4f0a;
+        border-radius: 6px;
+        box-shadow: 0 4px 12px rgba(59, 36, 18, 0.35);
+        font-size: 0.95rem;
+        white-space: nowrap;
+        /* Purely informational — never block taps on what's underneath. */
+        pointer-events: none;
+        animation: pwa-toast-in 200ms ease-out;
     }
-}
+
+    @keyframes pwa-toast-in {
+        from {
+            opacity: 0;
+            transform: translateX(-50%) translateY(0.5rem);
+        }
+
+        to {
+            opacity: 1;
+            transform: translateX(-50%) translateY(0);
+        }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+        .pwa-toast {
+            animation: none;
+        }
+    }

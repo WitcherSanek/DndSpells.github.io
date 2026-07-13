@@ -1,0 +1,59 @@
+{
+  "source": [
+    {
+      "value": "102",
+      "title": "Player's Handbook",
+      "group": "Core"
+    },
+    {
+      "value": "198",
+      "title": "Bigby Presents: Glory of the Giants",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "207",
+      "title": "The Book of Many Things",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "119",
+      "title": "Eberron: Rising from the Last War",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "152",
+      "title": "Fizban's Treasury of Dragons",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "205",
+      "title": "Planescape: Adventures in the Multiverse",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "108",
+      "title": "Sword Coast Adventurer's Guide",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "117",
+      "title": "Tasha's Cauldron of Everything",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "109",
+      "title": "Xanathar's Guide to Everything",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "183",
+      "title": "Dragonlance: Shadow of the Dragon Queen",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "155",
+      "title": "Strixhaven: A Curriculum of Chaos",
+      "group": "Adventures, hardcovers"
+    }
+  ]
+}

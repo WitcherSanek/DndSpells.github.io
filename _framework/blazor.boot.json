@@ -1,9 +1,9 @@
 {
   "mainAssemblyName": "BlazorSpellsPicker",
   "resources": {
-    "hash": "sha256-sjRJ2RnmDZmHhzPmqUm5XHa/fc5qKgcIP8KxDvOtUrU=",
+    "hash": "sha256-Gmm0MrGrkDEfY2KA05FuncgN2O74lVdtKf9AYiJ72EQ=",
     "fingerprinting": {
-      "Microsoft.AspNetCore.Components.67x2bbedbb.wasm": "Microsoft.AspNetCore.Components.wasm",
+      "Microsoft.AspNetCore.Components.uah46rwb9m.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.bi781acudx.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
       "Microsoft.AspNetCore.Components.WebAssembly.lztvdezope.wasm": "Microsoft.AspNetCore.Components.WebAssembly.wasm",
       "Microsoft.Extensions.Configuration.2qcekzlwww.wasm": "Microsoft.Extensions.Configuration.wasm",
@@ -26,22 +26,22 @@
       "System.Diagnostics.DiagnosticSource.xc305ou37k.wasm": "System.Diagnostics.DiagnosticSource.wasm",
       "System.IO.Compression.wiorwmvqzg.wasm": "System.IO.Compression.wasm",
       "System.IO.Pipelines.ozf0bs3f96.wasm": "System.IO.Pipelines.wasm",
-      "System.Linq.7i9llpsklm.wasm": "System.Linq.wasm",
+      "System.Linq.0lmjznc4ep.wasm": "System.Linq.wasm",
       "System.Memory.bdu23r9jzz.wasm": "System.Memory.wasm",
       "System.Net.Http.Json.npknkvpz35.wasm": "System.Net.Http.Json.wasm",
       "System.Net.Http.tb6xh0etg8.wasm": "System.Net.Http.wasm",
       "System.Net.Primitives.g4rev0eqo7.wasm": "System.Net.Primitives.wasm",
       "System.Private.Uri.5k78bg64a2.wasm": "System.Private.Uri.wasm",
       "System.Runtime.InteropServices.JavaScript.pkvqfb5bgf.wasm": "System.Runtime.InteropServices.JavaScript.wasm",
-      "System.Runtime.j4lqvj9mr0.wasm": "System.Runtime.wasm",
+      "System.Runtime.0pwlozjfgn.wasm": "System.Runtime.wasm",
       "System.Text.Encodings.Web.jcc0mnauy4.wasm": "System.Text.Encodings.Web.wasm",
-      "System.Text.Json.orjniol9mf.wasm": "System.Text.Json.wasm",
+      "System.Text.Json.qmr7erwb4i.wasm": "System.Text.Json.wasm",
       "System.Text.RegularExpressions.rs9b7ykfzr.wasm": "System.Text.RegularExpressions.wasm",
       "System.Threading.ck7ypa45et.wasm": "System.Threading.wasm",
-      "System.Private.CoreLib.r9y3qw0qfu.wasm": "System.Private.CoreLib.wasm",
-      "BlazorSpellsPicker.c3jboh1jka.wasm": "BlazorSpellsPicker.wasm",
+      "System.Private.CoreLib.cdzli7vm6t.wasm": "System.Private.CoreLib.wasm",
+      "BlazorSpellsPicker.77eaqsklkf.wasm": "BlazorSpellsPicker.wasm",
       "dotnet.native.1zjieb233b.js": "dotnet.native.js",
-      "dotnet.native.oslf1t5rnp.wasm": "dotnet.native.wasm",
+      "dotnet.native.atav4djjtu.wasm": "dotnet.native.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.runtime.dstopyvqzi.js": "dotnet.runtime.js",
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
@@ -55,7 +55,7 @@
       "dotnet.runtime.dstopyvqzi.js": "sha256-zZ0MGlWZF0pG99PvNYvOdUvox/BZe6pddrswXlZoKyc="
     },
     "wasmNative": {
-      "dotnet.native.oslf1t5rnp.wasm": "sha256-GGGg5UGuH9hLzWryur66kNzbXHXB+eYKbQ8m1ZEqmWM="
+      "dotnet.native.atav4djjtu.wasm": "sha256-gu82sca8jpe2F+OZdohIUCel8N7bHsvxvtqQzGcLEyQ="
     },
     "icu": {
       "icudt_CJK.tjcz0u77k5.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -64,10 +64,10 @@
     },
     "coreAssembly": {
       "System.Runtime.InteropServices.JavaScript.pkvqfb5bgf.wasm": "sha256-p1LD0fpgFsTckIcsUH+xkP6qPuHbu2ht7Qc9DhOztmY=",
-      "System.Private.CoreLib.r9y3qw0qfu.wasm": "sha256-wdUEyn9n1H6TUy/SfbL+kO60Y/6IVpAs07xBcCIs6kw="
+      "System.Private.CoreLib.cdzli7vm6t.wasm": "sha256-UOTdDjojnkp0+oB8DE1p57ALXmvVkjsYtxqI/w2R3io="
     },
     "assembly": {
-      "Microsoft.AspNetCore.Components.67x2bbedbb.wasm": "sha256-kisEClbwgsMNmBQYT/KbEoqtBKuRF/6dG8b7/DMyWwM=",
+      "Microsoft.AspNetCore.Components.uah46rwb9m.wasm": "sha256-lgJcVJx/hBF3SzGcYBtKtJO+TVLIZAfrwG+AA3xGtDk=",
       "Microsoft.AspNetCore.Components.Web.bi781acudx.wasm": "sha256-AyHbOGfQrdhEZshfbhZCSD/Rbw3noqlw2dOUEUywllk=",
       "Microsoft.AspNetCore.Components.WebAssembly.lztvdezope.wasm": "sha256-bwExIeafSSeDe3ejJgFvGXT2zhDkTiWm1OkZVJPSICg=",
       "Microsoft.Extensions.Configuration.2qcekzlwww.wasm": "sha256-FngMKPqjYJ/ug7cPfNm4X9SuncFTFku8vfzirt9fM9M=",
@@ -90,18 +90,18 @@
       "System.Diagnostics.DiagnosticSource.xc305ou37k.wasm": "sha256-ATbFuTgCmdUhL37kJyktmhxRnr5MnU3oZJm/+MZ06AI=",
       "System.IO.Compression.wiorwmvqzg.wasm": "sha256-GKN1z6KEpYn1BEGZq2PmkKCHsaZ6l4kO0efqrYNKFfs=",
       "System.IO.Pipelines.ozf0bs3f96.wasm": "sha256-DOS3631fUKSvbgYYQ0EtoOsoqV7wDE8Xh4FViJerdx8=",
-      "System.Linq.7i9llpsklm.wasm": "sha256-oeMcmhODDQPsHjKZpAefNKXgjINS51FFf98GcvhYFRw=",
+      "System.Linq.0lmjznc4ep.wasm": "sha256-7IcMLTjY3X/DPnFye2/obQD9sLSD9542ef8DBQPbL+Q=",
       "System.Memory.bdu23r9jzz.wasm": "sha256-wXr8pChHfXS2yIja0E17H6ZCmh9l8oha1SP2kIwW2Qs=",
       "System.Net.Http.Json.npknkvpz35.wasm": "sha256-ZXdyCYAd3Pq15GIVnUM5pXiPl60hnT1/NX1c/JR/okE=",
       "System.Net.Http.tb6xh0etg8.wasm": "sha256-SW9b959B5EAvPPE5RuWsKRXBumDq9MJNyGNosSMEZ0M=",
       "System.Net.Primitives.g4rev0eqo7.wasm": "sha256-0F+u4JxhdQYussxi3Ux6N0+rGVaFkPwGeirkzA/eFhA=",
       "System.Private.Uri.5k78bg64a2.wasm": "sha256-RWO/0ao7JZ1SRlh8NW5Yw567QN7eCLwHD+qkBXDYQe8=",
-      "System.Runtime.j4lqvj9mr0.wasm": "sha256-c6gzgrC3/3Ncvr76NvLMGV7GlQ7Ed7VRh9um+n7Iss8=",
+      "System.Runtime.0pwlozjfgn.wasm": "sha256-PPOkeo79KsaRzeViohgoEjrRifyoSbTb7fmY9We5jSY=",
       "System.Text.Encodings.Web.jcc0mnauy4.wasm": "sha256-g/Cc00CC4N00kHv3CM4swNDmJiXIGFZ51wbyItw+7tw=",
-      "System.Text.Json.orjniol9mf.wasm": "sha256-1AWsMvHCgzlX3fiTauZcel4cz51SOHnPFHR9HLA5THU=",
+      "System.Text.Json.qmr7erwb4i.wasm": "sha256-omHGPfm5AdA7xknv2Av0E7syJoKapc/MxBqt2wndP28=",
       "System.Text.RegularExpressions.rs9b7ykfzr.wasm": "sha256-WzXHMmZ1kz109jtctos7qA2Km7G32rQUz7UcatGJvCg=",
       "System.Threading.ck7ypa45et.wasm": "sha256-NAT337jZ8vKKqEaIIZX7h6Ebx8VSc6hIlBPK0fPmL28=",
-      "BlazorSpellsPicker.c3jboh1jka.wasm": "sha256-mP7B2NNkaufC8of/2NqzgsxVuzLYw5IRu5LwoSbSdS4="
+      "BlazorSpellsPicker.77eaqsklkf.wasm": "sha256-nc9bH+UY9FbCDvEYIVwFDqdAD9U85IMRNgYH+9fCcbI="
     }
   },
   "cacheBootResources": true,

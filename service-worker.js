@@ -1,4 +1,4 @@
-/* Manifest version: J5S59fOV */
+/* Manifest version: iqCSEbDn */
 // Caution! Be sure you understand the caveats before publishing an application with
 // offline support. See https://aka.ms/blazor-offline-considerations
 
@@ -15,7 +15,7 @@ self.addEventListener('message', event => {
 const cacheNamePrefix = 'offline-cache-';
 const cacheName = `${cacheNamePrefix}${self.assetsManifest.version}`;
 const offlineAssetsInclude = [ /\.dll$/, /\.pdb$/, /\.wasm/, /\.html/, /\.js$/, /\.json$/, /\.webmanifest$/, /\.css$/, /\.woff$/, /\.woff2$/, /\.ttf$/, /\.otf$/, /\.png$/, /\.jpe?g$/, /\.gif$/, /\.ico$/, /\.blat$/, /\.dat$/ ];
-const offlineAssetsExclude = [ /^service-worker\.js$/, /^FeatureData\/features\//, /^SpellData\/spells\// ];
+const offlineAssetsExclude = [ /^service-worker\.js$/, /^FeatureData\/features\//, /^SpellData\/spells\//, /^FeatData\/feats\// ];
 
 // Replace with your base path if you are hosting on a subfolder. Ensure there is a trailing '/'.
 const base = "/DndSpells.github.io/";
