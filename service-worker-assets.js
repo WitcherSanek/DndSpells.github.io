@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "iqCSEbDn",
+  "version": "u9lUOAyD",
   "assets": [
     {
       "hash": "sha256-OdSNkjLTUYkj6IT3jFm/oxzKIBuKLcqmo4JNMFrbMvk=",
@@ -6150,8 +6150,8 @@ self.assetsManifest = {
       "url": "SpellData/spells/99-protection-from-evil-and-good.html"
     },
     {
-      "hash": "sha256-nc9bH+UY9FbCDvEYIVwFDqdAD9U85IMRNgYH+9fCcbI=",
-      "url": "_framework/BlazorSpellsPicker.77eaqsklkf.wasm"
+      "hash": "sha256-Blijcb+XRDG4GAoSC78psN0OL4rRLSsB0qBval2r9xs=",
+      "url": "_framework/BlazorSpellsPicker.2qpfsjvb22.wasm"
     },
     {
       "hash": "sha256-AyHbOGfQrdhEZshfbhZCSD/Rbw3noqlw2dOUEUywllk=",
@@ -6298,7 +6298,7 @@ self.assetsManifest = {
       "url": "_framework/System.Threading.ck7ypa45et.wasm"
     },
     {
-      "hash": "sha256-VSqdMz4Zj3r+n3RhXR+n/aQOhBHSebup1aOA8gj18TY=",
+      "hash": "sha256-o7o/+4r6QixWAX1LLzY5XTIUF5UWEETWEN8B6B9H8N0=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -6338,7 +6338,7 @@ self.assetsManifest = {
       "url": "css/app.css"
     },
     {
-      "hash": "sha256-SU2oaLUVp8EYdlrD1h9UqO/+JuRHvpHolpCWgTkJgmM=",
+      "hash": "sha256-/kWWO6mIF5TDtOBq42eNUJTipIJfdECvUG23ifKtfjY=",
       "url": "css/popups.css"
     },
     {

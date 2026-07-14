@@ -56,7 +56,7 @@ main {
     pointer-events: none;
 }
 
-/* Row 1: add | page switch | fold. Row 2 (foldable): share | user | zoom.
+/* Row 1: add, stats | page switch | fold. Row 2 (foldable): inventory, resources | zoom | user, overflow.
    The left/center/right rhythm is identical in both rows. */
 .canvas-toolbar-row {
     position: relative;
@@ -156,7 +156,8 @@ main {
     cursor: not-allowed;
 }
 
-/* Right slot of each row: fold (row 1) and character switch (row 2, under fold). */
+/* Right group of each row: fold (row 1); character switch + overflow (row 2).
+   The auto margin sits on the group's first member, the rest follow via the row gap. */
 .canvas-fold-btn,
 .canvas-user-wrap {
     margin-left: auto;
@@ -297,15 +298,59 @@ main {
     }
 }
 
-/* ---- Share panel (anchored under the 📤 button, mirrors the character menu) ---- */
+/* ---- Overflow ("⋯") menu: rare actions — share, help, donate. ---- */
 
-.canvas-share-wrap {
+.canvas-overflow-wrap {
     position: relative;
 }
 
+.canvas-overflow-menu {
+    position: absolute;
+    right: 0;
+    top: calc(100% + 0.4rem);
+    background: #f5e6c8;
+    border: 2px solid #6b4f0a;
+    border-radius: 6px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5);
+    padding: 0.35rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    z-index: 1;
+}
+
+.overflow-item {
+    background: transparent;
+    border: none;
+    text-align: left;
+    padding: 0.45rem 0.5rem;
+    cursor: pointer;
+    color: #3b2412;
+    font-size: 0.9rem;
+    border-radius: 4px;
+    white-space: nowrap;
+}
+
+@media (hover: hover) {
+    .overflow-item:hover:not([disabled]) {
+        background: rgba(139, 105, 20, 0.25);
+    }
+}
+
+.overflow-item:active:not([disabled]) {
+    background: rgba(139, 105, 20, 0.25);
+}
+
+.overflow-item[disabled] {
+    opacity: 0.45;
+    cursor: not-allowed;
+}
+
+/* ---- Share panel (opened from the ⋯ menu, anchored under it like the character menu) ---- */
+
 .canvas-share-menu {
     position: absolute;
-    left: 0;
+    right: 0;
     top: calc(100% + 0.4rem);
     background: #f5e6c8;
     border: 2px solid #6b4f0a;
@@ -355,7 +400,7 @@ main {
     border-radius: 4px;
 }
 
-/* Short viewports (landscape phones): detach the menu from the 📤 button and use
+/* Short viewports (landscape phones): detach the menu from the ⋯ button and use
    (almost) the full height, like the resource panel — under the 8rem toolbar offset
    the QR could never be entirely on screen, which makes it unscannable. */
 @media (max-height: 32rem) {
@@ -442,7 +487,7 @@ main {
         position: fixed;
         top: 0.5rem;
         bottom: 1.5rem;
-        right: 0.75rem;
+        left: 0.75rem;
         z-index: 71;
         pointer-events: none;
     }
