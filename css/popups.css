@@ -1493,8 +1493,9 @@ main {
         pointer-events: auto;
         /* Fixed CSS-px geometry only — viewport units (vw/dvh) here would make the same
        saved layout render different popup sizes per device (gaps in shared sheets).
-       Small screens compensate with the canvas pinch-zoom, not with shrinking popups. */
-        width: 420px;
+       Screens too narrow for this default get a one-time clamp at popup creation
+       (persisted as a width-only size in OpenAsync), never a live viewport rule. */
+        width: 120px;
         background: #f5e6c8;
         color: #3b2412;
         border: 2px solid #8b6914;
@@ -1510,8 +1511,13 @@ main {
 
     .popup-sized {
         width: var(--pw);
-        height: var(--ph);
         max-width: none;
+    }
+
+    /* Only user-resized popups get a fixed height; width-only sizes (the creation-time
+       narrow-screen clamp) keep auto height under the default max-height cap. */
+    .popup-sized-h {
+        height: var(--ph);
         max-height: none;
     }
 
