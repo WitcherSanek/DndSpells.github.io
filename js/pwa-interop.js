@@ -31,10 +31,25 @@ window.pwaInterop = {
             location.reload();
         });
 
-        navigator.serviceWorker.register('service-worker.js').then(reg => {
+        // updateViaCache 'none': update checks must bypass the HTTP cache for
+        // importScripts too. service-worker.js itself never changes between
+        // deploys — the version lives in the imported service-worker-assets.js,
+        // and the default policy ('imports') can satisfy that fetch from a stale
+        // HTTP cache entry, making the check miss a deploy entirely. Runtime and
+        // offline serving are untouched: this only affects update-check fetches.
+        navigator.serviceWorker.register('service-worker.js', { updateViaCache: 'none' }).then(reg => {
             self._reg = reg;
             // An update finished caching in an earlier session and is still waiting.
             if (reg.waiting) self._setStatus('update-ready');
+        });
+
+        // Long-lived tabs (an installed PWA is rarely reloaded) only get the
+        // browser's ~daily automatic check — also look for updates whenever the
+        // app returns to the foreground. Offline/unreachable checks fail as no-ops.
+        document.addEventListener('visibilitychange', () => {
+            if (document.visibilityState === 'visible' && self._reg) {
+                self._reg.update().catch(() => { });
+            }
         });
     },
 

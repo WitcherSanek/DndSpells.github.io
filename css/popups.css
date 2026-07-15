@@ -1495,7 +1495,7 @@ main {
        saved layout render different popup sizes per device (gaps in shared sheets).
        Screens too narrow for this default get a one-time clamp at popup creation
        (persisted as a width-only size in OpenAsync), never a live viewport rule. */
-        width: 120px;
+        width: 420px;
         background: #f5e6c8;
         color: #3b2412;
         border: 2px solid #8b6914;

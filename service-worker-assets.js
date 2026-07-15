@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "HQmxU53e",
+  "version": "duwZzuVp",
   "assets": [
     {
       "hash": "sha256-OdSNkjLTUYkj6IT3jFm/oxzKIBuKLcqmo4JNMFrbMvk=",
@@ -6338,7 +6338,7 @@ self.assetsManifest = {
       "url": "css/app.css"
     },
     {
-      "hash": "sha256-jAC2txonL5/5tyrvByc74EQydiwhsDUVFGue1yL0C8w=",
+      "hash": "sha256-Bx0oVB9p5MCP/cxCUU9NQ0fgZdVqrRpq1eD0xdI6gvI=",
       "url": "css/popups.css"
     },
     {
@@ -6382,7 +6382,7 @@ self.assetsManifest = {
       "url": "js/popup-interop.js"
     },
     {
-      "hash": "sha256-iIZlO6Up+KhWUxOal3k71C4fAhWScRr1PtS3x4gppww=",
+      "hash": "sha256-zPB9C1kGP8+sgB5pzqhbnkHxqSCKZyuYlklHAbMs5/w=",
       "url": "js/pwa-interop.js"
     },
     {
