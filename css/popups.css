@@ -497,6 +497,13 @@ main {
         flex: 0 1 6rem;
     }
 
+    /* Right-docked variant (help): same column, opposite edge. Phones ignore it —
+       the bottom sheet spans the full width anyway. */
+    .panel-dock-right {
+        left: auto;
+        right: 0.75rem;
+    }
+
     .panel-dock .resource-panel {
         position: static;
         pointer-events: auto;
@@ -562,6 +569,67 @@ main {
             line-height: 1;
         }
 
+    /* ---- Combat row (КЗ / инициатива / скорость): first line of the hp-block. ---- */
+    .combat-row {
+        gap: 0.9rem;
+    }
+
+    .combat-stat {
+        font-size: 0.9rem;
+        white-space: nowrap;
+    }
+
+        .combat-stat b {
+            font-variant-numeric: tabular-nums;
+        }
+
+    .combat-row .combat-edit-btn {
+        margin-left: auto;
+    }
+
+    /* Rolled initiative for the current fight: same blue as temp HP — in this panel
+       blue means "transient combat state", unsigned means "roll result, not modifier". */
+    .init-roll {
+        margin-left: 0.3rem;
+        font-weight: 700;
+        color: #2a5d8a;
+    }
+
+    /* Two fixed lines: КЗ + скорость, then the initiative pair with the form
+       actions pinned right. */
+    .combat-form {
+        display: flex;
+        flex-direction: column;
+        gap: 0.35rem;
+    }
+
+    .combat-form-line {
+        display: flex;
+        align-items: center;
+        gap: 0.4rem;
+        flex-wrap: wrap; /* narrow phones may still need to break a line */
+    }
+
+    .combat-form-actions {
+        margin-left: auto;
+        display: flex;
+        align-items: center;
+    }
+
+    .combat-form .combat-label {
+        display: flex;
+        align-items: center;
+        gap: 0.25rem;
+        margin: 0;
+        font-size: 0.85rem;
+        white-space: nowrap;
+    }
+
+    .combat-input {
+        width: 3.4rem;
+        flex: 0 0 auto;
+    }
+
     /* ---- HP / combat state: pinned above the counter list, doesn't scroll with it. ---- */
     .hp-block {
         display: flex;
@@ -617,18 +685,14 @@ main {
         padding-bottom: 0;
     }
 
-    /* Readout pushed to the right edge; when the temp chip is present it leads and
-   the value follows it directly. */
-    .hp-apply-row .hp-temp {
-        margin-left: auto;
+    /* Readout sits left after the label; the ↕️/✏️ pair anchors right and the
+   unfolded damage/heal controls fill the middle (wrapping on the narrowest phones). */
+    .hp-apply-row {
+        flex-wrap: wrap;
     }
 
-    .hp-apply-row .hp-value {
+    .hp-apply-row .hp-toggle-btn {
         margin-left: auto;
-    }
-
-    .hp-apply-row .hp-temp + .hp-value {
-        margin-left: 0;
     }
 
     /* Death-save failures: same pip, wound-red. */
@@ -765,6 +829,109 @@ main {
         .hp-temp-btn {
             height: 2.5rem;
         }
+    }
+
+    /* ---- Inventory (инвентарь): shares .resource-panel's shell. Unlike resource
+   names, item text wraps — the description IS the content ("+2d6 против великанов"),
+   so it must stay readable instead of ellipsizing. ---- */
+
+    .inventory-row {
+        /* Icon and edit button hug the first text line when the text wraps. */
+        align-items: flex-start;
+    }
+
+    .inventory-icon {
+        flex: 0 0 auto;
+        font-size: 1rem;
+        line-height: 1.4;
+    }
+
+    .inventory-text {
+        flex: 1 1 auto;
+        min-width: 0;
+        font-size: 0.9rem;
+        line-height: 1.4;
+        white-space: pre-wrap;
+        overflow-wrap: anywhere;
+    }
+
+    /* Desktop dock only: width follows the longest item line instead of the fixed
+       23rem, so long descriptions get room instead of a thin, tall column. Capped at
+       half the screen; the phone bottom sheet is full-width already. */
+    @media (min-width: 700px) {
+        .panel-dock .inventory-panel {
+            width: fit-content;
+            min-width: 23rem;
+            max-width: 50vw;
+        }
+
+        .panel-dock .help-panel {
+            width: fit-content;
+            min-width: 23rem;
+            max-width: 50vw;
+        }
+    }
+
+    /* Grows with the text where field-sizing is supported (Chrome/Edge); elsewhere
+       stays at rows="2". The corner grip would fight the auto-sizing, so it's off. */
+    textarea.char-rename-input {
+        field-sizing: content;
+        min-height: 2.1rem;
+        resize: none;
+    }
+
+    /* Closed, the select is emoji-wide and the "⚔️ Оружие" label is clipped away —
+       full labels would eat half the edit row. The native option popup (or the
+       phone's picker dialog) sizes to its own content, so the full labels still
+       show while choosing. */
+    .inventory-icon-select {
+        width: 3.4rem;
+        text-overflow: ellipsis;
+    }
+
+    /* ---- Help panel (справка): a static legend. The icon samples copy the toolbar
+   button's look but are spans, not disabled buttons — dimmed buttons would read as
+   "feature unavailable" and add pointless tab stops. ---- */
+
+    .help-body {
+        overflow-y: auto;
+        display: flex;
+        flex-direction: column;
+        gap: 0.4rem;
+    }
+
+    .help-row {
+        display: flex;
+        align-items: center;
+        gap: 0.55rem;
+    }
+
+    .help-sample {
+        flex: 0 0 auto;
+        min-width: 2.4rem;
+        padding: 0.2rem 0.25rem;
+        text-align: center;
+        background: #8b6914;
+        color: #f5e6c8;
+        border: 2px solid #6b4f0a;
+        border-radius: 6px;
+        font-size: 0.9rem;
+        font-weight: 600;
+        line-height: 1.4;
+    }
+
+    /* Panel-row actions (✏️ и подобные) look like bare emoji in the app, so their
+       sample does too. */
+    .help-sample-plain {
+        background: transparent;
+        border-color: transparent;
+        color: inherit;
+    }
+
+    .help-text,
+    .help-note {
+        font-size: 0.9rem;
+        line-height: 1.35;
     }
 
     /* ---- Stats panel (характеристики): shares .resource-panel's fixed positioning.

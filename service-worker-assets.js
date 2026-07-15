@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "u9lUOAyD",
+  "version": "jgTCeD2D",
   "assets": [
     {
       "hash": "sha256-OdSNkjLTUYkj6IT3jFm/oxzKIBuKLcqmo4JNMFrbMvk=",
@@ -6150,8 +6150,8 @@ self.assetsManifest = {
       "url": "SpellData/spells/99-protection-from-evil-and-good.html"
     },
     {
-      "hash": "sha256-Blijcb+XRDG4GAoSC78psN0OL4rRLSsB0qBval2r9xs=",
-      "url": "_framework/BlazorSpellsPicker.2qpfsjvb22.wasm"
+      "hash": "sha256-wX3Tlpior1/OQAMPfQN9QDHh+Dk/hN/2LHLFNl7Glfw=",
+      "url": "_framework/BlazorSpellsPicker.btepb864cn.wasm"
     },
     {
       "hash": "sha256-AyHbOGfQrdhEZshfbhZCSD/Rbw3noqlw2dOUEUywllk=",
@@ -6266,20 +6266,20 @@ self.assetsManifest = {
       "url": "_framework/System.Net.Primitives.g4rev0eqo7.wasm"
     },
     {
-      "hash": "sha256-UOTdDjojnkp0+oB8DE1p57ALXmvVkjsYtxqI/w2R3io=",
-      "url": "_framework/System.Private.CoreLib.cdzli7vm6t.wasm"
+      "hash": "sha256-SKHZ7oYVR13BjxqzTVCErb/VCwrjwstgtv1X5FiTlCU=",
+      "url": "_framework/System.Private.CoreLib.sv83jvwxj6.wasm"
     },
     {
       "hash": "sha256-RWO/0ao7JZ1SRlh8NW5Yw567QN7eCLwHD+qkBXDYQe8=",
       "url": "_framework/System.Private.Uri.5k78bg64a2.wasm"
     },
     {
-      "hash": "sha256-PPOkeo79KsaRzeViohgoEjrRifyoSbTb7fmY9We5jSY=",
-      "url": "_framework/System.Runtime.0pwlozjfgn.wasm"
-    },
-    {
       "hash": "sha256-p1LD0fpgFsTckIcsUH+xkP6qPuHbu2ht7Qc9DhOztmY=",
       "url": "_framework/System.Runtime.InteropServices.JavaScript.pkvqfb5bgf.wasm"
+    },
+    {
+      "hash": "sha256-vNlVMOKDFhll3FlsTTYlpKyXOa3dqyNSrlQfOIKzItg=",
+      "url": "_framework/System.Runtime.ku31kjpjzs.wasm"
     },
     {
       "hash": "sha256-g/Cc00CC4N00kHv3CM4swNDmJiXIGFZ51wbyItw+7tw=",
@@ -6298,7 +6298,7 @@ self.assetsManifest = {
       "url": "_framework/System.Threading.ck7ypa45et.wasm"
     },
     {
-      "hash": "sha256-o7o/+4r6QixWAX1LLzY5XTIUF5UWEETWEN8B6B9H8N0=",
+      "hash": "sha256-lqbB9OeRlWSPIoL/TRFxRCr2LuEdcjD8F/w/IimIG8M=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -6338,7 +6338,7 @@ self.assetsManifest = {
       "url": "css/app.css"
     },
     {
-      "hash": "sha256-/kWWO6mIF5TDtOBq42eNUJTipIJfdECvUG23ifKtfjY=",
+      "hash": "sha256-8QiKBwm2kTKP+bc7+WZOkfWgF6dYDr1rXyEF2Tpxc44=",
       "url": "css/popups.css"
     },
     {
