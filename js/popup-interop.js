@@ -14,7 +14,7 @@ window.popupInterop = {
 
     // ----- Canvas zoom -----
     _zoom: 1,
-    _zoomMin: 0.5,
+    _zoomMin: 0.25,
     _zoomMax: 2,
     _zoomRef: null,
     _pinchStartDist: 0,
