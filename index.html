@@ -38,9 +38,38 @@
         <a href="." class="reload">Reload</a>
         <span class="dismiss">🗙</span>
     </div>
-    <script src="_framework/blazor.webassembly.js"></script>
+    <script src="_framework/blazor.webassembly.js" autostart="false"></script>
     <script src="js/popup-interop.js"></script>
     <script src="js/pwa-interop.js"></script>
+    <script>
+        // Pin the culture instead of letting the runtime infer it. dotnet.js picks the ICU
+        // shard from `applicationCulture || navigator.languages[0]`, so without this an
+        // English-locale browser loads icudt_EFIGS while a Russian one loads icudt_no_CJK —
+        // and the service worker has to precache all three to cover every visitor. Pinning
+        // makes the choice deterministic, which is what lets service-worker.published.js
+        // exclude the other two shards (~566 KB less transferred, 1.4 MB less cached).
+        // The app is Russian-only, and the numeric filter keys that must not be localised
+        // already format with CultureInfo.InvariantCulture explicitly.
+        // Started after the interop scripts so their globals exist before .NET code runs.
+        //
+        // The service worker is registered only once the runtime has loaded (see
+        // register() in pwa-interop.js). Registering at parse time makes the worker's
+        // precache and the runtime's own downloads race for the same files on an empty
+        // cache, so both miss and ~3.3 MB is fetched twice; ordering them turns the
+        // second pass into 304s. Nothing is precached less eagerly as a result — the
+        // same 74 files are cached, using bytes already paid for.
+        //
+        // .finally, not .then: if Blazor.start() ever rejects, the worker must still
+        // register or the app is never available offline at all.
+        //
+        // Promise.race caps the wait. On a fast connection with a slow phone the runtime
+        // is CPU-bound compiling wasm, and without the cap the network would sit idle
+        // that whole time; 2.5 s is past the bulk downloads on any usable connection.
+        Promise.race([
+            Blazor.start({ applicationCulture: 'ru-RU' }),
+            new Promise(resolve => setTimeout(resolve, 2500)),
+        ]).finally(() => window.pwaInterop.register());
+    </script>
 </body>
 
 </html>

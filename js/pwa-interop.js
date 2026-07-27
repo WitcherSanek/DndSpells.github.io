@@ -7,7 +7,11 @@ window.pwaInterop = {
     _status: null,   // 'offline-ready' | 'update-ready'
     _reg: null,
     _reloading: false,
+    _registering: false,
 
+    // Listeners only. Attached at parse time because they are passive and must not miss
+    // an event during the window before register() runs — another tab pressing restart
+    // can fire controllerchange here at any moment.
     init: function () {
         const self = window.pwaInterop;
         // Service workers need a secure context — on plain-http LAN testing
@@ -31,6 +35,34 @@ window.pwaInterop = {
             location.reload();
         });
 
+        // Long-lived tabs (an installed PWA is rarely reloaded) only get the
+        // browser's ~daily automatic check — also look for updates whenever the
+        // app returns to the foreground. Offline/unreachable checks fail as no-ops.
+        // Safe before register(): it no-ops while _reg is still null.
+        document.addEventListener('visibilitychange', () => {
+            if (document.visibilityState === 'visible' && self._reg) {
+                self._reg.update().catch(() => { });
+            }
+        });
+    },
+
+    // Deliberately NOT called at parse time — index.html calls it once the runtime has
+    // finished loading. On a cold first visit the page is not yet controlled by any
+    // worker, so the worker's install-time precache and the runtime's own downloads are
+    // two independent fetches of the same ~40 _framework files, racing on an empty HTTP
+    // cache: both miss, and ~3.3 MB is transferred twice. Running the precache afterwards
+    // lets those come back as conditional 304s with no body instead.
+    //
+    // Note this is an ordering fix, not a caching one: 'no-cache' in the worker (and in
+    // dotnet.js) means revalidate-before-use, not don't-store, so it costs almost nothing
+    // once the cache is warm. Dropping it instead would let a stale non-fingerprinted
+    // asset (bootstrap.min.css, app.css, the JSON) be precached, fail its SRI check
+    // against the new manifest hash, and reject the whole install.
+    register: function () {
+        const self = window.pwaInterop;
+        if (!('serviceWorker' in navigator) || self._reg || self._registering) return;
+        self._registering = true;
+
         // updateViaCache 'none': update checks must bypass the HTTP cache for
         // importScripts too. service-worker.js itself never changes between
         // deploys — the version lives in the imported service-worker-assets.js,
@@ -41,16 +73,7 @@ window.pwaInterop = {
             self._reg = reg;
             // An update finished caching in an earlier session and is still waiting.
             if (reg.waiting) self._setStatus('update-ready');
-        });
-
-        // Long-lived tabs (an installed PWA is rarely reloaded) only get the
-        // browser's ~daily automatic check — also look for updates whenever the
-        // app returns to the foreground. Offline/unreachable checks fail as no-ops.
-        document.addEventListener('visibilitychange', () => {
-            if (document.visibilityState === 'visible' && self._reg) {
-                self._reg.update().catch(() => { });
-            }
-        });
+        }).catch(() => { self._registering = false; });
     },
 
     _setStatus: function (status) {

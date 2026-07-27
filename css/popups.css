@@ -1317,6 +1317,7 @@ main {
     }
 
     .picker-filter-btn {
+        position: relative;
         background: #f5e6c8;
         border: 2px solid #8b6914;
         color: #3b2412;
@@ -1330,6 +1331,33 @@ main {
             background: #c9941a;
             color: #f5e6c8;
         }
+
+    /* Selection count as a corner badge, OUT of the flow: as inline text ("Уровень (2)")
+       it widened the button, and .picker-filters wraps — so applying a filter could push
+       the row onto a second line on a narrow phone. The button's width is now identical
+       whether or not anything is selected. */
+    .picker-filter-count {
+        position: absolute;
+        top: -0.4rem;
+        right: -0.3rem;
+        min-width: 1rem;
+        height: 1rem;
+        padding: 0 0.15rem;
+        box-sizing: border-box;
+        border-radius: 0.5rem;
+        background: #8b6914;
+        color: #f5e6c8;
+        font-size: 0.65rem;
+        line-height: 1rem;
+        text-align: center;
+        font-variant-numeric: tabular-nums;
+        pointer-events: none;
+    }
+
+    .picker-filter-btn.active .picker-filter-count {
+        background: #f5e6c8;
+        color: #8b6914;
+    }
 
     .picker-list-wrap {
         position: relative;

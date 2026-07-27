@@ -1,4 +1,4 @@
-/* Manifest version: UkxNFB58 */
+/* Manifest version: YyqWIQwr */
 // Caution! Be sure you understand the caveats before publishing an application with
 // offline support. See https://aka.ms/blazor-offline-considerations
 
@@ -14,8 +14,13 @@ self.addEventListener('message', event => {
 
 const cacheNamePrefix = 'offline-cache-';
 const cacheName = `${cacheNamePrefix}${self.assetsManifest.version}`;
-const offlineAssetsInclude = [ /\.dll$/, /\.pdb$/, /\.wasm/, /\.html/, /\.js$/, /\.json$/, /\.webmanifest$/, /\.css$/, /\.woff$/, /\.woff2$/, /\.ttf$/, /\.otf$/, /\.png$/, /\.jpe?g$/, /\.gif$/, /\.ico$/, /\.blat$/, /\.dat$/ ];
-const offlineAssetsExclude = [ /^service-worker\.js$/, /^FeatureData\/features\//, /^SpellData\/spells\//, /^FeatData\/feats\// ];
+const offlineAssetsInclude = [ /\.dll$/, /\.pdb$/, /\.wasm/, /\.html/, /\.js$/, /\.json$/, /\.webmanifest$/, /\.css$/, /\.woff$/, /\.woff2$/, /\.ttf$/, /\.otf$/, /\.png$/, /\.webp$/, /\.jpe?g$/, /\.gif$/, /\.ico$/, /\.blat$/, /\.dat$/ ];
+const offlineAssetsExclude = [ /^service-worker\.js$/, /^FeatureData\/features\//, /^SpellData\/spells\//, /^FeatData\/feats\//, /^_framework\/icudt_(CJK|EFIGS)\./ ];
+// The ICU exclusion is only safe because index.html pins Blazor.start({ applicationCulture }),
+// so every visitor deterministically loads icudt_no_CJK. Without that pin the shard is chosen
+// from navigator.languages[0] and an English-locale browser would request icudt_EFIGS — which
+// this list would then have kept out of the cache, breaking the app offline for those users.
+// If the applicationCulture pin is ever removed, remove this exclusion with it.
 
 // Replace with your base path if you are hosting on a subfolder. Ensure there is a trailing '/'.
 const base = "/DndSpells.github.io/";
