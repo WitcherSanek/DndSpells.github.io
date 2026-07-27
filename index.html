@@ -1,10 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <title>BlazorSpellsPicker</title>
+    <title>QRacter</title>
+    <meta name="description" content="Лист персонажа D&amp;D: заклинания, черты, способности, ресурсы и характеристики. Работает офлайн, персонаж передаётся по QR-коду." />
+    <meta name="theme-color" content="#1f2933" />
     <base href="/DndSpells.github.io/" />
     <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/app.css" />
@@ -12,8 +14,14 @@
     <link rel="icon" type="image/png" href="favicon.png" />
     <link href="BlazorSpellsPicker.styles.css" rel="stylesheet" />
     <link href="manifest.webmanifest" rel="manifest" />
-    <link rel="apple-touch-icon" sizes="512x512" href="icon-512.png" />
-    <link rel="apple-touch-icon" sizes="192x192" href="icon-192.png" />
+    <!-- iOS ignores the manifest for the home screen: the icon, the label and standalone
+         mode all come from these four tags instead. The touch icon is opaque because iOS
+         composites transparency onto black, and full-bleed because iOS applies its own
+         squircle mask. -->
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="QRacter" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
 </head>
 
 <body>

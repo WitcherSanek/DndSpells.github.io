@@ -1556,7 +1556,9 @@ main {
         display: flex;
         align-items: center;
         justify-content: space-between;
-        padding: 0.2rem 0.2rem 0.2rem 0.85rem;
+        /* No left inset any more: the fold button supplies it (and its own padding is
+           the tap target). */
+        padding: 0.2rem;
         background: #e8d4a8;
         border-bottom: 1px solid #c4a265;
         cursor: move;
@@ -1573,6 +1575,10 @@ main {
         font-size: 0.9rem;
         font-weight: 700;
         color: #3b2412;
+        /* Takes the space between the two header buttons, so the title stays left-aligned
+           next to the fold triangle instead of being centred by space-between. */
+        flex: 1 1 auto;
+        min-width: 0;
     }
 
     .popup-title-level {
@@ -1595,6 +1601,47 @@ main {
         .popup-close:hover {
             color: #3b2412;
         }
+    }
+
+    /* Left-edge twin of .popup-close: same triangle as the toolbar fold button. */
+    .popup-fold {
+        background: transparent;
+        border: none;
+        font-size: 0.7rem;
+        line-height: 1;
+        padding: 0.15rem 0.45rem;
+        color: #8b6914;
+        cursor: pointer;
+        flex: 0 0 auto;
+    }
+
+    @media (hover: hover) {
+        .popup-fold:hover {
+            color: #3b2412;
+        }
+    }
+
+    .popup-fold:active {
+        color: #3b2412;
+    }
+
+    /* Folded: the header is the whole card. display:none (not an unrendered body) keeps the
+       body's DOM — and any state inside it — alive, and takes it out of layout entirely, so
+       a folded card also costs nothing to paint while zooming. The resize grip goes with it;
+       it would otherwise sit on top of the header. */
+    .popup-folded .popup-body,
+    .popup-folded .popup-resize {
+        display: none;
+    }
+
+    .popup-folded {
+        height: auto;
+        max-height: none;
+    }
+
+    /* Nothing below it any more — the popup's own border is the card's bottom edge. */
+    .popup-folded .popup-header {
+        border-bottom: none;
     }
 
     .popup-body {
