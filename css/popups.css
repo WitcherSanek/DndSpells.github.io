@@ -1369,7 +1369,7 @@ main {
         border: 2px solid #8b6914;
         color: #3b2412;
         border-radius: 6px;
-        padding: 0.3rem 0.7rem;
+        padding: 0.3rem 0.5rem;
         font-size: 0.95rem;
         cursor: pointer;
     }
@@ -1421,6 +1421,12 @@ main {
         overflow-y: auto;
         -webkit-overflow-scrolling: touch;
         padding: 0.25rem 0;
+        /* Every row is pinned to this height so <Virtualize> can size its spacers exactly.
+           MUST equal ItemPicker.razor's RowHeightPx — if they drift apart the scrollbar
+           length and the drag-to-position mapping go wrong, silently. Derivation:
+           title 20px (1rem x 1.25) + gap 1.6px + secondary 17px (0.85rem x 1.25)
+           + padding 19.2px (0.6rem x 2) + border 1px = 58.8px, rounded to 59. */
+        --picker-row-h: 59px;
     }
 
     .picker-filter-dropdown {
@@ -1480,8 +1486,14 @@ main {
         display: flex;
         flex-direction: column;
         align-items: flex-start;
+        justify-content: center;
         gap: 0.1rem;
         width: 100%;
+        /* Fixed, not natural: see --picker-row-h. Rows whose secondary line is absent
+           (Feats/Features render it only when the metadata lookup hits) keep the same
+           height rather than collapsing to one line. */
+        height: var(--picker-row-h);
+        box-sizing: border-box;
         background: transparent;
         border: none;
         border-bottom: 1px solid #d6bf8b;
@@ -1526,20 +1538,36 @@ main {
         width: 100%;
     }
 
+    /* Both lines are clamped to exactly one line with an ellipsis. This is what keeps
+       .picker-item's fixed height honest: the longest bestiary secondary line is 66 chars
+       ("Ancient Green Dragon — Огромный Дракон" and friends), which used to wrap to a third
+       line on a narrow phone. line-height is explicit rather than `normal` so the row
+       arithmetic in --picker-row-h does not depend on the font's own metrics. */
     .picker-item-title {
         font-weight: 600;
         font-size: 1rem;
+        line-height: 1.25;
+        min-width: 0;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
     }
 
     .picker-item-level {
         font-size: 0.9rem;
+        line-height: 1.25;
         color: #6b4f0a;
         flex: 0 0 auto;
     }
 
     .picker-item-title-en {
         font-size: 0.85rem;
+        line-height: 1.25;
         color: #6b4f0a;
+        max-width: 100%;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
     }
 
     .picker-empty {
