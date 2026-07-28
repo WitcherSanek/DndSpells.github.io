@@ -898,6 +898,19 @@ main {
         text-overflow: ellipsis;
     }
 
+    /* The item form is the one .resource-row that wraps, so the gear dropdown can take a
+       full line of its own above [icon][описание][✔️][✖️] instead of squeezing into it.
+       It is first in the DOM for that reason — read the list, then fall through to the
+       fields below. When it is hidden the form renders exactly as it did before. */
+    .inventory-item-form {
+        flex-wrap: wrap;
+    }
+
+    .inventory-gear-select {
+        flex: 1 0 100%;
+        min-width: 0;
+    }
+
     /* ---- Help panel (справка): a static legend. The icon samples copy the toolbar
    button's look but are spans, not disabled buttons — dimmed buttons would read as
    "feature unavailable" and add pointless tab stops. ---- */
@@ -1217,8 +1230,11 @@ main {
         gap: 0.35rem;
     }
 
+    /* Fixed width so the labels line up regardless of how wide each emoji renders — colour
+       emoji are near-square but not identical across platforms, and a shrink-to-fit column
+       would ragged-edge the text. Was 0.6rem when this held a "•". */
     .page-item-mark {
-        width: 0.6rem;
+        width: 1.3rem;
         flex: none;
         text-align: center;
     }

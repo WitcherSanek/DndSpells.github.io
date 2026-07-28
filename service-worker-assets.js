@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "YXyN6wkv",
+  "version": "w8Wx6tJH",
   "assets": [
     {
       "hash": "sha256-7jyt++OH+beMa/pAV1VzYt7F3fDqyc1Pga/Scm30xmg=",
@@ -17670,8 +17670,8 @@ self.assetsManifest = {
       "url": "SpellData/spells/99-protection-from-evil-and-good.html"
     },
     {
-      "hash": "sha256-+7Ys6f2CFZdqsCMRx2YZWQWCCTRVHMT08lnZTWTjuT4=",
-      "url": "_framework/BlazorSpellsPicker.366rrtlicy.wasm"
+      "hash": "sha256-47bhPJzVPPpRuX8sxYDADB6/kFut86z5G/cU1ky7zvQ=",
+      "url": "_framework/BlazorSpellsPicker.njism9hfwd.wasm"
     },
     {
       "hash": "sha256-LYCtVqnVbFMgn4aNXPf8ZF6k9TfJzEHCIO2ntwyqm5k=",
@@ -17766,8 +17766,8 @@ self.assetsManifest = {
       "url": "_framework/System.IO.Pipelines.ozf0bs3f96.wasm"
     },
     {
-      "hash": "sha256-Qn8eFIqVOvpqJec+lW0sK+AtCq4/tGhD76e5dKoJCPM=",
-      "url": "_framework/System.Linq.elcmq39ndy.wasm"
+      "hash": "sha256-MpblOuClbAydfgnt/3JdC6b83HD+PxdHzxVmR0ywc2Q=",
+      "url": "_framework/System.Linq.if6d0iw6mp.wasm"
     },
     {
       "hash": "sha256-wXr8pChHfXS2yIja0E17H6ZCmh9l8oha1SP2kIwW2Qs=",
@@ -17818,7 +17818,7 @@ self.assetsManifest = {
       "url": "_framework/System.Threading.ck7ypa45et.wasm"
     },
     {
-      "hash": "sha256-zxzKo+iTc822EViVOX9maAI7ZcraocsEWdY09zKCa9c=",
+      "hash": "sha256-uOsysVGCe0kD5+GYIVilYTLsUrEYzaBoXp42l2gmHRE=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -17862,7 +17862,7 @@ self.assetsManifest = {
       "url": "css/app.css"
     },
     {
-      "hash": "sha256-zuz3gPmrXSPQWyAOfv+rMbKJIMkKkT80/spjVAAD6KY=",
+      "hash": "sha256-AFSBvJdhG+IJbvMsF/rN9MFCH6q2dFmaSaB9E69Yfgw=",
       "url": "css/popups.css"
     },
     {
@@ -17902,7 +17902,7 @@ self.assetsManifest = {
       "url": "icon-maskable-512.webp"
     },
     {
-      "hash": "sha256-YAGd8CPlZZUspABhu9hqNvQxVvbwdMBA+5Zggf7PYjw=",
+      "hash": "",
       "url": "index.html"
     },
     {
