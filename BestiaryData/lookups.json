@@ -1,0 +1,1140 @@
+{
+  "size": [
+    {
+      "value": "1",
+      "title": "Крошечный",
+      "group": null
+    },
+    {
+      "value": "2",
+      "title": "Маленький",
+      "group": null
+    },
+    {
+      "value": "3",
+      "title": "Средний",
+      "group": null
+    },
+    {
+      "value": "4",
+      "title": "Большой",
+      "group": null
+    },
+    {
+      "value": "5",
+      "title": "Огромный",
+      "group": null
+    },
+    {
+      "value": "6",
+      "title": "Громадный",
+      "group": null
+    },
+    {
+      "value": "10",
+      "title": "Маленький или средний",
+      "group": null
+    },
+    {
+      "value": "11",
+      "title": "Маленький рой крошечных",
+      "group": null
+    },
+    {
+      "value": "7",
+      "title": "Средний рой крошечных",
+      "group": null
+    },
+    {
+      "value": "8",
+      "title": "Большой рой крошечных",
+      "group": null
+    },
+    {
+      "value": "12",
+      "title": "Большой рой маленьких",
+      "group": null
+    },
+    {
+      "value": "9",
+      "title": "Большой рой средних",
+      "group": null
+    }
+  ],
+  "type": [
+    {
+      "value": "24",
+      "title": "Аберрация",
+      "group": null
+    },
+    {
+      "value": "25",
+      "title": "Великан",
+      "group": null
+    },
+    {
+      "value": "19",
+      "title": "Гуманоид",
+      "group": null
+    },
+    {
+      "value": "21",
+      "title": "Дракон",
+      "group": null
+    },
+    {
+      "value": "22",
+      "title": "Зверь",
+      "group": null
+    },
+    {
+      "value": "31",
+      "title": "Исчадие",
+      "group": null
+    },
+    {
+      "value": "29",
+      "title": "Конструкт",
+      "group": null
+    },
+    {
+      "value": "23",
+      "title": "Монстр",
+      "group": null
+    },
+    {
+      "value": "28",
+      "title": "Небожитель",
+      "group": null
+    },
+    {
+      "value": "20",
+      "title": "Нежить",
+      "group": null
+    },
+    {
+      "value": "26",
+      "title": "Растение",
+      "group": null
+    },
+    {
+      "value": "27",
+      "title": "Слизь",
+      "group": null
+    },
+    {
+      "value": "32",
+      "title": "Фея",
+      "group": null
+    },
+    {
+      "value": "30",
+      "title": "Элементаль",
+      "group": null
+    },
+    {
+      "value": "33",
+      "title": "Транспорт",
+      "group": null
+    },
+    {
+      "value": "34",
+      "title": "Объект",
+      "group": null
+    }
+  ],
+  "danger": [
+    {
+      "value": "10",
+      "title": "0 - 0 или 10 опыта",
+      "group": null
+    },
+    {
+      "value": "11",
+      "title": "1/8 - 25 опыта",
+      "group": null
+    },
+    {
+      "value": "12",
+      "title": "1/4 - 50 опыта",
+      "group": null
+    },
+    {
+      "value": "13",
+      "title": "1/2 - 100 опыта",
+      "group": null
+    },
+    {
+      "value": "14",
+      "title": "1 - 200 опыта",
+      "group": null
+    },
+    {
+      "value": "15",
+      "title": "2 - 450 опыта",
+      "group": null
+    },
+    {
+      "value": "16",
+      "title": "3 - 700 опыта",
+      "group": null
+    },
+    {
+      "value": "17",
+      "title": "4 - 1100 опыта",
+      "group": null
+    },
+    {
+      "value": "18",
+      "title": "5 - 1800 опыта",
+      "group": null
+    },
+    {
+      "value": "19",
+      "title": "6 - 2300 опыта",
+      "group": null
+    },
+    {
+      "value": "20",
+      "title": "7 - 2900 опыта",
+      "group": null
+    },
+    {
+      "value": "21",
+      "title": "8 - 3900 опыта",
+      "group": null
+    },
+    {
+      "value": "22",
+      "title": "9 - 5000 опыта",
+      "group": null
+    },
+    {
+      "value": "23",
+      "title": "10 - 5900 опыта",
+      "group": null
+    },
+    {
+      "value": "24",
+      "title": "11 - 7200 опыта",
+      "group": null
+    },
+    {
+      "value": "25",
+      "title": "12 - 8400 опыта",
+      "group": null
+    },
+    {
+      "value": "26",
+      "title": "13 - 10 000 опыта",
+      "group": null
+    },
+    {
+      "value": "27",
+      "title": "14 - 11 500 опыта",
+      "group": null
+    },
+    {
+      "value": "28",
+      "title": "15 - 13 000 опыта",
+      "group": null
+    },
+    {
+      "value": "29",
+      "title": "16 - 15 000 опыта",
+      "group": null
+    },
+    {
+      "value": "30",
+      "title": "17 - 18 000 опыта",
+      "group": null
+    },
+    {
+      "value": "31",
+      "title": "18 - 20 000 опыта",
+      "group": null
+    },
+    {
+      "value": "32",
+      "title": "19 - 22 000 опыта",
+      "group": null
+    },
+    {
+      "value": "33",
+      "title": "20 - 25 000 опыта",
+      "group": null
+    },
+    {
+      "value": "34",
+      "title": "21 - 33 000 опыта",
+      "group": null
+    },
+    {
+      "value": "35",
+      "title": "22 - 41 000 опыта",
+      "group": null
+    },
+    {
+      "value": "36",
+      "title": "23 - 50 000 опыта",
+      "group": null
+    },
+    {
+      "value": "37",
+      "title": "24 - 62 000 опыта",
+      "group": null
+    },
+    {
+      "value": "38",
+      "title": "25 - 75 000 опыта",
+      "group": null
+    },
+    {
+      "value": "39",
+      "title": "26 - 90 000 опыта",
+      "group": null
+    },
+    {
+      "value": "40",
+      "title": "27 - 105 000 опыта",
+      "group": null
+    },
+    {
+      "value": "41",
+      "title": "28 - 120 000 опыта",
+      "group": null
+    },
+    {
+      "value": "42",
+      "title": "29 - 135 000 опыта",
+      "group": null
+    },
+    {
+      "value": "43",
+      "title": "30 - 155 000 опыта",
+      "group": null
+    }
+  ],
+  "source": [
+    {
+      "value": "102",
+      "title": "Player's Handbook",
+      "group": "Core"
+    },
+    {
+      "value": "101",
+      "title": "Dungeon Master's Guide",
+      "group": "Core"
+    },
+    {
+      "value": "103",
+      "title": "Monster Manual",
+      "group": "Core"
+    },
+    {
+      "value": "115",
+      "title": "Acquisition Incorporated",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "198",
+      "title": "Bigby Presents: Glory of the Giants",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "207",
+      "title": "The Book of Many Things",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "119",
+      "title": "Eberron: Rising from the Last War",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "116",
+      "title": "Explorer's Guide to Wildemount",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "152",
+      "title": "Fizban's Treasury of Dragons",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "112",
+      "title": "Guildmasters' guide to Ravnica",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "158",
+      "title": "Mordenkainen Presents: Monsters of the Multiverse",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "113",
+      "title": "Mordenkainen's Tome of Foes",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "121",
+      "title": "Mythic Odysseys of Theros",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "160",
+      "title": "Spelljammer: Adventures in Space",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "205",
+      "title": "Planescape: Adventures in the Multiverse",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "117",
+      "title": "Tasha's Cauldron of Everything",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "125",
+      "title": "Van Richten's Guide to Ravenloft",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "111",
+      "title": "Volo's guide to monsters",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "109",
+      "title": "Xanathar's Guide to Everything",
+      "group": "Sourcebooks"
+    },
+    {
+      "value": "126",
+      "title": "Baldur's Gate: Descent Into Avernus",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "122",
+      "title": "Candlekeep Mysteries",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "159",
+      "title": "Critical Role: Call of the Netherdeep",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "124",
+      "title": "Curse of Strahd",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "213",
+      "title": "Descent into the Lost Caverns of Tsojcanth",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "183",
+      "title": "Dragonlance: Shadow of the Dragon Queen",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "128",
+      "title": "Ghosts of Saltmarsh",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "105",
+      "title": "Hoard of the Dragon Queen",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "120",
+      "title": "Icewind Dale: Rime of the Frostmaiden",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "171",
+      "title": "Journeys through the Radiant Citadel",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "189",
+      "title": "Keys from the Golden Vault",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "129",
+      "title": "Out of the Abyss",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "107",
+      "title": "Princes of the Apocalypse",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "202",
+      "title": "Phandelver and Below: The Shattered Obelisk",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "132",
+      "title": "Storm King's Thunder",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "155",
+      "title": "Strixhaven: A Curriculum of Chaos",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "133",
+      "title": "Tales from the Yawning Portal",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "106",
+      "title": "The Rise of Tiamat",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "151",
+      "title": "The Wild Beyond The Witchlight: A Feywild Adventure",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "114",
+      "title": "Tomb of Annihilation",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "134",
+      "title": "Waterdeep: Dragon Heist",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "135",
+      "title": "Waterdeep: Dungeon of the Mad Mage",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "214",
+      "title": "Vecna: Eve of Ruin",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "218",
+      "title": "Quest from the Infinite Staircase",
+      "group": "Adventures, hardcovers"
+    },
+    {
+      "value": "127",
+      "title": "Essentials Kit: Divine Contention",
+      "group": "Adventures, softcovers"
+    },
+    {
+      "value": "157",
+      "title": "Essentials Kit: Dragon of Icespire peak",
+      "group": "Adventures, softcovers"
+    },
+    {
+      "value": "131",
+      "title": "Essentials Kit: Sleeping Dragon's Wake",
+      "group": "Adventures, softcovers"
+    },
+    {
+      "value": "167",
+      "title": "Essentials Kit: Storm Lord's Wrath",
+      "group": "Adventures, softcovers"
+    },
+    {
+      "value": "197",
+      "title": "Giants of the Star Forge",
+      "group": "Adventures, softcovers"
+    },
+    {
+      "value": "123",
+      "title": "Hunt for the Thessalhydra",
+      "group": "Adventures, softcovers"
+    },
+    {
+      "value": "161",
+      "title": "Infernal Machine Rebuild",
+      "group": "Adventures, softcovers"
+    },
+    {
+      "value": "130",
+      "title": "The Lost Dungeon of Rickedness: Big Rick Energy",
+      "group": "Adventures, softcovers"
+    },
+    {
+      "value": "110",
+      "title": "Lost Mine of Phandelver",
+      "group": "Adventures, softcovers"
+    },
+    {
+      "value": "208",
+      "title": "Adventure Atlas: The Mortuary",
+      "group": "Supplements"
+    },
+    {
+      "value": "191",
+      "title": "Honor among Thieves",
+      "group": "Supplements"
+    },
+    {
+      "value": "194",
+      "title": "Misplaced Monsters: Volume One",
+      "group": "Supplements"
+    },
+    {
+      "value": "187",
+      "title": "Monstrous Compendium Vol 1: Spelljammer Creatures",
+      "group": "Supplements"
+    },
+    {
+      "value": "188",
+      "title": "Monstrous Compendium Vol 2: Dragonlance Creatures",
+      "group": "Supplements"
+    },
+    {
+      "value": "199",
+      "title": "Monstrous Compendium Vol 3: Minecraft Creatures",
+      "group": "Supplements"
+    },
+    {
+      "value": "219",
+      "title": "Monstrous Compendium Vol. Four: Eldraine Creatures",
+      "group": "Supplements"
+    },
+    {
+      "value": "206",
+      "title": "Mordenkainen's Fiendish Folio Vol 1",
+      "group": "Supplements"
+    },
+    {
+      "value": "174",
+      "title": "The Vecna Dossier",
+      "group": "Supplements"
+    },
+    {
+      "value": "169",
+      "title": "Adventurers League",
+      "group": "Adventurers League"
+    },
+    {
+      "value": "153",
+      "title": "Lost Laboratory of Kwalish",
+      "group": "Adventurers League"
+    }
+  ],
+  "speed": [
+    {
+      "value": "1",
+      "title": "Скорость ходьбы",
+      "group": null
+    },
+    {
+      "value": "2",
+      "title": "Скорость плавания",
+      "group": null
+    },
+    {
+      "value": "3",
+      "title": "Скорость полёта",
+      "group": null
+    },
+    {
+      "value": "4",
+      "title": "Скорость лазания",
+      "group": null
+    },
+    {
+      "value": "5",
+      "title": "Скорость копания",
+      "group": null
+    }
+  ],
+  "npc": [
+    {
+      "value": "0",
+      "title": "Нет",
+      "group": null
+    },
+    {
+      "value": "1",
+      "title": "Да",
+      "group": null
+    }
+  ],
+  "languages": [
+    {
+      "value": "12",
+      "title": "Общий",
+      "group": null
+    },
+    {
+      "value": "29",
+      "title": "Телепатия",
+      "group": null
+    },
+    {
+      "value": "30",
+      "title": "Все",
+      "group": null
+    },
+    {
+      "value": "75",
+      "title": "Любой",
+      "group": null
+    },
+    {
+      "value": "18",
+      "title": "Великаний",
+      "group": "Обычные"
+    },
+    {
+      "value": "13",
+      "title": "Гномий",
+      "group": "Обычные"
+    },
+    {
+      "value": "19",
+      "title": "Гоблинский",
+      "group": "Обычные"
+    },
+    {
+      "value": "14",
+      "title": "Дварфийский",
+      "group": "Обычные"
+    },
+    {
+      "value": "20",
+      "title": "Драконий",
+      "group": "Обычные"
+    },
+    {
+      "value": "17",
+      "title": "Орочий",
+      "group": "Обычные"
+    },
+    {
+      "value": "15",
+      "title": "Полуросликов",
+      "group": "Обычные"
+    },
+    {
+      "value": "16",
+      "title": "Эльфийский",
+      "group": "Обычные"
+    },
+    {
+      "value": "21",
+      "title": "Бездны",
+      "group": "Необычные"
+    },
+    {
+      "value": "22",
+      "title": "Глубинная речь",
+      "group": "Необычные"
+    },
+    {
+      "value": "23",
+      "title": "Инфернальный",
+      "group": "Необычные"
+    },
+    {
+      "value": "24",
+      "title": "Небесный",
+      "group": "Необычные"
+    },
+    {
+      "value": "25",
+      "title": "Первичный",
+      "group": "Необычные"
+    },
+    {
+      "value": "26",
+      "title": "Подземный",
+      "group": "Необычные"
+    },
+    {
+      "value": "27",
+      "title": "Сильван",
+      "group": "Необычные"
+    },
+    {
+      "value": "28",
+      "title": "Ауран",
+      "group": "Необычные"
+    },
+    {
+      "value": "33",
+      "title": "Акван",
+      "group": "Необычные"
+    },
+    {
+      "value": "34",
+      "title": "Терран",
+      "group": "Необычные"
+    },
+    {
+      "value": "35",
+      "title": "Игнан",
+      "group": "Необычные"
+    },
+    {
+      "value": "55",
+      "title": "Воровской жаргон",
+      "group": "Редкие"
+    },
+    {
+      "value": "45",
+      "title": "Друидический",
+      "group": "Редкие"
+    },
+    {
+      "value": "31",
+      "title": "Гитский",
+      "group": "Редкие"
+    },
+    {
+      "value": "36",
+      "title": "Гноллий",
+      "group": "Редкие"
+    },
+    {
+      "value": "39",
+      "title": "Модронский",
+      "group": "Редкие"
+    },
+    {
+      "value": "41",
+      "title": "Сахуагинский",
+      "group": "Редкие"
+    },
+    {
+      "value": "57",
+      "title": "Тэйский",
+      "group": "Редкие"
+    },
+    {
+      "value": "62",
+      "title": "Мерфолк",
+      "group": "Редкие"
+    },
+    {
+      "value": "67",
+      "title": "Леонинский",
+      "group": "Редкие"
+    },
+    {
+      "value": "79",
+      "title": "Ведалкен",
+      "group": "Равника"
+    },
+    {
+      "value": "78",
+      "title": "Язык Локсодонов",
+      "group": "Равника"
+    },
+    {
+      "value": "77",
+      "title": "Язык Минотавров",
+      "group": "Равника"
+    },
+    {
+      "value": "72",
+      "title": "Доварский",
+      "group": "Экзотические"
+    },
+    {
+      "value": "61",
+      "title": "Бохти",
+      "group": "Экзотические"
+    },
+    {
+      "value": "69",
+      "title": "Зиксвет",
+      "group": "Экзотические"
+    },
+    {
+      "value": "65",
+      "title": "Йикариа",
+      "group": "Экзотические"
+    },
+    {
+      "value": "74",
+      "title": "Крауль",
+      "group": "Экзотические"
+    },
+    {
+      "value": "63",
+      "title": "Крутик",
+      "group": "Экзотические"
+    },
+    {
+      "value": "64",
+      "title": "Куори",
+      "group": "Экзотические"
+    },
+    {
+      "value": "40",
+      "title": "Отиджский",
+      "group": "Экзотические"
+    },
+    {
+      "value": "70",
+      "title": "Тлетлахтолли",
+      "group": "Экзотические"
+    },
+    {
+      "value": "44",
+      "title": "Три-кринский",
+      "group": "Экзотические"
+    },
+    {
+      "value": "46",
+      "title": "Троглодитский",
+      "group": "Экзотические"
+    },
+    {
+      "value": "42",
+      "title": "Слаадский",
+      "group": "Экзотические"
+    },
+    {
+      "value": "76",
+      "title": "Умбрал",
+      "group": "Экзотические"
+    },
+    {
+      "value": "71",
+      "title": "Язык Аартуков",
+      "group": "Экзотические"
+    },
+    {
+      "value": "47",
+      "title": "Язык Бурых увальней",
+      "group": "Экзотические"
+    },
+    {
+      "value": "58",
+      "title": "Язык Вегепигмеев",
+      "group": "Экзотические"
+    },
+    {
+      "value": "49",
+      "title": "Язык Воргов",
+      "group": "Экзотические"
+    },
+    {
+      "value": "51",
+      "title": "Язык Гигантских лосей",
+      "group": "Экзотические"
+    },
+    {
+      "value": "52",
+      "title": "Язык Гигантских орлов",
+      "group": "Экзотические"
+    },
+    {
+      "value": "50",
+      "title": "Язык Гигантских сов",
+      "group": "Экзотические"
+    },
+    {
+      "value": "68",
+      "title": "Язык Глубинных воронов",
+      "group": "Экзотические"
+    },
+    {
+      "value": "37",
+      "title": "Язык Греллов",
+      "group": "Экзотические"
+    },
+    {
+      "value": "59",
+      "title": "Язык Грунгов",
+      "group": "Экзотические"
+    },
+    {
+      "value": "66",
+      "title": "Язык Икситксачитлов",
+      "group": "Экзотические"
+    },
+    {
+      "value": "48",
+      "title": "Язык Йети",
+      "group": "Экзотические"
+    },
+    {
+      "value": "32",
+      "title": "Язык Жаболюдов",
+      "group": "Экзотические"
+    },
+    {
+      "value": "38",
+      "title": "Язык Крюкастых ужасов",
+      "group": "Экзотические"
+    },
+    {
+      "value": "56",
+      "title": "Язык Ледяных жаб",
+      "group": "Экзотические"
+    },
+    {
+      "value": "53",
+      "title": "Язык Мерцающих псов",
+      "group": "Экзотические"
+    },
+    {
+      "value": "54",
+      "title": "Язык Полярных волков",
+      "group": "Экзотические"
+    },
+    {
+      "value": "43",
+      "title": "Язык Сфинксов",
+      "group": "Экзотические"
+    },
+    {
+      "value": "60",
+      "title": "Язык Тлинкалли",
+      "group": "Экзотические"
+    },
+    {
+      "value": "73",
+      "title": "Язык Хадози",
+      "group": "Экзотические"
+    },
+    {
+      "value": "80",
+      "title": "Соламнийский",
+      "group": "Экзотические"
+    },
+    {
+      "value": "81",
+      "title": "Наречие кендеров",
+      "group": "Экзотические"
+    }
+  ],
+  "environment": [
+    {
+      "value": "1",
+      "title": "Арктика",
+      "group": null
+    },
+    {
+      "value": "2",
+      "title": "Болото",
+      "group": null
+    },
+    {
+      "value": "3",
+      "title": "Город",
+      "group": null
+    },
+    {
+      "value": "4",
+      "title": "Горы",
+      "group": null
+    },
+    {
+      "value": "5",
+      "title": "Лес",
+      "group": null
+    },
+    {
+      "value": "6",
+      "title": "Луг",
+      "group": null
+    },
+    {
+      "value": "7",
+      "title": "Побережье",
+      "group": null
+    },
+    {
+      "value": "8",
+      "title": "Под водой",
+      "group": null
+    },
+    {
+      "value": "9",
+      "title": "Подземье",
+      "group": null
+    },
+    {
+      "value": "10",
+      "title": "Пустыня",
+      "group": null
+    },
+    {
+      "value": "11",
+      "title": "Холмы",
+      "group": null
+    }
+  ],
+  "alignment": [
+    {
+      "value": "lg",
+      "title": "Законно-добрый",
+      "group": null
+    },
+    {
+      "value": "ng",
+      "title": "Нейтрально-добрый",
+      "group": null
+    },
+    {
+      "value": "cg",
+      "title": "Хаотично-добрый",
+      "group": null
+    },
+    {
+      "value": "ln",
+      "title": "Законно-нейтральный",
+      "group": null
+    },
+    {
+      "value": "n",
+      "title": "Нейтральный",
+      "group": null
+    },
+    {
+      "value": "cn",
+      "title": "Хаотично-нейтральный",
+      "group": null
+    },
+    {
+      "value": "le",
+      "title": "Законно-злой",
+      "group": null
+    },
+    {
+      "value": "ne",
+      "title": "Нейтрально-злой",
+      "group": null
+    },
+    {
+      "value": "ce",
+      "title": "Хаотично-злой",
+      "group": null
+    },
+    {
+      "value": "none",
+      "title": "Без мировоззрения",
+      "group": null
+    },
+    {
+      "value": "any",
+      "title": "Любое мировоззрение",
+      "group": null
+    }
+  ]
+}

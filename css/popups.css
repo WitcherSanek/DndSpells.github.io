@@ -70,6 +70,13 @@ main {
     pointer-events: auto;
 }
 
+/* Both rows are position: relative and so paint in DOM order — the secondary row above the
+   primary one. A menu hanging out of the primary row therefore needs the row lifted, or the
+   secondary row's zoom control covers the menu's top entries. */
+.canvas-toolbar-row-lifted {
+    z-index: 2;
+}
+
 /* Folded: the secondary row is hidden but kept in the DOM (visibility, not @if),
    because popup-interop.js caches the .canvas-zoom-reset node once at init for
    live pinch-zoom % updates. The visibility delay lets the fade-out finish. */
@@ -177,9 +184,11 @@ main {
     position: relative;
 }
 
-/* Popups have a higher z-index than the toolbar; while the character menu is open
-   the whole toolbar is lifted above them so the menu is never buried. */
-.canvas-toolbar-menu-open {
+/* Popups have a higher z-index than the toolbar; while any toolbar-anchored menu is open
+   the whole toolbar is lifted above them so the menu is never buried. Deliberately a
+   separate class from .canvas-toolbar-menu-open (which pins the SECONDARY row visible):
+   the page menu is anchored in the primary row and must lift without unfolding row 2. */
+.canvas-toolbar-lifted {
     z-index: 60;
 }
 
@@ -1171,7 +1180,7 @@ main {
         cursor: pointer;
         display: inline-flex;
         align-items: center;
-        gap: 0.1rem;
+        gap: 0.25rem;
         white-space: nowrap;
     }
 
@@ -1179,6 +1188,44 @@ main {
         .canvas-page-switch:hover {
             background: #a88018;
         }
+    }
+
+    /* Centred under the switch button rather than edge-aligned like the character and
+       overflow menus — its anchor is the centred .canvas-toolbar-center, not a row edge. */
+    .canvas-page-menu {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        top: calc(100% + 0.4rem);
+        min-width: 100%;
+        background: #f5e6c8;
+        border: 2px solid #6b4f0a;
+        border-radius: 6px;
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5);
+        padding: 0.35rem;
+        display: flex;
+        flex-direction: column;
+        gap: 0.15rem;
+        z-index: 1;
+    }
+
+    /* .overflow-item supplies the look; these add the current-page marker column so the
+       labels stay left-aligned with each other whether or not they carry a bullet. */
+    .page-item {
+        display: flex;
+        align-items: center;
+        gap: 0.35rem;
+    }
+
+    .page-item-mark {
+        width: 0.6rem;
+        flex: none;
+        text-align: center;
+    }
+
+    .page-item-current {
+        font-weight: 700;
+        background: rgba(139, 105, 20, 0.18);
     }
 
     .canvas-zoom {

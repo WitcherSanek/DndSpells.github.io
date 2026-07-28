@@ -1,4 +1,4 @@
-/* Manifest version: YyqWIQwr */
+/* Manifest version: MS/tHT6C */
 // Caution! Be sure you understand the caveats before publishing an application with
 // offline support. See https://aka.ms/blazor-offline-considerations
 
@@ -15,7 +15,12 @@ self.addEventListener('message', event => {
 const cacheNamePrefix = 'offline-cache-';
 const cacheName = `${cacheNamePrefix}${self.assetsManifest.version}`;
 const offlineAssetsInclude = [ /\.dll$/, /\.pdb$/, /\.wasm/, /\.html/, /\.js$/, /\.json$/, /\.webmanifest$/, /\.css$/, /\.woff$/, /\.woff2$/, /\.ttf$/, /\.otf$/, /\.png$/, /\.webp$/, /\.jpe?g$/, /\.gif$/, /\.ico$/, /\.blat$/, /\.dat$/ ];
-const offlineAssetsExclude = [ /^service-worker\.js$/, /^FeatureData\/features\//, /^SpellData\/spells\//, /^FeatData\/feats\//, /^_framework\/icudt_(CJK|EFIGS)\./ ];
+const offlineAssetsExclude = [ /^service-worker\.js$/, /^FeatureData\/features\//, /^SpellData\/spells\//, /^FeatData\/feats\//, /^BestiaryData\/bestiary\//, /^BestiaryData\/index\.json$/, /^_framework\/icudt_(CJK|EFIGS)\./ ];
+// The per-item HTML folders are excluded because the *-bundle.json files carry the same
+// content in one request; the loose files are build inputs, not runtime assets. This matters
+// most for BestiaryData/bestiary/ — 2874 files, ~16 MB — which would otherwise dominate the
+// precache. BestiaryData/index.json is excluded for a different reason: Bestiary.razor reads
+// index-full.json, whose rows are a superset of it, so nothing ever requests it.
 // The ICU exclusion is only safe because index.html pins Blazor.start({ applicationCulture }),
 // so every visitor deterministically loads icudt_no_CJK. Without that pin the shard is chosen
 // from navigator.languages[0] and an English-locale browser would request icudt_EFIGS — which

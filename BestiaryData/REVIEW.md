@@ -1,0 +1,42 @@
+# Review notes for https://dnd.su/bestiary/
+
+- **Баллиста** — danger `44` is not in the filter's danger lookup.
+- **Боец** — danger `44` is not in the filter's danger lookup.
+- **Боец** — danger `44` is not in the filter's danger lookup.
+- **Гномомёт** — danger `44` is not in the filter's danger lookup.
+- **Дрейк-компаньон** — danger `45` is not in the filter's danger lookup.
+- **Дрейк-компаньон** — danger `45` is not in the filter's danger lookup.
+- **Дрейк-компаньон** — danger `45` is not in the filter's danger lookup.
+- **Дух аберрации** — danger `45` is not in the filter's danger lookup.
+- **Дух дикого огня** — danger `45` is not in the filter's danger lookup.
+- **Дух дракона** — danger `45` is not in the filter's danger lookup.
+- **Дух зверя** — danger `45` is not in the filter's danger lookup.
+- **Дух исчадия** — danger `45` is not in the filter's danger lookup.
+- **Дух конструкта** — danger `45` is not in the filter's danger lookup.
+- **Дух небожителя** — danger `45` is not in the filter's danger lookup.
+- **Дух нежити** — danger `45` is not in the filter's danger lookup.
+- **Дух стихии** — danger `45` is not in the filter's danger lookup.
+- **Дух тени** — danger `45` is not in the filter's danger lookup.
+- **Дух феи** — danger `45` is not in the filter's danger lookup.
+- **Заклинатель (Маг)** — danger `44` is not in the filter's danger lookup.
+- **Заклинатель (Маг)** — danger `44` is not in the filter's danger lookup.
+- **Заклинатель (Целитель)** — danger `44` is not in the filter's danger lookup.
+- **Заклинатель (Целитель)** — danger `44` is not in the filter's danger lookup.
+- **Земной зверь** — danger `45` is not in the filter's danger lookup.
+- **Лифферлас** — danger `44` is not in the filter's danger lookup.
+- **Мангонель** — danger `44` is not in the filter's danger lookup.
+- **Морской зверь** — danger `45` is not in the filter's danger lookup.
+- **Небесный зверь** — danger `45` is not in the filter's danger lookup.
+- **Осадная башня** — danger `44` is not in the filter's danger lookup.
+- **Пародрак** — danger `44` is not in the filter's danger lookup.
+- **Подвешенный котёл** — danger `44` is not in the filter's danger lookup.
+- **Пушка** — danger `44` is not in the filter's danger lookup.
+- **Сердце ледяного тролля** — danger `44` is not in the filter's danger lookup.
+- **Слуга-гомункул** — danger `45` is not in the filter's danger lookup.
+- **Стальной защитник** — danger `45` is not in the filter's danger lookup.
+- **Таран** — danger `44` is not in the filter's danger lookup.
+- **Требушет** — danger `44` is not in the filter's danger lookup.
+- **Танцующий предмет** — danger `45` is not in the filter's danger lookup.
+- **Штальмастер** — danger `44` is not in the filter's danger lookup.
+- **Эксперт** — danger `44` is not in the filter's danger lookup.
+- **Эксперт** — danger `44` is not in the filter's danger lookup.
