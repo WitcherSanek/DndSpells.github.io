@@ -1,9 +1,9 @@
 {
   "mainAssemblyName": "BlazorSpellsPicker",
   "resources": {
-    "hash": "sha256-tcJ/SttbjvAWYfeu6AytM1NlS7UHj7BR0sblJRk4pnM=",
+    "hash": "sha256-BMdOJw6yi4huodo8fpHy1ahoyQNm5ETSojwjyamy+R0=",
     "fingerprinting": {
-      "Microsoft.AspNetCore.Components.52yf29mjpn.wasm": "Microsoft.AspNetCore.Components.wasm",
+      "Microsoft.AspNetCore.Components.bbdz4evxm4.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.91siffgs3a.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
       "Microsoft.AspNetCore.Components.WebAssembly.lztvdezope.wasm": "Microsoft.AspNetCore.Components.WebAssembly.wasm",
       "Microsoft.Extensions.Configuration.2qcekzlwww.wasm": "Microsoft.Extensions.Configuration.wasm",
@@ -39,7 +39,7 @@
       "System.Text.RegularExpressions.rs9b7ykfzr.wasm": "System.Text.RegularExpressions.wasm",
       "System.Threading.ck7ypa45et.wasm": "System.Threading.wasm",
       "System.Private.CoreLib.m6pvvxbjsi.wasm": "System.Private.CoreLib.wasm",
-      "BlazorSpellsPicker.2s0v33r47a.wasm": "BlazorSpellsPicker.wasm",
+      "BlazorSpellsPicker.cnba505oea.wasm": "BlazorSpellsPicker.wasm",
       "dotnet.native.1zjieb233b.js": "dotnet.native.js",
       "dotnet.native.n1vh5dz374.wasm": "dotnet.native.wasm",
       "dotnet.js": "dotnet.js",
@@ -67,7 +67,7 @@
       "System.Private.CoreLib.m6pvvxbjsi.wasm": "sha256-PqTIvEuWnghwwiKcbFTaylHCiTBuKmj3/9TGL4K/cIo="
     },
     "assembly": {
-      "Microsoft.AspNetCore.Components.52yf29mjpn.wasm": "sha256-LYCtVqnVbFMgn4aNXPf8ZF6k9TfJzEHCIO2ntwyqm5k=",
+      "Microsoft.AspNetCore.Components.bbdz4evxm4.wasm": "sha256-J9rD9tK3TPFb5kX/Q03+eo5WaaIgwHmL/LOaJ1G6YTw=",
       "Microsoft.AspNetCore.Components.Web.91siffgs3a.wasm": "sha256-bWno5EKg9RoFe0qvk2jgoDDhYLujrpf4HAMLOVYwm38=",
       "Microsoft.AspNetCore.Components.WebAssembly.lztvdezope.wasm": "sha256-bwExIeafSSeDe3ejJgFvGXT2zhDkTiWm1OkZVJPSICg=",
       "Microsoft.Extensions.Configuration.2qcekzlwww.wasm": "sha256-FngMKPqjYJ/ug7cPfNm4X9SuncFTFku8vfzirt9fM9M=",
@@ -101,7 +101,7 @@
       "System.Text.Json.qmr7erwb4i.wasm": "sha256-omHGPfm5AdA7xknv2Av0E7syJoKapc/MxBqt2wndP28=",
       "System.Text.RegularExpressions.rs9b7ykfzr.wasm": "sha256-WzXHMmZ1kz109jtctos7qA2Km7G32rQUz7UcatGJvCg=",
       "System.Threading.ck7ypa45et.wasm": "sha256-NAT337jZ8vKKqEaIIZX7h6Ebx8VSc6hIlBPK0fPmL28=",
-      "BlazorSpellsPicker.2s0v33r47a.wasm": "sha256-Tmv++cqn2V/oawdwUJgUS0CeZYpDLcg3Ks8tN94YK0M="
+      "BlazorSpellsPicker.cnba505oea.wasm": "sha256-eM6+X0WaOR1q49k+s4n3Vi1XcuyyYAE47Xu6v8jPOV4="
     }
   },
   "cacheBootResources": true,

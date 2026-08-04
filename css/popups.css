@@ -730,6 +730,123 @@ main {
         gap: 0.4rem;
     }
 
+    /* ---- «Атаки / заклинания»: the first section of the scrolling list. ---- */
+    /* Section label + its own ➕, the same shape the "Здоровье ✏️" row already has.
+       The footer "+" keeps meaning "add resource", so the two adds can't be confused. */
+    .attack-head-title {
+        flex: 1 1 auto;
+        min-width: 0;
+        font-size: 0.85rem;
+        font-weight: 700;
+        letter-spacing: 0.02em;
+        opacity: 0.75;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    /* Only rendered while folded — the collapsed bar says how much is hidden behind it. */
+    .attack-head-count {
+        flex: 0 0 auto;
+        font-size: 0.8rem;
+        font-weight: 700;
+        font-variant-numeric: tabular-nums;
+        opacity: 0.7;
+    }
+
+    /* The fold button reuses .popup-fold outright — same triangle, size and left-edge
+       position as a popup card's, and that rule carries no parent dependency. */
+    .attack-add-btn {
+        flex: 0 0 auto;
+    }
+
+    .attack-divider {
+        margin: 0.15rem 0;
+        border-top: 1px solid rgba(107, 79, 10, 0.3);
+    }
+
+    /* The derived number, right after the name; damage follows it when the line has any. */
+    .attack-val {
+        flex: 0 0 auto;
+        font-size: 0.9rem;
+        font-weight: 700;
+        font-variant-numeric: tabular-nums;
+    }
+
+    .attack-dmg {
+        flex: 0 0 auto;
+        font-size: 0.8rem;
+        font-variant-numeric: tabular-nums;
+        opacity: 0.8;
+    }
+
+    /* Wraps like .inventory-item-form: the name takes a full line of its own rather than
+       squeezing the two dropdowns, the toggles and the two bonus fields onto one. */
+    .attack-form {
+        flex-wrap: wrap;
+    }
+
+    .attack-name-input {
+        flex: 1 0 100%;
+        min-width: 0;
+    }
+
+    /* The same full-basis break as the name input above, with no element of its own — it
+       pins «мод. урона» to the start of the last line whether or not «владение» is there.
+       The row gap it costs is wanted: it splits "what the number is" from "what modifies it". */
+    .attack-form-break {
+        flex: 1 0 100%;
+        height: 0;
+    }
+
+    .attack-type-select {
+        flex: 0 1 auto;
+    }
+
+    .attack-ability-select {
+        flex: 0 0 auto;
+        width: 4.2rem;
+    }
+
+    .attack-label {
+        display: flex;
+        align-items: center;
+        gap: 0.25rem;
+        margin: 0;
+        font-size: 0.85rem;
+        white-space: nowrap;
+    }
+
+    .attack-bonus-input {
+        width: 3.2rem;
+        flex: 0 0 auto;
+    }
+
+    .attack-form-actions {
+        margin-left: auto;
+        display: flex;
+        align-items: center;
+    }
+
+    /* The app has no checkboxes: booleans are pressed-state buttons (.stats-row) and
+       filled pips. This is both — a pip's gold fill in a label-sized chip. */
+    .attack-toggle {
+        flex: 0 0 auto;
+        padding: 0.15rem 0.4rem;
+        border: 2px solid #8b6914;
+        border-radius: 6px;
+        background: transparent;
+        color: inherit;
+        font-size: 0.8rem;
+        line-height: 1.4;
+        cursor: pointer;
+    }
+
+        .attack-toggle.attack-toggle-on {
+            background: #8b6914;
+            color: #f5e6c8;
+        }
+
     .resource-name {
         flex: 1 1 auto;
         min-width: 0;

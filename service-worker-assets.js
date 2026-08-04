@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "BaeciECB",
+  "version": "I1BErcJ+",
   "assets": [
     {
       "hash": "sha256-7jyt++OH+beMa/pAV1VzYt7F3fDqyc1Pga/Scm30xmg=",
@@ -17670,12 +17670,8 @@ self.assetsManifest = {
       "url": "SpellData/spells/99-protection-from-evil-and-good.html"
     },
     {
-      "hash": "sha256-Tmv++cqn2V/oawdwUJgUS0CeZYpDLcg3Ks8tN94YK0M=",
-      "url": "_framework/BlazorSpellsPicker.2s0v33r47a.wasm"
-    },
-    {
-      "hash": "sha256-LYCtVqnVbFMgn4aNXPf8ZF6k9TfJzEHCIO2ntwyqm5k=",
-      "url": "_framework/Microsoft.AspNetCore.Components.52yf29mjpn.wasm"
+      "hash": "sha256-eM6+X0WaOR1q49k+s4n3Vi1XcuyyYAE47Xu6v8jPOV4=",
+      "url": "_framework/BlazorSpellsPicker.cnba505oea.wasm"
     },
     {
       "hash": "sha256-bWno5EKg9RoFe0qvk2jgoDDhYLujrpf4HAMLOVYwm38=",
@@ -17684,6 +17680,10 @@ self.assetsManifest = {
     {
       "hash": "sha256-bwExIeafSSeDe3ejJgFvGXT2zhDkTiWm1OkZVJPSICg=",
       "url": "_framework/Microsoft.AspNetCore.Components.WebAssembly.lztvdezope.wasm"
+    },
+    {
+      "hash": "sha256-J9rD9tK3TPFb5kX/Q03+eo5WaaIgwHmL/LOaJ1G6YTw=",
+      "url": "_framework/Microsoft.AspNetCore.Components.bbdz4evxm4.wasm"
     },
     {
       "hash": "sha256-FngMKPqjYJ/ug7cPfNm4X9SuncFTFku8vfzirt9fM9M=",
@@ -17818,7 +17818,7 @@ self.assetsManifest = {
       "url": "_framework/System.Threading.ck7ypa45et.wasm"
     },
     {
-      "hash": "sha256-QkuEPiHJ7wa2ykHIVuubEHWaNVKt1ZTzgTa+uII51cI=",
+      "hash": "sha256-Rp0PUpb85cONUdUJiTD1fLw8KRR/NZeQdk9PM5/YtEg=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -17862,7 +17862,7 @@ self.assetsManifest = {
       "url": "css/app.css"
     },
     {
-      "hash": "sha256-AFSBvJdhG+IJbvMsF/rN9MFCH6q2dFmaSaB9E69Yfgw=",
+      "hash": "sha256-+1WYJAbzuwDUwfp+axrDZcdrwN6uRS9f0qAgnbGhf9w=",
       "url": "css/popups.css"
     },
     {
