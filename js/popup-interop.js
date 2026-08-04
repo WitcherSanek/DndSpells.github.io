@@ -29,6 +29,7 @@ window.popupInterop = {
     _scrollX: 0,
     _scrollY: 0,
     _wheelTimer: 0,
+    _scrollTimer: 0,
     // Active popup body that was at scrollTop 0 and got nudged to 1px for the gesture
     // (see _beginGesture); restored by _endGesture after the overflow flip settles.
     _nudgedBody: null,
@@ -38,6 +39,10 @@ window.popupInterop = {
         self._zoomRef = ref;
         self._zoomMin = min;
         self._zoomMax = max;
+        // Drop a scroll save still pending from the page we just left: it would fire
+        // against the new page's component and wrapper, writing this canvas's (still
+        // unrestored) position over the one it is about to restore.
+        clearTimeout(self._scrollTimer);
         // Navigation recreates the canvas DOM, so re-resolve cached nodes before applying.
         const wrapper = document.querySelector('.canvas-wrapper');
         self._wrapper = wrapper;
@@ -47,6 +52,7 @@ window.popupInterop = {
         if (!wrapper || wrapper.dataset.zoomWired) return;
         wrapper.dataset.zoomWired = '1';
 
+        wrapper.addEventListener('scroll', self._onScroll, { passive: true });
         wrapper.addEventListener('wheel', self._onWheel, { passive: false });
         wrapper.addEventListener('touchstart', self._onTouchStart, { passive: false });
         wrapper.addEventListener('touchmove', self._onTouchMove, { passive: false });
@@ -255,6 +261,84 @@ window.popupInterop = {
         self._applyZoom(self._zoom, true);
     },
 
+    // ----- Canvas position -----
+    // Panning is pure browser scrolling — no .NET event fires — so the position is
+    // reported back on a trailing debounce instead. One save per pan, not per frame;
+    // the zoom's own scroll writes land here too and are simply saved with it.
+    _onScroll: function () {
+        const self = window.popupInterop;
+        clearTimeout(self._scrollTimer);
+        self._scrollTimer = setTimeout(() => {
+            const wrapper = self._wrapper;
+            if (!wrapper || !self._zoomRef) return;
+            const z = self._zoom || 1;
+            // A disposed reference (the canvas was torn down mid-debounce) rejects here;
+            // the position it was about to save is worthless by then anyway.
+            self._zoomRef.invokeMethodAsync('OnScrollChanged', wrapper.scrollLeft / z, wrapper.scrollTop / z)
+                .catch(() => { });
+        }, 400);
+    },
+
+    // The toolbar is position: fixed over the top of the canvas, so that strip is not
+    // really visible area — a card parked under it must still count as off-screen.
+    _toolbarInset: function () {
+        const bar = document.querySelector('.canvas-toolbar');
+        return bar ? bar.getBoundingClientRect().height : 0;
+    },
+
+    // Restores the saved canvas position and, if that would show nothing at all, zooms
+    // out until the whole layout fits and scrolls to it. The rescue case is a sheet laid
+    // out on a desktop (cards at x ≈ 500+) opened on a phone, where the stored position
+    // is off-screen or the layout is simply wider than the viewport: without this the
+    // canvas looks empty even though every card is there.
+    // Returns [zoom, scrollX, scrollY] in canvas coordinates — what it actually settled
+    // on after the browser clamped the scroll — or null if there is nothing to place.
+    restoreView: function (scrollX, scrollY) {
+        const self = window.popupInterop;
+        const wrapper = self._wrapper || document.querySelector('.canvas-wrapper');
+        if (!wrapper) return null;
+        self._wrapper = wrapper;
+        const shells = wrapper.querySelectorAll('.popup-shell');
+        if (!shells.length) return null;
+
+        wrapper.scrollLeft = scrollX * self._zoom;
+        wrapper.scrollTop = scrollY * self._zoom;
+
+        const wRect = wrapper.getBoundingClientRect();
+        const viewTop = wRect.top + self._toolbarInset();
+        let visible = false;
+        let minX = Infinity, minY = Infinity, maxX = -Infinity, maxY = -Infinity;
+        for (const shell of shells) {
+            const r = shell.getBoundingClientRect();
+            if (r.right > wRect.left && r.left < wRect.right && r.bottom > viewTop && r.top < wRect.bottom) {
+                visible = true;
+            }
+            // Screen rect → canvas coordinates: undo the scroll and the zoom.
+            const x = (r.left - wRect.left + wrapper.scrollLeft) / self._zoom;
+            const y = (r.top - wRect.top + wrapper.scrollTop) / self._zoom;
+            minX = Math.min(minX, x);
+            minY = Math.min(minY, y);
+            maxX = Math.max(maxX, x + r.width / self._zoom);
+            maxY = Math.max(maxY, y + r.height / self._zoom);
+        }
+
+        if (!visible) {
+            const pad = 8;
+            const inset = self._toolbarInset();
+            const fit = Math.min(
+                (wRect.width - pad * 2) / Math.max(1, maxX - minX),
+                (wRect.height - inset - pad * 2) / Math.max(1, maxY - minY));
+            // Only ever zoom OUT to rescue the view: a layout that already fits keeps the
+            // zoom the sheet was saved with. _applyZoom clamps to the app's zoom range,
+            // so a very wide layout bottoms out at the minimum instead of vanishing.
+            self._applyZoom(Math.min(self._zoom, fit), true, undefined, undefined, false);
+            wrapper.scrollLeft = minX * self._zoom - pad;
+            wrapper.scrollTop = minY * self._zoom - inset - pad;
+        }
+
+        return [self._zoom, wrapper.scrollLeft / self._zoom, wrapper.scrollTop / self._zoom];
+    },
+
     ensureVisible: function (key) {
         const body = document.querySelector(`.popup-body[data-popup-key="${CSS.escape(key)}"]`);
         if (!body) return;
@@ -308,6 +392,13 @@ window.popupInterop = {
         self._viewportHandler = null;
         document.documentElement.style.removeProperty('--vvh');
         document.documentElement.style.removeProperty('--vvtop');
+    },
+
+    // Installed-PWA check for the launch beacon. iOS ignores display-mode, hence the
+    // navigator.standalone fallback.
+    isStandalone: function () {
+        return window.matchMedia('(display-mode: standalone)').matches
+            || window.navigator.standalone === true;
     },
 
     downloadFile: function (fileName, text) {
