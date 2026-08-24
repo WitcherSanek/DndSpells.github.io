@@ -1,8 +1,8 @@
 self.assetsManifest = {
-  "version": "I1BErcJ+",
+  "version": "50hVZhAh",
   "assets": [
     {
-      "hash": "sha256-7jyt++OH+beMa/pAV1VzYt7F3fDqyc1Pga/Scm30xmg=",
+      "hash": "sha256-rBvQE5Px19mXIAMhHlWErsgp2YCioMU9hlln05HKFVU=",
       "url": "BestiaryData/README.md"
     },
     {
@@ -10,7 +10,7 @@ self.assetsManifest = {
       "url": "BestiaryData/REVIEW.md"
     },
     {
-      "hash": "sha256-li9KE19Fia0hkgBP6+cSeLbEoggjMGAI1bSst2Qy8jc=",
+      "hash": "sha256-VezaKcSZzIZwrkEQPgej9z9yw5Yf7pAIMXC2F78rbdw=",
       "url": "BestiaryData/bestiary-bundle.json"
     },
     {
@@ -22,15 +22,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/10-red-ruffian.html"
     },
     {
-      "hash": "sha256-SSemj/XdExOHqqOF2Bqhy5JMH1m0hs2K/3MzoSfWeRg=",
+      "hash": "sha256-GUqMFdQqTK/nuxdj3FYkwvtc1xVJgKVvCwnidx5Xmo4=",
       "url": "BestiaryData/bestiary/100-ancient-green-dragon.html"
     },
     {
-      "hash": "sha256-alvRk2AWMwGLINUC7LrSHL8tbmvi5bJZSCkeY5d23kU=",
+      "hash": "sha256-ZpHkzYNwN8CqpmEu/0eDwXdfS3duJtA8SIGuyx9bM60=",
       "url": "BestiaryData/bestiary/101-adult-green-dragon.html"
     },
     {
-      "hash": "sha256-6eQhBehKumHo9BREupK5bWxQ/B4t2cjcc5EME9mjxvg=",
+      "hash": "sha256-FMsle0jtwOcDOs/dkiGDjl8tIAdpZPgkfTOHrA4TS/c=",
       "url": "BestiaryData/bestiary/10162-foresworn.html"
     },
     {
@@ -38,35 +38,35 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/1018-purple-wormling.html"
     },
     {
-      "hash": "sha256-VXYYoeVa7mbQQ6qUil+s9lHXTbP4Vhby/aF2jftlAgY=",
+      "hash": "sha256-KDeTURZb7PF1h9eUR9V2tBjpenwZwQOhh5gOdcyS3g4=",
       "url": "BestiaryData/bestiary/102-adult-blue-dragon.html"
     },
     {
-      "hash": "sha256-EGM1AeoyWTYLnCORrqcQBtOcvFlj+VU0Ji0pYjvk5ZM=",
+      "hash": "sha256-szfRtqGqBl1n7lVNqRJbDmXfOEYhtrwb1pYsV2TuKF8=",
       "url": "BestiaryData/bestiary/10283-irda-seeker.html"
     },
     {
-      "hash": "sha256-tAaqu9k1K16JK+9FDvSzjjt2/MhPZospsweUiAxBfCI=",
+      "hash": "sha256-QlTzKfaBDezragjgxTVjT26EVBx2E2F/7Wsp5c/dBYY=",
       "url": "BestiaryData/bestiary/10285-forest-master.html"
     },
     {
-      "hash": "sha256-8tBOkrjoV4CJ1Ijh3LbIFajx5sr9bndboKCJsyLNWew=",
+      "hash": "sha256-FjdTVnTlZGSYt1jP04U3OBsaOmgtC7n9FQWyrp1IUzw=",
       "url": "BestiaryData/bestiary/10286-ember.html"
     },
     {
-      "hash": "sha256-jnjxEp72hmUqGQHJXUxEGeo2vfRFAEOtnnZQ1mPmWic=",
+      "hash": "sha256-QuixjdQdjITVV3d03K8Hon74DaleHj+7ArkYu6TWOww=",
       "url": "BestiaryData/bestiary/10287-dream-eater.html"
     },
     {
-      "hash": "sha256-aWZ4IwKE9mCBcpGvYO0riMtc4/1useSIbTGJP3YENbo=",
+      "hash": "sha256-pgOuK2KFtwNuWBrrZZQOliItVMCIwvLiSx46Cq30/Ro=",
       "url": "BestiaryData/bestiary/10288-irda-veil-keeper.html"
     },
     {
-      "hash": "sha256-rpuGSzbuAMKA/bpPw+hK3sY9Uvltaj9dYAsWzKBnAjY=",
+      "hash": "sha256-KP+8ELMmQNG0ui0D6lRgNJFY1z7qjtomuG1HYhERJtk=",
       "url": "BestiaryData/bestiary/10289-nevermind-gnome-inventor.html"
     },
     {
-      "hash": "sha256-om2X/sYYDlvZzY9QbFvc3PbV6xyf1VALUL1zmx411u8=",
+      "hash": "sha256-d9J9Me9m679tap9qGcQlpcWY5Om6JjzAwMI7y+JQbc4=",
       "url": "BestiaryData/bestiary/10290-nevermind-gnome-mastermind.html"
     },
     {
@@ -74,19 +74,19 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/10295-thanoi-hunter.html"
     },
     {
-      "hash": "sha256-zhDVfnerAO+YfD7eEOCX8PORMLSszhNodLZkbyCY7WQ=",
+      "hash": "sha256-uO6WsJfPa8PmLgxIfK+Jhehwf8plLBmt8eaTN5jCzmk=",
       "url": "BestiaryData/bestiary/10299-traag-draconian.html"
     },
     {
-      "hash": "sha256-wvAy4dtmUkDHflL4fk+OXF8e2qypuf0HAUPYn1nLdhE=",
+      "hash": "sha256-Ws1JQ64Nb4JUbGKTu2QlkHX/OgDK3H5O6ioZLxPAB3s=",
       "url": "BestiaryData/bestiary/10300-verminaard.html"
     },
     {
-      "hash": "sha256-iI5WaOveBs4tIGpjGiITlv+sHI+TARU+GKCZigQYrgo=",
+      "hash": "sha256-wEjcjhxEigB2vQd9cetMf1r3Vtxvao3z/Qr2Y+bgP3Y=",
       "url": "BestiaryData/bestiary/104-green-dragon-wyrmling.html"
     },
     {
-      "hash": "sha256-bQVwLeau3obD1ieDpspFeQMklbL7fER/Il6zpS8SdFU=",
+      "hash": "sha256-Fxw9OzwUdfolZjIX3AAb29buf6Lwv67WMLPFr720Vfg=",
       "url": "BestiaryData/bestiary/10402-doric.html"
     },
     {
@@ -102,11 +102,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/10409-holga-kilgore.html"
     },
     {
-      "hash": "sha256-Q7lNMa1cJUPPESe6wfnNZ93ZOQsPD/KZ0Nr8qb61d+c=",
+      "hash": "sha256-8zIe1CzExLVaQmrJyd+ROY/9OAsRcvXy19Px0d9Rx38=",
       "url": "BestiaryData/bestiary/10437-xenk-yendar.html"
     },
     {
-      "hash": "sha256-mJpuic3AwXqCMuV3HN7yAwFlrRF7M6di7pBLmz8+Mus=",
+      "hash": "sha256-JpmOHCRH046xjmwfi1WTPo+ebyJTR5E8rgIsuVs9+R4=",
       "url": "BestiaryData/bestiary/10442-simon-aumar.html"
     },
     {
@@ -114,7 +114,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/10443-sofina.html"
     },
     {
-      "hash": "sha256-ntDpG3ZKxnEpO4traeXe9Jd7ok3SGSynDfp1pA+3x14=",
+      "hash": "sha256-d5mvHTfFe6m7g5YIwSzrd2nqJCdrVSN80j4gO3xjK5g=",
       "url": "BestiaryData/bestiary/105-young-blue-dragon.html"
     },
     {
@@ -122,23 +122,23 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/10542-anarch.html"
     },
     {
-      "hash": "sha256-u+VOKJSmB6J2fzzl/3Iu9aFD7EU+qzopP8NfmkOdUuM=",
+      "hash": "sha256-50jcU6gx6hMzlzuYEvT9iLIYaysxZAXNvTd7/h83aSk=",
       "url": "BestiaryData/bestiary/10543-druid-of-the-old-ways.html"
     },
     {
-      "hash": "sha256-/NUKtOmGFanO4g+z0Jb6ErbVCZEO3v0nVb8Ob4SjxXE=",
+      "hash": "sha256-ZieiDL1QNDBifXugfrLKcZQv0qlMPNlbmoP12nmRMPQ=",
       "url": "BestiaryData/bestiary/10546-rubblebelt-stalker.html"
     },
     {
-      "hash": "sha256-35Q8eEgtHhT9EV3e3tEmw+5dfmCAQPbTtdkLZQgpwC8=",
+      "hash": "sha256-6wXBtXlYiZqCvUGk69Kq+zvaXjSlsn+ivNpoT8c877I=",
       "url": "BestiaryData/bestiary/10566-anhkolox.html"
     },
     {
-      "hash": "sha256-juz4nWt90LFEud6Zc6QMtmCF8uCFTfgl2/PKmxL45c4=",
+      "hash": "sha256-LjO6fo7MvKPO+HEg4SRLUy9PWrh3+F5tZBKpPbMXdc0=",
       "url": "BestiaryData/bestiary/10567-aurak-draconian.html"
     },
     {
-      "hash": "sha256-46AYFcRB8fSstJQCkvqy4ac5M10pc/qOwhgKpqRjFkE=",
+      "hash": "sha256-YTAoOyz6zEANwRQNF9BWkHdBCQ6e86HKpB1IP+Ipix8=",
       "url": "BestiaryData/bestiary/10568-baaz-draconian.html"
     },
     {
@@ -146,11 +146,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/10569-bozak-draconian.html"
     },
     {
-      "hash": "sha256-tBu701klEWVYGH+UXAiEa6xnoxeGpMVLuFEzNRuwoS4=",
+      "hash": "sha256-7uqv05gcQLuyTbI0A9tedDXSK5yFvdaHv/GkVAd70ww=",
       "url": "BestiaryData/bestiary/10570-kapak-draconian.html"
     },
     {
-      "hash": "sha256-vUmR1p1YVOCGWCZbzGWaX+le6dKe70w6/vxAKYZeEw8=",
+      "hash": "sha256-C/yqe7E3zQPYIJGbBDrMzSz7bgIquy9rndshLz3FvBg=",
       "url": "BestiaryData/bestiary/10571-sivak-draconian.html"
     },
     {
@@ -170,7 +170,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/10577-dragon-army-soldier.html"
     },
     {
-      "hash": "sha256-zPlWt8HnCOC/IgMyAmI6XMy8GgmUj+HxrA7l3YQn1gw=",
+      "hash": "sha256-+ZCUDY5+x520C847AgiWMeX3uw+c1HQ+XvQ0lnI/4Ys=",
       "url": "BestiaryData/bestiary/10578-greater-death-dragon.html"
     },
     {
@@ -186,7 +186,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/10581-incomplete-dragon-skeleton.html"
     },
     {
-      "hash": "sha256-LI+2VKWKtTAwXMIUVHu6e+esM3vSTnF4dEe396QjKMg=",
+      "hash": "sha256-dgrBXAp0BOi6ssrBFcC0XEHTdUk2LQ+SoOgVSgtPPaE=",
       "url": "BestiaryData/bestiary/10582-istarian-drone.html"
     },
     {
@@ -194,7 +194,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/10583-kalaman-soldier.html"
     },
     {
-      "hash": "sha256-7KvrBAUfRMswPi5CVNIX+HqU9y9gSU0vEqyVKfKPy0g=",
+      "hash": "sha256-Mq+Gi9uGiPchKPOOpc8MjvFKTFRPxK22RvwRz5w9TCs=",
       "url": "BestiaryData/bestiary/10588-kender-skirmisher.html"
     },
     {
@@ -210,7 +210,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/10599-undead-soldier.html"
     },
     {
-      "hash": "sha256-mbRslDs5zCiKpXreC8AQIQryWlN541iIs7XmdjUOgqg=",
+      "hash": "sha256-TwxqkddNAO5mf893KgNRWZ6wIlL3VhPK75mEZszYY6c=",
       "url": "BestiaryData/bestiary/106-blue-dragon-wyrmling.html"
     },
     {
@@ -218,7 +218,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/10600-wasteland-dragonnel.html"
     },
     {
-      "hash": "sha256-5M7YaWMkB/L8lTDev688Nv7kXpJAF14/8zb9dYVghGI=",
+      "hash": "sha256-ZYXa6LZtoBV715tfkXz8kk+PsFWZ3iAQxXxdLkuB4Gc=",
       "url": "BestiaryData/bestiary/10601-caradoc.html"
     },
     {
@@ -226,15 +226,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/10602-kansaldi-fire-eyes.html"
     },
     {
-      "hash": "sha256-56/wz1BqtDJe0Y+f1gTYMVFS9vuLcvkjmmp70IYP0XE=",
+      "hash": "sha256-/A+c6cce4ApOJXL/J7naJxDiyVS/k0E8FOVoLWJg8KU=",
       "url": "BestiaryData/bestiary/10603-lohezet.html"
     },
     {
-      "hash": "sha256-SypXtfrgGhejOa23hbVx11mktnXQiDU3OdiJTkhqBZg=",
+      "hash": "sha256-eU8Rf9STeASUQJFWYLUNMtA/Nd5CLa+bLcmuhku7T/o=",
       "url": "BestiaryData/bestiary/10604-lord-soth.html"
     },
     {
-      "hash": "sha256-wTH8AM5njwo8baMH4nmk+SO2hkrNT6dw3GjsXQtHjP8=",
+      "hash": "sha256-k9mEoa4wu0Dhxmpv02VNL9j/K9kjmZhX1LquQNVsxCE=",
       "url": "BestiaryData/bestiary/10605-red-ruin.html"
     },
     {
@@ -254,15 +254,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/10619-boilerdrak.html"
     },
     {
-      "hash": "sha256-TzD5x7DXenWriCys369s/15Kl23k23FgxREMEDZX/II=",
+      "hash": "sha256-fBcEeD6feZjXsuaHhlXtE6yrLmyqcLWWl8Ke7cQDAwM=",
       "url": "BestiaryData/bestiary/107-ancient-red-dragon.html"
     },
     {
-      "hash": "sha256-V2mBKA5g+HCYy8TChOjknP/5bXbaWkzIlH2Jri0A718=",
+      "hash": "sha256-HKSxuNG24Z1wz2on25l6rPmeLv8/jdFvAbA9pHRkOp4=",
       "url": "BestiaryData/bestiary/108-adult-red-dragon.html"
     },
     {
-      "hash": "sha256-Ny6T2kBQim88UL8Zj4BdCdwZMojppsAYLJWWOm1URBw=",
+      "hash": "sha256-kd95hofdZkTo6BBDSroMAdMdFI0B+wM4pqqHIKc/zd8=",
       "url": "BestiaryData/bestiary/109-young-red-dragon.html"
     },
     {
@@ -270,7 +270,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/11-stirge.html"
     },
     {
-      "hash": "sha256-swxNh94xr5msaInV4X7GjPMUWa281lbZ3rJ/B+t5vwY=",
+      "hash": "sha256-8RJZR8m+A8D3xQAa9Gi04YJEomAFwhAgKoa8QOGF6Dg=",
       "url": "BestiaryData/bestiary/110-red-dragon-wyrmling.html"
     },
     {
@@ -278,75 +278,75 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/1102-giant-fly.html"
     },
     {
-      "hash": "sha256-4g/Y49nTKiY3fWYrLIrHnUkQaGZA9IwHJkXTlDv1t4c=",
+      "hash": "sha256-NH7RiK3xcvkp3wxXPsVYqRQkGYw2WLTgxNSkyWYHXRE=",
       "url": "BestiaryData/bestiary/11057-coral.html"
     },
     {
-      "hash": "sha256-hWvbcWVTZLwusDQwwx89Ql8srRRgaImiW6oAXzOGJ50=",
+      "hash": "sha256-9sW2baIxJ9fpSEwVCmNQlLrYi7LnYPsZ7oZG6uEplcE=",
       "url": "BestiaryData/bestiary/11059-dandylion.html"
     },
     {
-      "hash": "sha256-U2X629XSNNEO8/ztlmos0ePfYhAZ7zsoz5m/Q1vso78=",
+      "hash": "sha256-nmobXmkkdB9FyrEyuzkpmV5JeNwUVSGAW2w3RcX4V6w=",
       "url": "BestiaryData/bestiary/11063-rain.html"
     },
     {
-      "hash": "sha256-h8ZiH2Sbv/eZUQYPS/HKinKO7lHnQXhBn5xY3CeDNOk=",
+      "hash": "sha256-lsfawoR1WCy8JuAClfvVuGJfY/HB9aWc4FYBUTGWkt4=",
       "url": "BestiaryData/bestiary/11068-scrapper.html"
     },
     {
-      "hash": "sha256-iMxYCPqMbMn202LeAFsH88FFV9X4ebwcPpbVSH6B42A=",
+      "hash": "sha256-BNugPgAjqHXMkX4gGYWKmXOUmL23veb1aDxhBlRE2uA=",
       "url": "BestiaryData/bestiary/11073-seth-the-shapeshifting-dragon.html"
     },
     {
-      "hash": "sha256-1e9aSM9DD1Y6YuEgtKf7IrlEQ9h4DEn/3+LEEyvZV6Y=",
+      "hash": "sha256-m4RaFsQSE18iOtkHF4QiFBHGl01w5bM3+LS2osb3/GM=",
       "url": "BestiaryData/bestiary/11087-sheldon-the-blueberry-dragon.html"
     },
     {
-      "hash": "sha256-wxKNle7B5x7VUE17LnXeoivTujA/vzedoU/vL3CKHmc=",
+      "hash": "sha256-3GpLyFuOk6qXKCFm5MiiN4q02QeewUIg7uNBGpr53hc=",
       "url": "BestiaryData/bestiary/111-ancient-white-dragon.html"
     },
     {
-      "hash": "sha256-h0n+JVBntGCosvVVPgNDskFeetlmNESYu3qCxrGIUTU=",
+      "hash": "sha256-1HfGtrHiPxD5aq6qCvzl33A+VwEThuX3N8t69l0lxso=",
       "url": "BestiaryData/bestiary/112-adult-white-dragon.html"
     },
     {
-      "hash": "sha256-m117McYKH8IXe3xZDfZGaZYsaJBErIBjmpOQL8n4P6A=",
+      "hash": "sha256-W7rxaa7f4y3T2xBNJsoj7Ga7JfWJ69w4p6CqNmYepcU=",
       "url": "BestiaryData/bestiary/113-young-white-dragon.html"
     },
     {
-      "hash": "sha256-a7ouYtQI1GF1sAOvhpKWbOmT4TAM8f+jIGZJcm6Mouk=",
+      "hash": "sha256-DhPqoCpH1if6CuTIVvJXndav9aZJiRDJUQattWJ/yKo=",
       "url": "BestiaryData/bestiary/114-white-dragon-wyrmling.html"
     },
     {
-      "hash": "sha256-SRTVsqhwOKZfCoRieTqtYQSiiZczyA+ExbqVr3OyoIs=",
+      "hash": "sha256-RlNn8EX2nrJjg306wpyu8c9aHRPSVN/71ug3dOodR/Q=",
       "url": "BestiaryData/bestiary/115-ancient-brass-dragon.html"
     },
     {
-      "hash": "sha256-zl4BPthBfqeanfklWtA5PPkn/enJA+ITHsrda6sKAu8=",
+      "hash": "sha256-oYszif8Y2+zDedLio12YnQ5sVFhvkvOMO7pdekmPjxA=",
       "url": "BestiaryData/bestiary/116-adult-brass-dragon.html"
     },
     {
-      "hash": "sha256-H7eNsJO2nAtZzPY7sMWIgiLzmIHpxcnO1lpsLynr7QA=",
+      "hash": "sha256-i7Kse7CIwCIisGkthMEfWghVuuxbQ0BWGylVZzssq4Q=",
       "url": "BestiaryData/bestiary/117-young-brass-dragon.html"
     },
     {
-      "hash": "sha256-iMJ1QhLGZPqi4sC5utLll9rB8tB6BcncpGlO+3zN1CM=",
+      "hash": "sha256-S2pryy12Pi8lDEqbCPQUX8Rlx1w53sl+BKzkIWoOM3s=",
       "url": "BestiaryData/bestiary/118-brass-dragon-wyrmling.html"
     },
     {
-      "hash": "sha256-ZXHNoqvNrmoaO/NYuCFtGe+TcQjSV/ut3tFjIE1T0yE=",
+      "hash": "sha256-XxOXOBTVhYbwSwsCZ4pr+iNVVyClxk4MtHawl5JYOo0=",
       "url": "BestiaryData/bestiary/11830-cinder-hulk.html"
     },
     {
-      "hash": "sha256-gcdt+7e7VboQETYbJAo0R+AhDID/q+dr6XCu6jmtwVg=",
+      "hash": "sha256-/CZIJU5wJ84xxdhzdoaIdGzE8UbCNI8exeSCV0PxWWc=",
       "url": "BestiaryData/bestiary/11831-firbolg-wanderer.html"
     },
     {
-      "hash": "sha256-/nWuJwqHVbcGOwbFAqsUEhXRwvo7XISyR7QfShtTbC0=",
+      "hash": "sha256-OdJa9PpeUIoUodvUVggHJJlrNm1GAa3riuFZEc3X3bs=",
       "url": "BestiaryData/bestiary/11832-fire-giant-forgecaller.html"
     },
     {
-      "hash": "sha256-o1lOHm1RjVIVYr32iIpEV59NYp6VuvAqfSeVVvztlD8=",
+      "hash": "sha256-88V0xLB6UHNUoHbC7khbiOcbxZOhtCiBCt5PGDAHjtE=",
       "url": "BestiaryData/bestiary/11833-fire-giant-of-evil-fire.html"
     },
     {
@@ -354,11 +354,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/11834-evin-giltall.html"
     },
     {
-      "hash": "sha256-uZt3Imz1zfS+yIkaWXv1pE/cK1fkXcZlxF2p805McHc=",
+      "hash": "sha256-V0N5fQoUgNufc6hy9IrVdkM9s4ynr4oRtmnNlXmpv6Q=",
       "url": "BestiaryData/bestiary/11835-akaanvaerd.html"
     },
     {
-      "hash": "sha256-XyXnsjfOFDBTYhBxTSdvKaHE7JL5EFc6MaYrSwafp10=",
+      "hash": "sha256-UBd34iAqjI8ke7AL7kOe1XKlW+hFo/Iw4/Q9e5MUX8o=",
       "url": "BestiaryData/bestiary/11837-acidic-mist-apparition.html"
     },
     {
@@ -366,19 +366,19 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/11838-theldin.html"
     },
     {
-      "hash": "sha256-FgnEWy305S3bmyLQp1s+tLIsLfzPcOVyNO/oGmSII/k=",
+      "hash": "sha256-hbOYFYA+lwGulamEq96Q9CXy1vgMnEYYKIFl9usN8/g=",
       "url": "BestiaryData/bestiary/11847-blaze.html"
     },
     {
-      "hash": "sha256-OIlcrv4UDlxlgABEnpc7RtgCFMY8TbRQkXb3gkQjgSI=",
+      "hash": "sha256-4RidcDK7uX3SvAIP6lYwSNZBQMoOkTN6R35er1ZyK0k=",
       "url": "BestiaryData/bestiary/11848-creeper.html"
     },
     {
-      "hash": "sha256-aQSeehYfZhobUXWViy3bQNosvpYDHxHqMIpREfbh+Cg=",
+      "hash": "sha256-rqgzAM+jZmQhVSDQwhA3YlJsfEHWnZ6f44f9Ti/sFkc=",
       "url": "BestiaryData/bestiary/11849-ender-dragon.html"
     },
     {
-      "hash": "sha256-Rn6W3prUjv2PIgr51ApC2fP4Sm1eNk/4tPz+Xj8IFM0=",
+      "hash": "sha256-xqFGWZiOAjIhyffSmyeI5gq+sTnw8j5XlzE9BCV0P8o=",
       "url": "BestiaryData/bestiary/11850-enderman.html"
     },
     {
@@ -386,15 +386,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/11851-wolf-of-the-overworld.html"
     },
     {
-      "hash": "sha256-XTZdGR244eiOMPqWgjPbgGuzyGNEbjiAEzn0B7JF0V8=",
+      "hash": "sha256-ADSCPl8QgeVw9pf9thUg7hee+l9u+i7GAAQj/vY7p1c=",
       "url": "BestiaryData/bestiary/11859-flying-horror.html"
     },
     {
-      "hash": "sha256-HesPKJJO4j4YtovrMu4XpGvgpbjxpi/sp1XpeMGPI1M=",
+      "hash": "sha256-JuT41UDuoRZxw1mXK15HpVDp+Xi7uN3kd5U/FZ5M6jo=",
       "url": "BestiaryData/bestiary/11860-shadow-horror.html"
     },
     {
-      "hash": "sha256-kus+cEozFlpoZD+gtzEjwdG75NL0kyG1mBAI5FUSjtw=",
+      "hash": "sha256-KsS04qM3O91ZftV0d2bZuVPnLxQ4SgWtudV7VNARNJ8=",
       "url": "BestiaryData/bestiary/119-ancient-bronze-dragon.html"
     },
     {
@@ -402,79 +402,79 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/12-cultist.html"
     },
     {
-      "hash": "sha256-5HT2U7NcOYm+WSRe1UCGnAFimflgeCQgUNB9CfH0EV8=",
+      "hash": "sha256-NXztBfzfELeIooSdP2tMH88sOc5cQqAaZ4r/ub0A8Tw=",
       "url": "BestiaryData/bestiary/120-adult-bronze-dragon.html"
     },
     {
-      "hash": "sha256-El2uySIBRum8e/ung+xTzp2POogxYGPuqmXqTD373Po=",
+      "hash": "sha256-MNhR9Mve8dNNXolgw3aL1XEPZoa87wH5apPcVZMJNLY=",
       "url": "BestiaryData/bestiary/12015-bag-jelly.html"
     },
     {
-      "hash": "sha256-qJ0A+hMGyAGbaXzcNo7HkWVOHg+8HlJN8sBnmJ/WuCs=",
+      "hash": "sha256-US5ermolI9/NR6jJ02f2JsWEoJBPgChClF036/5jaiI=",
       "url": "BestiaryData/bestiary/12064-barrowghast.html"
     },
     {
-      "hash": "sha256-wgwXrdOF8EOE9J0pIZhhQFPeoksG+24gztXEbNh8oEc=",
+      "hash": "sha256-YjiVTWMXI2kxIHyiohnG6GwMjMVx4X2Uy9hSk5/tQPY=",
       "url": "BestiaryData/bestiary/12065-cairnwight.html"
     },
     {
-      "hash": "sha256-rNW6m3wiSKlHUbFeajv6q/G5PDAUjpAQDOHm3CUHnaE=",
+      "hash": "sha256-N6qbduI4OTp9eSgC5ALFKbO3jbkJM9j5USGe1ujNPhg=",
       "url": "BestiaryData/bestiary/12066-cloud-giant-destiny-gambler.html"
     },
     {
-      "hash": "sha256-vgyG3gVfhSizFs4pUbKFblDgSSPuROPvF1YH7docO3A=",
+      "hash": "sha256-gm9JRFRMmucdddBVGPlWEHztKkJRXmIyB0S+dhBLysk=",
       "url": "BestiaryData/bestiary/12067-cloud-giant-of-evil-air.html"
     },
     {
-      "hash": "sha256-W0gi9ZiQBKXzfcQ8oGPmM86GlQ9A+BA7gWkzjenq3L4=",
+      "hash": "sha256-IfAW6xLq2s41osNonPyHRfzRp8j0QBNTnIvEaAdn/+s=",
       "url": "BestiaryData/bestiary/12090-death-giant-reaper.html"
     },
     {
-      "hash": "sha256-t9FX/U/9IOzNnBV7aOl3IvEZ2Brunm34vvmWYVcK200=",
+      "hash": "sha256-sqFHD3HbLqidw6hlAKsnRqDWMm1GtczHfIQi0gWlbFo=",
       "url": "BestiaryData/bestiary/12091-death-giant-shrouded-one.html"
     },
     {
-      "hash": "sha256-G7dqBFeORsjLZ54erUFZVhzs8h8SpXEiEsypbpmCzgk=",
+      "hash": "sha256-vQUf5Ztv5yfKQx+lSlnjh6VhRR9XxiU1pLBEyFfBNNE=",
       "url": "BestiaryData/bestiary/12092-aerosaur.html"
     },
     {
-      "hash": "sha256-glbcW5D4P1OPO4MnNeiOadWma1PghQw12bJsg5h8r0w=",
+      "hash": "sha256-HjS8fxkn7Hy2zACE0eP1lFTYA5fvnwLY8DuHeaklZhg=",
       "url": "BestiaryData/bestiary/12093-altisaur.html"
     },
     {
-      "hash": "sha256-gEBc/zoW/kN9ibTpc8zN+4NlDNIWOxQc9FFk78LmKcY=",
+      "hash": "sha256-LSUKA7WXbssrKwDqTwuZglwmJPEfla6XOdRup3oa14U=",
       "url": "BestiaryData/bestiary/12094-ceratops.html"
     },
     {
-      "hash": "sha256-WVqRcBVuvH8IsxU/kFeKNqESJIvQp10yoXyUzPY4QOs=",
+      "hash": "sha256-/WvVE/fmtO3d+3ryCMNgDx6VRQE3a1LHicTXU9c7WLo=",
       "url": "BestiaryData/bestiary/12095-regisaur.html"
     },
     {
-      "hash": "sha256-5MTHDmLQV/q3BEE1vgECTTUQ2IQdn9TJujclqbFBkTg=",
+      "hash": "sha256-Bp2YMkixxtfsudlcyw2DmS31NBgKRPa5dATAenv3E8o=",
       "url": "BestiaryData/bestiary/12096-dust-hulk.html"
     },
     {
-      "hash": "sha256-aNvUtorbuFczF9wmdsWFH7NCGsoJB8TNUGrvm6LR/IU=",
+      "hash": "sha256-ULbkzGzZtS8ycsud5G4Mrh6SsJUhQTeoXb+CerzPeuM=",
       "url": "BestiaryData/bestiary/12097-echo-of-demogorgon.html"
     },
     {
-      "hash": "sha256-zoKFmCFb2TL7PZNhFrCoSfrdT41p0xGvHbBP3YtGBF0=",
+      "hash": "sha256-+/sdXwEU62xNXV/zu5IPaIVqsG+apQE9tLbjv1f0pLs=",
       "url": "BestiaryData/bestiary/12098-ettin-ceremorph.html"
     },
     {
-      "hash": "sha256-ENABg3y1Q86G6DX52tFpRu/iBuhI1JLv3j7ESM+zQEw=",
+      "hash": "sha256-nq6Iq5EWec5gXa+QUCqpgw0Jv6ylHimMyvEI8Aaskyo=",
       "url": "BestiaryData/bestiary/12099-fensir-devourer.html"
     },
     {
-      "hash": "sha256-uMiSlXdnW6CQZSwJxWWLGfvT+SODmf9F74PShWo/9IQ=",
+      "hash": "sha256-Z0wZOI4G4Kvp/lEW4qgdC2XylVVMnmtoQuWVtF0idl4=",
       "url": "BestiaryData/bestiary/121-young-bronze-dragon.html"
     },
     {
-      "hash": "sha256-/zOLOX6hlWwXM2UID8IrNpMSK4GfMm9HbXmeWQsknCs=",
+      "hash": "sha256-iQfjcE/l18/mSlabtggniuw/a+lb9SlpPVbet9SxpNc=",
       "url": "BestiaryData/bestiary/12101-fensir-skirmisher.html"
     },
     {
-      "hash": "sha256-CnwfuM9/fIjhSfMdwBfx7FnNbzYTaK2w0SV2J0WUBWA=",
+      "hash": "sha256-TskBWyZZWbYu9nFVhz0UOIdDl8ql1uF5up6viD++R94=",
       "url": "BestiaryData/bestiary/12115-firbolg-primeval-warden.html"
     },
     {
@@ -482,35 +482,35 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/12116-firegaunt.html"
     },
     {
-      "hash": "sha256-8kFw4SanPZGtLN19Dp1pKsOohwDF4qtO+rja3d00qZ4=",
+      "hash": "sha256-DN0qSnFgLoJFHNkR+70CzPQfhQYlcQa0oWEEUx36w1w=",
       "url": "BestiaryData/bestiary/12122-fire-hellion.html"
     },
     {
-      "hash": "sha256-yvu3KX1mPiM2+7QvLJUDXZ1ERzOC8SGlqSNCtvF6LWM=",
+      "hash": "sha256-LzGVXhqCV0YMiqnZq1L8qc97uq3vVmymCeMuYFiGVsc=",
       "url": "BestiaryData/bestiary/12123-flesh-colossus.html"
     },
     {
-      "hash": "sha256-r0Jc9yNnMKFNUwtr1SyxKGB5B7dCNMD8+4jnSPvUrbo=",
+      "hash": "sha256-vo0MtUARiC2D7qAOpJ8D7fs/uH0X6Rfy5j4cnKUKCvM=",
       "url": "BestiaryData/bestiary/12124-fomorian-deep-crawler.html"
     },
     {
-      "hash": "sha256-T7GHoHui4xXsGtLmfiw9+D0guQNjIoUT/yjGQbjUgaA=",
+      "hash": "sha256-Su2Etv7lnI8y1pR76MCNTN36SwuUc9Zz7H64obbZIy4=",
       "url": "BestiaryData/bestiary/12125-fomorian-noble.html"
     },
     {
-      "hash": "sha256-7hJZus+YyTQNqhj/Sxi16Bk/cSd0FV+FiBMKNQXQZFM=",
+      "hash": "sha256-HQYe9XO/24HkkIrD+omqPj/3fLT/IIzk9LPpvWdiSB0=",
       "url": "BestiaryData/bestiary/12126-fomorian-warlock-of-the-dark.html"
     },
     {
-      "hash": "sha256-m80LMvy6EzXRGxJyhrs8WjCld1UT92h6NOQF/mvnyqU=",
+      "hash": "sha256-JHzlsFWDJUmYBP9b5m/p6/nZ35s0TbsW4tp5C0eI5BE=",
       "url": "BestiaryData/bestiary/12130-frost-giant-ice-shaper.html"
     },
     {
-      "hash": "sha256-LGHxYHPb63p39gKUS5DXX+iStO5k6390RXdkpDrQ4s0=",
+      "hash": "sha256-7GMJ6ml/eJNzjh7uSzM0ysQdlE3aEvYNzDj5raZTMuc=",
       "url": "BestiaryData/bestiary/12132-frost-giant-of-evil-water.html"
     },
     {
-      "hash": "sha256-SpXE+JSfeiNJPhPpPScLxh1zwshSCMK/ve/1eKHaCVY=",
+      "hash": "sha256-oq7uGky7IsvchQVR21bOgk8NVlxT/9KDc0LhPYIObAk=",
       "url": "BestiaryData/bestiary/12133-frostmourn.html"
     },
     {
@@ -518,23 +518,23 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/12156-fury-of-kostchtchie.html"
     },
     {
-      "hash": "sha256-9jNgUpdRyqsKWsEjws6ORZAXSA1LjHTe20WBSINNl44=",
+      "hash": "sha256-ND6mKVrP7W0bUE9UOnBUGChybWADkpjnnj0tRRbG4yI=",
       "url": "BestiaryData/bestiary/12157-gargantua.html"
     },
     {
-      "hash": "sha256-Bg5PlmWTzPeRZsaRHnb+o5tgkNJBTWlC0xp0qVqLuZ8=",
+      "hash": "sha256-w5YwtLODJErnsXgP4Ky3lyVRl8jBLM8DJh0yeoxQtKY=",
       "url": "BestiaryData/bestiary/12158-giant-goose.html"
     },
     {
-      "hash": "sha256-XO70iqu7gPPAlmqCX1XJ1ViHims5yJ4+M/gzT9VUbHc=",
+      "hash": "sha256-8xZYBEWiRPmiDa2abjpWcp3xEVT8GeR/Q7SV2hzYWTk=",
       "url": "BestiaryData/bestiary/12166-giant-lynx.html"
     },
     {
-      "hash": "sha256-P2RkyRR1ggRV1dCCQQN0OHweJFcjyP7rn3dfdRE+r7g=",
+      "hash": "sha256-UH1bBLAWi/VCwbbIUV5Xh8QCXwO4fIaYa2qoJpHeohI=",
       "url": "BestiaryData/bestiary/12167-giant-ox.html"
     },
     {
-      "hash": "sha256-4uqhGoxGZXKAUkv2f/6YefNymseYJ3nNewN29bAaBec=",
+      "hash": "sha256-d6FN+cZTmUKk62odMcr6l37M6vf1zH9Nv/6fbT5sW04=",
       "url": "BestiaryData/bestiary/12168-giant-ram.html"
     },
     {
@@ -542,19 +542,19 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/12169-giant-tick.html"
     },
     {
-      "hash": "sha256-S3T6Bc2hjrlxnNswW1YUlQ8MfemsGWQxCrdlJWicNTU=",
+      "hash": "sha256-nh+7yhkEiX7ZcM7+TmohFdvClC5UpvXoALCM0EnmFSw=",
       "url": "BestiaryData/bestiary/12170-gigant.html"
     },
     {
-      "hash": "sha256-FuXAVqdtp/1ltrQM7/h8PTvJtFTyVfvTeGzdR21aYlY=",
+      "hash": "sha256-IOhd+IjtKJRYGPDnOSqcLpanljVDn9n04oBmzL//Ojk=",
       "url": "BestiaryData/bestiary/12171-goliath-giant-kin.html"
     },
     {
-      "hash": "sha256-dQWJImMduKhK8g8USOGQndi+F0k9ISiju1JUKKzT5u8=",
+      "hash": "sha256-GQu6Bn2GU2Gc05OIt422pFWx6pp+3iG3shL9KkLUpho=",
       "url": "BestiaryData/bestiary/12172-grinning-cat.html"
     },
     {
-      "hash": "sha256-jAyvaw9gnbEtnUm/YvOOOlMrc2u52WGilPbpbRq3OSk=",
+      "hash": "sha256-btC/vNBlLkii0p2sLKyr+/8yHNN84pMnkkdKY/TC2wg=",
       "url": "BestiaryData/bestiary/12173-hill-giant-avalancher.html"
     },
     {
@@ -562,55 +562,55 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/1219-su-monster.html"
     },
     {
-      "hash": "sha256-0FFrwaHQWOO7rM1kk/+DHj+iAlzVebTTZxMvC7HM/CQ=",
+      "hash": "sha256-24fyRn0I7WUXGQGTHYKLgkAZCLhGjhQ6qe/96ISjRDY=",
       "url": "BestiaryData/bestiary/122-bronze-dragon-wyrmling.html"
     },
     {
-      "hash": "sha256-UxAsYOMgmjMshaAA44hSD3EEBPEPxcL84oeHiEfGIh8=",
+      "hash": "sha256-FzrEiPUmzWyZWibHxKvVLanbUbTG5NAb2yVE2hkD0Zs=",
       "url": "BestiaryData/bestiary/12247-lightning-hulk.html"
     },
     {
-      "hash": "sha256-Ufaa9tUMBj3B8fCupiBC/K9gulFIgm7siI5Ou4361E4=",
+      "hash": "sha256-YX+0zRpaQGZQ6wtKvEZMnyV4vE/BVQ5B5M32bJG5E7g=",
       "url": "BestiaryData/bestiary/12248-maw-of-yeenoghu.html"
     },
     {
-      "hash": "sha256-/6d9oIBqOABR36Md4BTv0LtYemN6TDTgwdKM8wkLgAY=",
+      "hash": "sha256-urcHhXryVNKB26DgWgptdXK+IY6LfHPhAh4Q8aeJuoc=",
       "url": "BestiaryData/bestiary/12249-mist-hulk.html"
     },
     {
-      "hash": "sha256-ZSM7zpEI3V34URoVQ4fg5jjdmu57s5MIBgf5un0eC5Y=",
+      "hash": "sha256-v3NAJfVel9fXYfTAwgRprHU2exbBwWHxFcHgjBxaZYU=",
       "url": "BestiaryData/bestiary/12250-mud-hulk.html"
     },
     {
-      "hash": "sha256-bK7FmA6fP7IYdsFUzGaqyDbFqLK7HFW8pFibD7ze9IM=",
+      "hash": "sha256-k+5ryuXrd0uXrlncmqQRjz77i9yOVj8xIGSHinO/ZRY=",
       "url": "BestiaryData/bestiary/12251-rime-hulk.html"
     },
     {
-      "hash": "sha256-RM7LK+pL09SVlU9xZOr+2DDvHUn57SpKC4kOkj4mVCA=",
+      "hash": "sha256-PyUaJD6ijhB+LjWNL2u/4ocPq9fuSQDoI7ShVHzSMPk=",
       "url": "BestiaryData/bestiary/12252-runic-colossus.html"
     },
     {
-      "hash": "sha256-uJFlCXuXwg9PQi86rrRCwKXBA9EDYDB46kvrqndYZOQ=",
+      "hash": "sha256-dJsYczp0wZwnjA9N7hFilB8TQXrm/IUGypzDtvDW6Uw=",
       "url": "BestiaryData/bestiary/12254-spectral-cloud.html"
     },
     {
-      "hash": "sha256-4P4LfR4CVE6r8JgXBjAl0UTCpNaECaiLMacUicxjRSY=",
+      "hash": "sha256-CrqhrfitrkFD3TjtoEXH2QMNeMzUzP/gPwFSuuFp+Fc=",
       "url": "BestiaryData/bestiary/12256-spotted-lion.html"
     },
     {
-      "hash": "sha256-Fn/U0LVT2QF8affPvsYwF05cKpPgEQwsDWImo6A74yo=",
+      "hash": "sha256-3hXTup5qvXXdfbgQpl/4M1QeUA8KSwOGCQuDVAJZQD0=",
       "url": "BestiaryData/bestiary/12257-stalker-of-baphomet.html"
     },
     {
-      "hash": "sha256-OKxjQ55bV/vCnYdhawtNDQG92eoq6KQk1SRqLju/9F0=",
+      "hash": "sha256-1f9N4SXgi8jn24M7E3JsYNKQSogKUTGw0s3VA2NECvA=",
       "url": "BestiaryData/bestiary/12259-stone-giant-of-evil-earth.html"
     },
     {
-      "hash": "sha256-lMwn/pw9WNnggOg2bU5f7mmLSFs/vgyoKYiWNgU2ACo=",
+      "hash": "sha256-dlGa25k2KDcudlvYEgV5Pz4LOMpwWseKmWh8K7SC+Qs=",
       "url": "BestiaryData/bestiary/12263-stone-giant-rockspeaker.html"
     },
     {
-      "hash": "sha256-Jx6/YlVu7LT6a8/+IzyWskh3OHOadXKj9HxkMQbj59k=",
+      "hash": "sha256-DMGZ8sL6fmiFKbtbuBFAMdQ9Y4m7bf/SeyZWeXKpK7I=",
       "url": "BestiaryData/bestiary/12265-storm-crab.html"
     },
     {
@@ -618,87 +618,87 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/12266-storm-giant-tempest-caller.html"
     },
     {
-      "hash": "sha256-THzYT2IKsPdh1pg6bn0KV6kNR6eW+7T1dLJP0qQQiL8=",
+      "hash": "sha256-EnE8/xoSk1QtRToIgVPrlDaFlhIcChaOQO22PCiDYZU=",
       "url": "BestiaryData/bestiary/12267-storm-herald.html"
     },
     {
-      "hash": "sha256-KqGyTEM05YZUVjoL8aMQs9sZz4GWi1f2X8u0iVjwxb0=",
+      "hash": "sha256-1uNoeVSKN5+rfJm+hb3I3FCH1W6dpPlYQwUq+vl0HPE=",
       "url": "BestiaryData/bestiary/12268-tempest-spirit.html"
     },
     {
-      "hash": "sha256-sSlb7hJWoYjIcp/E3rs25HrXHF5CjIOPjDQt/bjglTo=",
+      "hash": "sha256-eXPipQDiUPKyPDihW6rYZSAdzgoIJodQU+Ko1ANzV5E=",
       "url": "BestiaryData/bestiary/12269-titanothere.html"
     },
     {
-      "hash": "sha256-xEOllD7w3nmhYRwh/nEGmSG6GvPUFgO38vyVwiRLKu8=",
+      "hash": "sha256-cUhRIqZmiw5DwiKwc9ZXwYvrTq/8/noyelASv5eZ3qM=",
       "url": "BestiaryData/bestiary/12270-troll-amalgam.html"
     },
     {
-      "hash": "sha256-15OhtVSzYqceNT11t9OxIzcYEw4R3+ziVh8y7av71OY=",
+      "hash": "sha256-R09LfNT+D9gfdqxDeEHoM2V5tiQdabHOiYWcmj6BS5I=",
       "url": "BestiaryData/bestiary/12271-troll-mutate.html"
     },
     {
-      "hash": "sha256-/PzYHpClesV3UdxHh6OVVNVFNcL8byeDewciPm3uNA4=",
+      "hash": "sha256-snSE6rqFtR8xIThcFOK/sUWLPzFZ99unrhNxF7YF5bo=",
       "url": "BestiaryData/bestiary/12282-cradle-of-the-hill-scion.html"
     },
     {
-      "hash": "sha256-+ifWeEC1kZYe7xXI4u4v0jAN7mdCFtDOqvxVKufw8/E=",
+      "hash": "sha256-pFiLSTX4cpCNdNWxHKVWPwQ5x2zohshjnicu0qjVJPo=",
       "url": "BestiaryData/bestiary/12283-scion-of-grolantor.html"
     },
     {
-      "hash": "sha256-W/N95KaqXai6xqn/ohcp1QGmINKSia3prxchoIkEocM=",
+      "hash": "sha256-cd/q0EHnSq5i/HRjauTMk0QtbxqZQzmLYW/JvAKkA/4=",
       "url": "BestiaryData/bestiary/12284-cradle-of-the-cloud-scion.html"
     },
     {
-      "hash": "sha256-0jzbR7Sn86A02fUFJofppwkTiB5C23aeU4ZqmGiMybA=",
+      "hash": "sha256-ZldfJ1FcVe6nWY4GbhnB8JFS84gIeBV9uJahRkl01vU=",
       "url": "BestiaryData/bestiary/12285-scion-of-memnor.html"
     },
     {
-      "hash": "sha256-x68f/x0LsrvLohGmYTZ2dlTBfA/td7gvtTVKhJpBj08=",
+      "hash": "sha256-UxhYIdq7kpBA3HIYG90uR5S6ObbpRKPbag1cWeUGXQc=",
       "url": "BestiaryData/bestiary/12286-cradle-of-the-stone-scion.html"
     },
     {
-      "hash": "sha256-dkUvyz1WHB69nYwGwZyv2vRwL2Pj7FiXw3ADtal5ORI=",
+      "hash": "sha256-G3JyY/CLT107ptT7jsYqnj1SppriCPmIQkkH5hyoLe8=",
       "url": "BestiaryData/bestiary/12287-scion-of-skoraeus.html"
     },
     {
-      "hash": "sha256-Vs8NK5o0iqJXh5wroQTfRXRCoKzlxDV0+4qMvznAPmc=",
+      "hash": "sha256-NVRESVrbVksXTCVZmK6TnAAMMaeuGF+VVjysx3ceP/8=",
       "url": "BestiaryData/bestiary/12289-cradle-of-the-storm-scion.html"
     },
     {
-      "hash": "sha256-fr2KKOMi+8uzMhaV/qHYJLD/8f8z+kWpsnnMHOlE130=",
+      "hash": "sha256-7nW7kQYIuAyH9l0RSa2bsweA7RmhrARxWp+1D0GubD0=",
       "url": "BestiaryData/bestiary/12290-scion-of-stronmaus.html"
     },
     {
-      "hash": "sha256-O1eZ7k0FY2LU0F6De9oQMkKpAyU1XSWtHjfUYRrv7HQ=",
+      "hash": "sha256-LaKrgIcuw6V9EWILV708+K8Css2lu4e1foxAOUJkYHU=",
       "url": "BestiaryData/bestiary/12293-cradle-of-the-fire-scion.html"
     },
     {
-      "hash": "sha256-BhaR9oOUgOroenMutGPIxnCQtZXTS1iW2Ny4ihMtJi4=",
+      "hash": "sha256-BUA28KtdteSGmkBZBj2lRlaBWObflSgSwEYixtD0bBo=",
       "url": "BestiaryData/bestiary/12294-scion-of-surtur.html"
     },
     {
-      "hash": "sha256-cBNQPerAnX5FsswT5sGY0EETbrtokGEfhmdwZaCZ3A8=",
+      "hash": "sha256-gQvn2mt/nEOdBv/ZIkOLohK6f+nF/7t/gLKaGDAvkTQ=",
       "url": "BestiaryData/bestiary/12295-cradle-of-the-frost-scion.html"
     },
     {
-      "hash": "sha256-I09Xtmj/P9eVOmOHROSwziLHPwBZ70A/4lan9o4GkZI=",
+      "hash": "sha256-80n44b2jbLusehRi4e/aB9LZHRqShgQn0xPZ3kQzNCE=",
       "url": "BestiaryData/bestiary/12297-scion-of-thrym.html"
     },
     {
-      "hash": "sha256-v08r9kozpMOx9458LprERaMc+6Xm9f/npvzMHw7fRAk=",
+      "hash": "sha256-/vXUT5aV1uXsBWxzd34XjmSJfN8gSAjnsOgRXEjSCv8=",
       "url": "BestiaryData/bestiary/123-ancient-copper-dragon.html"
     },
     {
-      "hash": "sha256-+gN6lhze/Q4+GS8GqdenpZ0n5Iv5Mtu+ivu41nzqXyU=",
+      "hash": "sha256-wyf1P3NJk29Rk0P5U2jpivKE5N29pR28oiyVq8fhZt8=",
       "url": "BestiaryData/bestiary/1232-acererak.html"
     },
     {
-      "hash": "sha256-/j83bz4DFoN8O7Vi91lgfDxG64OYT28nJUrjMF0LBi4=",
+      "hash": "sha256-uMha1bI/zL9CqEHUDqRMqanTn17IesaOlggXbVIp/u0=",
       "url": "BestiaryData/bestiary/124-adult-copper-dragon.html"
     },
     {
-      "hash": "sha256-cQsIySVkxepT29UTVK/sfEwQe5ez4M3OkLRTxCajCxc=",
+      "hash": "sha256-9KJAaDIoteY5NxLRA1vZ6pJZyDPMGRK07tfdU4FEzfA=",
       "url": "BestiaryData/bestiary/12494-aberrant-zealot.html"
     },
     {
@@ -706,11 +706,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/12495-feral-ashenwight.html"
     },
     {
-      "hash": "sha256-d3JY2L+nhNo/IT2eW41k9NCWD/LOeXcOQyArfqwvgYE=",
+      "hash": "sha256-rxLmwduROxcedoQtp7MdbCMJrcQAHFiJTFR+iQlcdmI=",
       "url": "BestiaryData/bestiary/12496-psionic-ashenwight.html"
     },
     {
-      "hash": "sha256-va/3JXGFUcAA/rCcX7CkfjmIZUGrH6LO6rd2DrUSh0E=",
+      "hash": "sha256-mB0F78SPd/9qMNt4G+ifkqnyJg8qi3uoCUDssJWCD7o=",
       "url": "BestiaryData/bestiary/12498-encephalon-cluster.html"
     },
     {
@@ -718,47 +718,47 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/12499-encephalon-gemmule.html"
     },
     {
-      "hash": "sha256-j+pQdXhzAs3u+q1wYoZAp3e7gln3dMLiExiIEb/NWmc=",
+      "hash": "sha256-ZmzJ+PxFxpalYea2d7Ycs2WxAaFq0oNSjmOVUyO4Atw=",
       "url": "BestiaryData/bestiary/125-young-copper-dragon.html"
     },
     {
-      "hash": "sha256-mqdo34O3CyE/Lsvc4dowsqnijUfp/au98EQsO3SIrAA=",
+      "hash": "sha256-9BbQIKBigEV7hzWi4u9gCIibhYZYYem5VVVYuGg6xaI=",
       "url": "BestiaryData/bestiary/12500-fiendish-auger.html"
     },
     {
-      "hash": "sha256-MbvIfff/r1r1Cy7jk9wfTD9dZWA2SJJXlnW36IjGghc=",
+      "hash": "sha256-VnUazQJ+r3CrLUcehXa+rbIjcPf6RE9NbhY9TEt/g9M=",
       "url": "BestiaryData/bestiary/12501-flesh-meld.html"
     },
     {
-      "hash": "sha256-JqpT/+1zx0xWrqwk8MqeJJ/iecEx+uKS3Npr0C1IseY=",
+      "hash": "sha256-2THveqmrZaAzGhStGzy+SQdPSq1nDUG678a8sVCSLA4=",
       "url": "BestiaryData/bestiary/12509-intellect-snare.html"
     },
     {
-      "hash": "sha256-yrl/9PBmBubsTRJXwzWQSpuKOEJU6eUj3v0bNeEScME=",
+      "hash": "sha256-0OG6WkcYbLBE8sLQZ5fLgpEOBF8qZHST05l9Gv8OKvc=",
       "url": "BestiaryData/bestiary/12510-mind-flayer-clairvoyant.html"
     },
     {
-      "hash": "sha256-naA99fJYgfXJuGGLreP8ejW2WrDrtHTXtDZ1bXM3pG4=",
+      "hash": "sha256-TAw5Ytj0EqJ2V8U85pp3SlGIQD20TwJH3dqTcOvHazI=",
       "url": "BestiaryData/bestiary/12548-cloaker-mutate.html"
     },
     {
-      "hash": "sha256-thjNRy0bi4eR0KUuWoruZ5JmYAIBZZZkSLys2wRZq6k=",
+      "hash": "sha256-rK1k3mH4kA/WkgB8+kYyDS3EUco6+6CKBR0j9nG7JB8=",
       "url": "BestiaryData/bestiary/12549-humanoid-mutate.html"
     },
     {
-      "hash": "sha256-5dZByYX9q94RJQ2JHsS+6ziDbPzmCN91qsLJQi9Ebac=",
+      "hash": "sha256-10P/GRers7rw4ygp1L9AEqM2ysgDnA2gy95qtIiNiOg=",
       "url": "BestiaryData/bestiary/12550-otyugh-mutate.html"
     },
     {
-      "hash": "sha256-yAk5KhF8nL/CfaT3M8ckW3bm6p8SqZ4ha/QWl6F7X3M=",
+      "hash": "sha256-Yg0C9TtbuiEGLjoGu2fhs7fxX5eCsV09c+jdDG+at1E=",
       "url": "BestiaryData/bestiary/12551-oculorb.html"
     },
     {
-      "hash": "sha256-hWD+nkK+9NBQCpXBXi4Ki8c/6As8M3NAo4eN3BzSt48=",
+      "hash": "sha256-k0F19fJUNBNaKjqHm5qHVIvAird5wMGhLnaU+UKY/Pg=",
       "url": "BestiaryData/bestiary/12552-goblin-psi-brawler.html"
     },
     {
-      "hash": "sha256-iy8qC3pJV8DT73zgIPTvL8rhhPqK943Bh1WGuBahbR4=",
+      "hash": "sha256-Z+DR2QYQI0ox2llIytcrDMkPCumyvA5IBFyA3FCQ2Sg=",
       "url": "BestiaryData/bestiary/12553-goblin-psi-commander.html"
     },
     {
@@ -774,7 +774,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/12556-nezznar-the-black-spider.html"
     },
     {
-      "hash": "sha256-nxaix4KTEWUk66ez+amJMH6RxkRW7gxa7n/0mh/xTq0=",
+      "hash": "sha256-e9aEDKdZ3DSgM8f4mn4EOiwHdzWNTXn3ITnBLPlOUvI=",
       "url": "BestiaryData/bestiary/12557-ruxithid-the-chosen.html"
     },
     {
@@ -782,7 +782,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/12558-dwarf-skeleton.html"
     },
     {
-      "hash": "sha256-9gUMdCao5SHb0LxvQnnYWTrCmUKxE/LcBjTVOiB0HcU=",
+      "hash": "sha256-dL4vHD3pRa6kl83vZSAZvqkNhN5WlTwyftTLZsm1sWU=",
       "url": "BestiaryData/bestiary/12559-qunbraxel.html"
     },
     {
@@ -806,7 +806,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/1257-ambush-drake.html"
     },
     {
-      "hash": "sha256-lQzt4xTIzoG/mQETFYjZdacSR5wtcmx7dpjEhFWLH4Y=",
+      "hash": "sha256-1oYmqnMZOKxu5nTeADMvkXc24Yhsg1SYetKaQUfcc9M=",
       "url": "BestiaryData/bestiary/126-copper-dragon-wyrmling.html"
     },
     {
@@ -814,7 +814,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/1261-larva.html"
     },
     {
-      "hash": "sha256-+Lv9fUC+x/jAnUFKwVE1/AmGRlvSY8MHzhnxyugNSn0=",
+      "hash": "sha256-MrHgCKtMkTyHE8MtC0PyJlE0ka7FXbgI4S8tUk88/wI=",
       "url": "BestiaryData/bestiary/12689-animatronic-allosaurus.html"
     },
     {
@@ -822,19 +822,19 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/12690-clockwork-observer.html"
     },
     {
-      "hash": "sha256-iV3BN+DY8p8eF2TGJLGU6lMMACDgtrRivzAVwjq64uw=",
+      "hash": "sha256-ODbTv5j1IcmrHU0DP0tQB71ijbrp990O13n8ossXrkU=",
       "url": "BestiaryData/bestiary/12691-clockwork-defender.html"
     },
     {
-      "hash": "sha256-snGDG22U/Hm5G9r/DzFUF0JVQzo7wVCbNGVbrytTtPQ=",
+      "hash": "sha256-12/Bwkoc6XnWBV8xALwExP2EaqS37k/+uKTQ5Le92pw=",
       "url": "BestiaryData/bestiary/12692-tixie-tockworth.html"
     },
     {
-      "hash": "sha256-bpdL0gX3nm24WfYRphpgA9cPFbnPimaQDxrowhL+Xcc=",
+      "hash": "sha256-Ou0npPSjAJj7UDwt8B+tv6teLNADaAppe217qKulOZg=",
       "url": "BestiaryData/bestiary/12693-sythian-skalderang.html"
     },
     {
-      "hash": "sha256-VRkxBcwbM5XQGihFnbuW9UB+NzNnLhx5/x5FtWl7afM=",
+      "hash": "sha256-xCxPEXN7yMfQeG6If6/QcMyZ4oATplyIUQjP88OY1gE=",
       "url": "BestiaryData/bestiary/127-ancient-gold-dragon.html"
     },
     {
@@ -842,19 +842,19 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/12703-conservatory-student.html"
     },
     {
-      "hash": "sha256-8HG+91pJtXFNpGuv5TnJh64TGvfHPDJQoY6JWuOIw44=",
+      "hash": "sha256-KQwsrF9FZ6n0axKjo+5URZv2C6IWO/sg0fb1cm2Sa1A=",
       "url": "BestiaryData/bestiary/12704-ashen-flying-sword.html"
     },
     {
-      "hash": "sha256-Z0Qq8oxODL9krg1cTKFMfJDu1N/93/ESdHgLdnUs8+s=",
+      "hash": "sha256-T5MqMQ6aFT6fA6KrLLjP+B3yJdgmfKsNk1M5Iwar9vw=",
       "url": "BestiaryData/bestiary/12705-ashen-warhorse.html"
     },
     {
-      "hash": "sha256-7uGsDB6SOA7Yk57FTYbZhE1TgCLovcK/fz0YZ34EdoQ=",
+      "hash": "sha256-cB9TXsEVcb00IlzEeLkC5MxoiB+7wPxBLVCh6kFtznY=",
       "url": "BestiaryData/bestiary/12706-ashen-animated-armor.html"
     },
     {
-      "hash": "sha256-sMtGYGAdKtpnQFRpr/8sE4HHxqQnCNCEKs/yNIREyDk=",
+      "hash": "sha256-P8GhE5+1WvXKgmkx3fttuT8TOr7CYZuG08qchCfEWcI=",
       "url": "BestiaryData/bestiary/12707-ashen-knight.html"
     },
     {
@@ -862,15 +862,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/12708-ashen-veteran.html"
     },
     {
-      "hash": "sha256-HNm3sH+xQXKBw5SR/bJ8v8vTZZTApjUBVan1b3ErDSU=",
+      "hash": "sha256-VdxrZzNkgYTJ74ZoMQfFNj1zCCsT+0s0Y1GJdBSfQsg=",
       "url": "BestiaryData/bestiary/12709-ashen-shambling-mound.html"
     },
     {
-      "hash": "sha256-jFLtBgbjV9KpNHSj7kqn1IH92BOR66bz7mC+D192tF4=",
+      "hash": "sha256-M+Pb3mJL36bMtDp2d7MmoxEOHAZSU3+6qJDWAlEttPA=",
       "url": "BestiaryData/bestiary/12710-eldritch-horror-hatchling.html"
     },
     {
-      "hash": "sha256-Q2Yqrv9R+tMJyRzRLF1rJhTZKtV8m+nK7cRXh0zJ4uY=",
+      "hash": "sha256-cXdpu9h2j6qiTqQxOBpeMX6ojsEj1fLLmru0Rq0yR5g=",
       "url": "BestiaryData/bestiary/12711-juvenile-eldritch-horror.html"
     },
     {
@@ -890,7 +890,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/12715-arlo-kettletoe-levels-5-8.html"
     },
     {
-      "hash": "sha256-3qI0rouE3mnB10vXEcEeWkKapwaJg7RyqW3k1dM6ySs=",
+      "hash": "sha256-Y8fe+4okf1HVam49IGPAsETqb5qxTrBZnQWv59vJRYA=",
       "url": "BestiaryData/bestiary/12716-arlo-kettletoe-levels-9-11.html"
     },
     {
@@ -970,11 +970,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/12753-eliphas-adulare.html"
     },
     {
-      "hash": "sha256-Xogi1BNpIb9X/agd5TDr1IYMSVfCGRSp7g2VlvtR/K0=",
+      "hash": "sha256-RF6C0UnpPspc/WNAoARYy9DSOrN26xMySQL45PthrpM=",
       "url": "BestiaryData/bestiary/128-adult-gold-dragon.html"
     },
     {
-      "hash": "sha256-HJAvlAww0wMucj+Yzo00kSejJTlim/bS/dbbw+J17bM=",
+      "hash": "sha256-jPPTCzA9pLQn69zrr1a5UXWLLo+OtWmtYpEJhtl8y+s=",
       "url": "BestiaryData/bestiary/129-young-gold-dragon.html"
     },
     {
@@ -982,27 +982,27 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/13-bugbear.html"
     },
     {
-      "hash": "sha256-XxMj55Bzami24ykLGX8P3mkPi7IvTH55q0JJRzVwsk4=",
+      "hash": "sha256-RSMUKnaTClyve5VBNTTja3n9eX5Rb3vKl/N5TAj4XDs=",
       "url": "BestiaryData/bestiary/130-gold-dragon-wyrmling.html"
     },
     {
-      "hash": "sha256-Ds1LKA1f+980XXatWZTF934CQEAbqP89dz1LWzLQvUk=",
+      "hash": "sha256-I0H18Eenri373XFWyIIA/nSRM1oOZ0S71jww4ArKZog=",
       "url": "BestiaryData/bestiary/13038-hound-archon.html"
     },
     {
-      "hash": "sha256-N5jGrMgvobySjMmbDT4Wpgg7fazYeNQ9JLEysgSJsq0=",
+      "hash": "sha256-TstUoIJ8q9ped24b+2f4UZxt+M42yPaD0EL72VUFErw=",
       "url": "BestiaryData/bestiary/13039-lantern-archon.html"
     },
     {
-      "hash": "sha256-YjqfVtQqP+uBH+ZgSQibyImAzKYfkAu6MHM+KuK5G10=",
+      "hash": "sha256-FtW2TM3NU1KvpyAiYQvxBBVBwcLtU/zm4NwtN02I6Ms=",
       "url": "BestiaryData/bestiary/13041-warden-archon.html"
     },
     {
-      "hash": "sha256-YYTJK3bYgAlDATJUAQ1mShuqoBY8ccSk1xnXEhATHoQ=",
+      "hash": "sha256-F/6tbTcsBl+GF2XHbJH7FUWymHM5yeqN5sQ5ffNkuMI=",
       "url": "BestiaryData/bestiary/13071-baernaloth.html"
     },
     {
-      "hash": "sha256-VPPxlxq+65523dFvHYDsXrENlVwnwziWj27RDSItXYs=",
+      "hash": "sha256-uIJpRMqvDolSnqLpamt8WZK4uJP1QNiytfEY85+yHuU=",
       "url": "BestiaryData/bestiary/13075-bariaur-wanderer.html"
     },
     {
@@ -1014,27 +1014,27 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/13077-sranium-rat-squeaker-swarm.html"
     },
     {
-      "hash": "sha256-5Hi484yXxLVTIqoH/LQbsdxBrueYxDGrwJ5RAVqnLbs=",
+      "hash": "sha256-Z3BnD9h6l7AlaWQHhlhfLf3s14gqR6qOqwlYOlwNaSQ=",
       "url": "BestiaryData/bestiary/13079-dabus.html"
     },
     {
-      "hash": "sha256-91A9B7xQi6KaY7saoNz1szay4otkkja+UvB4UIenGZA=",
+      "hash": "sha256-x2dbMXFlJ6jPnyBcloZHJ6thVUF5m1Vo8D2dxM6mZdk=",
       "url": "BestiaryData/bestiary/13084-darkweaver.html"
     },
     {
-      "hash": "sha256-oHy1ORhQOTlhwI9bIoAY1nZtZOsv3ry/C/WmyyJtnY0=",
+      "hash": "sha256-PpUXism+/SB0Lzp+xySj1329rdiiPA38VhuSQjvLqvU=",
       "url": "BestiaryData/bestiary/13087-farastu-demodand.html"
     },
     {
-      "hash": "sha256-OxHEOt8yEvuT0w58YwSCpEuWvVCGVUcQmzFGi8O5HdI=",
+      "hash": "sha256-8gQTZak9Z/7byDcZuzZQs+xdpNG+IhRbnsMLhRmzYEU=",
       "url": "BestiaryData/bestiary/13094-kelubar-demodand.html"
     },
     {
-      "hash": "sha256-BHeDj7/Xi4knup85PckHt9BOYDBsFPRvdZXNxABO8A4=",
+      "hash": "sha256-vwpdRDch/bXJOQOP8J2c1GbOzbxafPjRIXkDWBbACMo=",
       "url": "BestiaryData/bestiary/13095-shator-demodand.html"
     },
     {
-      "hash": "sha256-jhzaPAt4jk00zYOmKdVzcOAWKiUvXTQ1BIFgfEHncVg=",
+      "hash": "sha256-Orwww3fARIp56efAis8yvl0T9VfaBC/fmA8ZntO8nsk=",
       "url": "BestiaryData/bestiary/13096-eater-of-knowledge.html"
     },
     {
@@ -1046,11 +1046,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/13098-githzerai-uniter.html"
     },
     {
-      "hash": "sha256-k6trTIANVJLbIP8v4ufQ6IaPz+Bq4HfJD0Sc8pyPKVU=",
+      "hash": "sha256-luKiH/8gZHsDRMsvGIkKae+3OfpjqfrvmjGS1JurYxg=",
       "url": "BestiaryData/bestiary/13099-githzerai-traveler.html"
     },
     {
-      "hash": "sha256-WkDPVUyhe0+bx/oEKts6nSiZwGSO4JsVdeBExKygQMM=",
+      "hash": "sha256-4vUqhIHtPvsXStGS9e8oFetmj5wHSw6rxXDYB4iGg9M=",
       "url": "BestiaryData/bestiary/131-ancient-silver-dragon.html"
     },
     {
@@ -1058,7 +1058,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/13100-avoral-guardinal.html"
     },
     {
-      "hash": "sha256-7mUgTmCXwU5Xf/Zov8D51HthuESkdNKHHTjsbbQA2o8=",
+      "hash": "sha256-mz5K8I6O1qKfHUTSWefwBg85YeuSNSk3/0zBGGD+d/I=",
       "url": "BestiaryData/bestiary/13101-equinal-guardinal.html"
     },
     {
@@ -1066,23 +1066,23 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/13102-musteval-guardinal.html"
     },
     {
-      "hash": "sha256-5mCttU4zqpA7NlKLZyKXZsFbdGAxmdbqwixrhVWjkBs=",
+      "hash": "sha256-B6ICYZXXqa3oeHg3B07Q+7ELcfDI33e0GYV5gVgx/oA=",
       "url": "BestiaryData/bestiary/13103-kolyarut.html"
     },
     {
-      "hash": "sha256-gbz8lA96J3VpyOqye1m/BHjyePmxq4HysbKZeiT8qls=",
+      "hash": "sha256-EqOdRPaoXkKwe48f+AkyPgqgeSXtVtfB8IgS3gywwag=",
       "url": "BestiaryData/bestiary/13106-maelephant.html"
     },
     {
-      "hash": "sha256-SuCircA5abv6LtAn5fmV4P2pe5F0bNNX2/+sCpbLipM=",
+      "hash": "sha256-mvCDem/A4wiJ1NCzux6YGwUMcwKokpyAv4yekH9Gyno=",
       "url": "BestiaryData/bestiary/13111-decaton-modron.html"
     },
     {
-      "hash": "sha256-WB95FkpmpqzEMnB2ud2AQa6T+qV/cHlmFNxLpVQjALs=",
+      "hash": "sha256-yM3xZLwnFzAcSd4erhZM5EmeQhglqjDQBUZ5ZdEgbfU=",
       "url": "BestiaryData/bestiary/13113-hexton-modron.html"
     },
     {
-      "hash": "sha256-GdxAWj7s4cBXuVGBFN5oebYQj/p3HLJuzKm6jxtcUfo=",
+      "hash": "sha256-EKKJbpVfMaF8+JIM71mb6bNPhmcvlOgYE/yun/60/jk=",
       "url": "BestiaryData/bestiary/13114-nonaton-modron.html"
     },
     {
@@ -1090,31 +1090,31 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/13116-octon-modron.html"
     },
     {
-      "hash": "sha256-Ug/h89Rxk6Zr56H7GKlwRKYYZYkOxl5ivl04wGCD2ZM=",
+      "hash": "sha256-NYmW+1YIQAI9nZKZouE7kQzrFsjfRbGcKgGpstoQnOA=",
       "url": "BestiaryData/bestiary/13117-septon-modron.html"
     },
     {
-      "hash": "sha256-zSFfT6J6RGpUOgbIeptgMgCsrlqCQ7vntQWZ1HAt52M=",
+      "hash": "sha256-acY5owpP4u67yGqof3lcY7jk3C29uE7NOFNHK/SB6x0=",
       "url": "BestiaryData/bestiary/13119-planar-incarnate.html"
     },
     {
-      "hash": "sha256-YeYyPulDmHnSfKk51PYDqiI/T+gkCbZJCq3o7yMYGFc=",
+      "hash": "sha256-0mmFcrpu6Iq/vG7H1UzTFqO7oKkj7i/xJEjoy6QvxaE=",
       "url": "BestiaryData/bestiary/13120-razorvine-blight.html"
     },
     {
-      "hash": "sha256-MHYutLmMXGaqGnAw9L/vY2of8kfEUVaP3rSqrk8R6Aw=",
+      "hash": "sha256-1B6mYswV67Np5AfZOP40Ac6BuSa5h/W/zB6gykzwa1w=",
       "url": "BestiaryData/bestiary/13124-aurumach-rilmani.html"
     },
     {
-      "hash": "sha256-xRKnuD9WSaHEiZg9DMVSs1hohw/4Kd8zXXN8DCnxaR4=",
+      "hash": "sha256-kZnGohf7SxuhvSfLR3KpIkD4v3e6STIOT1y0PnYAhxM=",
       "url": "BestiaryData/bestiary/13125-cuprilach-rilmani.html"
     },
     {
-      "hash": "sha256-Af6dCqZuVdE00yf3LuOSvlEhFtaMdD1j6utrVZAhcZ0=",
+      "hash": "sha256-xATmyYWNG+RuILiUFQIQZVIebqjAl973gU+RhesF8kQ=",
       "url": "BestiaryData/bestiary/13126-ferrumach-rilmani.html"
     },
     {
-      "hash": "sha256-VQpcjgUwBltVQ5/1I4LdQDXmbw6YHcLhpl4XIpCmMdU=",
+      "hash": "sha256-8OQ0caH0HPijBHjW0YQhY4SzYqnQnoy8RtWxHZQLruU=",
       "url": "BestiaryData/bestiary/13127-shemeshka.html"
     },
     {
@@ -1122,31 +1122,31 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/1313-almiraj.html"
     },
     {
-      "hash": "sha256-hw3NjZxOBCU+fs3s1L6oMT5/bbWJ2wpD13be+jA2Lg8=",
+      "hash": "sha256-bxAPrZqynrqbe/SzCrBm2UtKJTqrDD8M3+cW5tC16m8=",
       "url": "BestiaryData/bestiary/13130-sunfly.html"
     },
     {
-      "hash": "sha256-oLoP/fy4LE2SwTdOZTaIUC5rL6sZy0ONv9BmWs+6Ws0=",
+      "hash": "sha256-2uCCufc/Tkq0hk3gahgmKkBys4i6Zo6HuaIROkCpI7w=",
       "url": "BestiaryData/bestiary/13131-swarm-of-sunflies.html"
     },
     {
-      "hash": "sha256-IqMRzHCfUnPSPWqFlUmZsq5L6tMh62J1xbI+1grFq08=",
+      "hash": "sha256-5yUT8RatvBe27FIHli/aV1VhsSM2w3KUeaogx7Bp6b0=",
       "url": "BestiaryData/bestiary/13133-ancient-time-dragon.html"
     },
     {
-      "hash": "sha256-V+zNQm07aCKt7AOrUiUGtJQb3w+CfsnzE+7uwH/zsCM=",
+      "hash": "sha256-3To+EB1DFpnabc3ivXwdKh2o94B7l8vYUyOh2K2qNAc=",
       "url": "BestiaryData/bestiary/13134-adult-time-dragon.html"
     },
     {
-      "hash": "sha256-cu2S0KsbE/z3yt9Jh/TUbPEohU0UJfPbsuZvkeIQrG8=",
+      "hash": "sha256-4HJ4h6lNc0lXtDP9+3zCJcUlvZqEC/LE6p2yUq7dGSs=",
       "url": "BestiaryData/bestiary/13135-young-time-dragon.html"
     },
     {
-      "hash": "sha256-59hc3MQK1fLxk6TUfoUj2QTL2Hy7zj2Pap9q6VvCO1s=",
+      "hash": "sha256-DgdQiPCbq8ovajQd5L566H+yMV7Qn0+ZssfzzzmePI4=",
       "url": "BestiaryData/bestiary/13136-time-dragon-wyrmling.html"
     },
     {
-      "hash": "sha256-Hkuxg3djfZMVJzDEZ/xrRMP5Xg9LkAMu3TJqo4rfDHs=",
+      "hash": "sha256-P2hyxopRsYSFNoA9afdZPlckWq8uMG3ckDRIYTIsqMY=",
       "url": "BestiaryData/bestiary/13138-vargouille-reflection.html"
     },
     {
@@ -1154,7 +1154,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/1314-aldani-lobsterfolk.html"
     },
     {
-      "hash": "sha256-JyJbigOtjYGX6aW7dfkhqQUa9vlwSJhdHH2OjGIEWu4=",
+      "hash": "sha256-gvbjRpYv2luE9X0uzqSOs/oBUnZePfDU4LGxKbZ33Q8=",
       "url": "BestiaryData/bestiary/13190-athar-null.html"
     },
     {
@@ -1162,7 +1162,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/13191-bleak-cabal-void-soother.html"
     },
     {
-      "hash": "sha256-2xcAlOtIeccBGB7FIs3R+2Tsub/kjEh4Z6rNmZzWr5Y=",
+      "hash": "sha256-aaVZpt/DQJUznnvcN1RhnxhAYQNGK8sJOdm2bL1rUPQ=",
       "url": "BestiaryData/bestiary/13194-doomguard-doom-lord.html"
     },
     {
@@ -1170,15 +1170,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/13197-doomguard-rot-blade.html"
     },
     {
-      "hash": "sha256-4rDLyUaEp+0pNSBKUGFsLGDmpSPZEc/Y3xMKRRkBddI=",
+      "hash": "sha256-BkzTc26+IHOXXi6fdfjm5OyyDb7dfZHlag7JegTcRAc=",
       "url": "BestiaryData/bestiary/13199-fated-shaker.html"
     },
     {
-      "hash": "sha256-6P++5sxS/sxS+LudV0PdmxXZtXN7tOK4MuHWC7ycVh0=",
+      "hash": "sha256-2Rz3K70mHCsMP5wxy8ZkEiwPMGAtbeAFBMTckbE9ICo=",
       "url": "BestiaryData/bestiary/132-adult-silver-dragon.html"
     },
     {
-      "hash": "sha256-QIEiyRi5t1XkxquU6XYb0QPPkFVN028vrgiA/AJqUgQ=",
+      "hash": "sha256-D46HRiBBSqrCCOQF15TvUFSLAr9Td/8Dk+6uUw5gE20=",
       "url": "BestiaryData/bestiary/13200-fraternity-of-order-law-bender.html"
     },
     {
@@ -1186,11 +1186,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/13201-hands-of-havoc-fire-starter.html"
     },
     {
-      "hash": "sha256-kZ6E9rliGSmfs5GXNn7X4ZKYAuRsCgHOiPV2RPVHF8E=",
+      "hash": "sha256-kPzCyV0rPEmNTBz/bAL68p6cob5IX+knmjJFGPxqfbs=",
       "url": "BestiaryData/bestiary/13203-harmonium-captain.html"
     },
     {
-      "hash": "sha256-dBLMDUPO4ANnnp9YweuDnyvgZzqyy7TnOFyouXlij78=",
+      "hash": "sha256-4A6oXW+V4Qz+T+CEL5dTIec0suGq2H1PH+75H45gbuQ=",
       "url": "BestiaryData/bestiary/13204-harmonium-peacekeeper.html"
     },
     {
@@ -1202,15 +1202,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/13206-mercykiller-bloodhound.html"
     },
     {
-      "hash": "sha256-e+jeAPIBXenMrvdYVEYtTk5iK/hoKCbNSl5Y9ARLMoU=",
+      "hash": "sha256-d8rNGRtrMHave8XjhZ4P5WD6k3z7dvu5YSYOah0wLrE=",
       "url": "BestiaryData/bestiary/13207-minds-eye-matter-smith.html"
     },
     {
-      "hash": "sha256-N0YBnJ4bS2zYdS9B0cpFOKu2wxh089G+OzPojpRILg4=",
+      "hash": "sha256-e6HT4s3HUeFxFAOYv9foMQUaPNO73Z96tw8m7sxLtdI=",
       "url": "BestiaryData/bestiary/13208-society-of-sensation-muse.html"
     },
     {
-      "hash": "sha256-t/v42VKHvadF141vV4pPv0FZMhCv9ia1tmP5Yc9QaS4=",
+      "hash": "sha256-89Cgl6ZPUWUIzXV/Dx1TWOHZWXqDvnlnBjn3DbrV0p4=",
       "url": "BestiaryData/bestiary/13210-transcendent-order-conduit.html"
     },
     {
@@ -1218,19 +1218,19 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/13211-transcendent-order-instinct.html"
     },
     {
-      "hash": "sha256-nPuSwFgEPbg7auPsdM9m4W8UFry8ElkeWuLnLjlWF6s=",
+      "hash": "sha256-m5Sd9P/TdhR74Q3HM/357gRrwNOICQu/UB/Ks6lUJWE=",
       "url": "BestiaryData/bestiary/13213-animated-coffin.html"
     },
     {
-      "hash": "sha256-i8SV6V6uSy+SsT8y7tJX0Vx/bbDuSlb3a/xKIsidhog=",
+      "hash": "sha256-18andvJ7/UCXFCzSku4mfWAF4wKKSHuWiioFiwiUpa8=",
       "url": "BestiaryData/bestiary/13214-factol-skall.html"
     },
     {
-      "hash": "sha256-DbTGr1rISvT5uxparqU4goH6HFF0si+ZUGcvzzbdmxY=",
+      "hash": "sha256-3pwO00T67TGDPtZFs74eyyHBpshYPmtz7/BSbDSzHjo=",
       "url": "BestiaryData/bestiary/13215-heralds-of-dust-exorcist.html"
     },
     {
-      "hash": "sha256-FY7mXcBVEJg0og5gNlwi2hlmW0hOMA+6IakHECU/KN0=",
+      "hash": "sha256-Gpmw0WLfBFKyfr4RQif/PFu4z4RAI6NH8ojmmwFTf3o=",
       "url": "BestiaryData/bestiary/13216-necrichor.html"
     },
     {
@@ -1238,27 +1238,27 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/13231-morte.html"
     },
     {
-      "hash": "sha256-y6gYWrOXLe8/mCM4kWNyIgmGtVDSZIlajm8YQsO+yw8=",
+      "hash": "sha256-FU2CvskaJSgYigXgWjbt79Lv6zqCxeSpqZ3frgZo3Qs=",
       "url": "BestiaryData/bestiary/13234-ambitious-assassin.html"
     },
     {
-      "hash": "sha256-I4UmWYQNvYeq4Nm2Tm2VIHPKuh8emIVNeJgmzNXoPuo=",
+      "hash": "sha256-V4ldzDorbVITovuQFGulWVQmoIwXo7wOyd4BVnF8Pl0=",
       "url": "BestiaryData/bestiary/13235-enchanting-infiltrator.html"
     },
     {
-      "hash": "sha256-+AiZD/qdfHmnOCqSOfidbj8HUiB+RxbBiAzogH4V6qw=",
+      "hash": "sha256-wWKPi5hIi+b3ngNluK6l/tEU2+Gl/dNR0t/Y87taLGQ=",
       "url": "BestiaryData/bestiary/13236-otherworldly-corrupter.html"
     },
     {
-      "hash": "sha256-C3zVr4SiGd8nrSTIcYhx+gbSnC6nRrsqmaolJcOwSSQ=",
+      "hash": "sha256-nlSU8sW1O3fNhwni4p2RImhwfpZwKVRowH38wi5mRPQ=",
       "url": "BestiaryData/bestiary/13237-veiled-presence.html"
     },
     {
-      "hash": "sha256-IwG0Uc12ojtiKo/r3hfTdluvOyaz5SEnnWeeABpQZso=",
+      "hash": "sha256-ewUNtL4HDzg9fgZRN77T7BN5HjeqGIyZ7a3KljAKxvY=",
       "url": "BestiaryData/bestiary/13238-deck-defender.html"
     },
     {
-      "hash": "sha256-exV30ebALwCWoqft9hPAHub/+SUPXaSXoVYZeFaVs0A=",
+      "hash": "sha256-/lRhFfb2HnYtnjVK8PBwAVoZSk0z4mUA2+8Ar+J7etU=",
       "url": "BestiaryData/bestiary/13239-solar-bastion-knight.html"
     },
     {
@@ -1266,11 +1266,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/13240-sir-jared.html"
     },
     {
-      "hash": "sha256-QcF2pxive3UWDrqXI61ksRZNHvMfo6TNlX3Pf+9359g=",
+      "hash": "sha256-K0L8wY/HYAe+x7XYlYz5gBevsjGs/s+tVxZ0ROHPfYY=",
       "url": "BestiaryData/bestiary/13241-boss-augustus.html"
     },
     {
-      "hash": "sha256-aTx3XrlTdunNRAdr9RFl4je4O0t1rhWMfZQyioxWcOc=",
+      "hash": "sha256-x95NYJtkI6Fh2CmUfz0C9yTbx8Ww9bOjW8TsJTWcLBM=",
       "url": "BestiaryData/bestiary/13242-boss-delour.html"
     },
     {
@@ -1278,7 +1278,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/13246-aspirant-of-the-comet.html"
     },
     {
-      "hash": "sha256-lZSHepi6+14BXIWnZT0CZV7D1N+k/tXlJI7qBWCmudA=",
+      "hash": "sha256-bpl+E7BIuotsaUygoJZ6tDI9KEAvWHTWoqvdFeZPfuc=",
       "url": "BestiaryData/bestiary/13247-hierophant-of-the-comet.html"
     },
     {
@@ -1286,59 +1286,59 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/13248-initiate-of-the-comet.html"
     },
     {
-      "hash": "sha256-Au+C7O9zqqV/xAdq7eHV1pQplCQLlr1ItFF4xxz7WIo=",
+      "hash": "sha256-FVFuxlj+aOcsg43PRpPy/OcE2YQpwD8sNf2wr+wnhcc=",
       "url": "BestiaryData/bestiary/13249-oddlewin.html"
     },
     {
-      "hash": "sha256-2RMqCZ+7NYsuIeEt1ejqwlTpliUGCW0DmnJ/Ov9GmAE=",
+      "hash": "sha256-ca89U3v8R0AE7rtjtr0eV7InHq2rLUyK9xr7mbQgwLs=",
       "url": "BestiaryData/bestiary/13250-pazrodine.html"
     },
     {
-      "hash": "sha256-DTCdPbMzoFjlGe2P+Xrn7bIago3pHccRKzQRMKoisO0=",
+      "hash": "sha256-4GOi6FaxiBFVbHUgihWhNOVWXIRz4ce7iwEogPdsmLM=",
       "url": "BestiaryData/bestiary/13251-gremorlys-ghost.html"
     },
     {
-      "hash": "sha256-k0Lgh0gM8o5ejMC9xhp93OPbfoz/PJyNFPug+8bh7mg=",
+      "hash": "sha256-VKjkWMc5Kf4dTDH5ka6FhhE56pFVwH+AEr9tHJGxdHY=",
       "url": "BestiaryData/bestiary/13252-minotaur-archaeologist.html"
     },
     {
-      "hash": "sha256-7z5iZFlcxox7d5AdVmTYfkZozdApEW64nAy+6+GR0a8=",
+      "hash": "sha256-JmAdYvg3XeG8ktO1Oh87TnHtSW+Dl6YdXlH1sUSYh08=",
       "url": "BestiaryData/bestiary/13253-minotaur-infiltrator.html"
     },
     {
-      "hash": "sha256-U7ALhHOv1zzQxszPWh2hy3B4RkyubRGCvn7WOCeIgzE=",
+      "hash": "sha256-Y3Now8oGjW9ZRJmorzRIKNFiImR4kbzoV3paoFBa1UE=",
       "url": "BestiaryData/bestiary/13254-brusipha.html"
     },
     {
-      "hash": "sha256-wPib3dqOxzwVhpo7kVQcJUsYa2jZrHJI3VtDlOscNy8=",
+      "hash": "sha256-HD7F4nJ2dhqvS6wKicuRaGeCj/a7L6ufNR3zYq3n6RM=",
       "url": "BestiaryData/bestiary/13255-breath-drinker.html"
     },
     {
-      "hash": "sha256-va6wl0fV+od6Z1UoPvMFriffubThp4+f5qPLxr9R/as=",
+      "hash": "sha256-KfRvMR/62bGJ5K0zcK2gUt7v38mKkYPLULk49TdzUE0=",
       "url": "BestiaryData/bestiary/13256-grim-champion-of-bloodshed.html"
     },
     {
-      "hash": "sha256-t0KaR1pKpfFiTNilT2a2EJFsRDpA2K6oK28OCBvto2U=",
+      "hash": "sha256-petHCtAVCxoAnK8vRSTRyPlYm58gND2UhNmyQF5IyQc=",
       "url": "BestiaryData/bestiary/13257-grim-champion-of-desolation.html"
     },
     {
-      "hash": "sha256-2qSUeHDFNt3lZiO5DHydu5mye5qPFTmOGE35Yy4NE3Y=",
+      "hash": "sha256-SsiNykqypkWwDmFSCfzFm1+pRZfYXkJIRWXMJJYTPO8=",
       "url": "BestiaryData/bestiary/13258-grim-champion-of-pestilence.html"
     },
     {
-      "hash": "sha256-Fw7YESlUs4pjgjh+GJPPGGMI7d1G7TUSNsEpqb+9cP4=",
+      "hash": "sha256-HRYZwJ2nbj6qxtpOSdY7n1zDt6Ayd33ALJXIxbQWGr4=",
       "url": "BestiaryData/bestiary/13259-harrow-hound.html"
     },
     {
-      "hash": "sha256-omE+IHLbI5+hWvv16GkeTy5aQ5BcEtYCoeON3zxyfIw=",
+      "hash": "sha256-6dQscjoVS3ul9wg4Mbd+0t5VDUpWOLz7YbWtH3MuTIs=",
       "url": "BestiaryData/bestiary/13260-aurnozci.html"
     },
     {
-      "hash": "sha256-MgZdGRFXpF83o9bSFcs816f8rN1g0HpdgUnOcN0Ycho=",
+      "hash": "sha256-Vudt7241h2+IldhKPyAVoiZan8uZQ8qvaS6gAulC2R0=",
       "url": "BestiaryData/bestiary/13282-hulgaz.html"
     },
     {
-      "hash": "sha256-ZadPWRohbr4fBYP4cfqaUJoqUjNEGcc36Wj4Gd7uF9w=",
+      "hash": "sha256-KzVXUpZ2uwabuy0au76Qmi+kMr4M4/Ojl2IOhypyUeE=",
       "url": "BestiaryData/bestiary/13283-malaxxix.html"
     },
     {
@@ -1346,31 +1346,31 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/13284-fate-hag.html"
     },
     {
-      "hash": "sha256-S4/OViQZcqg4nT9HqJaxV0xZGTpqy7DYc5Dsvi6/LAA=",
+      "hash": "sha256-8wMidrMaT3rFS4PXCpzUGbzmQI04rCiR9zpKpWsRJO0=",
       "url": "BestiaryData/bestiary/13288-harrow-hawk.html"
     },
     {
-      "hash": "sha256-NrTHS4oYgLDXlbNwOMOxxsMRUdzfG6UELt7ruTlg1tg=",
+      "hash": "sha256-r79GtvJKvtKcsYJ3DLlKQ6bD0KAYacc39EzEQpcBBk8=",
       "url": "BestiaryData/bestiary/13289-hierophant-medusa.html"
     },
     {
-      "hash": "sha256-HCTnjOqMImh21kg5NqGRE+c4TdnSBTNFqaMTXNC7oNo=",
+      "hash": "sha256-QAiCelEqD5DEKn+90ywLqUS/pEqsfkaCP4AIBNzFMmk=",
       "url": "BestiaryData/bestiary/13294-living-portent.html"
     },
     {
-      "hash": "sha256-LuDQ8TyXKe7qI6NtvY86d3fLXB5abSXYVWVEU7hZz90=",
+      "hash": "sha256-u1JOi2kHlYZY1fJ2uxetG4GudXnhQZq5ZUCCVcreH/I=",
       "url": "BestiaryData/bestiary/13295-riffler.html"
     },
     {
-      "hash": "sha256-w7e5ny1Ou1GmQd7ozPL7GI8yJEwcBph+Q53epHIJ7g8=",
+      "hash": "sha256-XdvuD6ZCMLzoV9cXdp5A+N0t/9K/5tDPhyy8stACODk=",
       "url": "BestiaryData/bestiary/13297-ruin-spider.html"
     },
     {
-      "hash": "sha256-Ztz8I9oEkBv+SlwZIAs2JLQu+RRbA22eohKIVfXSjBE=",
+      "hash": "sha256-961rPgFAh7lM8K9W3HoOyyyctH5X1hbnrLj3zVY9LBo=",
       "url": "BestiaryData/bestiary/13299-talon-beast.html"
     },
     {
-      "hash": "sha256-gFXv68rJd5J7d2RoqO3Fqg1JdeaiVTvnOhwqC2GRqbE=",
+      "hash": "sha256-zLzZ6f9GKOgxX8FMi3fDYkXYaB45oDz5ivTC770ZamQ=",
       "url": "BestiaryData/bestiary/133-young-silver-dragon.html"
     },
     {
@@ -1378,31 +1378,31 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/13300-werevulture.html"
     },
     {
-      "hash": "sha256-ye1O3NsB/f2PKQE+5dBwbOL7JTDavvaXOhGa1MLjk8A=",
+      "hash": "sha256-eIWU4oQw70tEYXGOFWvFH/z4kedv4b6JrOsJ0Lxv+cA=",
       "url": "BestiaryData/bestiary/13301-asteria.html"
     },
     {
-      "hash": "sha256-kvj5tqcqWAoXafoO3meNbtujZGis3yYGrms4585OIhA=",
+      "hash": "sha256-BCByLqJl1RkZQNQvQyIQIocbU7K+bONrAO32V63dzW0=",
       "url": "BestiaryData/bestiary/13302-euryale.html"
     },
     {
-      "hash": "sha256-KoFK79ConP8lWFWsnl5ktsL8L9qHXvKijmr+CQW4G3g=",
+      "hash": "sha256-7GPt5zPnEnU3txLs+QGf7Bi2VDO9xeHZTawqamCm+9M=",
       "url": "BestiaryData/bestiary/134-silver-dragon-wyrmling.html"
     },
     {
-      "hash": "sha256-58eOyt6h1YpvNXp8S+9FXAIB7qaGx3zbmhDBMCTrD6E=",
+      "hash": "sha256-4xdXMXYP3kXUAB00s0avNzUmwyITbuHK+ZpksGE8y+M=",
       "url": "BestiaryData/bestiary/135-dracolich.html"
     },
     {
-      "hash": "sha256-c+dHPyeAAhZ3NuQw0Y+sFc8C2kQtUj97vLyqxEmUh1Q=",
+      "hash": "sha256-4X+rJ023zeDKVp9RDQvunIrVKE3fwvRDF4baia4Eh20=",
       "url": "BestiaryData/bestiary/136-shadow-dragon-template.html"
     },
     {
-      "hash": "sha256-AGOX/Iy0HFi26IhP/6srYfIc8wV069VlO33JF7vzvKc=",
+      "hash": "sha256-SBQ80/0qUk/bMGlwA6f/knAPJiPe2NHvgSOy0duHscU=",
       "url": "BestiaryData/bestiary/13620-assasin-bug.html"
     },
     {
-      "hash": "sha256-vvEw4LDVLPdJRZWTJ/mHvhqBXAEaaswN2BQNHEwEZrU=",
+      "hash": "sha256-kZalF3QTP3m5yE/NTDWvYLWqhRTAJkhNzWCKbzY+JGI=",
       "url": "BestiaryData/bestiary/13626-blindheim.html"
     },
     {
@@ -1414,7 +1414,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/13657-khargra.html"
     },
     {
-      "hash": "sha256-BIQKyXK5n9s/o2Di3FGzRSTxtEvhlMgQBAMbc/aB0J4=",
+      "hash": "sha256-5IsQTTKAHKIG0U3MuzzaGib19YHCUUHAQsPi7yGEtjU=",
       "url": "BestiaryData/bestiary/13670-eye-of-fear-and-flame.html"
     },
     {
@@ -1422,11 +1422,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/13671-forlarren.html"
     },
     {
-      "hash": "sha256-sFI57B2i7qsf7VI5CirocnQ2VvyNAYmaXRfoEUZlzlk=",
+      "hash": "sha256-Vi5PpwiGSu1b7O/bxk47YHcyEHIXQ3pLb+hA+/ieK1E=",
       "url": "BestiaryData/bestiary/137-dragon-turtle.html"
     },
     {
-      "hash": "sha256-F/dmvhKpE4VucU0vKwQ2EXctBh45tCVR+JdH7zC2ABc=",
+      "hash": "sha256-pPfNOIuUMa9/Br2aF08kw0gdG/dteIB324ZWT8Fd3og=",
       "url": "BestiaryData/bestiary/13709-needle-lord.html"
     },
     {
@@ -1438,43 +1438,43 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/13712-norker-war-leader.html"
     },
     {
-      "hash": "sha256-gfPQv8zuiYsGL3wpjGbXCO++gdcDMKbXGkyUcXrnSuE=",
+      "hash": "sha256-CoBPF5UBMG2uMI8g+FsMg7+d0YIcaWE7nE/jUUmP+28=",
       "url": "BestiaryData/bestiary/13728-screaming-devilkin.html"
     },
     {
-      "hash": "sha256-H+PYnDASnVbMzXkvK8qoXf5T3MlN0aXdUgGQ08mQU24=",
+      "hash": "sha256-3bVMeuYI/AX2mVtZ12lqqZCZsJ9bTdvKMmm0PeBYl98=",
       "url": "BestiaryData/bestiary/13729-ygorl-lord-of-entropy.html"
     },
     {
-      "hash": "sha256-stvmfLaofuOcWpPpWJFjp2p8Qc3dUZL8ineQhceOgPI=",
+      "hash": "sha256-RqVrjoKrRZvAMOOtouVX5bD/2g9kAd5htRc1UoBmLGM=",
       "url": "BestiaryData/bestiary/13731-xill.html"
     },
     {
-      "hash": "sha256-GSSfC+LlnU0wKdwCX9mEodS4+WDaAyZvG48lqKPOwQA=",
+      "hash": "sha256-ex1HRpK9vKUv6Te0sE66JdN+QOsTadiIic/msd+USb0=",
       "url": "BestiaryData/bestiary/138-drider.html"
     },
     {
-      "hash": "sha256-K59KyNKoofaX/8gYZSRUDczlMIYYWNiyrW3CjCHS66E=",
+      "hash": "sha256-3ojfVAvBOTVa8zMjXCFRVER4kf2K0eJTsOomZhmm9Us=",
       "url": "BestiaryData/bestiary/139-dryad.html"
     },
     {
-      "hash": "sha256-z3B7sHXvkwZX5Q4rfRektU8tLRxqe58LnQDIh/UKQFo=",
+      "hash": "sha256-LcMkrnEVsCw2RQvNMOyAa3zKgaGoMk/cJWIyjoafuFc=",
       "url": "BestiaryData/bestiary/13955-refraction-of-ilvaash.html"
     },
     {
-      "hash": "sha256-1kBAFYJAOlOsVpOsx3+Jk1IHPQ1/Xpe1Q+41RS/ewDQ=",
+      "hash": "sha256-viCZtjBTw8vduL4Shqtj2EbXG0+LFtVzQbC0GgTXvys=",
       "url": "BestiaryData/bestiary/1399-tri-flower-frond.html"
     },
     {
-      "hash": "sha256-UftGCSreXEy/pnq72qVewrt9tgSp53gM0oEDmo9dGGM=",
+      "hash": "sha256-zTvoCCqowX4rz28U5MElbXV5Q5Ux4NNxF8TpNIKjOF8=",
       "url": "BestiaryData/bestiary/14-young-green-dragon.html"
     },
     {
-      "hash": "sha256-zPlDmTiXfgh3Bakr8OL8L6h/aoempUc1xEujeNHSO90=",
+      "hash": "sha256-/3a5gUImutADqXGME5II+cggDach06G9Z89CNg1uKe8=",
       "url": "BestiaryData/bestiary/140-duergar.html"
     },
     {
-      "hash": "sha256-gt1TYzTamV0Nh2SiUZCaySWQtwav4MXcaeZvKHi2f40=",
+      "hash": "sha256-yrz8Si8pNFpXWmRx41F5p09N0dNQz2AX4LM0wXCLRw0=",
       "url": "BestiaryData/bestiary/141-air-elemental.html"
     },
     {
@@ -1506,15 +1506,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/143-fire-elemental.html"
     },
     {
-      "hash": "sha256-08UO4JY3cVWkBJLazpU7ay1D1e45glJ87LjKSYaS/Fs=",
+      "hash": "sha256-/FrGIf9GtK7nvof9iN+LJEo0lB6+4JzTumXTU/C5wM4=",
       "url": "BestiaryData/bestiary/144-water-elemental.html"
     },
     {
-      "hash": "sha256-ioyyA9VcYykTMVwo6xjG8AHsCN2S606P5FYX1+tcT/U=",
+      "hash": "sha256-tG2UWGZh+EVY0F4gtlrrPLZ0lJDeRqFfu66tS3yC+U0=",
       "url": "BestiaryData/bestiary/145-drow.html"
     },
     {
-      "hash": "sha256-Y2EgA4quJ5M5rTss8mtpLxTZbMzulSle1RPr2l/ZZCQ=",
+      "hash": "sha256-Jn8kooziohmDDG/sNtxppnLGTRNtfGlveiQajVVVkaI=",
       "url": "BestiaryData/bestiary/146-drow-elite-warrior.html"
     },
     {
@@ -1522,15 +1522,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/147-drow-mage.html"
     },
     {
-      "hash": "sha256-7RyGW9dGjHw/fIQAQNx3x3AJkHEKqyAKIXmKpAuDwB0=",
+      "hash": "sha256-mLYJyio2AvfqHGqT8qsBSnbbz1OlZiWOhJv2SYSFj5Q=",
       "url": "BestiaryData/bestiary/148-drow-priestess-of-lolth.html"
     },
     {
-      "hash": "sha256-EH4AfM0KXLPjdXbA73u51J23kD6iwGd3VVOUYFFcjtM=",
+      "hash": "sha256-twO6SlXjiaro734cPACq5a1SZ5IRnS3r+3eyM6FE/gU=",
       "url": "BestiaryData/bestiary/14827-mind-flayer-prophet.html"
     },
     {
-      "hash": "sha256-J8sn79Fby4t3WJFgUw5mZpMyqHwjAaitTtjlyA8QclU=",
+      "hash": "sha256-S+vhyI7sPlsYbe4RkJhAXHFbFb5bsUi16FOFmXfv438=",
       "url": "BestiaryData/bestiary/149-empyrean.html"
     },
     {
@@ -1538,7 +1538,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/15-spectator.html"
     },
     {
-      "hash": "sha256-L+65YiK/vx8Wp1qyVtAL9M25f9iQEOLu+Gwh77Y7ymE=",
+      "hash": "sha256-Wlh0T7Qni5xV8YvDrgn0t/xVlD7OwwQj0CbgqpkAr7o=",
       "url": "BestiaryData/bestiary/150-ettercap.html"
     },
     {
@@ -1546,11 +1546,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/151-ettin.html"
     },
     {
-      "hash": "sha256-VJaQFfWKXIfTeIsZn38RzXdGiT5ZAeK3sy2Es8YkoJc=",
+      "hash": "sha256-WsLf4w6VotSOOPOzukHzW8x53+OvdqrPejae/VNiGng=",
       "url": "BestiaryData/bestiary/152-faerie-dragon.html"
     },
     {
-      "hash": "sha256-IrVouhU0uEjF2lOCz/NXH93L1MisI1Z97+87+cnHeGo=",
+      "hash": "sha256-KMG+jXM+F1LlJssqIzUUJTqXlotDeBGvqRV8cdZmrmQ=",
       "url": "BestiaryData/bestiary/15252-pech.html"
     },
     {
@@ -1570,11 +1570,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/156-shrieker.html"
     },
     {
-      "hash": "sha256-5dqkvUT1kH3oWa1N0L8pMv80LUSCowUPh1bsZISlxc4=",
+      "hash": "sha256-80eb3df41Acp0L9xQIqb8xLRDWWVnzxNYH3CP/GOOXY=",
       "url": "BestiaryData/bestiary/15679-black-rose-bearer.html"
     },
     {
-      "hash": "sha256-UlQHmWYRvTy2WoPvUef/JmrZTodhxsToujg8F/zkMdk=",
+      "hash": "sha256-Z8KvoyX7S210n/ix3llbaquPpPeJXcPSLMudHs4ilLQ=",
       "url": "BestiaryData/bestiary/15688-blade-lieutenant.html"
     },
     {
@@ -1582,27 +1582,27 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/15689-blade-scout.html"
     },
     {
-      "hash": "sha256-hsilcSNnWJLUlf8ygD+WiEHyTkIQiPp4KSeEOFAM004=",
+      "hash": "sha256-MxLa0K6Rx0Yu/sl0mk9CEEdzsQbFXrvdm8o3x5iODY0=",
       "url": "BestiaryData/bestiary/15690-blazebear.html"
     },
     {
-      "hash": "sha256-2irXu8yX60UJ4OqMrOD43gwJQJJ4MYVHP8PXFpMgbXk=",
+      "hash": "sha256-20zM+Asur8XoiHcy9T1v6HmVo3f9gOwZlA8GbrHQ39k=",
       "url": "BestiaryData/bestiary/15691-bone-roc.html"
     },
     {
-      "hash": "sha256-rRyhgqe9A8Bd7ZnZ5hB9KMqZNJVXgTJ/8G7qjlowD2A=",
+      "hash": "sha256-3FXN0FkK7QvajoHc8RlUQyzuSgmz69bzdYilNVj4qwE=",
       "url": "BestiaryData/bestiary/15692-borthak.html"
     },
     {
-      "hash": "sha256-xRNIIDLHf373YdnAJwx5n/rCR/yTygdtnJxhoXE6hAE=",
+      "hash": "sha256-gZNambFRWPyUdScinYJOjiMHZFrDL9fOlXkOepQc9A4=",
       "url": "BestiaryData/bestiary/15693-citadel-spider.html"
     },
     {
-      "hash": "sha256-6wt/NsoTpYrQ6NdA3lnTjyH3oWyayxV9Fs1QU68kN3s=",
+      "hash": "sha256-s/KYLI9mpS6zEU7EzOmknmuBI0fUO4PYeRPXW2YIoTI=",
       "url": "BestiaryData/bestiary/15694-cosmic-horror.html"
     },
     {
-      "hash": "sha256-Pse5ksX9VAQYzvPOKor+shu5X4MMDB0AY9N+3wDfOxE=",
+      "hash": "sha256-OVsYzaH9FkbZNnxyIdqUnt/rxPd6A6LVbYQGAhbGLmA=",
       "url": "BestiaryData/bestiary/15696-deathwolf.html"
     },
     {
@@ -1610,11 +1610,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/15697-degloth.html"
     },
     {
-      "hash": "sha256-mCS+5SZw3soHJEMMv/Mkw2uH1BsIbO8QpGlNotTjnyg=",
+      "hash": "sha256-ivljPMLg2AHn8i+2l0SRvgIAshyPOJiZMvqmAmQkuQ8=",
       "url": "BestiaryData/bestiary/15698-false-lich.html"
     },
     {
-      "hash": "sha256-KsSvCE6a9NZ81uJTgEBEeeMu1jZUUGOM8ajj4RyVxPY=",
+      "hash": "sha256-7Xf8sz8FT8s+YXLWE4Gu7OwpIFbdci57+0h4G5rim/U=",
       "url": "BestiaryData/bestiary/15699-granite-juggernaut.html"
     },
     {
@@ -1622,19 +1622,19 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/157-violet-fungus.html"
     },
     {
-      "hash": "sha256-zPAC1DzmqFQD1nte2udA3KALxD7ZKpeFDam/50JJfoM=",
+      "hash": "sha256-y19p18ogbxHw1lkzK1/u2DS7zA82V6OtO1CpdAWjU1o=",
       "url": "BestiaryData/bestiary/15700-hazvongel.html"
     },
     {
-      "hash": "sha256-gd6Z8j7EW+T26CaZ/Gwpqjnm0Xx6eiXWZdtHPU8aLRg=",
+      "hash": "sha256-O3AUsChGqzPKWnSRSvKBB4o+PfSUMNPrSmAUqTvt4rQ=",
       "url": "BestiaryData/bestiary/15701-hertilod.html"
     },
     {
-      "hash": "sha256-AuPBPyogsB4p/FBIqJd8bvoCY4YXZ6Oz9YFYt5II6Dg=",
+      "hash": "sha256-FD2BAAMcOELJfe2DKSrT7d7aU4Osnh+uzWetu5NMRRc=",
       "url": "BestiaryData/bestiary/15702-mirror-shade.html"
     },
     {
-      "hash": "sha256-G3Do3tuVBXFDmXrqk+0yvTHxmkmLHyR6KZ2dO4t1AAc=",
+      "hash": "sha256-jr+MVNeYRbyt21AxnxsNtmouweVGzMPq5HuF0FH2Mi4=",
       "url": "BestiaryData/bestiary/15703-moonlight-guardian.html"
     },
     {
@@ -1642,7 +1642,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/15711-relentless-impaler.html"
     },
     {
-      "hash": "sha256-SjyQb6abeOC8xI6coxe0T2tEvFQABefLBGgYBM5lPpw=",
+      "hash": "sha256-FejbDeySqIzaGkNo7vlDmpeA8SpjOEiDIwMl2+nftmQ=",
       "url": "BestiaryData/bestiary/15712-spiderdragon.html"
     },
     {
@@ -1650,7 +1650,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/15713-kakkuu-spyder-fiend.html"
     },
     {
-      "hash": "sha256-aUUckvSfTktHoibrt1mCikiBph+CqR/nSAQgbbkKRJE=",
+      "hash": "sha256-8RJ6lG59nDkD3huncs4c+iolmm3E4PtaP8Lby3lFofg=",
       "url": "BestiaryData/bestiary/15714-phisarazu-spyder-fiend.html"
     },
     {
@@ -1658,11 +1658,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/15715-quavilithku-spyder-fiend.html"
     },
     {
-      "hash": "sha256-jVwcMMG5SuTjXuOlQS/FteM/QNwD7fQxHal67yPtzZM=",
+      "hash": "sha256-rYt9OV3FCsLRQpCc91ihZwQKzpAXSiXK+hlKgAWmvcg=",
       "url": "BestiaryData/bestiary/15716-raklupis-spyder-fiend.html"
     },
     {
-      "hash": "sha256-+3Ly72fYhUvUxd3WUfdC6hCOZ3zIBz5TKHfQqmEEwME=",
+      "hash": "sha256-TdBYP4htCsEKBYK5hqqZWUea3g5xTVBqOuSZ16H9RR4=",
       "url": "BestiaryData/bestiary/15717-star-angler.html"
     },
     {
@@ -1674,27 +1674,27 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/15719-warforged-warrior.html"
     },
     {
-      "hash": "sha256-gVzdKpRFbl1yi6KTzoDYbx/BWs1NNv07kyE6AzM/OnQ=",
+      "hash": "sha256-sAeqXlCsyk5kXO6m028qqrSavgd4z+1zGBJE3QhnT3k=",
       "url": "BestiaryData/bestiary/15720-whirling-chandelier.html"
     },
     {
-      "hash": "sha256-s9LMQNCBT+jh7y+F9r58QbkO9STTg02dWfHRJ4xP2lg=",
+      "hash": "sha256-NBAGMcjscsOez5eAssL1lDqqVnlw4bbxKLKOwPxg2cA=",
       "url": "BestiaryData/bestiary/15721-tasha-the-witch.html"
     },
     {
-      "hash": "sha256-xKEScxsjWn7mJRi9eqe5rakMn70jPzxEpImvgMfFiiQ=",
+      "hash": "sha256-ZKHCHp5DAk/Q6zUF72TB5TiELO+EHTyEzajJhRJ+pq8=",
       "url": "BestiaryData/bestiary/15722-kas-the-betrayer.html"
     },
     {
-      "hash": "sha256-cBMoMijvMBlcW8RUICCB04EzvF21JuOn+DE3J68N7Ko=",
+      "hash": "sha256-pKUK8nQ3L0dC0pCNF2lD1UGT0b/GJXBRp1ZmUP6kB5E=",
       "url": "BestiaryData/bestiary/15724-alustriel-silverhand.html"
     },
     {
-      "hash": "sha256-0WHHxJuzfER2YClbV2J9dqXlyrsto/O+cnROKYl18ng=",
+      "hash": "sha256-L1WY1W+UXBNlYvTuT3GuIgfCr9QySIO5oZc/ETXOMiE=",
       "url": "BestiaryData/bestiary/15726-miska-the-wolf-spider.html"
     },
     {
-      "hash": "sha256-31g3NOWpiovmb6HpPow2L17ISWSMkjt2Tse9lBj2Q8I=",
+      "hash": "sha256-ivKrh2jjEpuXsSqkUhOwUB+9E0hO2vkkJUey6fsQ2JU=",
       "url": "BestiaryData/bestiary/15727-strahd-von-zarovich.html"
     },
     {
@@ -1706,7 +1706,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/15729-camlash.html"
     },
     {
-      "hash": "sha256-Xh0t6tcR3EJjvixCcODAJsFaStE3DD7ujnsh0oL2qMo=",
+      "hash": "sha256-taO3my7ZMVIS/4D91R9myHa4mTXYZGglc8P9yqM/kVU=",
       "url": "BestiaryData/bestiary/15730-windfall.html"
     },
     {
@@ -1714,7 +1714,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/158-galeb-duhr.html"
     },
     {
-      "hash": "sha256-PGzLlN8gxf5v/qRPXXubXpCiiuzdxN+5y8aVUzxEn1M=",
+      "hash": "sha256-A/w73mj4ClW1QSLSbi6lbiYnR7sM45/OqNuvx8MnfCc=",
       "url": "BestiaryData/bestiary/159-gargoyle.html"
     },
     {
@@ -1722,7 +1722,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/16-the-black-spider.html"
     },
     {
-      "hash": "sha256-S4wdanSDVOF3j2lHo8UUOFu2GVfGnVneZUoZuv7ho88=",
+      "hash": "sha256-8p3O51Qtl3w/n6uWWw+FTc242D0nomb0fYeswksgmIs=",
       "url": "BestiaryData/bestiary/160-dao.html"
     },
     {
@@ -1730,19 +1730,19 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/16067-gloine-nathair-nathair.html"
     },
     {
-      "hash": "sha256-XncV9u8y0IP9Jds5g0m3mvez7FqbsExKX5j4OKfbvaU=",
+      "hash": "sha256-1OgbJM9omgLJzeBIgx+E+iPaKH2lxjmLNTg48ScRMm0=",
       "url": "BestiaryData/bestiary/161-djinni.html"
     },
     {
-      "hash": "sha256-QOMIemSJf9tg1S0DiMFtcQvlj8jh40Evg364jEMttfk=",
+      "hash": "sha256-z6PywDQf2UuedYn6Q/RJ4G3LzV1Cj/xRf8PKRquyLUw=",
       "url": "BestiaryData/bestiary/162-efreeti.html"
     },
     {
-      "hash": "sha256-Ea0DQb6+VI7cqRdXJTk/BhIDuE0Muw5XzMO8iF83HN4=",
+      "hash": "sha256-3PfD7n8SWAaJO0MuY3MkURSaKpDj3kDVux/x243DSkU=",
       "url": "BestiaryData/bestiary/1625-ras-nsi.html"
     },
     {
-      "hash": "sha256-/F3cW8UCWMOVZppUAnu3vo0WY4XfQsSVO06rti6pE6A=",
+      "hash": "sha256-uf49kdPfSXInzV46uIHZviiwY0J33zoH7Dkysh3dkcQ=",
       "url": "BestiaryData/bestiary/163-marid.html"
     },
     {
@@ -1750,11 +1750,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/164-ghost.html"
     },
     {
-      "hash": "sha256-/Bp7DXACZQtk2QKtM3vRDTCmN5yIoy9b2qb0ICOs31c=",
+      "hash": "sha256-r+yipXXqL95WZGzYEE0mGoc9cyd0PDoG7OxMEsWcbcA=",
       "url": "BestiaryData/bestiary/1649-valenar-steed.html"
     },
     {
-      "hash": "sha256-iBj0rs5SjT0lAIjoFooQBaCEc+OaT9Lio8C5kpylmHk=",
+      "hash": "sha256-gjO0LHLDup5TXaBROqcrEitLP5bR5ZdWBHdc0Xkk76k=",
       "url": "BestiaryData/bestiary/165-ghast.html"
     },
     {
@@ -1762,11 +1762,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/166-ghoul.html"
     },
     {
-      "hash": "sha256-PQ5e7ev5tR9QAyzBAMb+n1pVk7LKLzhET8KtZxOYY58=",
+      "hash": "sha256-xNy0ePuC/hnmVe2WEMcbXJ+FEN/BTv7fsjvubTGmn4M=",
       "url": "BestiaryData/bestiary/167-cloud-giant.html"
     },
     {
-      "hash": "sha256-DqJPcNe9BGe9YErN9cyaWpjKjStzjRen7IFwKRHIDD4=",
+      "hash": "sha256-mJArPbnce0lWlGKBsNUr6AUCvU+mcpfxB5Uq7CtDb+E=",
       "url": "BestiaryData/bestiary/168-fire-giant.html"
     },
     {
@@ -1774,59 +1774,59 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/1682-expeditious-messenger.html"
     },
     {
-      "hash": "sha256-X6WCjOypc5K9LhYNUp5BK/pCt/lqXESZggXxwI2vQQ8=",
+      "hash": "sha256-jT0mSdEDYCfTrHhHuiqK/eiwoKXouSWQfKTTS5K0py8=",
       "url": "BestiaryData/bestiary/1683-iron-defender.html"
     },
     {
-      "hash": "sha256-5FWIeVqKW25z5XbhTV5aQ3YHkuDfnzvZaN5wbbWKv+s=",
+      "hash": "sha256-EUYalPTylc/3U8H7cTGPTPTlKEjRDKt5Hyt5JJwBd0s=",
       "url": "BestiaryData/bestiary/169-frost-giant.html"
     },
     {
-      "hash": "sha256-2F4JzC8s/4FG8pkmGxuXDKyeuPjbDO3Gd9JaL5dDkAU=",
+      "hash": "sha256-qj51Nui8NtnfZX2x3sDYXa/YHKVSXEfpnkIuY0maE4A=",
       "url": "BestiaryData/bestiary/17-nothic.html"
     },
     {
-      "hash": "sha256-2EYg8F9yPDdrvtR2LAEJHieu90+ybBXuxrWacR974os=",
+      "hash": "sha256-ZUNB2wLfl1TUWa+kfCkwiNKrr2+aUSqOGwQP8NhvSgY=",
       "url": "BestiaryData/bestiary/170-hill-giant.html"
     },
     {
-      "hash": "sha256-jFKaNvnzBTeKf9fLGDfJlihohgnDZqEM0R+RJ/DQSgA=",
+      "hash": "sha256-Rjew2fop2ajgewPes/V49KC+5tWVqQWnNyyMSDXhNZQ=",
       "url": "BestiaryData/bestiary/171-stone-giant.html"
     },
     {
-      "hash": "sha256-JHxum5YiT+kIvReQ+ZJfRPuJ1LjBBr3XDP10f9wLjgs=",
+      "hash": "sha256-gXGn3+uvaQ4sz3ux4qabSGe8CCgfbxmjKmNf8P5vGYc=",
       "url": "BestiaryData/bestiary/17197-android.html"
     },
     {
-      "hash": "sha256-IBp4+nk4D/0F3cW/i7yAe/kH8O5Q4UWPPKFEv6zUWpI=",
+      "hash": "sha256-f+wBBdMKjGozM3YPf7iHsyI63M+98yObKrl49dFccmM=",
       "url": "BestiaryData/bestiary/17198-maschin-i-bozorg.html"
     },
     {
-      "hash": "sha256-fN3DjISmK342RHJqzm3jUu07ds6AsU08Eo3ely7qr8U=",
+      "hash": "sha256-kto6m8GeP0Rjb/R3P96cnNMBkKzC4oYCGGrJ9y3Z4Zg=",
       "url": "BestiaryData/bestiary/172-storm-giant.html"
     },
     {
-      "hash": "sha256-qzxSM/TbPWtLH5czzxYT6a0Z8oiSk9C5EIptzDQr+48=",
+      "hash": "sha256-fgAthzDbCAkNLUhnxgvOp6ybei525FWsLGERaamroQg=",
       "url": "BestiaryData/bestiary/17206-gibberling.html"
     },
     {
-      "hash": "sha256-hEWrWn+omtPt/fFxpHFPdhsCyTJtIhGrk1Hi8aKHBn0=",
+      "hash": "sha256-KXwqRzk3FTrWNoYiNJ/rEXFVyNsAakvGG/2rKX1Z0dk=",
       "url": "BestiaryData/bestiary/17207-swarm-of-gibberling.html"
     },
     {
-      "hash": "sha256-fitFkjtiirGacR8Beoaz4z2uCbXBqDN/lM1/4MV2y88=",
+      "hash": "sha256-uxIfSe4czJOM7mziC+4mAo53lbD35a3RX1RfZJsWCRI=",
       "url": "BestiaryData/bestiary/17208-vegepygmy-moldmaker.html"
     },
     {
-      "hash": "sha256-ScQ2sxUOLBGgkVrtLT7W16SAJde7y3Q7wHx1Nk5dn74=",
+      "hash": "sha256-p9SzDr9AyBE0/U/Dsut89a9yD2ItpHDthh/2uBRwRNA=",
       "url": "BestiaryData/bestiary/17209-vegepygmy-scavenger.html"
     },
     {
-      "hash": "sha256-ngjnAXMMHhhrOsQnK8jNL0fMakeJEBF94eIRzZHIbJg=",
+      "hash": "sha256-EwqedLoC4YJ/MmpFvS6S+ESEmdH1qhUffuCn7rJtPm0=",
       "url": "BestiaryData/bestiary/17210-vegepygmy-thorny-hunter.html"
     },
     {
-      "hash": "sha256-OpkniR7TOADJZaJZfNWckscPs74nyrAW0QU+wwUJLXQ=",
+      "hash": "sha256-TW1inxtRJkrpdts2yft8HGPqEDKYiSpYOFRJegZNeQQ=",
       "url": "BestiaryData/bestiary/17211-champion-of-madarua.html"
     },
     {
@@ -1834,39 +1834,39 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/17213-warrior-of-madarua.html"
     },
     {
-      "hash": "sha256-/4eYCxu9EsEpVxAUKGneBIAURnc/fdkDA+ykxBYAA2Q=",
+      "hash": "sha256-PMewNfSezNV5XmzO5eoEe6+fVfrblpTSQHQRXiXJTMk=",
       "url": "BestiaryData/bestiary/17214-wolf-in-sheeps-clothing.html"
     },
     {
-      "hash": "sha256-/lA0EZzNacgn5EqwL9Xrg7sARc8WXXRUmkCmvvw8SGA=",
+      "hash": "sha256-W1W4PfL/3hDOFLUz7CkeWBRCNlo5QTRSJE6ZXlJ+pi8=",
       "url": "BestiaryData/bestiary/17215-derro-apprentice.html"
     },
     {
-      "hash": "sha256-feN8HfAVgx8SZR174tpuIGUMOt4TDussrwNJeulYK4g=",
+      "hash": "sha256-RWnLA87HM5Md2AzUDTc5lg/HlP4cR0gPUA5J3n9k+IQ=",
       "url": "BestiaryData/bestiary/17216-derro-raider.html"
     },
     {
-      "hash": "sha256-4VqSliGxLUZJ1e0Rhhr0Mqd44s1ccbhX1nH3nnnptZw=",
+      "hash": "sha256-5/DPD3iZWQVkkfnU7QpjE+H1CY0LTO8gQkreZ4JvURE=",
       "url": "BestiaryData/bestiary/17217-froghemoth-elder.html"
     },
     {
-      "hash": "sha256-7N9VAdvqOvjZGVViQMNQ6MQ4iVdrer7V6f8uUZdsm3c=",
+      "hash": "sha256-N6XjUwwfeMdYEgB+t9VGRmew85FoIuvEPIgtZ5GfLPM=",
       "url": "BestiaryData/bestiary/17218-drelnza.html"
     },
     {
-      "hash": "sha256-YCNc6oSO51/1TQLweTKdfSa69UOsdrwmwb1P4uURpT8=",
+      "hash": "sha256-1whFZIj+PgeJ1TqvzWYsTTVUEgGerDr3LQTcGmQ6OKs=",
       "url": "BestiaryData/bestiary/17219-zargon-the-returner.html"
     },
     {
-      "hash": "sha256-6A0bq94Mx0995x3RyvfLM4KpBU2cIqeq88ubmlW+q7Q=",
+      "hash": "sha256-NTtY5CDox6Z2coOoiXIBArjL74GloGlncqGSBPGGyf0=",
       "url": "BestiaryData/bestiary/17220-barkburr.html"
     },
     {
-      "hash": "sha256-AhxQYcOL7YfrjL1NsA6YGNfZ1ZLg5lZgmVAmpPWwERQ=",
+      "hash": "sha256-eS8E6Q/4rOki0sXfZWyaody+z2d90XEt3ZoOUb4xEoI=",
       "url": "BestiaryData/bestiary/17221-leprechaun.html"
     },
     {
-      "hash": "sha256-daqXl5QAtGIs6DIzTLIQ1mRDYAn5G46l/8E1H53lcUk=",
+      "hash": "sha256-cOXJZC8x9/Q2Lek0AXDXfw27+TpwR1wOpI1ZRjTWf/w=",
       "url": "BestiaryData/bestiary/17222-champion-of-usamigaras.html"
     },
     {
@@ -1874,7 +1874,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/17223-mage-of-usamigaras.html"
     },
     {
-      "hash": "sha256-EkvKOCKMrWs/HfpByAfJ2Ci4kqp4mxR0K7NaZRwcCng=",
+      "hash": "sha256-x1Ffe/tLjmpezyMagifnFhQA137+q5a9UlXDdXOYUI4=",
       "url": "BestiaryData/bestiary/17224-horrid-plant.html"
     },
     {
@@ -1882,51 +1882,51 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/17225-tower-hand.html"
     },
     {
-      "hash": "sha256-VCmYs4OKdhTb1PYXqDxdPcCMRUYOgzbzz8BokOuQ62Y=",
+      "hash": "sha256-FdK1tguTH2X9fl7QU12oESIbmXKyUx8OjS6Ucn3gFv0=",
       "url": "BestiaryData/bestiary/17226-tower-sage.html"
     },
     {
-      "hash": "sha256-oL9QEQaNx4H52v5R9USuCfU1fzM70F2WUiTMSOBFGlM=",
+      "hash": "sha256-TZuAfupemJHwmisRfV7mp0U8ZlENljeMy38+AEg3TVM=",
       "url": "BestiaryData/bestiary/17227-nafas.html"
     },
     {
-      "hash": "sha256-7hOT81steZjQ/nW0SaAVU8Vu+50zwK1Zvjd7RPtHgqo=",
+      "hash": "sha256-l4MmgOJY+XIqudm3nE50GYeYhBM7mapn1zTbAI4oCWo=",
       "url": "BestiaryData/bestiary/17228-nafik.html"
     },
     {
-      "hash": "sha256-CmqCkZ2lIVbbY4nT8nxbCrDy2CXx9jP4T0+AU3y+DVg=",
+      "hash": "sha256-yCds7QlcUaT0HUt4CFIR85dm65rXNGsabbbjcplvu6I=",
       "url": "BestiaryData/bestiary/17229-memory-web.html"
     },
     {
-      "hash": "sha256-64Fn1Sq72WMm8O0v7nGbFeotF1ONP2HVAVaqZplr69k=",
+      "hash": "sha256-fCg3Fv8QgMVrj7oM1Fqfs6aT8lpCFEj0A0AcIBzZJI4=",
       "url": "BestiaryData/bestiary/17230-pech.html"
     },
     {
-      "hash": "sha256-Q4xqm/T1B8VvjyMwcby8qFA5pC7h8xY+yI6kUhsv3eQ=",
+      "hash": "sha256-CqEbXG1yJZ6GFViaLBidlUqpvhmMlA+R2TPltW0SCVk=",
       "url": "BestiaryData/bestiary/17231-combat-robot.html"
     },
     {
-      "hash": "sha256-589Rv4oWYCoLYAfcjQIrobR/eLE+HFPK1vmIB79XjQI=",
+      "hash": "sha256-1olCK0gIrv8iN+VhF/GAWqxfBqnRgK1eWuoWXLghKWw=",
       "url": "BestiaryData/bestiary/17232-worker-robot.html"
     },
     {
-      "hash": "sha256-uNAcglSKOYXD0/7n/UVy2EnN52iOtOax77PGOm//83o=",
+      "hash": "sha256-wI7HoGcrgzUOaA8FEmKdev0UQo4EGZ1SlBPWBvnJM4E=",
       "url": "BestiaryData/bestiary/17233-the-gardener.html"
     },
     {
-      "hash": "sha256-GBIvlVj55E8iPR9MbN5huRtBWgMa6zEUHpZ7WgddWFQ=",
+      "hash": "sha256-vs1xWxXoPjcFiDyV+zIKGhtKMpmhXEBiCAKT0Eb/rfQ=",
       "url": "BestiaryData/bestiary/17234-sion.html"
     },
     {
-      "hash": "sha256-l1ZW/9wkjQAeO3IetO6ucp3dljZJ3d8YhjpygPCPgoc=",
+      "hash": "sha256-h1fOpbDZhzOjFUmmN+lovSXhf1MxNMjqvi/SrTu55ww=",
       "url": "BestiaryData/bestiary/17235-champion-of-gorm.html"
     },
     {
-      "hash": "sha256-RpOnZpcyb5sFEFValLvIw+pXAeYG8/HFa5Fq1nKw3JY=",
+      "hash": "sha256-/oA4FSA/yv0hnzwi+x0UpgOmCRtB9ZcfZ7xqMTtTUWQ=",
       "url": "BestiaryData/bestiary/17236-guardian-of-gorm.html"
     },
     {
-      "hash": "sha256-hNGeuH1pI/TV6KwtLy5d4PlvTB3Iyqer8KZ0Y1Nf/GE=",
+      "hash": "sha256-kgkXGuTOZteBv71ZVzpSktiaxhDLa31JTQ44o3dfYFw=",
       "url": "BestiaryData/bestiary/17258-bloodfray-giant.html"
     },
     {
@@ -1938,11 +1938,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/17261-orzhov-giant.html"
     },
     {
-      "hash": "sha256-E4orrUjH/WQPnnxU5hIpmS2Ovx0VJCbkq8jPZTuwFtI=",
+      "hash": "sha256-oA8DuolKA8EBLzi8StrXIVr2QYYJ1HDsFUv/9cGRmFE=",
       "url": "BestiaryData/bestiary/17262-sunder-shaman.html"
     },
     {
-      "hash": "sha256-xC0mTGmbajv1kXzw/4iB+Ro9WtCIeZ8CbV/z49DHKQ0=",
+      "hash": "sha256-TvlUIVpZz5nLfflcQQ68yd8lPROchBeeuLOgh3JPBMs=",
       "url": "BestiaryData/bestiary/17266-skittering-horror.html"
     },
     {
@@ -1954,19 +1954,19 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/17269-fluxcharger.html"
     },
     {
-      "hash": "sha256-8wADzrvFQXWbviRdTNqk8U7zpyT6G5T0RwPzXEeysrg=",
+      "hash": "sha256-8wgudbruC2zcS2AjK6c9Q2v+cmQ3oHNU2A0x1y7ZEvA=",
       "url": "BestiaryData/bestiary/17270-category-2-krasis.html"
     },
     {
-      "hash": "sha256-/CmEQAD2fApWPQAarLgFYjkRReE4gQpY4cwqg3HL+eA=",
+      "hash": "sha256-/BVNXkHyzhcqpIY4UtEWpYypYLckrpHbWCaz1LyMnbk=",
       "url": "BestiaryData/bestiary/17271-category-3-krasis.html"
     },
     {
-      "hash": "sha256-KI0xdFZI9VUo53udHh8Dqu/JOKEd7jF61FhbQlkTkLk=",
+      "hash": "sha256-6VXtwj60AQWmfe/9ibrRGHZliViF+1TUKq7m/ER3TJk=",
       "url": "BestiaryData/bestiary/17272-kraul-warrior.html"
     },
     {
-      "hash": "sha256-w6KOlQAWCeUclTLRkEgDsCtfPY4QVJkCdJZEhHb43pE=",
+      "hash": "sha256-ID99ABAEepj9KjpOLjH2i+1JXi6RSCmyROYrAw8RwDU=",
       "url": "BestiaryData/bestiary/17273-kraul-death-priest.html"
     },
     {
@@ -1974,7 +1974,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/17274-gloamwing.html"
     },
     {
-      "hash": "sha256-RSL2Vb0LNUdvpTcmTfxJeEFsOJ2C9fN7Zq2Q8OlUOkg=",
+      "hash": "sha256-7tF2xs+Vk8kRzSW49TW6KrvsWVtH4ONrJEzmWjhScxI=",
       "url": "BestiaryData/bestiary/17275-nightveil-specter.html"
     },
     {
@@ -1990,11 +1990,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/17278-hybrid-brute.html"
     },
     {
-      "hash": "sha256-iW5tmKtnq23R/oJXO7nVAS4sOI0oNgpER5rTUKl2EPM=",
+      "hash": "sha256-PrZYkAVLDADsR3XmLmtjk6cVfc3IQLYWESsFAMH6eTY=",
       "url": "BestiaryData/bestiary/17279-hybrid-poisoner.html"
     },
     {
-      "hash": "sha256-ugkXNPL7q92WV8S/3m0X9XKb4jGSNseKMWFxeJ3rs7A=",
+      "hash": "sha256-Vt/MtV+YuQxFOHaz7EjLx+SqvZVfpbOzZhEiKh4dM1s=",
       "url": "BestiaryData/bestiary/17280-hybrid-shocker.html"
     },
     {
@@ -2006,7 +2006,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/17282-skyjek-roc.html"
     },
     {
-      "hash": "sha256-q9CMfeNxLO3BYdO8ZEtgkdQYvjK30s3MZ9EWDv3k44o=",
+      "hash": "sha256-r+9mWXdZStp2mIXhVXV8G5iLD1gWZC1xLf2RmljoTpg=",
       "url": "BestiaryData/bestiary/17283-skyswimmer.html"
     },
     {
@@ -2014,35 +2014,35 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/17285-servitor-thrull.html"
     },
     {
-      "hash": "sha256-+tuvMdRBgmISGmEq5mrdQ0e4kOb4lQlaaKdGItw676I=",
+      "hash": "sha256-0Crt/8ddMhdTclFWaqy1vqos+JjHUQxEtwuY7dS2ya4=",
       "url": "BestiaryData/bestiary/17287-undercity-medusa.html"
     },
     {
-      "hash": "sha256-rJNUvx6jNwSS57CcxXZSwX7V0bK2uHrWLjlClbpfqbs=",
+      "hash": "sha256-9Oz5nL4zA8ap8ALMW5DUQ7P/Cf7Qq0RxfFCzZwg6UJE=",
       "url": "BestiaryData/bestiary/17288-blood-drinker-vampire.html"
     },
     {
-      "hash": "sha256-BNmP4pJUcyLapnEenbLbqzDZMTDN15DqWFSc9tmsCx4=",
+      "hash": "sha256-a5Z/fv0DLQ4qlz5uIblGOqs3XIx0gIb/AS/ZMOFGZDE=",
       "url": "BestiaryData/bestiary/17289-mind-drinker-vampire.html"
     },
     {
-      "hash": "sha256-t32dKW8JyZDObxfQC8WGlZHZnyDRU/08SPiLeOPHtxI=",
+      "hash": "sha256-w3HHnOR4pfDKCXsyGwSv3QRLGeOxVmCTcuL9+yFgfSo=",
       "url": "BestiaryData/bestiary/17290-wurm.html"
     },
     {
-      "hash": "sha256-F4+3SqTAKM+ZTm52scil4eOoV+meTFqKFkUCbqOgSIA=",
+      "hash": "sha256-knEiK3BbQbUbVUNxXoSiUVO7YX3UhKN5G+ABSYZtNiA=",
       "url": "BestiaryData/bestiary/17292-aurelia.html"
     },
     {
-      "hash": "sha256-/M5jyGQbm3nM0fknZOSckjBtGXKEZdTZ2XRPGSuFQBY=",
+      "hash": "sha256-CgapEr316Ud9X85RjAZBx5jmj26qx2SJCm8KW2ksNB8=",
       "url": "BestiaryData/bestiary/17293-trostani.html"
     },
     {
-      "hash": "sha256-a4vOM/8k3qhSmROKwwcOYo59mgz4+liWsaWXxSp8Tkc=",
+      "hash": "sha256-TT2/1dut5l2eA5U/Rv+chijEiIiwaCG/R9iFUFTgTzY=",
       "url": "BestiaryData/bestiary/17294-rakdos.html"
     },
     {
-      "hash": "sha256-oSjsuapVx3+IZxhjVvsXqgNaesoG/RmmUhVxWuvlj64=",
+      "hash": "sha256-uKaP5cUCB5rJkvX+vC8hSlApMIoplMjK/cVTwWbvXfI=",
       "url": "BestiaryData/bestiary/17296-borborygmos.html"
     },
     {
@@ -2066,7 +2066,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/1730-giant-snapping-turtle.html"
     },
     {
-      "hash": "sha256-QittQv/wwMX0KWIqFvrU6Y+VchIzT629Za0taR6fZDM=",
+      "hash": "sha256-Vcakjxi/t12+kVMMfojGohZA+f02fCrLrlwJKMrmhNM=",
       "url": "BestiaryData/bestiary/17300-counterflux-blastseeker.html"
     },
     {
@@ -2082,11 +2082,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/17304-frontline-medic.html"
     },
     {
-      "hash": "sha256-XYEJvguH9ZBm7MbnQYXn2am6x8QhuVSTvk0fgtXTcwY=",
+      "hash": "sha256-ZABbU0AGIINP1EI4E7sqy51ob0Hnm6smEuVBxFBPq14=",
       "url": "BestiaryData/bestiary/17305-galvanic-blastseeker.html"
     },
     {
-      "hash": "sha256-X4ngOxJExXIiSekp+bOTAOioi4Uge6NCdoaOgmPD9+s=",
+      "hash": "sha256-KTYmpfth9xdLZwJ2LlrXjpRchvG0/hS5Epwschmeu/Q=",
       "url": "BestiaryData/bestiary/17306-golgari-shaman.html"
     },
     {
@@ -2102,7 +2102,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/17309-mind-mage.html"
     },
     {
-      "hash": "sha256-ZD+uoZs7ShhBAsZV32xLrJL1e2Iim5rPKIcwvv3y9OE=",
+      "hash": "sha256-oGPb0wZAw1r2Ub1W0MhYFpNcwazUM7uOhp6y9lY2shM=",
       "url": "BestiaryData/bestiary/17310-precognitive-mage.html"
     },
     {
@@ -2130,11 +2130,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/17317-scorchbringer-guard.html"
     },
     {
-      "hash": "sha256-qqeVu0kTAK9p5ps75Ttd1l10vyMgOsVxWiM1WweT91Q=",
+      "hash": "sha256-BPoNz5vhikEjge8RmNFqlx9HWyN2L5WL0c0HWt3ULP0=",
       "url": "BestiaryData/bestiary/17318-soldier.html"
     },
     {
-      "hash": "sha256-NT+rTDV3bVRIserTQ6nrHIt7nY9hS8hpxBJjyVkfR0w=",
+      "hash": "sha256-zMHA2juJSvYjD+mSig6zG4H1dq+uqqWoIHDKhXF0eBs=",
       "url": "BestiaryData/bestiary/17319-thought-spy.html"
     },
     {
@@ -2142,19 +2142,19 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/1732-albino-dwarf-warrior.html"
     },
     {
-      "hash": "sha256-Im2ZVCP2djyZOYL+DTWwCT0r/HVFUJ4avn+5hdt6YDk=",
+      "hash": "sha256-czmlwl3ayyEFBSAfUIdXobIpo2T10kzakpb3p1ht52o=",
       "url": "BestiaryData/bestiary/17321-isperia.html"
     },
     {
-      "hash": "sha256-YoWXbm0Jgz2ntig/xiyFHFYL1v12+WwUqVg3z3pP2s0=",
+      "hash": "sha256-Hq3ZgVFcz26XvXF5EDeZsUQipKKJq0+R+JI5RG7ZnZA=",
       "url": "BestiaryData/bestiary/17322-lazav.html"
     },
     {
-      "hash": "sha256-gd1hS/OcLvijn5g2yVafV/DEWBu7L7xwzJ8if2GMzu8=",
+      "hash": "sha256-86hrixFlBKqKZq06/lF98F4ZP7hCdMBm/7dr8i5IM2g=",
       "url": "BestiaryData/bestiary/17323-jarad-vod-savo.html"
     },
     {
-      "hash": "sha256-+No+3OvNxaVnJfvsU9lKhYqRhSoZ/ma+QuH8R1KBFQw=",
+      "hash": "sha256-OHPj/HN0tZ7iBjEREDm6THHVHuSkrOu5lAD5hLont5g=",
       "url": "BestiaryData/bestiary/17324-obzedat-ghost.html"
     },
     {
@@ -2166,75 +2166,75 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/17326-simic-merfolk.html"
     },
     {
-      "hash": "sha256-WM0jdYu1ePIhk/u1D6jYrOnWwsG4jtEB+h+B9i6kavM=",
+      "hash": "sha256-RL6ySGmguuNROtOikrPPQsy+Kmw/1pKljnbH4Qg9UTQ=",
       "url": "BestiaryData/bestiary/17327-goblin-gang-member.html"
     },
     {
-      "hash": "sha256-shCZuvhPYJhk5IyHtdJNWqWgaOsSI0IsS4OWdkuRlPs=",
+      "hash": "sha256-MGfF+1KqDN7fwdJGfE9f1N04eksg+XyOinpR5e5YWCU=",
       "url": "BestiaryData/bestiary/17328-krenko.html"
     },
     {
-      "hash": "sha256-mq8pGbccun/S1hGCgvpic8LVp+G1w8ZAzc0cN/NX5/4=",
+      "hash": "sha256-rMQS0FiMAj59USHByaXGJFgDYCR4dgsJri6xkm/khlg=",
       "url": "BestiaryData/bestiary/17329-loading-rig.html"
     },
     {
-      "hash": "sha256-WxyrNj0veojJZlxVtzclnsUXCxT53e8jbUBGL14ndt4=",
+      "hash": "sha256-yzxqQfq8LSc/il9kPb4qdGY68XkohY03l+IsVTd+tsQ=",
       "url": "BestiaryData/bestiary/17330-archon-of-boundaries.html"
     },
     {
-      "hash": "sha256-1bpN39cQ7186asNE8NWQ/nMGf3NE8eHKb1botTBpAgw=",
+      "hash": "sha256-fvOXu0rn3+tkSC/nLHKW9dWRtSdmJRQr3B2RlKzXDis=",
       "url": "BestiaryData/bestiary/17331-beanstalk-wurm.html"
     },
     {
-      "hash": "sha256-Cqx3Dc2nf89DKdnjuqVjGwG4+6zZRHvdYn86khbZCD8=",
+      "hash": "sha256-0UM58iLMdgX7qch5LZG2ShjAcBdGF9CAoqWgfutCYpo=",
       "url": "BestiaryData/bestiary/17334-deathless-rider.html"
     },
     {
-      "hash": "sha256-McwZVa324W0vOP3yN0u1fk/B1xZIMG8bK79Qs1wewd8=",
+      "hash": "sha256-CNV4REFyC5j48rE1hCtmhgEEX9GSNa/v0g2UW+zEUyo=",
       "url": "BestiaryData/bestiary/17335-dunbarrow-witch.html"
     },
     {
-      "hash": "sha256-4peHY1lok+fa7P3/rZyKZY6aaFpJj0v1JmPgr7vfUzU=",
+      "hash": "sha256-hi8kFfDWEDLy10wGYd1D9Z0qcVxqX0ZY3e60UL481sk=",
       "url": "BestiaryData/bestiary/17336-faerie-borrower.html"
     },
     {
-      "hash": "sha256-6Fn53D4ZFtcNEgmArzvdR5BFyMczVd5onM40vw22y48=",
+      "hash": "sha256-qTkGDCTOCQkbp5NAbfUWKRR50hfFy6+ska3DSjXLm90=",
       "url": "BestiaryData/bestiary/17338-faerie-pathlighter.html"
     },
     {
-      "hash": "sha256-NjHSAttqEMKHulX3CMuBVF3nF72GKnh0eMlpKfrXf30=",
+      "hash": "sha256-u1B2SqhlWh6m/Fj64p5bzIPIZZau0EJMSyCHQCLaOnM=",
       "url": "BestiaryData/bestiary/17340-faerie-pest.html"
     },
     {
-      "hash": "sha256-VJ2Q5tD3BN2HMs0oLZYCXsGkf1E7fFNC4Zao0ra3K3c=",
+      "hash": "sha256-CKhTglW4FFL4qYOzWRcpgY5KcadtKX0IbMOnaJ6O+HQ=",
       "url": "BestiaryData/bestiary/17341-gingerbrute.html"
     },
     {
-      "hash": "sha256-z7SwJ4jnK52vPV2L1jaNtRCIjd6zFpiF9RuhNez1jR8=",
+      "hash": "sha256-I3R7nom3iirABQB3P8zkL5XwjaGfmKj61GeVw6M0G0s=",
       "url": "BestiaryData/bestiary/17343-goose-mother.html"
     },
     {
-      "hash": "sha256-vpAThqigZsQLAINrSHvfJt0rsQmadIQezETYZ7gMelk=",
+      "hash": "sha256-/Lz/qcgOaVsHf+eKyTg28KeUQ4JkRm5KgkJ7yoZsJME=",
       "url": "BestiaryData/bestiary/17345-high-fae-impostor.html"
     },
     {
-      "hash": "sha256-VJQ1CW0z+/zTK4DMekZVBCGVRjA4I84/KlSGpdGGtoQ=",
+      "hash": "sha256-TFm5z9g6a0lYuw0ato2lOEykymNc8Wepbacsa3j72v0=",
       "url": "BestiaryData/bestiary/17347-high-fae-kindguard.html"
     },
     {
-      "hash": "sha256-hGg9F9jov+HUmHuhICZhKzIlUg23dMP9o58EOj6c7lc=",
+      "hash": "sha256-F+yA3IjdTh0l7Q2sBOoMM4CJ1020EeYqWnDYmbyAtRc=",
       "url": "BestiaryData/bestiary/17348-high-fae-mage.html"
     },
     {
-      "hash": "sha256-7obspOLT3BALWPOxxzQmvXZgVOZUsDhFVEZW78MmXsk=",
+      "hash": "sha256-ka/EieNSrdy1lwAu7LrXfu/0WESerQIeHpGQwi0UwOw=",
       "url": "BestiaryData/bestiary/17349-high-fae-noble.html"
     },
     {
-      "hash": "sha256-vcUh+gLjDyvxrFUhu9AMvKuuAolh+dbG+5ywpm40bPo=",
+      "hash": "sha256-Fpg3PJBDuk/lDSPtb27iZwGr85sXYuAX9NhjkcRYUYI=",
       "url": "BestiaryData/bestiary/17350-knight-of-eldraine.html"
     },
     {
-      "hash": "sha256-6rr39ifWzskoo1fLNvT5JiCg+iPqR9gbJ3FcSw+57/w=",
+      "hash": "sha256-UpJqQfN+j4vpXYVCmj8riwx27d6eR4WXQrGtCpfhQO0=",
       "url": "BestiaryData/bestiary/17351-nightmare-haunt.html"
     },
     {
@@ -2242,39 +2242,39 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/17352-ogre-chitterlord.html"
     },
     {
-      "hash": "sha256-QXgBoRspZMEar4mpuwq+BQG6Z180+YLIfEmX3RG0/yI=",
+      "hash": "sha256-WwxxFk3J7Iiev83MuMvbzy32NsjIyj3pyKTkuaqWrpU=",
       "url": "BestiaryData/bestiary/17353-redtooth-werefox.html"
     },
     {
-      "hash": "sha256-D+cv34xsH3rvl9KxQwqL5hw1Te5vGOmk3kxRPS/R8mA=",
+      "hash": "sha256-l0uLvujaVfidj61mpYfTDrbPR614uTF4pkKqUVLTHes=",
       "url": "BestiaryData/bestiary/17354-sewer-king.html"
     },
     {
-      "hash": "sha256-NeVXeQBTc5kzK043WLONMwMrUyodb1hxE3+QmlD/ZK4=",
+      "hash": "sha256-blT8yN2DRLo5B5BmKcCavszRx6WSSw57Gha5Zxec1X0=",
       "url": "BestiaryData/bestiary/17355-snapping-hydra.html"
     },
     {
-      "hash": "sha256-GbmssdSlpjSW6Aw4WhT00W43eWwRkBD2Ly3D2VUZw60=",
+      "hash": "sha256-yGVOUSfCvj8gsAR/8J8lOcwYzgKyVmMi3hE1EWrTaNY=",
       "url": "BestiaryData/bestiary/17356-specter-of-night.html"
     },
     {
-      "hash": "sha256-a9ZnYUyRir4LKSgRUwYKQul62BvFkCaY79NvChN09WY=",
+      "hash": "sha256-nrVltrap6dor/f5Dg/7F/4oOlgQvnri+n6HvUjMyQ7g=",
       "url": "BestiaryData/bestiary/17357-sweettooth-horror.html"
     },
     {
-      "hash": "sha256-TiLUY4WNUESniGaDPOiLudPy31KrptoVXcalxmTL/ic=",
+      "hash": "sha256-YPL/zWl9P16czkhQZapmA47u90Sc3SAWAW6pv4I30vY=",
       "url": "BestiaryData/bestiary/17358-tempest-hart.html"
     },
     {
-      "hash": "sha256-ZBu+ll30erjGIeYvepr94RTeWe/Fm+XkuXmMIlXqPrQ=",
+      "hash": "sha256-uK9QHYbSL7RpLTdwHokaUVpysmJ5/H5BklTx5BIbFnU=",
       "url": "BestiaryData/bestiary/17359-treefolk.html"
     },
     {
-      "hash": "sha256-LE0nIfANwydIXqrLldDqMuleX0CQI+daO4RFjwn+tlg=",
+      "hash": "sha256-GeXy2uu/R4Pz2jhHWqrMGpaTRaXf/pBzYPBLTHLTX1Q=",
       "url": "BestiaryData/bestiary/17360-witchkite.html"
     },
     {
-      "hash": "sha256-JKXW4gqziSFmLmno2v9UEcQYQkUfDZFZopW8MY7CkU4=",
+      "hash": "sha256-jbZzZYaPrfvtKzRzKrS+Bv12vKPx1FyifdwC46DEnW4=",
       "url": "BestiaryData/bestiary/17361-witchstalker.html"
     },
     {
@@ -2286,11 +2286,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/17363-giant-fog.html"
     },
     {
-      "hash": "sha256-RXLCTCVsL8eZjC1H5sL/7IfT9yJQDpgFVOSa4iMCgM8=",
+      "hash": "sha256-qZvPcRX3m2Rjjl2VwFSEWjMk8uz0Kx7bbSxfVE9LTe0=",
       "url": "BestiaryData/bestiary/17364-jermlaine.html"
     },
     {
-      "hash": "sha256-HJ6OxE8bonOsU6OqyzHHSllzzq4TYgMeSwOBpqqVKic=",
+      "hash": "sha256-qhUq/r4b+xNVW3Q1aiLGQRl9puiv9I4tFLveUGc1XuM=",
       "url": "BestiaryData/bestiary/17365-killmoulis.html"
     },
     {
@@ -2298,7 +2298,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/17366-mite.html"
     },
     {
-      "hash": "sha256-O+qv7p4V+n9YRknRXKzTDXgmK2CMUo+s64rlyCCmdoc=",
+      "hash": "sha256-6k2j5Lm8fb88QnyvZpit9NN59jQ31OVYc0epwRwNPps=",
       "url": "BestiaryData/bestiary/17367-needle-spawn.html"
     },
     {
@@ -2306,7 +2306,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/17368-enhanced-sphinx.html"
     },
     {
-      "hash": "sha256-b++/2XlV+qlUNJ+HP6YLnfZEw61L/PypyZSSnuAqcmI=",
+      "hash": "sha256-BrjYnxEdSxS8hZGwzq3IiE+lcSklIeln4jFL4jaTOuY=",
       "url": "BestiaryData/bestiary/17369-monastery-of-the-distressed-body-grand-master.html"
     },
     {
@@ -2322,11 +2322,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/17375-immured-one.html"
     },
     {
-      "hash": "sha256-jo2nsOEdTlCvjyuTzBtFhCkHMRrWe1Evv/q9dJSsU5s=",
+      "hash": "sha256-s3Kp94kA0GflJmlfWASYBiFyobMeaqC7ID/3Yx2Syk8=",
       "url": "BestiaryData/bestiary/17376-monastery-of-the-distressed-body-monk.html"
     },
     {
-      "hash": "sha256-oMWuWzzygnaRfibllKdU6QhTTxMXu32NkmUnXagzukw=",
+      "hash": "sha256-iOVAgOMGepLJntx2EXIDQ9GV1fgs7llL8Mj9zFg7w2Y=",
       "url": "BestiaryData/bestiary/17377-elder-monastery-of-the-distressed-body-monk.html"
     },
     {
@@ -2342,19 +2342,19 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/17380-brain-in-a-jar-noncore.html"
     },
     {
-      "hash": "sha256-y0kgvvEvXlQQZfjujFU8OyV8vwHe5GM5aQ6lFlw0sr0=",
+      "hash": "sha256-Mil72le1Psk1aVip2BYoUxmFSFfcPi0jafH7Vhcqsfk=",
       "url": "BestiaryData/bestiary/17381-ctenmiir-the-vampire.html"
     },
     {
-      "hash": "sha256-ByvkrSpVAmrd75TF0XQWZtLZzGuYGHQ+wQ347pgsel8=",
+      "hash": "sha256-O1wkFXzcgWslrPEuuDJNCjvhMB8SLXIFV/ap4ToJ6Do=",
       "url": "BestiaryData/bestiary/17382-garret-levistusson.html"
     },
     {
-      "hash": "sha256-aZghTw/+mMZKCR+5IIJhIvcguxgVkEQ7155rP8J9STc=",
+      "hash": "sha256-aTf0coFKZTE8OF4eTWLmjmFUAl3D1OBWgB0dhrrueQE=",
       "url": "BestiaryData/bestiary/17384-mary-greymalkin.html"
     },
     {
-      "hash": "sha256-v3LUf/JiuYdzDZ52B3AJ+dQamtv0lBXevTLdeLll3M0=",
+      "hash": "sha256-D2qDMiUyF0OiqSQx/w1UVDFxRByRu2SlPbXSmGtuIY4=",
       "url": "BestiaryData/bestiary/17385-gearbox.html"
     },
     {
@@ -2370,11 +2370,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/174-githyanki-warrior.html"
     },
     {
-      "hash": "sha256-onG7lYGpgLkWvRiPOWtJUQDIHQIgzS0r2jE0BnXkneI=",
+      "hash": "sha256-VcJPP2XluMhDBgUq2l2M97dHUXKyAtE+aLNszDTS1KY=",
       "url": "BestiaryData/bestiary/17410-duergar-spy.html"
     },
     {
-      "hash": "sha256-hJs55dO2vFTtGf8Nk7xr3qdZ/MXZNsIMlScHvDX7/6o=",
+      "hash": "sha256-XTDd5OApJMTFU9P8/2a53A9aUGUEVnqXOlv8Rz9KPk8=",
       "url": "BestiaryData/bestiary/17411-giant-crayfish.html"
     },
     {
@@ -2382,23 +2382,23 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/17412-giant-lightning-eel.html"
     },
     {
-      "hash": "sha256-GAfVCmQeXwDs8+KYC2j4e3JAcZLtSdiIp88aNF5YBLM=",
+      "hash": "sha256-BPXVFSFvSX9oOGHYCzifp+V58gFfLomC5xc7PeWUyAw=",
       "url": "BestiaryData/bestiary/17413-kalka-kylla.html"
     },
     {
-      "hash": "sha256-TMF2kBvprZuPEyU3w8np+WuYdKlhLwAje6RVFj30HsI=",
+      "hash": "sha256-tKlDcei9tpJSNNgegqaN49eTzCFksG3r1jNU6Afj7eA=",
       "url": "BestiaryData/bestiary/17414-kelpie.html"
     },
     {
-      "hash": "sha256-m7FNIEiJPisPi99VX6EES82PZ8QbwCdH7L/u+olVsU8=",
+      "hash": "sha256-zHtLerhvbRqbfOeqontLqjECRPaI+NoXKp4/0pJ3NcA=",
       "url": "BestiaryData/bestiary/17415-thorn-slinger.html"
     },
     {
-      "hash": "sha256-xfgzIa3mgrv/8AFx9hxBhrXFPB0VVT6VkCcGJNvS2vc=",
+      "hash": "sha256-Sg0JfVlcg18MgQgz96gouGT1aSlu4m/gFP1dg9O8ULs=",
       "url": "BestiaryData/bestiary/17416-nereid.html"
     },
     {
-      "hash": "sha256-Pbe+mWBE3BVpARJ9rVgzzHhDvdPMnxIyBQGxI4DlIA8=",
+      "hash": "sha256-fsjhEMt4tkIfp1RGGEN73p6CfSRc5x+YYc3GepkiKkw=",
       "url": "BestiaryData/bestiary/17417-siren.html"
     },
     {
@@ -2406,19 +2406,19 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/17419-giant-skeleton.html"
     },
     {
-      "hash": "sha256-x0ae4Tl800kWpH16pYpNrWi9n6JFR0Lv6ALTSX78q8Q=",
+      "hash": "sha256-yqqq+TudOYrVTYHLG/WR9xB4gTNI9lj432cP9H2oMuk=",
       "url": "BestiaryData/bestiary/17420-tecuziztecatl.html"
     },
     {
-      "hash": "sha256-nfAkBcZh5W3+fgs5tR5L4GQeLyfI7sy8NqXmIq5bmuo=",
+      "hash": "sha256-W2ZwJLDNqeq2bXsw24a88PNg2LHmnhM+7O2bNwDQFe4=",
       "url": "BestiaryData/bestiary/17422-giant-ice-toad.html"
     },
     {
-      "hash": "sha256-eQebRZUUEe6lMswLQoFr2FNWBawup1zelKTzeN3y03s=",
+      "hash": "sha256-g1FhVb0Eaxo39VNZF7W2SDH/U2GdNYKdujHekv3gVFk=",
       "url": "BestiaryData/bestiary/17439-malformed-kraken.html"
     },
     {
-      "hash": "sha256-tdWKfSh5wo22cw95rpmTv8j2qr9YLGDAgN7XJ3T0G20=",
+      "hash": "sha256-AUcxAv56sJgbcmUboLBKL3JExECgReQqNIB6W9HTOrQ=",
       "url": "BestiaryData/bestiary/17440-ooze-master.html"
     },
     {
@@ -2458,7 +2458,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/180-gnoll-fang-of-yeenoghu.html"
     },
     {
-      "hash": "sha256-V+Dq5J5VSjzn5tykPxdDA78tZq0MA36vPnQholOooP4=",
+      "hash": "sha256-0nL7TZJXSQp5/vmlUXra4RGIhv+445Z2pxfSvTCXbnc=",
       "url": "BestiaryData/bestiary/181-gnome-deep-svirfneblin.html"
     },
     {
@@ -2466,11 +2466,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/182-goblin-boss.html"
     },
     {
-      "hash": "sha256-TeTzc6y2+8GYhWvh6AiWjYsvoCu/Vz8we7wYK7j8Ajo=",
+      "hash": "sha256-OlD70OcFpugU1vAw5UcFxMvMnvHAKkImR04PpWRTNds=",
       "url": "BestiaryData/bestiary/183-clay-golem.html"
     },
     {
-      "hash": "sha256-H3eDUzo8eWXjfsHRPBXSm30EZ8DJK+Dbgctinfo/zBI=",
+      "hash": "sha256-Z1ZPy6jcTDsC+eMbwsDAW9A1M1c72SPncPmQ33NPHp4=",
       "url": "BestiaryData/bestiary/184-flesh-golem.html"
     },
     {
@@ -2514,15 +2514,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/191-grimlock.html"
     },
     {
-      "hash": "sha256-zchTwVCxV102eu4h4T4B605bt1Y+tQyvThtPhplo880=",
+      "hash": "sha256-qsrpSv7Sb8TElFqd/Kh7945zAYPhhU3ktVI4NAF2k0g=",
       "url": "BestiaryData/bestiary/192-green-hag.html"
     },
     {
-      "hash": "sha256-Zj+cyEusMKmSK6FW/hDqUg9QZa2Z5p6yPA4RclcHrvU=",
+      "hash": "sha256-UhpmBquYD7+QwtlE74fJsbFd0UvC3zXQ7KW+XvDLMa0=",
       "url": "BestiaryData/bestiary/193-night-hag.html"
     },
     {
-      "hash": "sha256-n074KBv4BS7+SN7j9uNE8ZvgH1TMECG8fR6xRvUZbNE=",
+      "hash": "sha256-+UUmZPNDOq8ScANyv7wUhlYtrzh8hjJEJMunMAUS/v4=",
       "url": "BestiaryData/bestiary/194-sea-hag.html"
     },
     {
@@ -2530,11 +2530,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/195-half-dragon-template.html"
     },
     {
-      "hash": "sha256-ENjSKXfbBMu+MfZk6vukEjV+OuvR2GExVBvpqkonYOA=",
+      "hash": "sha256-3y3j9MJqeJJUfAXteBtJnXzvfd9WEXtm2hRkCHCfvvI=",
       "url": "BestiaryData/bestiary/196-harpy.html"
     },
     {
-      "hash": "sha256-a9QUge6dCxEBidT3rGlsz3vpZxpe7TZBpF5jIkwkR4M=",
+      "hash": "sha256-DvNz1wAod3s02WcST7FUgGpEEurQHh3NUfCyUmaGX2s=",
       "url": "BestiaryData/bestiary/197-hell-hound.html"
     },
     {
@@ -2550,7 +2550,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/2-wolf.html"
     },
     {
-      "hash": "sha256-2GTndkXxUJT0gD5EImq2LhmJz6k8HTQIA2Drb5iSvcU=",
+      "hash": "sha256-hruW/gSwuaAzfJEgkeUhmEdgg0WlI9WSBng7yw7nLFA=",
       "url": "BestiaryData/bestiary/20-orc.html"
     },
     {
@@ -2566,7 +2566,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/2017-hound-of-ill-omen.html"
     },
     {
-      "hash": "sha256-jSOVcJHe2S/5rjiAENwKPiuGnGRfVF/GIhEw0sPH6TI=",
+      "hash": "sha256-IPWnhcWh0wx3RguKv4IdlDKb0MA86R2bPInd6jmzjYc=",
       "url": "BestiaryData/bestiary/202-homunculus.html"
     },
     {
@@ -2574,7 +2574,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/203-hook-horror.html"
     },
     {
-      "hash": "sha256-5BbZylWe0euX562+WSQW5Sp5OCKhJSkmhcwHDLgEoq8=",
+      "hash": "sha256-/BWa2+mK0Nwobl5PdfkCZ6tU3U4wU6d3nTyPcRiGC1g=",
       "url": "BestiaryData/bestiary/204-hydra.html"
     },
     {
@@ -2594,7 +2594,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/20482-reflection-guardian.html"
     },
     {
-      "hash": "sha256-WQ/uNtGhud4gP3RYEtlEcvufzrJ38UuaLVUOs/jcjo0=",
+      "hash": "sha256-4AxlZ+Q8oqNcHXmRKQ++zjs2TeEA0Ac2Y9r6Adx4wiE=",
       "url": "BestiaryData/bestiary/205-intellect-devourer.html"
     },
     {
@@ -2606,7 +2606,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/207-jackalwere.html"
     },
     {
-      "hash": "sha256-TABy3JeVTtL0GH1nGkK+uo7KkAkXgUllz8vqgv9/DF0=",
+      "hash": "sha256-tEfcwzzfrupizGLITdUkpHtFjxHF2VjJ8RGA0t/nUvs=",
       "url": "BestiaryData/bestiary/208-kenku.html"
     },
     {
@@ -2678,7 +2678,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/223-weretiger.html"
     },
     {
-      "hash": "sha256-CCtVSjcUM42XkFCD7j5mNworWJaaHPkQI0U5M8qApN4=",
+      "hash": "sha256-QOcPn0wtpTMj6gVFL2P0HsK75SyIQu0Hbw+xDXXCEWU=",
       "url": "BestiaryData/bestiary/224-werewolf.html"
     },
     {
@@ -2694,11 +2694,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/227-medusa.html"
     },
     {
-      "hash": "sha256-muT8cJrYPTAHgyszToJ+0RcMpDHUAwF8Y8b+vKlZfZ8=",
+      "hash": "sha256-7GGih+4YBGhzY2MgtsCAHi0lKKxA20aNr3x/Qvr8kz0=",
       "url": "BestiaryData/bestiary/228-dust-mephit.html"
     },
     {
-      "hash": "sha256-9kd4WMitHAsyOH+5zGHnjH4ejvbCPfmBLOt4yW2F0KM=",
+      "hash": "sha256-PRuq1Toh3Evo680DYw0Zx/rGEq7v0sP66ERwdAhBpiI=",
       "url": "BestiaryData/bestiary/229-ice-mephit.html"
     },
     {
@@ -2706,19 +2706,19 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/23-sildar-hallwinter.html"
     },
     {
-      "hash": "sha256-LYI3ZAoX4LqsakwwAL9fJ0mB0qHNNY/sEjtfnNZwm8k=",
+      "hash": "sha256-l+zhn8pW7S6FiuZgzHC3tUHutK/EmqtiaD4FgmgZhx0=",
       "url": "BestiaryData/bestiary/230-magma-mephit.html"
     },
     {
-      "hash": "sha256-0ke54G8fV23iyDYt/JXZE8oHFQaSFE7xqApwZYygftE=",
+      "hash": "sha256-6GeutWVOF8FjKztqSmDUT1gtuVHfHV+Fk6UOpVgvLXM=",
       "url": "BestiaryData/bestiary/231-mud-mephit.html"
     },
     {
-      "hash": "sha256-Vq71RuEoVuUiK4LcQggToxZBORO8/wNPLaOxPGyKU0c=",
+      "hash": "sha256-HwwulxkFHq8j+XZxcGlGZtDEnHrj90xTH67bWm4aZ+0=",
       "url": "BestiaryData/bestiary/232-smoke-mephit.html"
     },
     {
-      "hash": "sha256-KU9YnEzBJz7lrQV/aRCDuZZhmmA8Ody1dtU9hriGQCo=",
+      "hash": "sha256-ZJlN0eG2baOHS/TkB30EL2tny7iAHPA+4LiAbve5hlQ=",
       "url": "BestiaryData/bestiary/233-steam-mephit.html"
     },
     {
@@ -2734,7 +2734,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/236-mimic.html"
     },
     {
-      "hash": "sha256-L5aloJUUQKHbdGFtZxMWQBYd8o0OJTHtdaZb1oW6iyI=",
+      "hash": "sha256-ITI1irRjDZvWogAGowzpf/MATWVfuwB+R/BP4VoLN2o=",
       "url": "BestiaryData/bestiary/237-mind-flayer.html"
     },
     {
@@ -2758,11 +2758,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/241-quadrone.html"
     },
     {
-      "hash": "sha256-lkvt0IpMLNnJmSWU1EQYlfbdwKh0FWxTpgY1SWzq84E=",
+      "hash": "sha256-0tDRGm3pUswr5AaN65iXWRHYfp5CxHtH4Jw5NDiYgt8=",
       "url": "BestiaryData/bestiary/242-pentadrone.html"
     },
     {
-      "hash": "sha256-DLWU1qanYpgmsXTjzBhUNydDPJiEOoosJdjI58QiMTI=",
+      "hash": "sha256-0YjYCS1O4RRLRPV0HkOF/5tPiTFZfuo3Rvm064U+g80=",
       "url": "BestiaryData/bestiary/243-mummy.html"
     },
     {
@@ -2790,7 +2790,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/249-bone-naga.html"
     },
     {
-      "hash": "sha256-GjDhKzZFF/P3UyJWj2ewwNlMQWMQ6RkM2n0MewhbP94=",
+      "hash": "sha256-6JGSj8tl0BY4HKPUQUtsLF4BbQsvi68w2aztSmXRtA4=",
       "url": "BestiaryData/bestiary/25-owlbear.html"
     },
     {
@@ -2822,7 +2822,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/256-gelatinous-cube.html"
     },
     {
-      "hash": "sha256-MACfRPd1bSVwnH4FNQX5x9l6xFT5Udm8VCE8WhcWc0U=",
+      "hash": "sha256-y5m9PIFj/2V495/ncH2hWV8274TPQ+0YFbVeqI6UUBQ=",
       "url": "BestiaryData/bestiary/257-gray-ooze.html"
     },
     {
@@ -2838,7 +2838,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/260-orog.html"
     },
     {
-      "hash": "sha256-m58MrhV753hF2910TPvXHinukOg756yfBXxHem46Muk=",
+      "hash": "sha256-R/UEULYWpzLcvjhovun1IAB1qFa9GxZAPW8GzRZbfzA=",
       "url": "BestiaryData/bestiary/261-otyugh.html"
     },
     {
@@ -2846,7 +2846,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/262-pegasus.html"
     },
     {
-      "hash": "sha256-tPW+iW/O87ZFRYQGf1pGmKBcLVVO6NulwihT6zAyh54=",
+      "hash": "sha256-ycH2GIY/zwBm34XZMB3HHxIucCtu5tJRLzKV6S9VgeE=",
       "url": "BestiaryData/bestiary/263-peryton.html"
     },
     {
@@ -2874,7 +2874,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/2638-stone-juggernaut.html"
     },
     {
-      "hash": "sha256-grkEOdrcd5xrQWT7I52N1E/7HSWGJqp4wqT6axMyul8=",
+      "hash": "sha256-XZb8zAv4JNnwt3Jp2UwQE18JxMxAhyMlFgu2JYm01VE=",
       "url": "BestiaryData/bestiary/2639-mantrap.html"
     },
     {
@@ -2886,11 +2886,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/2640-flying-monkey.html"
     },
     {
-      "hash": "sha256-6Xn6/F0O0Puh3MDp+o3ER2BWIHDsMMcha7EKqOiAKKg=",
+      "hash": "sha256-VYdMYzh2qq9u4cqMZFAMTP5yT6ZQQsnUa+v9gW38Msg=",
       "url": "BestiaryData/bestiary/2641-assassin-vine.html"
     },
     {
-      "hash": "sha256-AMW3d1yl6Ytg7bduoGvl6dO5hD049pIcnlCv42N9HAk=",
+      "hash": "sha256-PZNvIcOR47GWuR2NQ2WPe/eozwchl3Ny2PqutS7MvmE=",
       "url": "BestiaryData/bestiary/2642-chwinga.html"
     },
     {
@@ -2898,7 +2898,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/265-pixie.html"
     },
     {
-      "hash": "sha256-NZMuCQSnV770fSJNFwmWCfiADAX2Em4Dp4NOAa/pyyk=",
+      "hash": "sha256-2AofqngXoSN+MSuDNY3xuGjdOhZV67DX/IaHP55ljx4=",
       "url": "BestiaryData/bestiary/266-pseudodragon.html"
     },
     {
@@ -2906,11 +2906,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/267-purple-worm.html"
     },
     {
-      "hash": "sha256-SSBZiQWwPmQuXC+YHRlPwsTq7BaFK/gmcyRmZK9J6Ws=",
+      "hash": "sha256-O2Iwzc+rFyqsLGj3drcL7AGxPHxcrQdpBtmKl4QmPr4=",
       "url": "BestiaryData/bestiary/268-quaggoth.html"
     },
     {
-      "hash": "sha256-iUtGHwsqkNaVp4094TnakAls0w7KAaumaJ6jMln7ySU=",
+      "hash": "sha256-v01C3QHxGr4G55lhju6t0W8DtEzWxn5qNhN/p0mSKfA=",
       "url": "BestiaryData/bestiary/269-rakshasa.html"
     },
     {
@@ -2926,7 +2926,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/271-remorhaz.html"
     },
     {
-      "hash": "sha256-ZkNrCiquvGpZDE1y+8fhRRV2bDimik+fULbFFb0U464=",
+      "hash": "sha256-UtffmnNSyDNWVtpI2qYGCSH5jKsw33uoQwdJZvQklRw=",
       "url": "BestiaryData/bestiary/272-knight-of-the-order.html"
     },
     {
@@ -2962,11 +2962,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/280-salamander.html"
     },
     {
-      "hash": "sha256-aOAZHF9aL9a6L01/+AhKTW5yf/smvpa8GQv+1LNotrU=",
+      "hash": "sha256-EihBNmETk7iL8U471Nku26oVifLDj8btFnDAV/4clo0=",
       "url": "BestiaryData/bestiary/281-satyr.html"
     },
     {
-      "hash": "sha256-ykB9nYhmE0v/6TpLyjmTD0BJT7C6amJ0HgpNDlj/xRs=",
+      "hash": "sha256-KsDv06WZhZcKpyVU3c5C1CUvsjcxgRa7rau3vbx0AKM=",
       "url": "BestiaryData/bestiary/282-scarecrow.html"
     },
     {
@@ -3014,11 +3014,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/293-death-slaad.html"
     },
     {
-      "hash": "sha256-u5EbmBgwGvQDYFM1tKtxg0vv7b7NvdTFaFpoZDOHooU=",
+      "hash": "sha256-touaSh3k6PdZFIB4vvwxfRqbYiYC7sDXF5UzIaqOGG4=",
       "url": "BestiaryData/bestiary/294-specter.html"
     },
     {
-      "hash": "sha256-hqC6BNiwOLU6LaT2fM4kxScsDa3b8QPOlvSOd3Zx5SE=",
+      "hash": "sha256-F+AoET1hHfWoOhIWHVQ5igyrSy641Kzgsef77/IMjwo=",
       "url": "BestiaryData/bestiary/29489-stahlmaster.html"
     },
     {
@@ -3026,7 +3026,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/29491-huron-stahlmast.html"
     },
     {
-      "hash": "sha256-3QWaRfD2ORz8dhrpIfaV8qsy1Xr31ibvkLShb3TbFWE=",
+      "hash": "sha256-UJMTv9m9oX65oXFk+K3QtVJtXc3G9OfxwNomDLPLa2U=",
       "url": "BestiaryData/bestiary/295-androsphinx.html"
     },
     {
@@ -3042,7 +3042,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/298-sprite.html"
     },
     {
-      "hash": "sha256-NVromHdNzdR1edYSJev3iXCZQfiloeqTYPpD25cs8nU=",
+      "hash": "sha256-WyqmlHeHQuPgbJlxjDtGwmVxufNWyj6Z/OhOkfY1YTU=",
       "url": "BestiaryData/bestiary/299-succubus-incubus.html"
     },
     {
@@ -3050,15 +3050,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/3-giant-spider.html"
     },
     {
-      "hash": "sha256-P1WEIcuJGvNdD0/NnD4cwjhj84kQ4JaAeA5oF+wBegY=",
+      "hash": "sha256-WumnSVyr5McOrNEmUdTefc24w7V3zgRtgKK2qLvyu/U=",
       "url": "BestiaryData/bestiary/30-aarakocra.html"
     },
     {
-      "hash": "sha256-AG8AtfrNELK061EkM4puDx4EcdQmQcx1R7LME0lLP84=",
+      "hash": "sha256-o1Hv4y+CokDPKsw8xwMBNIi6ZgwG2OztwjcwNFgnJsw=",
       "url": "BestiaryData/bestiary/300-tarrasque.html"
     },
     {
-      "hash": "sha256-JoRKLO6aD5xh8f/2oAt0iWjoPrHKmX4/Z0cpcIA/vDQ=",
+      "hash": "sha256-UHx2XzHErInVqC9PjlvHKuyfoiWHjbaBoWHUAPDqog0=",
       "url": "BestiaryData/bestiary/301-thri-kreen.html"
     },
     {
@@ -3070,7 +3070,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/303-troglodyte.html"
     },
     {
-      "hash": "sha256-n/R4w38inYEyiwHtvMXi5PvxQLRFBa9h0AJjU+hCudQ=",
+      "hash": "sha256-pUWstzmW/B2e3M+VRIwj1vlqGyY8ZIw727bMV8TBHFE=",
       "url": "BestiaryData/bestiary/304-troll.html"
     },
     {
@@ -3082,11 +3082,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/306-unicorn.html"
     },
     {
-      "hash": "sha256-jbzFc/LJmODXHHfGk7EQhx/itpOaMGe+dhbOsAqFiek=",
+      "hash": "sha256-LLC8Z60/o3B7MBnvU69iBeLNhfcClXN45bY11qw2JDo=",
       "url": "BestiaryData/bestiary/307-vampire.html"
     },
     {
-      "hash": "sha256-HQwRs9Ipjg3mvkkeP48OET1DCxZLINDrWPIvmN1/9GM=",
+      "hash": "sha256-TMcqmfLVqSqTzRaA5DgA9k+wPs5/KXC0DSgc+LPACls=",
       "url": "BestiaryData/bestiary/308-vampire-spawn.html"
     },
     {
@@ -3094,7 +3094,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/309-water-weird.html"
     },
     {
-      "hash": "sha256-x+G/H+G38vFSr8n9l81nSAsFvli32qZtyj2iQSeiCBI=",
+      "hash": "sha256-dmZxmyJpI5WJ7yjqKXaWl4kyfzp2JvRu3lKJJQeDXXw=",
       "url": "BestiaryData/bestiary/31-aboleth.html"
     },
     {
@@ -3102,11 +3102,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/310-wight.html"
     },
     {
-      "hash": "sha256-lEKzEYiQAzY/i/9rl39j9PTIghRK6JJrBQH+WwENr4c=",
+      "hash": "sha256-2DTRLcrPOAsbo/EeY5Ei3F5Du6QbzhPROLEc9uZ5c+I=",
       "url": "BestiaryData/bestiary/3105-aberrant-spirit.html"
     },
     {
-      "hash": "sha256-plluP1xHoMeeaM0OwNtX2e2xZmoM9IVaATP7ZdGv4+0=",
+      "hash": "sha256-ktWmF1yRG+X9WuZ6ScjqmMkW6NcHuZa7a0IK5m2nWE0=",
       "url": "BestiaryData/bestiary/311-will-o-wisp.html"
     },
     {
@@ -3138,7 +3138,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/3143-elemental-spirit.html"
     },
     {
-      "hash": "sha256-ZxnImij5/6LSQdH8PtdVGbZo0hz1eRdNblCgMxie2GQ=",
+      "hash": "sha256-9nxVkGdTXNZREgHmpqOGBSdfgz1mTQpE5ocum4JXRnQ=",
       "url": "BestiaryData/bestiary/3144-fey-spirit.html"
     },
     {
@@ -3146,11 +3146,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/3145-fiendish-spirit.html"
     },
     {
-      "hash": "sha256-WU20hRX/53zxF2SH7nHvsH9zsIbtFPPWyoaoodbWZQw=",
+      "hash": "sha256-IwzVRB/HtkOdPjsrOekfm4esnmWJkqvC1gi922gPtR4=",
       "url": "BestiaryData/bestiary/3146-shadow-spirit.html"
     },
     {
-      "hash": "sha256-yLdWXD5zlR134IWBJAv8M9URYv2HeaJfuXwamk2UQ9U=",
+      "hash": "sha256-eF/jA8FLfSYF1vIWWJCUxcU2LMSuzwU9R3BtEaXdYH0=",
       "url": "BestiaryData/bestiary/3147-undead-spirit.html"
     },
     {
@@ -3162,15 +3162,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/316-abominable-yeti.html"
     },
     {
-      "hash": "sha256-XIhsNNL7wpMCFtRT7ZD4j7gdiAabSAAaShKNo3btQ4o=",
+      "hash": "sha256-ZMpG6AVBhXChez81gZq9xwK7cApfaGrTK630S9o7GTM=",
       "url": "BestiaryData/bestiary/317-yuan-ti-abomination.html"
     },
     {
-      "hash": "sha256-XRFeXVRyIGs9AX/4Za2X4yYnpG1IAldt17tGGHluFdM=",
+      "hash": "sha256-EhMzWVYNZfOJa+rdn22+gaVkTpWkbivrEF4N+L5ombw=",
       "url": "BestiaryData/bestiary/318-yuan-ti-malison.html"
     },
     {
-      "hash": "sha256-mj8f7QoP5i1bEdtifYP/TN+PGiGus2njV6daZ+pbHCc=",
+      "hash": "sha256-YHhZzn+jUzRpMByc4J/44hz1KCR19HNx2VLrRoB8Y88=",
       "url": "BestiaryData/bestiary/319-yuan-ti-pureblood.html"
     },
     {
@@ -3178,23 +3178,23 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/32-deva.html"
     },
     {
-      "hash": "sha256-dUcSoqLwnaqfHRNwBvgHvk1BPATVsbuNlJrmq1B91ZQ=",
+      "hash": "sha256-ps7KDCGKZpFuWwjmFFJSjoUWSVy4Xuj8ZsB+Q2+c6S8=",
       "url": "BestiaryData/bestiary/320-arcanaloth.html"
     },
     {
-      "hash": "sha256-GFd9wjaQZXOY8llqtMKM4sQ1qOVm1noAQB6xMme+UWc=",
+      "hash": "sha256-KVKIyt10aHqBBgKYnVhInl5hUMklE6QHCuf/OrWp70I=",
       "url": "BestiaryData/bestiary/321-mezzoloth.html"
     },
     {
-      "hash": "sha256-5gude5FzQ4u4x2YLOjOy0oPHqJWrImUZf3tBryoHcEM=",
+      "hash": "sha256-w2J/kj6BGf+xSR+gn8nKzgmkoe4MbU4V2MP/8aBzp1E=",
       "url": "BestiaryData/bestiary/322-nycaloth.html"
     },
     {
-      "hash": "sha256-hvK2B+eHKqbtC3URNea78Y4w/Qzm/Q9bddkz0fSPHSU=",
+      "hash": "sha256-YbI9ZNUCnlMTWYzQezcGc6TLrCIzwITFJ8s+ma8Th3c=",
       "url": "BestiaryData/bestiary/323-ultroloth.html"
     },
     {
-      "hash": "sha256-Xi17p5QpgD3CyZu6WWLEF9B2kvQ0iljBBNHePChfKiQ=",
+      "hash": "sha256-gS/93jCoWADsldMsgnBZQv9yb6Kkvf5qIn3JpikKF7k=",
       "url": "BestiaryData/bestiary/3234-husk-zombie.html"
     },
     {
@@ -3202,7 +3202,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/324-ogre-zombie.html"
     },
     {
-      "hash": "sha256-lbY3xb1epobpJ8Nd7reiBr9SoCfaNjjjaWd2aX/qkgw=",
+      "hash": "sha256-CUnXbvQQz1MFN+XfWUL7HHDDgeJyOLyc+Q4SUlpUx3c=",
       "url": "BestiaryData/bestiary/325-beholder-zombie.html"
     },
     {
@@ -3214,11 +3214,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/327-badger.html"
     },
     {
-      "hash": "sha256-yUmL/4mZDKVi1U87w2HwO9nxBx20sQPmbGsv1dhuYPE=",
+      "hash": "sha256-vKb+o+SmBzz5RK/pSf78+QUB7TWk2aBv0MjpUdwHV4w=",
       "url": "BestiaryData/bestiary/328-polar-bear.html"
     },
     {
-      "hash": "sha256-YG9R0dqvzDHgs+9dnTBXw0sN3RIbVVRO5IR+v2mWGPQ=",
+      "hash": "sha256-4XVgX680Lk18IU2hYRDVe2ShjS5MRcEPQG9wCkL9z8M=",
       "url": "BestiaryData/bestiary/329-warhorse.html"
     },
     {
@@ -3294,11 +3294,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/335-giant-hyena.html"
     },
     {
-      "hash": "sha256-f5dFYL4oe+PcN5b3HTx49IVxompO62jhhRBh4xjDy6A=",
+      "hash": "sha256-VfIFh0TsgZrHnXLREHQpzGVmNTcLCM/+Q7OB4OIOwSM=",
       "url": "BestiaryData/bestiary/336-giant-rat.html"
     },
     {
-      "hash": "sha256-vXmofL6/+CHfWcpSPhsOiInIv2u8VocUav7DfMC2SDc=",
+      "hash": "sha256-uJQolIpQSAi5nE4FdfzrNMWdXYbedypZ8wlZxoPFd9I=",
       "url": "BestiaryData/bestiary/337-giant-toad.html"
     },
     {
@@ -3338,7 +3338,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/345-giant-poisonous-snake.html"
     },
     {
-      "hash": "sha256-4AsMDsa0WUkX2NYLEEequ2NrEWv0QR57d4Dg0+6AWTM=",
+      "hash": "sha256-KVj07oK1Y5haz8J4dCkcKSMK8JPLRPTBfZksX8FNt64=",
       "url": "BestiaryData/bestiary/346-giant-lizard.html"
     },
     {
@@ -3402,7 +3402,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/36-flying-sword.html"
     },
     {
-      "hash": "sha256-WZ8g2T90+DQLlMcGSBDP1kkJnUcRURF3V5M4WKfpbso=",
+      "hash": "sha256-f8c4kJxo1K9LETr3GkK0OA4oDv7EgRDvo3rm+6UHxak=",
       "url": "BestiaryData/bestiary/360-giant-constrictor-snake.html"
     },
     {
@@ -3430,7 +3430,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/3616-cackler.html"
     },
     {
-      "hash": "sha256-mIhQgw8g/7j4ZhrlXtHQfL16vjTU8ZatoK2oolwfdR8=",
+      "hash": "sha256-7HH2Uq27pj+n/80WMEWo/x4iKjelnBJ45Muc3LQ23fQ=",
       "url": "BestiaryData/bestiary/3617-category-1-krasis.html"
     },
     {
@@ -3506,7 +3506,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/3658-aerisi-kalinoth.html"
     },
     {
-      "hash": "sha256-oNhlbFCL8NQXe/gT2jtp52dS9Fso+6q+BuMe55j2iRE=",
+      "hash": "sha256-1PqhI3H2t9AzVBWnXSWVZRlWQNKKrIbPliAOfbf5vWg=",
       "url": "BestiaryData/bestiary/3659-yan-c-bin.html"
     },
     {
@@ -3586,7 +3586,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/378-elk.html"
     },
     {
-      "hash": "sha256-Tf9P+2fTP5W8k6C0xMT/G61PpyJn03IWo+YUuX9URbI=",
+      "hash": "sha256-mEy3W9fJ/6WWQebEPWncN+jUcdZYW6GokaHv/GhSjMM=",
       "url": "BestiaryData/bestiary/38-ankheg.html"
     },
     {
@@ -3670,7 +3670,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/398-reef-shark.html"
     },
     {
-      "hash": "sha256-ANWdJdki5lZKtLB9l/BDzoMGSBn/ffhd4hLE1EJhSaQ=",
+      "hash": "sha256-X/ZCZSNxn8IM/QwpWXEvwMmb0rRxvV5Pzo8Tgo6R/xc=",
       "url": "BestiaryData/bestiary/3987-homunculus-servant.html"
     },
     {
@@ -3690,7 +3690,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/4-goblin.html"
     },
     {
-      "hash": "sha256-0aDwsU/MbhwIAWmNl2+/rel1T1pvPJGzm9xFutBAutU=",
+      "hash": "sha256-DTNdXI2wDux4IZqneC5B9+QI6q8RJD3lHJ9kLUqPPGE=",
       "url": "BestiaryData/bestiary/40-banshee.html"
     },
     {
@@ -3734,7 +3734,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/409-tiger.html"
     },
     {
-      "hash": "sha256-2hza4td89DcPaG85d/M79GO2SiPm5hXaER903R0enXY=",
+      "hash": "sha256-8kS+EVuQeF418ip7rSBOrZaBoWB47RW77hPS0PH56KA=",
       "url": "BestiaryData/bestiary/41-basilisk.html"
     },
     {
@@ -3742,7 +3742,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/410-axe-beak.html"
     },
     {
-      "hash": "sha256-ASz2MDbBGaEEmG79cyydO7LTed3qAoZauPlFN97UuzI=",
+      "hash": "sha256-cLmTHvGEfDA+X+Xnv+XVSFrBiSsxBzMTTnNSb8c3Tk0=",
       "url": "BestiaryData/bestiary/411-constrictor-snake.html"
     },
     {
@@ -3778,7 +3778,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/419-archmage.html"
     },
     {
-      "hash": "sha256-w80xkt8CWLqeaxB2mrKyMBn4dM1wPJWyjkG6jMUhLHA=",
+      "hash": "sha256-0qZAFXIK/HLoafyCAOTFxwsgOgi8fterXQj6BDGGwjI=",
       "url": "BestiaryData/bestiary/42-behir.html"
     },
     {
@@ -3806,7 +3806,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/424-thug.html"
     },
     {
-      "hash": "sha256-N8C5rr/350LMMSQqTFUfkYxIg83SsXK4kGfu+KdG4UM=",
+      "hash": "sha256-F6eNJP5ZNyBCnq5qIgAXgr3jw/blJuKb4RDHtZx15Do=",
       "url": "BestiaryData/bestiary/425-noble.html"
     },
     {
@@ -3818,7 +3818,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/4257-arkhan-the-cruel.html"
     },
     {
-      "hash": "sha256-e1p8vEZ+/Kk0Y9PkUEpvnJaCln9KjjwLKCyh48wZRs4=",
+      "hash": "sha256-iorg0Spq135v/4hf8RgIA4VO1GnECM5XLF9FSRnqhIE=",
       "url": "BestiaryData/bestiary/43-beholder.html"
     },
     {
@@ -3830,7 +3830,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/4311-beast-of-the-land.html"
     },
     {
-      "hash": "sha256-NBe9ZjBfv7CxIpSOq+jRMPXLqLqipohuTi21E50/zr4=",
+      "hash": "sha256-dChfUNM03O1RaAOLYlWGloSxZOR59a6IRlSGG++loeQ=",
       "url": "BestiaryData/bestiary/4312-beast-of-the-sea.html"
     },
     {
@@ -3838,19 +3838,19 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/4313-beast-of-the-sky.html"
     },
     {
-      "hash": "sha256-jERyThzerYy5n9f3bm/BUSO2BaFlvJZWGv81mJBXefA=",
+      "hash": "sha256-9laoD30E0W3qoF0DsHXrUKazo4rpHpKV9BWZgVylzH4=",
       "url": "BestiaryData/bestiary/4315-juvenile-mimic.html"
     },
     {
-      "hash": "sha256-tlcMFpBnG2QeNjgQJmc4t881Y79cghALa7pUSmvVk28=",
+      "hash": "sha256-xRe8A0qnztqRUJq5MCvu7XAUkMwnhWEyROu7+3SFN5I=",
       "url": "BestiaryData/bestiary/433-bandit-captain.html"
     },
     {
-      "hash": "sha256-Y1wFJMNKjxz3SShB1SsZD8fpqvjOq+y8E4k5O09ZMv0=",
+      "hash": "sha256-lTo4yrs7SGPA0AflRzlM9bhpFi2IvBiKwF5clFhtcPk=",
       "url": "BestiaryData/bestiary/434-mage.html"
     },
     {
-      "hash": "sha256-uJGjvZPIgsbTDtCkSkEfpWv8ltFHgMISNnrWTC5xyV0=",
+      "hash": "sha256-ssrZr6bGRkNl3WUM2oNcCzewTJM+mNykMKWBgNioxo8=",
       "url": "BestiaryData/bestiary/435-minotaur.html"
     },
     {
@@ -3858,7 +3858,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/436-assassin.html"
     },
     {
-      "hash": "sha256-WvBqSjAHj5hTtDjFW7jxzEdetWk7ORPajnqYTg7F+Lw=",
+      "hash": "sha256-FdMQxC0JbFzV77gBEfwYXLPublCPPU7g4GIB0yR6v6c=",
       "url": "BestiaryData/bestiary/437-bandit.html"
     },
     {
@@ -3930,7 +3930,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/4604-drow-spy.html"
     },
     {
-      "hash": "sha256-+qeDLymRy2QsTDCeHyxwvqxImIgvmWxb9sbs6CoaeYk=",
+      "hash": "sha256-MBzPXn/VYUlFEIrVf6ZE8v3sTLMLRBaurV+I6XmsfLQ=",
       "url": "BestiaryData/bestiary/4606-drow-noble.html"
     },
     {
@@ -3942,31 +3942,31 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/4660-barovian-witch.html"
     },
     {
-      "hash": "sha256-P1Ai6syDVjzr+CZSyNqrIKgqPTdQGcQT6+IR8zYl3j8=",
+      "hash": "sha256-I+ADuzpacHFgEX/sMr44a6vrCoMazcll+e4FGfzjaCo=",
       "url": "BestiaryData/bestiary/4661-vladimir-horngaard.html"
     },
     {
-      "hash": "sha256-MgUROdsFKEpu9FLImCiLhOm1RBJg3yMIS1SbbHG0fZo=",
+      "hash": "sha256-zSDjovr6iFqihz0N0jGwOqBvA1X730aD38cGMhpSE0w=",
       "url": "BestiaryData/bestiary/4663-kasimir-velikov.html"
     },
     {
-      "hash": "sha256-GUKSM1J4+Pax13/15UXhTpAzAdO8+9D9/66g4BhJtDM=",
+      "hash": "sha256-yo1lnzjF77WsIDOzk39VYn+XdW289EHLANAHd186qBw=",
       "url": "BestiaryData/bestiary/4667-rictavio.html"
     },
     {
-      "hash": "sha256-TJ6ElvnALwqbG+c8PryNfpechuEDGpSWB3NlZwei3P8=",
+      "hash": "sha256-xJ5WOsNj7+yeZSVLU5fQCiWIf297M0VwBlOFrQxmqhQ=",
       "url": "BestiaryData/bestiary/4668-rahadin.html"
     },
     {
-      "hash": "sha256-RMfxbcTkOlDjzrzWw/45toECRPWkI5tpMnkGIk0g778=",
+      "hash": "sha256-++X/TWGaPY1zK3DwSxXMDAhD7B0UcEZ285dgbkyiwaY=",
       "url": "BestiaryData/bestiary/4669-ezmerelda-davenir.html"
     },
     {
-      "hash": "sha256-e5ciD0O/1g1M1oCz6M3+XoTj5IQSEBe8eITJ9iy57Ko=",
+      "hash": "sha256-cu7BHjov6gHtjTHuofYmh7YIdWICNDhke0G8VXnVssM=",
       "url": "BestiaryData/bestiary/4671-the-abbot.html"
     },
     {
-      "hash": "sha256-hkAohPFbMoenSnbEynpjW4A2VpB2hbfyxPGPoqGYqt0=",
+      "hash": "sha256-5peOblpYg/K4xSmglpq1OkALBe8xITdn5xwFm4zKrJo=",
       "url": "BestiaryData/bestiary/4672-armored-saber-toothed-tiger.html"
     },
     {
@@ -3982,11 +3982,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/4676-amber-golem.html"
     },
     {
-      "hash": "sha256-oK607iTPWdRs8EIMGdDwz4DMbRgBuPEJDVOb9fIyh7k=",
+      "hash": "sha256-z3rjR47THWMChlntbO4eT2Kjy2tUybGYfemfPmdvQoE=",
       "url": "BestiaryData/bestiary/4677-animated-halberd.html"
     },
     {
-      "hash": "sha256-UFmltV5UTl/4eiiGe0W4eWExb5S3mHwkCprbX2K3N2Q=",
+      "hash": "sha256-CvR2toUm5TYjEZssm+G2l5LOmY9+ZsDASAvwfDmsUNc=",
       "url": "BestiaryData/bestiary/4678-anastrasya-karelova.html"
     },
     {
@@ -3994,7 +3994,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/4679-arabelle.html"
     },
     {
-      "hash": "sha256-6t7H4JpCQReUQ5fu34Ns9j4k2Uj6aNeu3wt396iSiFU=",
+      "hash": "sha256-q1Gbo58w7ehiMWpp0auTaXagnZd31pewTCe2VBww1XA=",
       "url": "BestiaryData/bestiary/4680-arrigal.html"
     },
     {
@@ -4006,7 +4006,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/4684-barovian-commoner.html"
     },
     {
-      "hash": "sha256-faDf/QRpK5nAkTgVgCDn9zTrhZRYBoZC8a41qWGYCPU=",
+      "hash": "sha256-qZTkF6jnxy4w75haQu84wCtOrQGpN4JrRbvLUiTJ2lo=",
       "url": "BestiaryData/bestiary/4685-barovian-scout.html"
     },
     {
@@ -4086,7 +4086,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/4719-kiril-stoyanovich.html"
     },
     {
-      "hash": "sha256-BBB7WhcK2NfFlLJQNXO4cb5gBE5W99AN5NzedSeVaw4=",
+      "hash": "sha256-q6gWp8NUOZ1xEfTCzAvv8fejBeG8Ho3fa6AMVGySp0c=",
       "url": "BestiaryData/bestiary/4720-revenant.html"
     },
     {
@@ -4106,7 +4106,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/4765-ludmilla-vilisevic.html"
     },
     {
-      "hash": "sha256-KRB9JuDW6ZBjYj7AJy1OS/kLBJhBEMjg9hDiMnNm5UU=",
+      "hash": "sha256-FEvyspiXfbyHXY6f38pO8L810ou7VZR6sDMBP5kegFc=",
       "url": "BestiaryData/bestiary/4766-luvash.html"
     },
     {
@@ -4150,7 +4150,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/4777-patrina-velikovna.html"
     },
     {
-      "hash": "sha256-2d9cEjxKSZJI3EypZkrqNgSwuLZ0VsSnpGf3W4mZotM=",
+      "hash": "sha256-+NE9iKRWmLHGQeXHLI1VTTu8GtLjcpr3cOWLHuQ48d4=",
       "url": "BestiaryData/bestiary/4778-rosavalda.html"
     },
     {
@@ -4170,7 +4170,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/4782-snow-maiden.html"
     },
     {
-      "hash": "sha256-9zFQK+cMzF/z48VpWaAMB8uK1J9ohrBi5PVgtaHABvE=",
+      "hash": "sha256-59oe86Vrgm/X2rbaoKCOnvPwN9RUo010NlalKb1Cu5I=",
       "url": "BestiaryData/bestiary/4795-stanimir.html"
     },
     {
@@ -4206,15 +4206,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/4802-victor-vallakovich.html"
     },
     {
-      "hash": "sha256-IGnTkGjblaTZ4FYKWTuPs/oTqeTSw9MZbAyGF7YhhQk=",
+      "hash": "sha256-Y6RAIa0VQNCKzrUAX8FgMOuMzWm+byAPzhgpS05XITM=",
       "url": "BestiaryData/bestiary/4803-vilnius.html"
     },
     {
-      "hash": "sha256-98knjjQSI0hGmgzEK8kALeLaEFEasGBto8dBE0hBwkc=",
+      "hash": "sha256-w3+GBL5NfporXUGuVIgCzGvU4z9oWxJLehRwlX1N4As=",
       "url": "BestiaryData/bestiary/4804-vistana-assassin.html"
     },
     {
-      "hash": "sha256-uFtEyeBdsohGMCunHZg/NDYCTvoSrIbbTFBXpqwjj1Q=",
+      "hash": "sha256-cChXEx/JHslsDdpVexf8tEHkq1fZ1r1RzSisSmClXkk=",
       "url": "BestiaryData/bestiary/4805-vistana-bandit.html"
     },
     {
@@ -4230,7 +4230,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/4808-vistana-guard.html"
     },
     {
-      "hash": "sha256-8WPKMm6ZQqWFQOhJt+JNLM53LrU5V0HS54sC8+MljVY=",
+      "hash": "sha256-iZjHgXgaP8TZPKpOUPT4FAdpUxEKgiuhGDxR2XpD8Sw=",
       "url": "BestiaryData/bestiary/4809-vistana-spy.html"
     },
     {
@@ -4254,11 +4254,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/4813-zygfrek-belview.html"
     },
     {
-      "hash": "sha256-/Rbcjs0oG9MPNDUcUEXJimySXid8SUKmZUPcovkQn5w=",
+      "hash": "sha256-pY7eghJfvXa9bux5ZCZt/MsONPEdHT1qzrV2btFIWzc=",
       "url": "BestiaryData/bestiary/4818-belashyrra.html"
     },
     {
-      "hash": "sha256-5CMdmK/Zyre5a2XBUCXAMcGceJ7PBuPAxBe3BQwvo9M=",
+      "hash": "sha256-P1xSO9YNvjzSFNF/N2WKVaLWcgpSK/6Ht5krmolJEoU=",
       "url": "BestiaryData/bestiary/482-dragonclaw.html"
     },
     {
@@ -4342,7 +4342,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/4917-miraj-vizann.html"
     },
     {
-      "hash": "sha256-CqPNAWl4fRoMD0EodyfKoyktCFIQF9fkPj2x0S1sFlU=",
+      "hash": "sha256-hfcUiAy9GgAeuQQWIj5lgTz+9iNKXI0ysky+KrcxrYg=",
       "url": "BestiaryData/bestiary/4918-marlos-urnrayle.html"
     },
     {
@@ -4370,7 +4370,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/4923-crushing-wave-priest.html"
     },
     {
-      "hash": "sha256-Xm5Us8se+6uJAmhMM8LbD7BdF3Ip9MEioVfsxAc6dC0=",
+      "hash": "sha256-6wnsOjOGeEtwbyQWnnKKd6aU79XO0Pp34hdnwh324Dg=",
       "url": "BestiaryData/bestiary/4924-one-eyed-shiver.html"
     },
     {
@@ -4382,7 +4382,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/4926-dark-tide-knight.html"
     },
     {
-      "hash": "sha256-kUsQvEKj59pwH2y+s8TCAAoSXt3fNWi416I47mtuDv8=",
+      "hash": "sha256-bdg8VU9oxcxtaUcaNlEJvfQSnA90xSf0R3QG3tnXt70=",
       "url": "BestiaryData/bestiary/4927-fathomer.html"
     },
     {
@@ -4418,11 +4418,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/4935-imix.html"
     },
     {
-      "hash": "sha256-wQxZwUTL7tssXZta5r/ZCTUZt6drqyN2YOWkvWsduAQ=",
+      "hash": "sha256-Mc3MOzh9BJ0DXdqJOFQ3P8HFUlO6qnbXV6z10su6lNs=",
       "url": "BestiaryData/bestiary/4936-ogremoch.html"
     },
     {
-      "hash": "sha256-9Qll0niQ0s5cwVCTTGlaxDYt43iRpyolplIhwlU5+38=",
+      "hash": "sha256-lqnF4463Qeb+FYn9Q/dKlvDINNiJgavJ1+9eP+uQCQg=",
       "url": "BestiaryData/bestiary/4937-olhydra.html"
     },
     {
@@ -4438,15 +4438,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/4941-young-purple-worm.html"
     },
     {
-      "hash": "sha256-lg7G30sZm4c88eaEeywaFSH9Qt7HU0V/77AXcU8aR8M=",
+      "hash": "sha256-w5bIW2IGvmjH0NuorBfri99Z0Fs/0jrKvvuP662Uy+s=",
       "url": "BestiaryData/bestiary/4969-dyrrn.html"
     },
     {
-      "hash": "sha256-O2IflqhKwqsHfglcD9LXfGkEOL6i1feqXuXWbVhoPxY=",
+      "hash": "sha256-+/gZX6Qoc/tAhT+ihtY5fvaBE3eAE1Q5YtqJ7W3yYP8=",
       "url": "BestiaryData/bestiary/4970-valenar-hound.html"
     },
     {
-      "hash": "sha256-j3uC3LFGKbMxcySDVPcNkRVpAdCqyyvmTpd9WR6eWHY=",
+      "hash": "sha256-SU8A4tQDVnR1Ugfx4V+Ce6/TV9sCSXsM3bN0RP2JeG0=",
       "url": "BestiaryData/bestiary/4971-valenar-hawk.html"
     },
     {
@@ -4454,7 +4454,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/4972-clawfoot.html"
     },
     {
-      "hash": "sha256-H7Zrrhd9uFBW/R7R4iTfd/QkYhQCqFxiVe+R63AX+nc=",
+      "hash": "sha256-wFuiX7kbPYDujZvdgLy3K3wjquNO3k2QSNRB0l+8oHA=",
       "url": "BestiaryData/bestiary/4973-fastieth.html"
     },
     {
@@ -4462,15 +4462,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/4974-dolgaunt.html"
     },
     {
-      "hash": "sha256-lzWTr7C1bnxy8ungVUSvn1J+zPOb9O2iIGyEc2EAlhw=",
+      "hash": "sha256-6qSD7OzaTxvGuuWwEJ5FqVTMljB8jx1/F+cOgAayNak=",
       "url": "BestiaryData/bestiary/4975-dolgrim.html"
     },
     {
-      "hash": "sha256-YSz1SNFGPZl6erAPb4C8nMbFEAVom8BNTp14nTzfCWQ=",
+      "hash": "sha256-mIDS2YfTBvsOH43R6SxeuPxPIJxHIpwVh1ABffpGc0M=",
       "url": "BestiaryData/bestiary/4976-dusk-hag.html"
     },
     {
-      "hash": "sha256-X4fwNciew8Wuog+phlTOctpribVVxsnXvGT04dcGX80=",
+      "hash": "sha256-Do+Nb7F8tfRQCRx5gmdu44A9HEILyhONNnFlqTPGEww=",
       "url": "BestiaryData/bestiary/4977-inspired.html"
     },
     {
@@ -4478,19 +4478,19 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/4978-karrnathi-undead-soldier.html"
     },
     {
-      "hash": "sha256-1wlix3J7HQfCrhl7wgW0ygsrtRPqYdnRFzcKiRBuh7M=",
+      "hash": "sha256-Yvqvs7i2ZG9cgeNLLHjwQju0z70vikl/64DG6PcDfuU=",
       "url": "BestiaryData/bestiary/4980-lady-illmarrow.html"
     },
     {
-      "hash": "sha256-GlkVM+w2jXM8A78iGBM/RjZi2JS9BOH+FDiyPwPv2rs=",
+      "hash": "sha256-uPevs4iA1P7zlinWn79tl19KMLEhz2VPkzMRvd0sXmg=",
       "url": "BestiaryData/bestiary/4982-living-burning-hands.html"
     },
     {
-      "hash": "sha256-kOjvwToM0OCSKiUxzAkacFeew+Z+3DC2x3oCNJucRYQ=",
+      "hash": "sha256-brdpiER9ZkUCPmR0NGbajbYi+J0l/dxeUem04Xkn12w=",
       "url": "BestiaryData/bestiary/4983-living-lightning-bolt.html"
     },
     {
-      "hash": "sha256-xUA85OU/MuOXjO5F5Ed4+E9eyYGimcz7pluORKIaO7I=",
+      "hash": "sha256-mddxMmUlSir6Hl0GYFuryGx7B5S9de8M/dJvl4bn20w=",
       "url": "BestiaryData/bestiary/4984-living-cloudkill.html"
     },
     {
@@ -4506,7 +4506,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/4988-rak-tulkhesh.html"
     },
     {
-      "hash": "sha256-92fEHptIGx7Izs6W6ZX6zfAk+dQd5BWY+Y1t4EWkwlI=",
+      "hash": "sha256-qSd+++QCJiZsmOBN+PL1RNNCdYb0JhkitQl2NmibgV8=",
       "url": "BestiaryData/bestiary/4989-sul-khatesh.html"
     },
     {
@@ -4526,7 +4526,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/4993-radiant-idol.html"
     },
     {
-      "hash": "sha256-TyYTDQYUmykxVDYCrL/Rqr1cGcxbzPQ0T93z28QBegs=",
+      "hash": "sha256-pEmpvgSyJFZYluhU7DBi4svCh6T4m0qOxcuby22dZ1A=",
       "url": "BestiaryData/bestiary/4994-zakya-rakshasa.html"
     },
     {
@@ -4538,11 +4538,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/4996-undying-soldier.html"
     },
     {
-      "hash": "sha256-2hDMxjNjAcToAURRv4mBNFcW+0UqzVbPiH6nj8qshHc=",
+      "hash": "sha256-Fv9nVZup8x39I6rgOTmfmJTW329PSq9I9exSqqSXnvs=",
       "url": "BestiaryData/bestiary/4997-warforged-colossus.html"
     },
     {
-      "hash": "sha256-+buz+TGs9+8M5oHDquH6fpH50JG6Ihba0SHohECIJ98=",
+      "hash": "sha256-Z3nh67/15dbiLFaPl33G88wk/uJVE1lsH1DmiRN5CH0=",
       "url": "BestiaryData/bestiary/4999-warforged-titan.html"
     },
     {
@@ -4550,7 +4550,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5-grick.html"
     },
     {
-      "hash": "sha256-w3iq0Ps7C2J2IK7NcSUSJt9VPSeTi2Ze3tuam9KVeU8=",
+      "hash": "sha256-ewewYVce956VXgL0BnB/NpZfRVr1Ru/yyukhePVCBLM=",
       "url": "BestiaryData/bestiary/50-cambion.html"
     },
     {
@@ -4566,7 +4566,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5002-kalashtar.html"
     },
     {
-      "hash": "sha256-oiqGro7siVhgY3BeKd1b6/oNfImwE443va5G73/WY7o=",
+      "hash": "sha256-t8HwcH1ZcI+V+QG/JjulvPBtbh1cwM1Pq3cVDUavf2g=",
       "url": "BestiaryData/bestiary/5003-magewright.html"
     },
     {
@@ -4574,7 +4574,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5005-shifter.html"
     },
     {
-      "hash": "sha256-SHPfX0PF2YTGp/ID7/E3rSl7fbnlq2X7Whw/zFtJBGg=",
+      "hash": "sha256-85YevXCkPIzQOGUArPjeMXiSMqo9A0T1GVeCpTZPs8s=",
       "url": "BestiaryData/bestiary/5006-tarkanan-assassin.html"
     },
     {
@@ -4598,7 +4598,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5012-arrant-quill.html"
     },
     {
-      "hash": "sha256-yUWuKIsNjybdUYk05Y8cHwZlButfxllQuGxJ3pdhaTc=",
+      "hash": "sha256-G8nZ303OceRsUTsKJsKW34SdKASAmn+/GW08wD2FmX8=",
       "url": "BestiaryData/bestiary/5013-bak-mei.html"
     },
     {
@@ -4630,7 +4630,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5039-dragon-tortoise.html"
     },
     {
-      "hash": "sha256-WbJ0Tk+sN3/lF3SjDUjqY0IiyC5wO8+xNiKkmPGyQAM=",
+      "hash": "sha256-V/WhgNoEqGqGX3RRVEPBJeBgnhR5OJgtaPL8D72fSLs=",
       "url": "BestiaryData/bestiary/5040-faerl.html"
     },
     {
@@ -4642,11 +4642,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5042-gingwatzim.html"
     },
     {
-      "hash": "sha256-Go0N+DsSEvNAEJtlAJbGJZ217oqaMsDcowPAKYW0EQE=",
+      "hash": "sha256-BjuDu1TxGaBp7cBLl2ripITrIOIZwmP3vvzBBVdCuEg=",
       "url": "BestiaryData/bestiary/5043-grippli-warrior.html"
     },
     {
-      "hash": "sha256-KfYcrrP/LKlRfYXESHQFYFhpRyeEobHIIvb7M0v0rVk=",
+      "hash": "sha256-zgLnyY8/XkwmI9h4a3FxZwh4DXxzjbraiZnVUDvbxx0=",
       "url": "BestiaryData/bestiary/5044-hag-of-the-fetid-gaze.html"
     },
     {
@@ -4654,15 +4654,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5045-immortal-lotus-monk.html"
     },
     {
-      "hash": "sha256-7bATGVyGG3b/UkgqLMynTdc5XntQUH1rAF8yiL4YRDk=",
+      "hash": "sha256-E1//GrurUoMNlc50wEO7axhwQFDCWSlTeI6zJZkt22U=",
       "url": "BestiaryData/bestiary/5046-jade-tigress.html"
     },
     {
-      "hash": "sha256-xkXxAjpGaK5aE8sBCiiznZ1yd9EuEz4bdyljyLMT9j0=",
+      "hash": "sha256-z9vFTmgJ9wk/e8Lbe3NyovyJWmCdRGwuXRNOX0zYoA0=",
       "url": "BestiaryData/bestiary/5047-ktulah.html"
     },
     {
-      "hash": "sha256-3N7DlcATXombQz4dbbQeKcFPK+XtNxwaA0JlWhfbjNc=",
+      "hash": "sha256-+dhbV1reyMrO46x3c9Bo9xAMV91XW7ZeMU1qzkriS30=",
       "url": "BestiaryData/bestiary/5048-kiddywidget.html"
     },
     {
@@ -4686,7 +4686,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5059-mimic-chair.html"
     },
     {
-      "hash": "sha256-NM6K6AENjtFH9nclaA5/OJpLNyFI0rclu2TReTL9OIA=",
+      "hash": "sha256-u5PD+RyvNpnwFu35AzmWEKBEyzlYZ13LVtDlXTxyrHc=",
       "url": "BestiaryData/bestiary/5060-nintra-siotta.html"
     },
     {
@@ -4710,7 +4710,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5066-shemshime.html"
     },
     {
-      "hash": "sha256-a9bnHZCrEOYP3YlmvssKFZEMlKJfR7em0eeacMUDoeQ=",
+      "hash": "sha256-uie3r1XWKkjANvUllXmBb1a9XZKxzNbMsoeQ44B3E2M=",
       "url": "BestiaryData/bestiary/5068-steel-crane.html"
     },
     {
@@ -4722,11 +4722,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5070-swarm-of-animated-books.html"
     },
     {
-      "hash": "sha256-2MoBdYmlDQhD/tM09ZVr5vL66rJR/QhU0PGH+WVjvu4=",
+      "hash": "sha256-wGK+yCvGx99xcm2/Q7y5FIpdVtKSM3Eb1POFo2THCtY=",
       "url": "BestiaryData/bestiary/5072-valin-sarnaster.html"
     },
     {
-      "hash": "sha256-PdYILc6vxg1DzYRjRQ16BlSUMMz9gHb+/meNoOHl0zY=",
+      "hash": "sha256-EfVtky7qv1G7dzoIRB4Us/cZxfYnew7EaH7qEGKQsk8=",
       "url": "BestiaryData/bestiary/5073-varnyr.html"
     },
     {
@@ -4778,7 +4778,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5107-black-viper.html"
     },
     {
-      "hash": "sha256-9EqhHbMuocIwl4m/A4DMarziYnyFps8PMXFEa86TIco=",
+      "hash": "sha256-fPQcxLYliMFRCMJVv8N6MpFZPiau3inoQgdAK4PDERg=",
       "url": "BestiaryData/bestiary/5108-blinded-troll.html"
     },
     {
@@ -4870,7 +4870,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5184-walking-statue-of-waterdeep.html"
     },
     {
-      "hash": "sha256-71seMsBCwkC/meFpYMlzZNv6UWNWP1X1lsgf2c0y2wY=",
+      "hash": "sha256-lrBT1AYwigaIcp7VS9tgXGetDEFkypp2UJkCxv2egug=",
       "url": "BestiaryData/bestiary/5185-zhent-martial-arts-adept.html"
     },
     {
@@ -4886,7 +4886,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5190-hester-barch.html"
     },
     {
-      "hash": "sha256-Xo/PxXPmSR1JXk+KKRSsqE++uWPOpfzZPTNxHL81uoM=",
+      "hash": "sha256-xI+Sgs9mNYqKMM4FWxyESId+tujYsHD7q8C67NLYnNc=",
       "url": "BestiaryData/bestiary/52-centaur.html"
     },
     {
@@ -4902,7 +4902,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5264-moorbounder.html"
     },
     {
-      "hash": "sha256-ldVOoMWZ2R+sH2MG4W0RfntRcTrfCLGkRWSD7O3DnPU=",
+      "hash": "sha256-37cQBhQl+QZDA4R/yFIGGEXC223P/A3771jCsCN7nwY=",
       "url": "BestiaryData/bestiary/5265-sled-dog.html"
     },
     {
@@ -4922,7 +4922,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5294-tashlyn-yafeera.html"
     },
     {
-      "hash": "sha256-0+DFfCdRChV+9dR6fW4hs95iqdtJYn5ld/66gwlGP8c=",
+      "hash": "sha256-5Rif6uGYbK5GG+FNZRnuBSkLiwJvXHHTyX51ZFaJYIM=",
       "url": "BestiaryData/bestiary/5295-ziraj-the-hunter.html"
     },
     {
@@ -4962,7 +4962,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5327-laiba-rosse-nana.html"
     },
     {
-      "hash": "sha256-QtlcyN8cxgijGZ6rZTxZMF4CaoATYumXvN2IbnckPUs=",
+      "hash": "sha256-ueX0Kew1/uie42+jKFF6jbJeyTJ+Lm4X4VHmJTD2Oxc=",
       "url": "BestiaryData/bestiary/5331-losser-mirklav.html"
     },
     {
@@ -4970,7 +4970,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5332-magister-umbero-zastro.html"
     },
     {
-      "hash": "sha256-v2n2fPNHZHa/gBVZATotGCKGxglcrPmH+zX0KeNvscY=",
+      "hash": "sha256-oM/ihvkkVoRvw57Y+bJBO5KVf+1nih226hgUyrxQKX0=",
       "url": "BestiaryData/bestiary/5333-manafret-cherryport.html"
     },
     {
@@ -4994,7 +4994,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5341-narl-xibrindas.html"
     },
     {
-      "hash": "sha256-IVgh2CdKtIQ3P53hVHIH0gG32L+J2vMMxQBlyVI6bjQ=",
+      "hash": "sha256-Ln68XK/BSqh5tyH/ydWMm0xLYAHjpmnRgtlpsal0G8U=",
       "url": "BestiaryData/bestiary/5342-nihiloor.html"
     },
     {
@@ -5134,7 +5134,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5384-living-unseen-servant.html"
     },
     {
-      "hash": "sha256-NZ/760xUKWV+stQomM6GwZAeUgBD1/OVjVlWAql6Gvo=",
+      "hash": "sha256-McrFo9O0d1WG2bcCmKPkmbYxpw90oQ35KR8LpCYXXA0=",
       "url": "BestiaryData/bestiary/5386-werebat.html"
     },
     {
@@ -5150,7 +5150,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5389-shadow-assassin.html"
     },
     {
-      "hash": "sha256-XyxyT4lW+6uH+oolNZlk+1kFP2DwhNcw+L4uQIuGs90=",
+      "hash": "sha256-K7GbDVXQD1q/OY8tqNdWO0PngY1c+dBbctivMK2HB1g=",
       "url": "BestiaryData/bestiary/54-chuul.html"
     },
     {
@@ -5186,23 +5186,23 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/55-cloaker.html"
     },
     {
-      "hash": "sha256-kpAYinwSFwIyE/yEysXU4Eollsi1AXWs7YRU0CU0n6Q=",
+      "hash": "sha256-avq90fEKFpEOuIOIV7LeT8UdGwRH6KrvfRruCNcuEhw=",
       "url": "BestiaryData/bestiary/5519-aspect-of-tiamat.html"
     },
     {
-      "hash": "sha256-gjUwmHBiR6coxruoC2AfCCaWfUMJMPdQ9qhWmaF4X4Y=",
+      "hash": "sha256-2MLlhV2XUKdGt8PQT5kfLgTFQkltWh7Lwidn3BMkmQs=",
       "url": "BestiaryData/bestiary/5524-aspect-of-bahamut.html"
     },
     {
-      "hash": "sha256-JJA7KrBKChWHlOQPATf0WZXZP49/DDMVX2OwcvynhEc=",
+      "hash": "sha256-DRXkT4IplSFaYbpqjHe4fT+RWmUqxtBqWm+/hUI5IA4=",
       "url": "BestiaryData/bestiary/5541-red-greatwyrm.html"
     },
     {
-      "hash": "sha256-yKkrEjFu46lFVRiK+7Ca2TYiwU6+X7EbP2hcmrbNyGM=",
+      "hash": "sha256-uM4zE09YnSK+5VbAJtE+9zj2hC6wnwwjTuaYFV8mctI=",
       "url": "BestiaryData/bestiary/5599-zephyros.html"
     },
     {
-      "hash": "sha256-PQYQa6yo0xRrtGXHDQ7dVEJMgV8v98o54lrPNohaYeA=",
+      "hash": "sha256-KW6avxYA4ILB/XxSjHZSX2AWYR4CkN6koJ1TFTS/o8c=",
       "url": "BestiaryData/bestiary/56-cockatrice.html"
     },
     {
@@ -5214,15 +5214,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5601-iymrith.html"
     },
     {
-      "hash": "sha256-aNfk4Y55uguuVit6COyATsF3yxA9Z18uz5z3VdIgbeE=",
+      "hash": "sha256-EmZ7LY58Yq4yYDPYPTMpR8VsYFlHhyspXLwkCkdIugU=",
       "url": "BestiaryData/bestiary/5604-klauth.html"
     },
     {
-      "hash": "sha256-kqpBJTLJRL06DSzr6c9iP5MPWjX6FG/wjBkr1EpL3nE=",
+      "hash": "sha256-BXbCZ63YSfD8E058YWHbQAkjGPQXsfcOFpK4ugKVCHM=",
       "url": "BestiaryData/bestiary/5605-maegera-the-dawn-titan.html"
     },
     {
-      "hash": "sha256-JmKpRkJjA4qDD9hSu8OK6eyl7AoDSik5Ss7jweQDJEs=",
+      "hash": "sha256-oT0fUnvVi6Uk0KU8wQ8dejmSj6xFqHncboMbVJKqUN4=",
       "url": "BestiaryData/bestiary/5606-uthgardt-shaman.html"
     },
     {
@@ -5230,7 +5230,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5607-claugiyliamatar.html"
     },
     {
-      "hash": "sha256-RroS3SVFHFd3BTU08fw9/GwW77fPGFivAPBkC/Ixj7I=",
+      "hash": "sha256-PKXlJW54TZ9a8xC6KB1QUoYIawkocKsm55qSldfQE0k=",
       "url": "BestiaryData/bestiary/5613-yakfolk-warrior.html"
     },
     {
@@ -5254,7 +5254,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5631-alchaia.html"
     },
     {
-      "hash": "sha256-FN3dhFdYvN6E+o2tx7nG0f7YYFNsD0T90XGN8yZdhFw=",
+      "hash": "sha256-IOVDUIHeNGmYjG+bxJrxfWuKEL8yLltZwCjwwDaUcxQ=",
       "url": "BestiaryData/bestiary/5632-cave-bear.html"
     },
     {
@@ -5266,31 +5266,31 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5634-vampire-spellcaster.html"
     },
     {
-      "hash": "sha256-85lo6jQO9+luFkQR2iZAu+u79u/rlxt0Z1S0DehQHT4=",
+      "hash": "sha256-9s9sPA4I3iHRvuYMku2i5YSHnvBy9iVtnPnus1WRnvI=",
       "url": "BestiaryData/bestiary/5635-faerie-dragon-red.html"
     },
     {
-      "hash": "sha256-i93a8vegyM1gq33HA/PNGl6GMlwst5ZJJqUUUKGzoEo=",
+      "hash": "sha256-46WlOWSPUwaBKChd4DLGvaA7kl1nVm3EZvmMh6Np+m8=",
       "url": "BestiaryData/bestiary/5636-faerie-dragon-orange.html"
     },
     {
-      "hash": "sha256-zgh+9ifSP4d7qM+CulHR+Awyx1vpQ0A1d5zY4sWuC7Q=",
+      "hash": "sha256-5rzJq7pZDrVOK7P4ZTVqnoikVDrg5EgwzYMPql+nBqk=",
       "url": "BestiaryData/bestiary/5637-faerie-dragon-yellow.html"
     },
     {
-      "hash": "sha256-7l5ByxgMXJryaiQ73dt4HOZTV2xn39sr6Vnv5fw8kDo=",
+      "hash": "sha256-acrWZEVf5M8kJJ6OXNlK4jBpvF0cIg7jOUF80dD7MEA=",
       "url": "BestiaryData/bestiary/5638-faerie-dragon-green.html"
     },
     {
-      "hash": "sha256-ZslNU+Mfc1s85XmDf8m6s0hZaXEL+nX5o+sX3rfBvyI=",
+      "hash": "sha256-LA9621o3jFAqkoc0PWQs70chWcrXhqtZtKc8KlDNFqY=",
       "url": "BestiaryData/bestiary/5639-faerie-dragon-blue.html"
     },
     {
-      "hash": "sha256-/3/gkba/kD7ZsaVKJghvhHyjGhqVbWlppzWRxVlekik=",
+      "hash": "sha256-rfmkyuyj5YzckYDINp8p2K3qeMiEuPwcRfh+Xg2gHLM=",
       "url": "BestiaryData/bestiary/5640-faerie-dragon-indigo.html"
     },
     {
-      "hash": "sha256-uZtQ2upOLUdjZrJvXCTQ6b6/wE2DXCi6urllfb4k4Hs=",
+      "hash": "sha256-o5drFBjL69sptvyW5fsUXeoP3FSi/AflVhP7lG7OGaY=",
       "url": "BestiaryData/bestiary/5641-faerie-dragon-violet.html"
     },
     {
@@ -5314,15 +5314,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5650-poltergeist.html"
     },
     {
-      "hash": "sha256-RjAdrTU2n364QG32PosnF0HedAIoRqHB234P6yIrq/4=",
+      "hash": "sha256-qJQuHjc28JNAYBC9rC3r06rOcW73Ycwcc0tzye/yhCQ=",
       "url": "BestiaryData/bestiary/5651-yuan-ti-malison-type-1.html"
     },
     {
-      "hash": "sha256-ch7q2DOoK1yqlltc96qPeWOFaiut8MdzpJy/bvWUSwY=",
+      "hash": "sha256-lUGtGXLQ73VQzG6o9oVsxI+cHJrMnOP8lvz2kvAMLXQ=",
       "url": "BestiaryData/bestiary/5652-yuan-ti-malison-type-2.html"
     },
     {
-      "hash": "sha256-a300xUxWg1Kt69josWm63tC1BzokIcZJn42h00ziRE8=",
+      "hash": "sha256-3HRkzkhYRTuND1tI3SBJ1aApsBOh+HboZ27s8NDDqQg=",
       "url": "BestiaryData/bestiary/5653-yuan-ti-malison-type-3.html"
     },
     {
@@ -5330,19 +5330,19 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5656-kuo-toa-monitor.html"
     },
     {
-      "hash": "sha256-3RY12c6yJ7APZVcthzASz7CRUDDGj/xA6cqE/bZUVyQ=",
+      "hash": "sha256-p6gcQcOBO/xo1omjoCca+imko+HAu4dKRWEbF83SUrM=",
       "url": "BestiaryData/bestiary/5657-amethyst-dragon-wyrmling.html"
     },
     {
-      "hash": "sha256-xvxNZw4hbMKy6amPVKenFaVahOxviAGl1os/QCa5byI=",
+      "hash": "sha256-aYVOEGV2PdDDxb39fqYmXywaTf/sPpACWwz0Tzx7670=",
       "url": "BestiaryData/bestiary/5659-yuan-ti-malison-type-4.html"
     },
     {
-      "hash": "sha256-vIRZtKqrMPsgigNdP7vQum5lW7UHzw2A7eVE1E+HzFY=",
+      "hash": "sha256-tlaBMTEGILU3/B+40Uc4Yd1X+xBgqbFcAOjQWtl48jY=",
       "url": "BestiaryData/bestiary/5660-yuan-ti-malison-type-5.html"
     },
     {
-      "hash": "sha256-xAmpjgSAAEq94Uyj4LeYBz7VTa/393yZcT+vZqYMPvk=",
+      "hash": "sha256-IQYKWL6cUu5Fams4yuEECgytlw/8OJeXf8+s2T+br3s=",
       "url": "BestiaryData/bestiary/5666-illithilich.html"
     },
     {
@@ -5350,11 +5350,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5667-xvart-speaker.html"
     },
     {
-      "hash": "sha256-WSTDR0Dp8rIZWTYuFmwfWd07TgKdJnyLlmckzG65zn8=",
+      "hash": "sha256-4RYraZch9F+n54l4qY2GJdFS4uu5uAPxBjQ060bDKJk=",
       "url": "BestiaryData/bestiary/569-orc-nurtured-one-of-yurtrus.html"
     },
     {
-      "hash": "sha256-J8mU7alTJNd8tbYKwEGXaHoqdsVcdCZQE3HfOGd+k6E=",
+      "hash": "sha256-yBuLHeiu4JLLxMzyufHdnVkaP2aSQ6kzakrgfP+1j6A=",
       "url": "BestiaryData/bestiary/5696-dust-devil.html"
     },
     {
@@ -5374,15 +5374,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/572-orc-red-fang-of-shargaas.html"
     },
     {
-      "hash": "sha256-DONFXGLMnaz8WaOibDfj2L/Usem09GtSntMT6/Nlsdc=",
+      "hash": "sha256-enEf+Y4GNhkdWDR71bJrT5ebEr5IxfsT6Zs2ygjD0gg=",
       "url": "BestiaryData/bestiary/5724-auril-first-form.html"
     },
     {
-      "hash": "sha256-jIMsDc/l25QlIaw4dCjSine6chxQX0vjlIQivIsMGkE=",
+      "hash": "sha256-DcnSv+eseSueYFGoGK6Slesak4sUkRhCEEA0aRXxwXc=",
       "url": "BestiaryData/bestiary/5726-auril-second-form.html"
     },
     {
-      "hash": "sha256-N6zY+sZFSVgELJdvHrg2UwHluuQYzOmyf43nVRQRxPc=",
+      "hash": "sha256-/TDWjNTZNfudlsyPJZbWSpnTfy3vVwhgoJ0SRh+4Y0w=",
       "url": "BestiaryData/bestiary/5728-auril-third-form.html"
     },
     {
@@ -5394,7 +5394,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/573-orc-hand-of-yurtrus.html"
     },
     {
-      "hash": "sha256-cKRkIUPD2r27Wqo7ppgYqD+ccfmoo4xzO5iZuCLgpqI=",
+      "hash": "sha256-vX/wSbFVtxPsnf9sOvAejCYiRD7Fll+hZaX7pTfQkqA=",
       "url": "BestiaryData/bestiary/5730-verbeeg-longstrider.html"
     },
     {
@@ -5406,7 +5406,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5732-vellynne-harpell.html"
     },
     {
-      "hash": "sha256-OUFikxVgjuRAqRmHciN15LXRTZ8ttR7LRVz6EyBPty0=",
+      "hash": "sha256-9pjwIU3XGY/Qw2cZXf5Gg4RA7Ig9KhmRZ/zPvCs744Q=",
       "url": "BestiaryData/bestiary/5734-icewind-kobold.html"
     },
     {
@@ -5422,7 +5422,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5737-nass-lantomirs-ghost.html"
     },
     {
-      "hash": "sha256-+XZ2VTHBr8dtgmoLxr/MJypRvi+UlQ2T3NiwqVQSGuw=",
+      "hash": "sha256-NIn7eNHq/X41GoPZsAqtao7NLHRqklVaYCTS7Asta6s=",
       "url": "BestiaryData/bestiary/5740-gnoll-vampire.html"
     },
     {
@@ -5434,7 +5434,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5742-goliath-werebear.html"
     },
     {
-      "hash": "sha256-09vhsKGiprjFaqLgH3f128h7gveHYZp0aqdHgjxWhI8=",
+      "hash": "sha256-Pd1r2z1JSMMY3N21vANzzAccmJ+ACMjYOLtvYmRKks4=",
       "url": "BestiaryData/bestiary/5743-mountain-goat.html"
     },
     {
@@ -5442,7 +5442,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5744-xardorok-sunblight.html"
     },
     {
-      "hash": "sha256-eT5CL6tA8WUgNqmRJosbeL9rqhey7mcGraa8stWFkMg=",
+      "hash": "sha256-LZ/G9GC2PeFp0sqbpLGIGoTv5RyBVbt1+m3KynI+4Bk=",
       "url": "BestiaryData/bestiary/5745-living-bigbys-hand.html"
     },
     {
@@ -5458,11 +5458,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5749-hare.html"
     },
     {
-      "hash": "sha256-eggCfn6Pop7DPSPEn+RwRS32rzbcO9Pj3LleABbmXHU=",
+      "hash": "sha256-2h8kAVf0zl+SrFAuOThJw33eUgmP9rvJLlLoansmR7c=",
       "url": "BestiaryData/bestiary/5750-yeti-tyke.html"
     },
     {
-      "hash": "sha256-Yjw1I2vMfjVwawK8P78T6HX75f6RJ6NoOX+oPVRNJ7I=",
+      "hash": "sha256-ogfRV8mSDUjjiCDHTh10Zthqs7rHYBSSWosbMXd7GSo=",
       "url": "BestiaryData/bestiary/5751-sperm-whale.html"
     },
     {
@@ -5482,7 +5482,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5755-fox.html"
     },
     {
-      "hash": "sha256-VL7bx0UlRb7L122aUHWdSW3s6cy1xE09OFsCc3AuyZI=",
+      "hash": "sha256-cRn0w9ZeMtNn4+n8SVPySlHhYPGgR1BVUfePZsd+8io=",
       "url": "BestiaryData/bestiary/5756-spitting-mimic.html"
     },
     {
@@ -5514,7 +5514,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5763-reghed-shaman.html"
     },
     {
-      "hash": "sha256-bNeHiC8CBHCDBsDHW4TTe8J8SiXKUJ5SsQAz8yyrF3k=",
+      "hash": "sha256-hqe6qyFRKl1Gx/EG64tt+4msp2RlYOEwIwdDshyonRg=",
       "url": "BestiaryData/bestiary/5764-reghed-chieftaingreat-warrior.html"
     },
     {
@@ -5526,7 +5526,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5766-jarund-elkhardt.html"
     },
     {
-      "hash": "sha256-OqIq07d35HAPhjg4lD4gSn8d0Lcb2s/Vn6DpXhqZDpw=",
+      "hash": "sha256-hRJQwleYHs8qJzorReIuwnZdklWQ0e25LsNUFGbl9k4=",
       "url": "BestiaryData/bestiary/5767-gunvald-halraggson.html"
     },
     {
@@ -5542,7 +5542,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5770-gnome-squidling.html"
     },
     {
-      "hash": "sha256-4wjbsKL3fypUvLmNLfd39DEJw0MzSJHe023SCbw0JiU=",
+      "hash": "sha256-Yg8xRfaos+pl7qqDqvNCu3OXgecuFQ9y2zRv35UP2/k=",
       "url": "BestiaryData/bestiary/5771-reindeer.html"
     },
     {
@@ -5578,7 +5578,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5780-chardalyn-dragon.html"
     },
     {
-      "hash": "sha256-isiOJx66qahEEo51vd0eULLQKru4U6KsSC1f7UwQC9s=",
+      "hash": "sha256-4ttHoo6PzTndPo7jMxhQukPTh/mbDFpavLuuv0r6hg4=",
       "url": "BestiaryData/bestiary/5789-awakened-white-moose.html"
     },
     {
@@ -5590,7 +5590,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5791-prisoner-237.html"
     },
     {
-      "hash": "sha256-mOZLd0l6xFUGb16Ru1YjRTvpzICsNWa9O4q/tOAZSyA=",
+      "hash": "sha256-08PEyz0AXASdMvqfqFBo4YHnmiKj0qfT0FIm49NzeHs=",
       "url": "BestiaryData/bestiary/5792-battlehammer-dwarf.html"
     },
     {
@@ -5602,19 +5602,19 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5794-tribal-warrior-spore-servant.html"
     },
     {
-      "hash": "sha256-3t+Qpia8M08ud2iROaVGAO1gAXOjccj/Ges1XEWKOg8=",
+      "hash": "sha256-W2B1w/PjOmjgsfp9+9sZ0nNIlzkmfpjwJU84f743TEc=",
       "url": "BestiaryData/bestiary/5795-lonelywood-banshee.html"
     },
     {
-      "hash": "sha256-34JONVgtIEA223cxzHbOfMfp/eB85HJnNsF7L01VlOI=",
+      "hash": "sha256-LKHmZ5rupaJZrTt1L8rJvpWiFcqxvjDa/rqnkL3GB5A=",
       "url": "BestiaryData/bestiary/5796-knight-of-the-black-sword-cultist.html"
     },
     {
-      "hash": "sha256-FM2rNEyujP/L0c+MWa46aSoKypd+nzqx3iO8NCsHKkM=",
+      "hash": "sha256-yL3tXTTzKPZmGKItSomM44opcjmOATp/xKse4XaBKkA=",
       "url": "BestiaryData/bestiary/5797-knight-of-the-black-sword-cult-fanatic.html"
     },
     {
-      "hash": "sha256-8MFqYrYf6WPf8ikdtLrGBSrqkzA3lMi1Sl/jzAk8dHY=",
+      "hash": "sha256-0kriqsdHoSqrV1R4+0tpfMfYRObnWOhJzEBJVJbdkgk=",
       "url": "BestiaryData/bestiary/5798-kadroth.html"
     },
     {
@@ -5658,7 +5658,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5808-grandolpha-muzgardt.html"
     },
     {
-      "hash": "sha256-BFulzVzxttJl7LqQmZFmI82jzC+/YO0lDJnQfSNYkao=",
+      "hash": "sha256-1K4LG8rT7ZRGWVLEBF9DvuiZD5tUyuPyXuCbY3CFdQA=",
       "url": "BestiaryData/bestiary/5809-headless-iron-golem.html"
     },
     {
@@ -5682,15 +5682,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5814-telepathic-pentacle.html"
     },
     {
-      "hash": "sha256-DT7bo2b8gcJihTCd0DKt8Ss3WNRpGta90YLDYX2n/rs=",
+      "hash": "sha256-3Nsn5jAzxonMOu+s+KiqSWs59Crf/Bq/vzhImvbFEos=",
       "url": "BestiaryData/bestiary/5815-young-griffon-tiny.html"
     },
     {
-      "hash": "sha256-YdENwIxvty1lXZ3DdADtIyj6I8dz49z0O4OQOTnBR0s=",
+      "hash": "sha256-uPrfI1gOOiZY+l4jTLWg2kTmI7aMcMnThrmKGfCeIHY=",
       "url": "BestiaryData/bestiary/5816-young-griffon-small.html"
     },
     {
-      "hash": "sha256-SNehNjmTTwcw01nSZ7U+ky2FUg15dncjiPkhnDs7A2I=",
+      "hash": "sha256-M1xmVKuH2lp083BUBzYhx9ILoTKXXxLoZkD29ZFN5DQ=",
       "url": "BestiaryData/bestiary/5817-young-griffon-medium.html"
     },
     {
@@ -5722,7 +5722,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5827-svirfneblin-wererats.html"
     },
     {
-      "hash": "sha256-sMn3MqPqRVRDP8KvZuBwICHfaseNSuQN9A1S2q4dO1M=",
+      "hash": "sha256-/EzjgtrEl5vU0ZMGSmQyUyYrm8zzjkjG6u7gayYeEnE=",
       "url": "BestiaryData/bestiary/5828-derro-savant.html"
     },
     {
@@ -5754,15 +5754,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5835-duergar-keeper-of-the-flame.html"
     },
     {
-      "hash": "sha256-bw8+wX34GGurXebC1MXtTGi5EAn/QmgXu18TsTtUHNw=",
+      "hash": "sha256-1s2BofUKswYCBmxxwM1CjyViIa+JgjdSuh+6/Cfprx0=",
       "url": "BestiaryData/bestiary/5836-myconid-adult-of-zuggtmoy.html"
     },
     {
-      "hash": "sha256-YqmRij3tM9YBKq+8mRK5a4s4U9pfjT2UyNIZzfiionw=",
+      "hash": "sha256-ZT7NTWRFnC1CEk/o28IaQST6UIUgkHfTf73yJ1accMM=",
       "url": "BestiaryData/bestiary/5837-myconid-sovereign-of-zuggtmoy.html"
     },
     {
-      "hash": "sha256-FbU7QoJ2xFtbP09qegShFy17eWpfdsLuj9B2PVmeAaU=",
+      "hash": "sha256-68n+TkWxMh6v1ZZB7jn7E6R7bNXM+TeS3VhLBIQh6eQ=",
       "url": "BestiaryData/bestiary/5839-derro.html"
     },
     {
@@ -5798,11 +5798,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5847-awakened-zurkhwood.html"
     },
     {
-      "hash": "sha256-kVrUr0gexRi3h+hkAgB9Ipi2gZ9JYfUFdjENRo97ebQ=",
+      "hash": "sha256-ZXNtlhAQ8AcfDF1maFzGC+d2ggKiImuUzHp4lARZlCU=",
       "url": "BestiaryData/bestiary/5848-male-steeder.html"
     },
     {
-      "hash": "sha256-SEeLum+8XTKb4CWgbMmuYlOwF6pUYWB2j7HOA5wOTGA=",
+      "hash": "sha256-Hq8AyOXGkbvCJoYSOum1B/h53++NyBNhZz6n+h0/p8c=",
       "url": "BestiaryData/bestiary/5850-female-steeder.html"
     },
     {
@@ -5826,23 +5826,23 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5859-narrak.html"
     },
     {
-      "hash": "sha256-ZhQjlKs/VoVV4cWCgRJSUAIxb5UlN9Ep4dNjEUeq4mo=",
+      "hash": "sha256-knyVVxSIJGWcMlHUVA+jN77A22/Y70IcEpuxMrCGUA0=",
       "url": "BestiaryData/bestiary/5861-baphomet.html"
     },
     {
-      "hash": "sha256-JQO+w8r3hHdkEjClMvMU24pjmQQKovRwsww+CUs/v5c=",
+      "hash": "sha256-uUUOyBDK0T+1NlZjmZ1JND1aS3Rarxk8lXwY1CFWC44=",
       "url": "BestiaryData/bestiary/5863-grazzt.html"
     },
     {
-      "hash": "sha256-76N2SYWysZvB/76no5BctMBxYYeh/K1GRgvLEdJDAC0=",
+      "hash": "sha256-f+zlIvxYQpy7gKbiR1Leo1pfaRqwQ8r8XFdVSwp5RYk=",
       "url": "BestiaryData/bestiary/5864-demogorgon.html"
     },
     {
-      "hash": "sha256-OaSvHbYsw7SFq55f6NshBcqUjuNmAByRxAZU4kbmMhU=",
+      "hash": "sha256-2+SYbHACUYnXwxunLIUxR2QY6FkJlddGePG6vl5McPs=",
       "url": "BestiaryData/bestiary/5865-yeenoghu.html"
     },
     {
-      "hash": "sha256-8/qK307KUQMKVmRW+7wOQALiaNBChH/bi7H9J9Gvh10=",
+      "hash": "sha256-c7Tu5Cb+OI46s3DCXi4RHsQ2SiPFAKa7liWKxey635k=",
       "url": "BestiaryData/bestiary/5866-fraz-urbluu.html"
     },
     {
@@ -5954,7 +5954,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5894-drow-scout.html"
     },
     {
-      "hash": "sha256-iDTiuIEOs4iH2KEVqyWxLkUItW4YdvvM+us3oiPaJls=",
+      "hash": "sha256-UmSkh2B585+aH/mAjUeJ41nZAVQL1ol45J+wc3KL4IU=",
       "url": "BestiaryData/bestiary/5895-spider-king.html"
     },
     {
@@ -6074,7 +6074,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5924-hanne-hallen.html"
     },
     {
-      "hash": "sha256-zs7zdLvhRGaXCF8ExvSc63kkYj2c1OjUI3Ij49LPvrc=",
+      "hash": "sha256-LxwWou7kdoo51EHWF1p7ti6aRk9dCcBcZTi13lf4U2Q=",
       "url": "BestiaryData/bestiary/5925-shedrak.html"
     },
     {
@@ -6086,127 +6086,127 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/5927-vizeran-devir.html"
     },
     {
-      "hash": "sha256-+aiOm9nBFDe9Co4bJz8bDz+Uzjvoans/bIENJBTsfyo=",
+      "hash": "sha256-ZSNItplWicxc1ygJ9YspeJsNM6D6pdlcufhWCelSXTY=",
       "url": "BestiaryData/bestiary/5962-archelon.html"
     },
     {
-      "hash": "sha256-jDR2PzvDftUT12M7QsmejHasNS18jb2rNubgSv3PJj8=",
+      "hash": "sha256-YReiDpCsPLcXA/VmvWP7VISsj0Zew0YBunjKN2YAcl0=",
       "url": "BestiaryData/bestiary/5963-brachiosaurus.html"
     },
     {
-      "hash": "sha256-31KFatOz0IBpuc+Y0wTAgTcUPa48A9xA9izJMjj+Hek=",
+      "hash": "sha256-JapiBYjJmy996vQq7fAs8+zPNKntXUaVRP3eYDQFW/8=",
       "url": "BestiaryData/bestiary/5965-dilophosaurus.html"
     },
     {
-      "hash": "sha256-oE05B8yfGF9kbHGNVk0HEwWPzywjXFqf7SB0EzgJf88=",
+      "hash": "sha256-2MTEeRawij0iBaZ83St7Fud0RQrZNKGuuTsieRyAXtM=",
       "url": "BestiaryData/bestiary/5966-giganotosaurus.html"
     },
     {
-      "hash": "sha256-CSnaXifOyyg6MtXqT+/541EYJwrEI2yaKgaMssrT9DM=",
+      "hash": "sha256-JQN8IGPRDIfGdCXo4ZFAxeJO6dWx5XyGK5U0ynStxWI=",
       "url": "BestiaryData/bestiary/5967-zealoraptor.html"
     },
     {
-      "hash": "sha256-ibzo0riYCLntf5JrVz5ecS1BPGsK9WpbG5sbuzAGi5k=",
+      "hash": "sha256-HNWDkkH16my0S+CiAHj/xYgkdCEWzGGc97ylVAsYjC0=",
       "url": "BestiaryData/bestiary/5970-mosasaurus.html"
     },
     {
-      "hash": "sha256-6D3rtAkS89G6l7jbQ981NOZsVLADsROWryZ9oWs+ii0=",
+      "hash": "sha256-DxSOoqvb9rbNnlvH2V6dIWK8sOwB4i4XH5ZqWkpx4cw=",
       "url": "BestiaryData/bestiary/5971-nemicolopterus.html"
     },
     {
-      "hash": "sha256-Ud0hmdZXEAywgtH1j97L25575BePBRg4PdLr4MAb9V0=",
+      "hash": "sha256-AF9qRDLUogxWTzhC0S7oqeqvjAfeL9XfI+bZf+EdX6c=",
       "url": "BestiaryData/bestiary/5972-swarm-of-nemicolopterus.html"
     },
     {
-      "hash": "sha256-JpW1V8/5W/8WeSl+a9Rw8LjaSuw/KotfsK7jBxu1mNw=",
+      "hash": "sha256-I1GDzvWbhRKxoTsk4ko70noTLLOyyLisw/IOqFFP1G0=",
       "url": "BestiaryData/bestiary/5973-pachycephalosaurus.html"
     },
     {
-      "hash": "sha256-y1qTAxQMl0VlGSExzWl1De8g5sKOPSqbl48pnV+WdQA=",
+      "hash": "sha256-n8I8E8lZnC5TnwQ0YcYX7ey/aQ9N7QFKv0fXxHlnZ3U=",
       "url": "BestiaryData/bestiary/5974-sarcosuchus.html"
     },
     {
-      "hash": "sha256-QApDfVvNEJag0GLOBSGu11beoX1aqf9+qjOr3yGrJ0U=",
+      "hash": "sha256-CN9ngDvfOs+MiCm06C4Vv0sgbne1ftbK1hy7Wlw8TrY=",
       "url": "BestiaryData/bestiary/5975-therizinosaurus.html"
     },
     {
-      "hash": "sha256-BHqd/4tGty4ZZ5gaOPxzYX0eMUwT+z6qXzJeqDQ+3G8=",
+      "hash": "sha256-gmUCrVqEiBVZl95Dl6yu8c+tdtYBvHy2ktGCcXyrFhE=",
       "url": "BestiaryData/bestiary/5976-titanosaurus.html"
     },
     {
-      "hash": "sha256-y3iuUcZli9givwLJfyXdnyb4sK7GQGv7o0gDcTxRfQs=",
+      "hash": "sha256-XlTlpZMPU+VYjqa3SrpPJgoTCIN2qiP1OjnsEihql1Y=",
       "url": "BestiaryData/bestiary/5977-troodon.html"
     },
     {
-      "hash": "sha256-YxZ0xtn3JzSt29z9lXpI7cHS3Grn3lr/G6GofsnBLsc=",
+      "hash": "sha256-xFm7YhOKvmrUjlji9ymXzvOBygCKBz6qi9iKQTJ1QB4=",
       "url": "BestiaryData/bestiary/5979-allosaurus-zombie.html"
     },
     {
-      "hash": "sha256-GTu4xt7aur+gCLc5WooI/JQ2ANHGS1yYgOFX7Hr1nvg=",
+      "hash": "sha256-Ghd+jbiK1Rl6u6pVZb6Ts/8DJptGikzTE9s/VKI8ZlU=",
       "url": "BestiaryData/bestiary/5980-archelon-zombie.html"
     },
     {
-      "hash": "sha256-51jXUiEtaY0Om0clz3UO/mWBWeY9vSlazSKCHoIDkKs=",
+      "hash": "sha256-NF9R74lakawV7zynHbarZj7CFlj+8rhmNIVnAnUVFaw=",
       "url": "BestiaryData/bestiary/5981-brachiosaurus-zombie.html"
     },
     {
-      "hash": "sha256-lTH4wqdh/BaLk0olS4pBka5+TMWC1/6c605Pj2M2qqs=",
+      "hash": "sha256-QUpXTiIvsP2g5OSViKp3nhrltlRN4k4VLDe7lI2j37g=",
       "url": "BestiaryData/bestiary/5982-brontosaurus-zombie.html"
     },
     {
-      "hash": "sha256-6NVjXdmOtIXXHQCQsjibMsNjpUHQ5ROnP9HyEztTNR4=",
+      "hash": "sha256-R9I8a3ddczm+CvzCToU/P7X0veml1AHZmV+Hm3NbbV4=",
       "url": "BestiaryData/bestiary/5983-velociraptor-zombie.html"
     },
     {
-      "hash": "sha256-a0oN6ZjKhEjJjf0s9o6BLiT2owMGWKkHfMWRSZWAPpI=",
+      "hash": "sha256-TEOfub7K7rv7niv5QtrNSC3N2gUmR1m3G1UvCJoqxzc=",
       "url": "BestiaryData/bestiary/5985-deinonychus-zombie.html"
     },
     {
-      "hash": "sha256-kr8hEQEEtbBN01ydngIpB4KVm5KdFUgIBYbk3+jj7Ao=",
+      "hash": "sha256-vK5lU2bALz1OI3IWKxbbjT8jOr6xboD9UIv+PoUDSXE=",
       "url": "BestiaryData/bestiary/5987-dimetrodon-zombie.html"
     },
     {
-      "hash": "sha256-8d7xysjzM7CMMEFUGPPWRPJR6KhKuxeoIGJONjGJPdA=",
+      "hash": "sha256-/e+7EQ+2v9anmxTBTAujj0xms/RtQ+dl7FkH1R3Jh2U=",
       "url": "BestiaryData/bestiary/5988-dilophosaurus-zombie.html"
     },
     {
-      "hash": "sha256-vZyWe7cO8Y+fn6VfUvNqfCY3DDJqaDhI7ItRekc/CD0=",
+      "hash": "sha256-NKeqORaz7gvFIduPQSsQKgx+JY3XODfA9uasu8ccSKM=",
       "url": "BestiaryData/bestiary/5989-hadrosaurus-zombie.html"
     },
     {
-      "hash": "sha256-afbDY3YAu7yRWjTbx1tPIq0oOY4XQTmApcX1inZrrp8=",
+      "hash": "sha256-/WJDRAzql0fDSbnhx13fBUIDDghwd4N502qZK3gJZRo=",
       "url": "BestiaryData/bestiary/5990-giganotosaurus-zombie.html"
     },
     {
-      "hash": "sha256-WoB0UTQ6U+M9LMJmpRGk3D/MK7OWvKXZp6EBPAFttYQ=",
+      "hash": "sha256-SqVwzOScg3VOtw90XIc5x+TbintZYvI/XSSZGW/2y0U=",
       "url": "BestiaryData/bestiary/5991-zealoraptor-zombie.html"
     },
     {
-      "hash": "sha256-CiP3ClsQ+uv4QnBBalhsNiErwW9P05wNgy1HK8nVa5U=",
+      "hash": "sha256-bS1j6P2wscwhhOX4ubIImWyVz+tx5ZXQuLt53tAyfsc=",
       "url": "BestiaryData/bestiary/5992-quetzalcoatlus-zombie.html"
     },
     {
-      "hash": "sha256-+nFfgqdy8pZgS0+bTyhcJhRamJYw49/jtZHzLE0mod4=",
+      "hash": "sha256-MUmah/rYh7YTRefQY6c5grgYWGGsNk30+NhajfdrR9I=",
       "url": "BestiaryData/bestiary/5993-mosasaurus-zombie.html"
     },
     {
-      "hash": "sha256-9ld9Pqe1iC47mab/6ian+W2nydLloX/+xIPM+4jWfGE=",
+      "hash": "sha256-IOmztzxtKRwNRgkxCU5yvVNkASBLAiSOQzbWobKX/Gs=",
       "url": "BestiaryData/bestiary/5995-nemicolopterus-zombie.html"
     },
     {
-      "hash": "sha256-yLnGqZH374uisrkG74l/tNHtm+9tD1uppUxLX+WKFZw=",
+      "hash": "sha256-0+TDqbtGHHKzyATI2QhnyMdAZqIegcPUom8j5/sUcRE=",
       "url": "BestiaryData/bestiary/5996-swarm-of-nemicolopterus-zombies.html"
     },
     {
-      "hash": "sha256-sPERvys/UlojMxNrJB9LF3aCDHBtQGGJQcueUuyef40=",
+      "hash": "sha256-ufyuArlCUfvbgalB/HDWMiDiAt7siHEGMxHMfwxHhZQ=",
       "url": "BestiaryData/bestiary/5997-pachycephalosaurus-zombie.html"
     },
     {
-      "hash": "sha256-tcyrr1nSgKyU1Nc/ris2xvtBj9CToxb0MiQyjiCqrCg=",
+      "hash": "sha256-hKdj3VRTNdrGw4b3O8Uui+HLpEY0b8b2/oz8yrCvipM=",
       "url": "BestiaryData/bestiary/5998-pteranodon-zombie.html"
     },
     {
-      "hash": "sha256-+lZ1JoMD622lbMQ+v8bqFkdDCk01CUuKm6Pu1yWw+XU=",
+      "hash": "sha256-xh19Z2s69QVLU0kPmi0xA7r3dZB8hN9EdnFn1h66L/8=",
       "url": "BestiaryData/bestiary/5999-plesiosaurus-zombie.html"
     },
     {
@@ -6218,35 +6218,35 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/60-darkmantle.html"
     },
     {
-      "hash": "sha256-nfPu6Kx+xZBu0l4dzOTq1XFsrbBhgnA7ITaaJIXUhYA=",
+      "hash": "sha256-qz4giPixQxDcypwFy6luXoewnvsitpDOjyB9LyekqF8=",
       "url": "BestiaryData/bestiary/6000-sarcosuchus-zombie.html"
     },
     {
-      "hash": "sha256-+k6e/2m1bt4k9EbVT74ZvflGXzi1wmj1Ixi/VTeQxkQ=",
+      "hash": "sha256-pW4KJ/mpWJ+7UdpkHnhGoR2P3rFNwoHkk8avR0+/7lw=",
       "url": "BestiaryData/bestiary/6001-stegosaurus-zombie.html"
     },
     {
-      "hash": "sha256-IZ2GWpDG/lg1SAUv9WEnP6dOeRjYGlIggoSfut4vmEc=",
+      "hash": "sha256-B3sQzhgpLQs/t8nQepQWupvZ0IlU+GYrvpL/e3orbeA=",
       "url": "BestiaryData/bestiary/6002-therizinosaurus-zombie.html"
     },
     {
-      "hash": "sha256-kDUo6FUCXiRJq7tnB5DCJ910qc36xfv1eLNrM0NfWcU=",
+      "hash": "sha256-xbOFWWd/39UmYUQKgH3CmPEUpt3uaIoLBX+XBe6uhI0=",
       "url": "BestiaryData/bestiary/6003-titanosaurus-zombie.html"
     },
     {
-      "hash": "sha256-R8ZukXMBdgDugzsTnaSN6sujFI8Y1nhk/sZa24Apr3I=",
+      "hash": "sha256-oBntiIfylo3ay3jl7hadqg7wayphaySOEFuDDdJ+hf0=",
       "url": "BestiaryData/bestiary/6004-triceratops-zombie.html"
     },
     {
-      "hash": "sha256-8eKoJp2QRbbOdU8QgvNgLzc3eLT05yIMTyLwUyXawtc=",
+      "hash": "sha256-42efhTY+F4/dGPSKi8CfLwVcewymm14rQ/RnIKDfyo0=",
       "url": "BestiaryData/bestiary/6005-troodon.html"
     },
     {
-      "hash": "sha256-o2hhMkBXUFF+30IrASHptsW7dWrL3BZeGq/ZwkTsAx4=",
+      "hash": "sha256-sPf0BkEkVvn0dVvXpV0Z9s2P1FHAxvgsn+4FVFd6Pts=",
       "url": "BestiaryData/bestiary/6006-artus-cimber.html"
     },
     {
-      "hash": "sha256-dzhvpXO/8D/xni9A+kNO6pPyi5aofuYrBxvj8/iGcKs=",
+      "hash": "sha256-nxbJAjkFm8Cc02YO3nHvl52mdn4ddYhlSO/5pK4XIqE=",
       "url": "BestiaryData/bestiary/6007-volothamp-volo-geddarm.html"
     },
     {
@@ -6254,7 +6254,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6008-albino-dwarf-spirit-warrior.html"
     },
     {
-      "hash": "sha256-9y1cJhZpCGwiuFb7/ZxT664wLcAg9AFGjacNGkrR2cw=",
+      "hash": "sha256-BBkF0EbfSRrJvIWHX4UXcATSC2Gyl1ZSHzkm2OpO3ag=",
       "url": "BestiaryData/bestiary/6009-dragonbait.html"
     },
     {
@@ -6270,11 +6270,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6012-yellow-musk-creeper.html"
     },
     {
-      "hash": "sha256-uwaaJnIJDr4ZWHgqRDZ68F3a/7HWIaPVPVvkXJ+N6lU=",
+      "hash": "sha256-/hmamyYNTf+6Nlrr/aHBmAqVdwCPS61oxb8PApiF1gA=",
       "url": "BestiaryData/bestiary/6013-xandala.html"
     },
     {
-      "hash": "sha256-TYHSdZS18NRZSSGW2kbz9jGzOjxCejJWPgi9Trs6uiI=",
+      "hash": "sha256-n5Q2g7KQDI3ap8foOZRmLFQSaUL42/yLD5+FO7unG0w=",
       "url": "BestiaryData/bestiary/6014-zindar.html"
     },
     {
@@ -6290,15 +6290,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6017-tyrannosaurus-zombie.html"
     },
     {
-      "hash": "sha256-PHtiQWGDIAw/yfqr81lqDsVuB7xSdFG9ARDvEC1iT8k=",
+      "hash": "sha256-jEJtM1qedTTGwjNMfbvID2ejvX+39SqCN1wG1qFMcUY=",
       "url": "BestiaryData/bestiary/6018-liara-portyr.html"
     },
     {
-      "hash": "sha256-C/QPxv6rxma7QdU/KpY6yZ5b3LuggEe/POzTYeKjM4c=",
+      "hash": "sha256-vmle9cvts+1NoDK/xKxIqSwkKQwOO0u+P/4FyQ8t3tY=",
       "url": "BestiaryData/bestiary/6019-mwaxanare.html"
     },
     {
-      "hash": "sha256-AT19pRLvk7w8ECyJJ1RtyrNPLHQE5H/5ieMJ5z0mysA=",
+      "hash": "sha256-7G+s0x2njLJi2WnizYCYvHmIgZh2f2Qde0+9jOG0TJ8=",
       "url": "BestiaryData/bestiary/6020-na.html"
     },
     {
@@ -6314,7 +6314,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6023-eblis.html"
     },
     {
-      "hash": "sha256-6/SqOyRufRYjw4N/eRfOLNlN21iDw8/zva0kK+LMwww=",
+      "hash": "sha256-+ZoloQx6vmiJLu16sHR4bJ2eqDu6g2CjvUtUMLmnukc=",
       "url": "BestiaryData/bestiary/6024-asharra.html"
     },
     {
@@ -6338,7 +6338,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6029-musharib.html"
     },
     {
-      "hash": "sha256-qjljqFL5rB7dhYoW1GN3zxabRgB+ZqVRkMxlZjQ6bWQ=",
+      "hash": "sha256-OrJ0ADVD1f9QpdNnJQb+BcdfT6V2GNukqJ8fnUVaMPQ=",
       "url": "BestiaryData/bestiary/6030-salida.html"
     },
     {
@@ -6382,11 +6382,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6043-clay-gladiator.html"
     },
     {
-      "hash": "sha256-m3aWBC0MsD8D4+yiMlux2CxMn1MRl923THIDaEqwVcg=",
+      "hash": "sha256-3NP8c2deYf75Bc6DdUXWKJpVSoHqZ4VeCd1kDku4TPE=",
       "url": "BestiaryData/bestiary/6044-drufi.html"
     },
     {
-      "hash": "sha256-4koZYyENQj/+CvS+ibavtxG+k53lPorjtUguGNMMwy4=",
+      "hash": "sha256-5vQ7hrboe8+GBofhzmZt0zwpwq91hHVQpERAlBnk0/k=",
       "url": "BestiaryData/bestiary/6045-wakanga-otamu.html"
     },
     {
@@ -6438,7 +6438,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6057-mister-threadneedle.html"
     },
     {
-      "hash": "sha256-sjFUQY+U48T7+RS/19UuN3EHXMxKXkhHzD5W4D1TpN0=",
+      "hash": "sha256-ISCaQQK1FqcSyKIi+8hUr95ylrKTM5UInoTpvul9Wgw=",
       "url": "BestiaryData/bestiary/6058-nanny-pupu.html"
     },
     {
@@ -6498,7 +6498,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6072-wild-dog.html"
     },
     {
-      "hash": "sha256-d5MDTF+1grUjvFTLcLHKLVJh9liRU1Hzp6zOs5qnKIs=",
+      "hash": "sha256-5VG7q0p0dAjMHo+vQUFsgR8tgB08WXo0hdYXuZbKUiU=",
       "url": "BestiaryData/bestiary/6073-wine-weird.html"
     },
     {
@@ -6506,11 +6506,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6074-withers.html"
     },
     {
-      "hash": "sha256-NWQ/SVEDTqeK3lfjP0m2Eypt8DuGU9iyuUiilImZSEA=",
+      "hash": "sha256-ix9W/G6nEkT5hMlfDx/VXVWp/2zFyl/j3vG10Hl2YIA=",
       "url": "BestiaryData/bestiary/6075-yorb.html"
     },
     {
-      "hash": "sha256-6qjT9M2VW16NZIq+qTxmE5fWLUGqpsbya5AJPf63S8k=",
+      "hash": "sha256-e4MRdmEQD56715e+mHEqQa+1uoiMU+SbEQYgEByTFp8=",
       "url": "BestiaryData/bestiary/6076-yuan-ti-priest.html"
     },
     {
@@ -6522,7 +6522,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6078-zebra.html"
     },
     {
-      "hash": "sha256-efMbDg+0EmBSjXceI4um12iN4M0ri8XM+lfnclFuIgs=",
+      "hash": "sha256-90IfzmzgvYRCzyznoAJkXOimHfZGIk+3XXOqHsmJS5s=",
       "url": "BestiaryData/bestiary/6090-duergar-kavalrachni.html"
     },
     {
@@ -6538,7 +6538,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6120-animated-statue-of-lolth.html"
     },
     {
-      "hash": "sha256-mXfU70v01V1A0M79uFzbYfHDJAlJc1wOPZGsINa9cqs=",
+      "hash": "sha256-TQchw0MerQfHItZ1C3mNn0k+Tdfn35Kfr4C/YHaFNLs=",
       "url": "BestiaryData/bestiary/6121-undead-shambling-mound.html"
     },
     {
@@ -6558,7 +6558,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6137-ashtyrranthor.html"
     },
     {
-      "hash": "sha256-bqUv009F/BP2GZMRACoBDMUMgCfMwlho+2ghwPlpFYs=",
+      "hash": "sha256-7u+w1VpukfP2rxRa76tF5PSlzjf7e9HEEhIyJcuZLSU=",
       "url": "BestiaryData/bestiary/6138-crystal-golem.html"
     },
     {
@@ -6618,7 +6618,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6152-ezzat.html"
     },
     {
-      "hash": "sha256-QvsyOIY9dG1GokhuA/zdxWot4OVN+bUSYA8tUnjtSVk=",
+      "hash": "sha256-CsZCI1qB7w4E2ulL6Iy9ziVcydRZLflkGwKWVNjyITA=",
       "url": "BestiaryData/bestiary/6153-hammer-handed-golem.html"
     },
     {
@@ -6654,7 +6654,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6162-intelligent-black-pudding.html"
     },
     {
-      "hash": "sha256-il8Tu+1d7q57oQbvVjE8zadtUkBXDuqRwTmWnpY5J5w=",
+      "hash": "sha256-Kls0gYXl5YUIPt30qFGYRNagGzB4p76KzFHMY9J7UFQ=",
       "url": "BestiaryData/bestiary/6163-huge-gray-ooze.html"
     },
     {
@@ -6662,7 +6662,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6164-portia-dzuth.html"
     },
     {
-      "hash": "sha256-boVfyadlXuvKSaiyvoZwGY+t4hIaq8hKzvDB3z2WMn0=",
+      "hash": "sha256-WqzlnA07HMTOB2HgC14g8GOwz/NYEjdlYN0sDEP6+sI=",
       "url": "BestiaryData/bestiary/6167-keresta-delvingstone.html"
     },
     {
@@ -6694,7 +6694,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6175-carrion-ogre.html"
     },
     {
-      "hash": "sha256-JxiiRd+zwMNJF5foQmWDgG9SSUR1rdKxJZLe+VqNpiQ=",
+      "hash": "sha256-bTGdIslr4/NP0ps2/2AdtJRWK4AGIn3q532fazBonuk=",
       "url": "BestiaryData/bestiary/6176-giant-two-headed-rat.html"
     },
     {
@@ -6734,7 +6734,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6185-riina-freth.html"
     },
     {
-      "hash": "sha256-KQDyL8pURildQ0EPq3/xcSECraVa4+AAZJqDIIGIGOQ=",
+      "hash": "sha256-3vw9AyxQ80obpRNkv46SzyDS014NklLwYwv7Z7Bthps=",
       "url": "BestiaryData/bestiary/6186-iron-spider.html"
     },
     {
@@ -6746,7 +6746,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6194-runed-behir.html"
     },
     {
-      "hash": "sha256-E8zt67TItzt3Q040pEqzBNBuADvBpcnjmMW2RQmEaHs=",
+      "hash": "sha256-EbDfuQXnROh+oqRuR4J9Ys1k1YPwYBLp6Oq7MxE3Mqg=",
       "url": "BestiaryData/bestiary/6195-five-armed-troll.html"
     },
     {
@@ -6874,7 +6874,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6225-marta-moonshadow.html"
     },
     {
-      "hash": "sha256-QDaTrI8jHfoQNStNo/LVfwbiCZwAEzd136CbuEWLXH8=",
+      "hash": "sha256-UR/AnZbjoBfpr9+3qcvVfRDW7wonpxzZ9m1SCXjdazc=",
       "url": "BestiaryData/bestiary/6226-giant-gelatinous-cube.html"
     },
     {
@@ -6914,7 +6914,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6234-old-troglodyte.html"
     },
     {
-      "hash": "sha256-1DTMDMmW/GxvfjwYyvmtJmt95Q6k3Z8ZjuyhUvISgjY=",
+      "hash": "sha256-Gy3dpkEkznXwVqjSSFwbvX988D8ewSd0Pw44/M1ivrY=",
       "url": "BestiaryData/bestiary/6235-large-mimic.html"
     },
     {
@@ -6930,143 +6930,143 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6238-sundeth.html"
     },
     {
-      "hash": "sha256-llvEmMi8iZa3p9ke7Bs5pXB98GucCVwpUA3EmUimeLs=",
+      "hash": "sha256-ScuOzOpDGw+oPjL9Y/9p6Xt1ObpNC/RYClBTdPmGxjQ=",
       "url": "BestiaryData/bestiary/6239-amethyst-greatwyrm.html"
     },
     {
-      "hash": "sha256-rZm8tIpgUXpeoFqK2xBt6WRdfQ4PMYTMZdT6VGe3DBY=",
+      "hash": "sha256-pmCQLEYSOjQ3wDdr8eeMPZ1oOIH6MGZ1Qy+fea3nU1s=",
       "url": "BestiaryData/bestiary/6240-adult-amethyst-dragon.html"
     },
     {
-      "hash": "sha256-xVTt7j9KLRm1rg7lQiNUQhghk85sxlB4oxbsu2h/vVE=",
+      "hash": "sha256-ubVEr1kfUYSzH3lKMHs8KbGb8ksGJ5dlLP/A/o87oeY=",
       "url": "BestiaryData/bestiary/6244-young-amethyst-dragon.html"
     },
     {
-      "hash": "sha256-vbfXuvRvzRPD3tRvu3u0UQXNwAv4MDj1CexzjtXA/qE=",
+      "hash": "sha256-QaXU0cZ6pwWNrnm3S6fLQ2WqOTVceKnNERdTWknKVn8=",
       "url": "BestiaryData/bestiary/6245-ancient-amethyst-dragon.html"
     },
     {
-      "hash": "sha256-hnCjubuBM2kkgqXt1ELyNNSd3K53at9dIj7al6OlbnM=",
+      "hash": "sha256-XP+jQQv+NPr/tEJbLTTAMGpfBp0GdMFh3J8UYN0ekg8=",
       "url": "BestiaryData/bestiary/6247-adult-crystal-dragon.html"
     },
     {
-      "hash": "sha256-jEa9K3OsOLGLC0yuyOVkV5BgpTCZi6xFpOuJngghIbk=",
+      "hash": "sha256-qGCEy9hVDmWAcTGmFlqbgzpBV2ysN09VYlruLEfphiI=",
       "url": "BestiaryData/bestiary/6248-ancient-crystal-dragon.html"
     },
     {
-      "hash": "sha256-wnI6VzVUcUIvkXlp9pM7ALl/rwHZfZ04svQB8cQzPn4=",
+      "hash": "sha256-PJ9YmoV7aDn459YuOFZVQeqIAWcxjOwZ//w1nocJDBk=",
       "url": "BestiaryData/bestiary/6253-young-crystal-dragon.html"
     },
     {
-      "hash": "sha256-gDfHC2ve5VOFJf1a2XGhE+Q1Bkz5L+ZOMOVLT+00EJ8=",
+      "hash": "sha256-4SXQg1bpKybp+p/AWDKmJOzL9irxKSMAJ2ZZWCmhHuM=",
       "url": "BestiaryData/bestiary/6254-crystal-dragon-wyrmling.html"
     },
     {
-      "hash": "sha256-RkNBHUpXMWrGLXNpm1uszGPJGV/14XdUvaLffqG28fQ=",
+      "hash": "sha256-cVs68MveWlSH5WDiBbAYlb6qYXnLFNN0cDeFd3INBQ8=",
       "url": "BestiaryData/bestiary/6255-crystal-greatwyrm.html"
     },
     {
-      "hash": "sha256-dNJCPIBZ5SGQCHgwc5xnfjQkmmg3gPzK/3lk2zKWZNQ=",
+      "hash": "sha256-ut3woFuwKLBAwC55ptZikzEjj73sU3NNju3HXRlpGRU=",
       "url": "BestiaryData/bestiary/6262-ancient-deep-dragon.html"
     },
     {
-      "hash": "sha256-WCvl/NeuZnkU1gFs4KWrwuTKPfBxhJDFJoEeegZxk6c=",
+      "hash": "sha256-16ypJmqPtvC104cQj3tUelQeIz011cSyw4Vv75Rhync=",
       "url": "BestiaryData/bestiary/6263-adult-deep-dragon.html"
     },
     {
-      "hash": "sha256-vsdih5ZeNkK74Hw7VjuDp1v8ejIGRl7RFXcn8sW2P2Q=",
+      "hash": "sha256-0fRePnCyWJG+ejQanAYCYFVa9BKyz2/0f5ICWrOqsKU=",
       "url": "BestiaryData/bestiary/6264-young-deep-dragon.html"
     },
     {
-      "hash": "sha256-UFNBFtdZsrXh+OCq4lUbhHY2o/zVRl8frUoWB9x6W+4=",
+      "hash": "sha256-70weh4vbtsVPpIEiw7eLvze19kcEUv+uaWHooohcG6k=",
       "url": "BestiaryData/bestiary/6265-deep-dragon-wyrmling.html"
     },
     {
-      "hash": "sha256-VFjC1EZaIfxYaP55p4GBcK5+HPW7X39PY08qYnxjBE4=",
+      "hash": "sha256-dcstX3hFYOFEt5YgmVG/sO7298yeXmSw3QzQ4cssLso=",
       "url": "BestiaryData/bestiary/6266-ancient-emerald-dragon.html"
     },
     {
-      "hash": "sha256-Te1Dag6Pgr9M6OdowFQtnL0ZEHl0xn7AANMHyQwRtms=",
+      "hash": "sha256-MIDrnBpwab/Q7njbNivAi2J1ZxGiYcSra8XkE4CCdcA=",
       "url": "BestiaryData/bestiary/6269-adult-emerald-dragon.html"
     },
     {
-      "hash": "sha256-HN/nQoCdQLLz7f+3GNuFQ9M0BnxsDzAozGGGzLGZkm0=",
+      "hash": "sha256-K3G7iFUFg0VIYgIpK0CAqYs2m2E0eoA0xxSeJtoTjH8=",
       "url": "BestiaryData/bestiary/6270-young-emerald-dragon.html"
     },
     {
-      "hash": "sha256-rj0Gs1joYSd/SWnmG6TqWcoHuhtkLSEUv65BACWtAI4=",
+      "hash": "sha256-GePD3fj/1ognUqFCYlcHrtJcUWT5giTl6500kBYR3yo=",
       "url": "BestiaryData/bestiary/6271-emerald-dragon-wyrmling.html"
     },
     {
-      "hash": "sha256-mTmSdSVQ6Z3kh2sdbIvx+QWs6iI+RqSDsHjeRY9Mzfo=",
+      "hash": "sha256-mdnVBBJhakpchiA/Ve/xiNkrCvOkaX/EzJFDKcn2vCk=",
       "url": "BestiaryData/bestiary/6272-emerald-greatwyrm.html"
     },
     {
-      "hash": "sha256-BQeKUTGoDXoL8LJhvMqeHpI2WguqTkvPQ4duV+K6LD0=",
+      "hash": "sha256-7N+c8CCl6HlNE2Om1VJH39ozGml+fO47pKFQqVYTKzg=",
       "url": "BestiaryData/bestiary/6273-ancient-moonstone-dragon.html"
     },
     {
-      "hash": "sha256-St7WlbrdcgHKl0B6A68W62A74PKZuaySDr/Rxx/Ks2M=",
+      "hash": "sha256-OMaK9gwDGV6jronsgDdnrU56hrGCoSQaeYoB/D6OhXs=",
       "url": "BestiaryData/bestiary/6274-adult-moonstone-dragon.html"
     },
     {
-      "hash": "sha256-KCWzPk21g6UDIJ1xL5tcJ8AUJcfp6VMSwpRIfb5tgvM=",
+      "hash": "sha256-HOzAMQZC0WLhNIlQ9dUTesOrY7uV+EXnQNvCUI1k5L8=",
       "url": "BestiaryData/bestiary/6275-young-moonstone-dragon.html"
     },
     {
-      "hash": "sha256-DBeXjndPq6EnyG8wRfmYcS07ZmprrupPmK+uLRSofZ4=",
+      "hash": "sha256-VcqMWkSn50W5EMoWwmjy98/wQZmO5Pj41IJbFj6ze+s=",
       "url": "BestiaryData/bestiary/6276-moonstone-dragon-wyrmling.html"
     },
     {
-      "hash": "sha256-hdrhdvK8ZUtiXmR4a0JOipj2QCbS4U3w7KcBqrxFWlc=",
+      "hash": "sha256-Ik0QFPJjN+o888f1/HzrrPFAl/bZfUAl3Qrrhc2kNFs=",
       "url": "BestiaryData/bestiary/6277-ancient-sapphire-dragon.html"
     },
     {
-      "hash": "sha256-7wStgeUIAvQIQubLE9LaZgfeOva+0ZsN09qPMCk+v1A=",
+      "hash": "sha256-Nax/LPHISDcaZ6ys88n3e3cVC0gu6brp2vMzwTCp/bc=",
       "url": "BestiaryData/bestiary/6278-adult-sapphire-dragon.html"
     },
     {
-      "hash": "sha256-9HodDOVn8quXjqPSi7aU71kNRJNjAbNOawzD5wKt11g=",
+      "hash": "sha256-HrNk10wLAfH3oDmR3Yo5Zm0gwJ7f+WMQNsmY0b73D8s=",
       "url": "BestiaryData/bestiary/6279-young-sapphire-dragon.html"
     },
     {
-      "hash": "sha256-uNqFBlAkl5eMsb9kDMjHaJ6NjaK/hHG7LohwVMsfG1k=",
+      "hash": "sha256-6h82/D92DCKFAXQsmVZqLa88NMvjkBTaOkTDdBIcMrY=",
       "url": "BestiaryData/bestiary/6280-sapphire-dragon-wyrmling.html"
     },
     {
-      "hash": "sha256-HX0bOWKNvr5FRgIe1hotTYnqIvt0o6I2nz1oPb7QOYY=",
+      "hash": "sha256-yBvtvFN+7CRikJyQcoslBmEgTSdwMdvD7IR/2amh1+E=",
       "url": "BestiaryData/bestiary/6281-sapphire-greatwyrm.html"
     },
     {
-      "hash": "sha256-3Aa5JoKuAx528YJRZyP86O68h+xFaIFyDz0OTVAD2z0=",
+      "hash": "sha256-hbbXSb8WiVuhRx4Q8vtz9L+Dt0yBpfM4NqesTr9SWpc=",
       "url": "BestiaryData/bestiary/6283-ancient-topaz-dragon.html"
     },
     {
-      "hash": "sha256-v7efEmtt447oPS0Nw0joFKKGjAZlWOUYOq6xWa0fqxw=",
+      "hash": "sha256-XwC5CstvvQ6SK4n2VL6OGpknlAgZddnYokMYLoSAL9E=",
       "url": "BestiaryData/bestiary/6284-adult-topaz-dragon.html"
     },
     {
-      "hash": "sha256-6QWr2xZPMQ26JeHQmik5jNfZa+MvOiztkxXUlOQexjA=",
+      "hash": "sha256-FFfCmC14Yx/c/ng84klZBQV8IhaWsZx6WtjxPcKVsWQ=",
       "url": "BestiaryData/bestiary/6285-young-topaz-dragon.html"
     },
     {
-      "hash": "sha256-EVL7Quu1b+PTehInsAU9tovJZ0iUz1Mh2jCbCNgb0YU=",
+      "hash": "sha256-OGUGSyncAc7i3LffSpm4qPMkfuqtE3dGuy9nP+og1Kc=",
       "url": "BestiaryData/bestiary/6286-topaz-dragon-wyrmling.html"
     },
     {
-      "hash": "sha256-Q7IVbATTJCb+PBmIymZ7JDzxsy4Z38EHQ9L6NETWZHk=",
+      "hash": "sha256-5WAgtcTul6b/wp20Dda0cjUN8BkvHlLIc5/fmUVJnZA=",
       "url": "BestiaryData/bestiary/6287-topaz-greatwyrm.html"
     },
     {
-      "hash": "sha256-THnk3ne2VZTOwWozbHtM2LPiCrfi63GjkPr6DqXq8wM=",
+      "hash": "sha256-Cq0i26l51YUklSjMmKabC1jiVuqcNKfDaQxymb8g3q8=",
       "url": "BestiaryData/bestiary/6288-ancient-dragon-turtle.html"
     },
     {
-      "hash": "sha256-eX2gG8glEinnDa5o4AjDDhKZxLGhjQvHWdW1IgbcINw=",
+      "hash": "sha256-kXJOEHjEhvh5btq8rgb+6vcNqsyaOMNPLSWG3+R5shU=",
       "url": "BestiaryData/bestiary/6289-young-dragon-turtle.html"
     },
     {
-      "hash": "sha256-ew3Hq/eeNMgjAT8v3e3E6+gFMI0CT5fmEVY29v+Wn/c=",
+      "hash": "sha256-vWIZusfw8/B1K/gnmUGFiBbQZRtJlQtULYr1+yLB5AE=",
       "url": "BestiaryData/bestiary/6290-dragon-turtle-wyrmling.html"
     },
     {
@@ -7082,43 +7082,43 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6293-animated-breath.html"
     },
     {
-      "hash": "sha256-7KZdaGU5iTDz4QNH2hF3C1X1LO95zuSsRZWvqbOjGtI=",
+      "hash": "sha256-KfOzJugWN1wc3q3d7SpNU1HTTN6cIwMODRVnJ2bnI2A=",
       "url": "BestiaryData/bestiary/6294-black-greatwyrm.html"
     },
     {
-      "hash": "sha256-XMD0XmEurRcwsTgG115JTeSjNsMwgmkR26na6kgtxMg=",
+      "hash": "sha256-bWq38RbjAxdS05KF27zYwQw/RwDQMu/ZkuNVCO933Nw=",
       "url": "BestiaryData/bestiary/6295-blue-greatwyrm.html"
     },
     {
-      "hash": "sha256-rA113ZSL7zbbi+83ob/ohEfiv0jgBUGkOep6DylLm2c=",
+      "hash": "sha256-CixBdnwq1CW7j5ZX7eOWAIPm3WZ//k2oKjOxBqANOcQ=",
       "url": "BestiaryData/bestiary/6296-green-greatwyrm.html"
     },
     {
-      "hash": "sha256-VwqlJ4Cevqm6CXH91N7Ig4Hjv3ceIMU5NBuy+sCCMPk=",
+      "hash": "sha256-vwuDOhwy2Ch4zgp1cVGOMgqb2Lwp3mIUyDtV9IdhW2Q=",
       "url": "BestiaryData/bestiary/6297-white-greatwyrm.html"
     },
     {
-      "hash": "sha256-8hDP5LVXj4HX5xnjIBoFtvhjuzO++z0YF448VUeutfs=",
+      "hash": "sha256-xCy8yrA7sYIOG17mXbzHJekzoRD4Xf15EA/TvMo2z5A=",
       "url": "BestiaryData/bestiary/6298-brass-greatwyrm.html"
     },
     {
-      "hash": "sha256-L7tyxr2R51QWPTIQcNsDbwwobj6/nrJ8VT7CHgplPWI=",
+      "hash": "sha256-Wtuc7MWBoIQleChtwEjTbETiU6vemH03gYfVbOt2sx0=",
       "url": "BestiaryData/bestiary/6299-bronze-greatwyrm.html"
     },
     {
-      "hash": "sha256-elK/+7eGGtbypLUa8BjrMSYvjP2Gp9QZuEvn/5wUzUU=",
+      "hash": "sha256-CazZJpsjcjRx+HResCjqKDfZ4aRDx/H8y47rHH9ZtXE=",
       "url": "BestiaryData/bestiary/63-balor.html"
     },
     {
-      "hash": "sha256-jzAWi7DnjrHvAPO28mEdZ/j2diYer9yiOOpb4yrGvx0=",
+      "hash": "sha256-b9qC9RRlcgvyjco2yV1E33nquu55g3unKia/yo9HkpU=",
       "url": "BestiaryData/bestiary/6300-copper-greatwyrm.html"
     },
     {
-      "hash": "sha256-OTaC8PMWSgjlgrQqDdylUu2Qj/Kx/wlq6momH7taaO8=",
+      "hash": "sha256-XHVzvMpLjH5VDbkQ/YDqpWiWXMeYYRNyreRfuuRUyRQ=",
       "url": "BestiaryData/bestiary/6301-gold-greatwyrm.html"
     },
     {
-      "hash": "sha256-kJi8gc2Q3GjWU3vJrFXCluta5gLPjeCEV4ls+5RCvK8=",
+      "hash": "sha256-U53wLWyjYtkDjQsE6g6F0JLF6dWgIRtEBNUCpBRm+nI=",
       "url": "BestiaryData/bestiary/6302-silver-greatwyrm.html"
     },
     {
@@ -7190,11 +7190,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6337-dragonflesh-grafter.html"
     },
     {
-      "hash": "sha256-O3Csi+2nsMJj342SicLTUDGYZ+6d+uRbrcKshDGTPfA=",
+      "hash": "sha256-gTXS0vuJHcyFXukWyCa5w8ZuaE0hj/hCsRM/osODs1c=",
       "url": "BestiaryData/bestiary/6338-dragonnel.html"
     },
     {
-      "hash": "sha256-Zf6QUY1gMn+/bEAmwc1uN9nIg7amH/6aWdEv7B4wXCU=",
+      "hash": "sha256-s+YWga+f0xngT5Qmz/gpnQENIxZlI2aUihTu3UYet+w=",
       "url": "BestiaryData/bestiary/6339-egg-hunter-adult.html"
     },
     {
@@ -7206,7 +7206,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6341-elder-brain-dragon.html"
     },
     {
-      "hash": "sha256-T1jHnVwzHto3btynDPok/t6OMlRjdDXbeGIT7nlN028=",
+      "hash": "sha256-a3HRyASuM6dNRiNu3+E853EnD637mRv8pDW4aCE9RU8=",
       "url": "BestiaryData/bestiary/6342-eyedrake.html"
     },
     {
@@ -7218,11 +7218,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6344-ghost-dragon.html"
     },
     {
-      "hash": "sha256-6jtdnWklVVPO1RvTM0R/WFMYdj06HSC4zZ0J2hASfK0=",
+      "hash": "sha256-ua9nzTpFAz2TJbuDzy+V++otp6wkFNW/B2GA3k+Y7Ls=",
       "url": "BestiaryData/bestiary/6345-hoard-mimic.html"
     },
     {
-      "hash": "sha256-HgR6REcd/50ktCFpF9Zb/pQ8IWiWRcl0jiraB7UdTZg=",
+      "hash": "sha256-59LYyydwA3K9rkzM/6Ipc6y6EDlmZfYNFP4leD2+Jm4=",
       "url": "BestiaryData/bestiary/6346-hoard-scarab.html"
     },
     {
@@ -7246,7 +7246,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6352-swarm-of-hoard-scarabs.html"
     },
     {
-      "hash": "sha256-JSW6FHBD8+ZkqPrmLeTbSeyGm42y83RZsAiJRbNZA8U=",
+      "hash": "sha256-edTvGUo9QVPCBX5gmEl87VSPXPq9ouA9A3E0nTOR3Ns=",
       "url": "BestiaryData/bestiary/6371-archduke-zariel-of-avernus.html"
     },
     {
@@ -7266,7 +7266,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6378-reaper-of-bhaal.html"
     },
     {
-      "hash": "sha256-hgBIn98dYozq7eeAnS3p4Ldn5sfhJ/TWp5NCbq7LZfo=",
+      "hash": "sha256-/y93MOqQzffYZqSHmBA4OQqkBeo0MbP8UKvqoeke9po=",
       "url": "BestiaryData/bestiary/6379-deaths-head-of-bhaal.html"
     },
     {
@@ -7290,7 +7290,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6385-hollyphant.html"
     },
     {
-      "hash": "sha256-npORGnpXKEUECau+byFPoIOPLaFBp5VS2F/sRv4Xj/I=",
+      "hash": "sha256-8ApjhGANs1qUNW+kPKn2G4XOF0KUOIYH/qxjlwBO/Zc=",
       "url": "BestiaryData/bestiary/64-barlgura.html"
     },
     {
@@ -7298,7 +7298,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6401-hellwasp.html"
     },
     {
-      "hash": "sha256-gsBNRGJq5NUOsMthR0f/DR1sTthi1eU40wS6SY9SWDE=",
+      "hash": "sha256-hFjAiE73d7TisgtCyDLDN7yPf93Ik6dDZt6lD6Nw2QY=",
       "url": "BestiaryData/bestiary/6402-tressym.html"
     },
     {
@@ -7354,7 +7354,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6419-little-one.html"
     },
     {
-      "hash": "sha256-siLhpGi2Un1RcP0r/CJ6KYWgPJAZrloPzlIWoQmcO+o=",
+      "hash": "sha256-VJeUflULG3wONaKdrNDMr5X8R9fBm9XTv4pktvsy0d4=",
       "url": "BestiaryData/bestiary/6420-lulu.html"
     },
     {
@@ -7362,7 +7362,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6421-gideon-lightward.html"
     },
     {
-      "hash": "sha256-lYpVn7cVYe9gEBVe+/VUEjC+G04syyIK0/Rujtd/5hA=",
+      "hash": "sha256-/di0iYvfVVIbHb1L/ywWe1+v0I1ZZQPXUH/XCgFmaDE=",
       "url": "BestiaryData/bestiary/6423-ulder-ravengard.html"
     },
     {
@@ -7382,7 +7382,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6427-raggadragga.html"
     },
     {
-      "hash": "sha256-NBRX+pBITanK7Ic3mKHIm0rUwpTrgFt2Okm09FSoZKM=",
+      "hash": "sha256-08Olu0HacDyjdUJIS/MNdPIZu0bwToJRts+fmrWssvY=",
       "url": "BestiaryData/bestiary/6428-bitter-breath.html"
     },
     {
@@ -7418,7 +7418,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6436-bone-whelk.html"
     },
     {
-      "hash": "sha256-2EAIUrP546TCxbjaVwXnsxzxKhkgPhDrtvqz92Adg1s=",
+      "hash": "sha256-sO5O2tlj1E7M95LJGOCQdMYYC2hsg8R+B9+VjN/6mS0=",
       "url": "BestiaryData/bestiary/6437-necrotic-centipede.html"
     },
     {
@@ -7478,7 +7478,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6454-blue-abishai.html"
     },
     {
-      "hash": "sha256-D+JL6QuOve2QFHgnXFPNoXUpj7wINaZcESegPAWrunQ=",
+      "hash": "sha256-GtmJsNaVQl7WpSTP3C1jQVvG/X83XEcfrlUEUD4bsyM=",
       "url": "BestiaryData/bestiary/6455-green-abishai.html"
     },
     {
@@ -7490,11 +7490,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6457-white-abishai.html"
     },
     {
-      "hash": "sha256-TkCeHojQ1CopRdtQvcKVO98Sq+s1PueXE1sJ4z33rhM=",
+      "hash": "sha256-OgSUPZnHfogVCo3xQq60HeFAW0K0x70QfGBJ8W4f+lU=",
       "url": "BestiaryData/bestiary/6458-alhoon.html"
     },
     {
-      "hash": "sha256-D8fRonhdKsfOZtl0eT58SHit4fjAa4ikA5pNVESLS0s=",
+      "hash": "sha256-nDxP1fKSiTdzpqNfnh3wi9hYfal9ie/doqPRQVK4UhM=",
       "url": "BestiaryData/bestiary/6459-alkilith.html"
     },
     {
@@ -7502,11 +7502,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6460-allip.html"
     },
     {
-      "hash": "sha256-arAc4nlOHP3TaZjTvRMLcWysn6WWtG8YSRf+3iu+ilw=",
+      "hash": "sha256-sYFrDkwHtaYljWw12qqq7KihO0TKPtnXfJDyOATZfDM=",
       "url": "BestiaryData/bestiary/6461-amnizu.html"
     },
     {
-      "hash": "sha256-ZMNv9tJsldodCpyiQsUPo8FbcUmEDwocHv4oXFo3gC0=",
+      "hash": "sha256-lYwmhrrcRKQnzQqdYZ1FYLUM5KYe+f94ZIYpb+57kFw=",
       "url": "BestiaryData/bestiary/6462-annis-hag.html"
     },
     {
@@ -7526,11 +7526,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6466-astral-dreadnought.html"
     },
     {
-      "hash": "sha256-3xUmPn5XY8+bSAU1uNqKw88FRjT48KztFQBhXqa6e6E=",
+      "hash": "sha256-0yb+oKGUFqBDqfHGyWV0mQ1JYiBFqi4bGVRxdwrZhsc=",
       "url": "BestiaryData/bestiary/6467-babau.html"
     },
     {
-      "hash": "sha256-Yn5rZl0ou67QAirDCrsQrYrQuROBpl4fOIF9GY2nnI0=",
+      "hash": "sha256-rc8+ZQ9fz0DpoXRJhQbvi79NlcHs/kn8u+NniPhr47g=",
       "url": "BestiaryData/bestiary/6468-bael.html"
     },
     {
@@ -7542,11 +7542,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/647-rothe.html"
     },
     {
-      "hash": "sha256-CAfVd583AVdxGkDo5aH7cXVBjCdOvuYerCBNOVX1byc=",
+      "hash": "sha256-kZtVvAZywQSK8ezN6+G8Ca3gjEdWZTrEp91DRZJAgns=",
       "url": "BestiaryData/bestiary/6470-banderhobb.html"
     },
     {
-      "hash": "sha256-UuRyVxbyhUjLXe8N9h20tJKHauX3kb/7PdaHIBVAb4Q=",
+      "hash": "sha256-OZjOTkK1Y/Du9qXO+hM3y6Q9kN9Vcj2SowshN1zSgoY=",
       "url": "BestiaryData/bestiary/6475-baphomet.html"
     },
     {
@@ -7562,11 +7562,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6478-berbalang.html"
     },
     {
-      "hash": "sha256-c1+Fr0RPOSBe659FBNL4ZYlBeIijkElE41IdoW1qBQA=",
+      "hash": "sha256-LaEl76IXfqCa6ODcEX7QgWooc9IvLOseU+VjFPKgG0k=",
       "url": "BestiaryData/bestiary/6479-bheur-hag.html"
     },
     {
-      "hash": "sha256-6yslhSteY6jRwyFcgbkS8aGBvkWDpgas95rKQE/Adhk=",
+      "hash": "sha256-5a7+cQPgn8QdrCe+gysNEApFQu9q6Uq95XGwxwopDH4=",
       "url": "BestiaryData/bestiary/6480-blackguard.html"
     },
     {
@@ -7582,7 +7582,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6483-boneclaw.html"
     },
     {
-      "hash": "sha256-o7QaZi18O47Ybq3Af/LLOzl3/mBZf+f199ZwiXKLGpM=",
+      "hash": "sha256-gH7RHv9eoFywKLjD78E6PA6IhEhUGpUNU51lMJ/hAl8=",
       "url": "BestiaryData/bestiary/6484-bulezau.html"
     },
     {
@@ -7590,7 +7590,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6485-cadaver-collector.html"
     },
     {
-      "hash": "sha256-R5m6uruxbau8koIHNm1xILPhoanc2q72soSyU2qw7M8=",
+      "hash": "sha256-gw/NNOWbGpXlB3X9xTl2OqV5tT4Vo2BFm07dCu4tDII=",
       "url": "BestiaryData/bestiary/6486-canoloth.html"
     },
     {
@@ -7610,7 +7610,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6490-ox.html"
     },
     {
-      "hash": "sha256-SOjA5WK08kr8WrNANvZlLlvZAqK8hMfvoGTiYeKYCr4=",
+      "hash": "sha256-GW4WV5lKxvSsbFj6vI9ncw0FvFcRR4Gs3MZTZQjGs0U=",
       "url": "BestiaryData/bestiary/6491-stench-kow.html"
     },
     {
@@ -7618,7 +7618,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6492-cave-fisher.html"
     },
     {
-      "hash": "sha256-Cu0Z31qVyltj9eUFTsUZGhrbyOJSvH9JO0rMbQ/IX5M=",
+      "hash": "sha256-Bt5yG3a5gRqKWygIy1MTGsmNLkjGVMycrrjHTxP1BmM=",
       "url": "BestiaryData/bestiary/6493-champion.html"
     },
     {
@@ -7634,23 +7634,23 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6496-choldrith.html"
     },
     {
-      "hash": "sha256-CH4yD+LnbPp9jgbEUuwbywiZWDhvJruj2fV2ydMJ3TA=",
+      "hash": "sha256-NMg5YNZO7tm+ppPIWisNCKNjQm1/8KWcIhKrbhkPF6A=",
       "url": "BestiaryData/bestiary/65-chasme.html"
     },
     {
-      "hash": "sha256-vxVg+DY7zQQPdzsSyGf4+vLkB/2BfYLEmCpy4XTLtMU=",
+      "hash": "sha256-r791zceogWGjmge1YE3PBObvZ4dLqG+1beZGLvqeuE8=",
       "url": "BestiaryData/bestiary/6539-clockwork-bronze-scout.html"
     },
     {
-      "hash": "sha256-XNMT/nhe/SuEYtGFlBqgzuTBnx+EAqA5CPnIjaD5h2I=",
+      "hash": "sha256-Ip/FPoa1ItpqdG6WVv7o1LCECxdXWpqcNyCemkh6LP4=",
       "url": "BestiaryData/bestiary/6540-clockwork-iron-cobra.html"
     },
     {
-      "hash": "sha256-xKAqXAdMxUYWDutWIMyWlCIgJY5BYfqTj4+2as05Owc=",
+      "hash": "sha256-uQpMtucYDbpy09xu5e7iaSl8pt4XTuVaNmaz7oY62ps=",
       "url": "BestiaryData/bestiary/6541-clockwork-oaken-bolter.html"
     },
     {
-      "hash": "sha256-Fx7FqycD2NIL/RkSQGoUwTE3a0C6aB0QB1MHG5d4vTc=",
+      "hash": "sha256-9NTUZ+ykDVsJcCedF21/bzIOPnyS5E5KL4jolBecSk4=",
       "url": "BestiaryData/bestiary/6542-clockwork-stone-defender.html"
     },
     {
@@ -7734,23 +7734,23 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6585-deep-scion.html"
     },
     {
-      "hash": "sha256-Csaap4Uzf2MkbC1up0x6np0/WA7pnnrIQaxmV8pECvo=",
+      "hash": "sha256-QrCj3aR/hQQEXktGNgxOStO9hTZePxiBteK0b80Srw0=",
       "url": "BestiaryData/bestiary/6586-demogorgon.html"
     },
     {
-      "hash": "sha256-jid/kwVk30apIBKftLMNv6k1XFNOFoS2kxWgxBdZR0U=",
+      "hash": "sha256-6s0I27BymScnDXjuGk6Q3uyhy1Tgm8h3E1+wSXsLLIY=",
       "url": "BestiaryData/bestiary/6587-derro.html"
     },
     {
-      "hash": "sha256-vkt8T9Xp668x/4nKbX+yyRzCJMYPIeEEwTIU5txZi7E=",
+      "hash": "sha256-Ojgx+VMwzwH/nwBOEKnVJm0jf3DixviSymHkU+kD5WI=",
       "url": "BestiaryData/bestiary/6594-zuggtmoy.html"
     },
     {
-      "hash": "sha256-JD7Aj76afJfI3pwRG4qkeHO9qkbW6g0PtctZJiYTuSQ=",
+      "hash": "sha256-JJWR1HLkImOI85eXbtTOuZONEXkH0P54akM3gXbiVBQ=",
       "url": "BestiaryData/bestiary/6595-juiblex.html"
     },
     {
-      "hash": "sha256-EQjmMo9z8gi1TnOAN8CbjxxTc2V3Iv+z2z7d1u1F4Rg=",
+      "hash": "sha256-dw8T7TKCVfE9SsaH7pk4ctmloyd9qjsd/eXvma3Jzc0=",
       "url": "BestiaryData/bestiary/6596-derro-savant.html"
     },
     {
@@ -7762,7 +7762,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/66-dretch.html"
     },
     {
-      "hash": "sha256-77Pe+QAj88lqe9lJm8RxQZgOo9nuVx7m6PjrBhjeBkk=",
+      "hash": "sha256-/QP7WQYwHCBBbvUyPH3p8PZTF13DweEDjvlN409o0nY=",
       "url": "BestiaryData/bestiary/6600-dhergoloth.html"
     },
     {
@@ -7814,27 +7814,27 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6613-drow-favored-consort.html"
     },
     {
-      "hash": "sha256-0V9NWMXIEFYw7oUI1inM51cLw+gjofPyzxeEEJPgoWU=",
+      "hash": "sha256-tLhq8v8lcZXjW2c0npF4m6rr4f3709xrStklWCPXj70=",
       "url": "BestiaryData/bestiary/6641-drow-house-captain.html"
     },
     {
-      "hash": "sha256-3kf4sNy+GWkNVaBXS2m5W8/DcrfCbi0NTUfkR1+TAyk=",
+      "hash": "sha256-pTrR3UxTx2zWEUueHsuKSL821Xv8/XEMuuEgAJmNWQQ=",
       "url": "BestiaryData/bestiary/6642-drow-inquisitor.html"
     },
     {
-      "hash": "sha256-7ambOpmeKGKkfbqwBaOleNFYOyyQWGNPMTBfkcOt1L4=",
+      "hash": "sha256-CovPkmq/hwWfgW/Ogh7paLtPNgzzjFVeLgf2a8f4qE0=",
       "url": "BestiaryData/bestiary/67-glabrezu.html"
     },
     {
-      "hash": "sha256-L7hpnlDjjeKJVUvMtd5AI8gHwPrAzfxQUQO16Yc/yRk=",
+      "hash": "sha256-VdCUgtOHYjMpmq5T7b6gCGqwyVhHzB8wSfUbC5w8Qww=",
       "url": "BestiaryData/bestiary/6703-drow-matron-mother.html"
     },
     {
-      "hash": "sha256-MZyMNVj0UrICby167om/hstgYxof/0fSlNEDx6+TTi8=",
+      "hash": "sha256-l6lkq+s2X9VxSYDK80FoPcMFCNdGnPIMewPlLp4w7xg=",
       "url": "BestiaryData/bestiary/6704-drow-shadowblade.html"
     },
     {
-      "hash": "sha256-q9c95482Ra3npC2jneOwfFj34wN07U2zqHsm4OdL0lA=",
+      "hash": "sha256-EVs/IMgjzofdYqATbE7esuLshjbQJeCqpp6E7JgwAWk=",
       "url": "BestiaryData/bestiary/6705-duergar-despot.html"
     },
     {
@@ -7842,19 +7842,19 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6706-duergar-hammerer.html"
     },
     {
-      "hash": "sha256-yCAdK3ji3kUhsnZee0U20xWqZStGh9ZCjpZGNtck1KY=",
+      "hash": "sha256-Gy9G0q+BLWnrwelVyG7n3tM9tc+gpyrjY3gsU27VQxY=",
       "url": "BestiaryData/bestiary/6707-duergar-kavalrachni.html"
     },
     {
-      "hash": "sha256-4iKmdQKc15DdZmULSEaBonE6Z+6Ij7gqwmR1KrVBq7M=",
+      "hash": "sha256-qVLFa1V6UDwnI9nKBP2MN+KUiC/eMj0T07klMvT6k3I=",
       "url": "BestiaryData/bestiary/6708-female-steeder.html"
     },
     {
-      "hash": "sha256-nWbMF2hZeQVMCEsZLwi4R455vgpywD9vbzgB7pNOotk=",
+      "hash": "sha256-Kops2E1ovmzG7srGeEVfXyOOgjD/Rn2s5kBwH3Slk9E=",
       "url": "BestiaryData/bestiary/6709-male-steeder.html"
     },
     {
-      "hash": "sha256-enjVCC1fvWC6n75rwc9SLq+I7hreR3+Rtu+Ad95Y5S4=",
+      "hash": "sha256-LYpygGjTnOQqfjzw2hlPEmHYjCPJnxRF3UJjjz8CuGs=",
       "url": "BestiaryData/bestiary/6710-duergar-mind-master.html"
     },
     {
@@ -7862,15 +7862,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6711-duergar-screamer.html"
     },
     {
-      "hash": "sha256-LE41+6U/BJKia1S4gZfgow2+kfppjV6yBZw0JPmhIME=",
+      "hash": "sha256-CtHgjycF9uMe5iEY36exTjMdIH3WsNw2IYbgD8fMfUs=",
       "url": "BestiaryData/bestiary/6712-duergar-soulblade.html"
     },
     {
-      "hash": "sha256-QU0ZqsVvfPy4n3tkOSSsn8zzt7Z8bjHkLQGBxXiMRXE=",
+      "hash": "sha256-Dibl8nHdoMvFdqajHbgF9/1e2kKCoOo5KUN4rcq+1yQ=",
       "url": "BestiaryData/bestiary/6713-duergar-warlord.html"
     },
     {
-      "hash": "sha256-q3xnkJvQdAFM6o7t2UHf5H1oQOzHBmIwkKSmWBy2llk=",
+      "hash": "sha256-ABgXz1f3J4jjYFzkt/FIgmQM3/E8D92fvNs7cYp2oqI=",
       "url": "BestiaryData/bestiary/6714-duergar-xarrorn.html"
     },
     {
@@ -7878,27 +7878,27 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6717-dybbuk.html"
     },
     {
-      "hash": "sha256-5WL9FBBb6e28mHoduySJM7box4zOI/byD2D/r1O+kq8=",
+      "hash": "sha256-+h+cQUhK+SW8ST/xMM98h2fXVz2LFo8moXtVoS2GIp8=",
       "url": "BestiaryData/bestiary/6718-eidolon.html"
     },
     {
-      "hash": "sha256-RTF9YawpxMm7gMbG+thfV8ydI3ggb6qW9ZHGBNuT72c=",
+      "hash": "sha256-Fb4csxve9lo/a5npluC3l91pKtBNPtF3HyUp2mf0zqU=",
       "url": "BestiaryData/bestiary/6720-sacred-statue.html"
     },
     {
-      "hash": "sha256-tYgQSfRZ4UpbmIVJATAg4erLAvumNMn7qshO5GqjvjI=",
+      "hash": "sha256-mGuhPUYTXMaFYnRgosM/REUfDEL0mriaV2+R82wDdgw=",
       "url": "BestiaryData/bestiary/6725-autumn-eladrin.html"
     },
     {
-      "hash": "sha256-mDYQBe5cHDSfbwEBvbRlYo+cKrZoiivYLEh/LzUir6Y=",
+      "hash": "sha256-asbyZXCoZT7/WG+AIpEt14gjGBBQhk6MtwmAkYX7qQY=",
       "url": "BestiaryData/bestiary/6726-spring-eladrin.html"
     },
     {
-      "hash": "sha256-6G5nGFAyEVxaQOIrgGszfTW1UsdxeGz+jsFO7D7avh4=",
+      "hash": "sha256-ZhdqTHPP9cMIpuuS/UlMm9nh0cPfL9RHsUyffsOAT2o=",
       "url": "BestiaryData/bestiary/6727-summer-eladrin.html"
     },
     {
-      "hash": "sha256-7P3cbv/SVgmMoKYju6LAYV3OiuX4IgsMWGOc+Q6L8mg=",
+      "hash": "sha256-AxFzNCMqsV13hVdLKJ0fQYLeKZ/CJBlPuRY5FMCaMmk=",
       "url": "BestiaryData/bestiary/6728-winter-eladrin.html"
     },
     {
@@ -7906,7 +7906,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6731-elder-brain.html"
     },
     {
-      "hash": "sha256-9BlsBFlgvqZ4iu+s6QD8QMiVftBR8TQx41G7PPpgiY4=",
+      "hash": "sha256-iW4iL4Drb+LBOyE6IjgdbcFkQEDvlLVZf3dQB1S4KDs=",
       "url": "BestiaryData/bestiary/6742-elder-tempest.html"
     },
     {
@@ -7926,7 +7926,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6746-water-elemental-myrmidon.html"
     },
     {
-      "hash": "sha256-iCnhrt5MzsNFAA0spgS9JqJocvtl2lrYqlp3ky5wIYo=",
+      "hash": "sha256-jcOdj7yW3ABC5r/vfAedOVfp4lJbnkgOcIkVwVk71yQ=",
       "url": "BestiaryData/bestiary/6747-fire-giant-dreadnought.html"
     },
     {
@@ -7938,11 +7938,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6749-firenewt-warrior.html"
     },
     {
-      "hash": "sha256-CzFkXnrjRjJH9KmzfRCEC3Ad0hfawrs2gIban11KAgE=",
+      "hash": "sha256-XE2yhU4R9HefmR8R9YDmrI3l7Gt7LXSNPVqNvRuVBXk=",
       "url": "BestiaryData/bestiary/6750-giant-strider.html"
     },
     {
-      "hash": "sha256-zTX6n5DCJ6p00x0VAd2qZVBiRmTGso5kzBthz+QVvoU=",
+      "hash": "sha256-Sl4GTe3AMIN1jOnKMpMSl+eKLoRCGGF8RAab7q0IsnE=",
       "url": "BestiaryData/bestiary/6751-flail-snail.html"
     },
     {
@@ -7950,7 +7950,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6752-flind.html"
     },
     {
-      "hash": "sha256-lGmc7ghR6ZDQI87ZODT8xn0ZKwsowRldW4SKngk0Ndo=",
+      "hash": "sha256-OuhutQGrs1rH5rLHh0+5H8I3nR5PmRf2/jdabDLBjJA=",
       "url": "BestiaryData/bestiary/6753-fraz-urbluu.html"
     },
     {
@@ -7970,15 +7970,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6758-gauth.html"
     },
     {
-      "hash": "sha256-xj+r8OwoSDE/icVaGjCkjtfyWWvxze6apeNiwqSxdek=",
+      "hash": "sha256-9mUi3ivlt4Azb7IWi6Ugaq9N8/ZVMuhVZfI5O4wNesI=",
       "url": "BestiaryData/bestiary/6759-gazer.html"
     },
     {
-      "hash": "sha256-v0yxLN71Q+Prng9UDcpt8ppWI/XEfsTaTt0ySchihfw=",
+      "hash": "sha256-ueNCZW69+klvLu3vpDAG7/8wUZlZ3qZmpPi32JIyi0E=",
       "url": "BestiaryData/bestiary/6760-geryon.html"
     },
     {
-      "hash": "sha256-N7ASYYmeykzY1j2yIv7tXtrKXrlTEqwg7VVjc5UuqY0=",
+      "hash": "sha256-Kbj3DdSMgaUlArVDwab2zn07UXVELw/T8cfRgXxdNeA=",
       "url": "BestiaryData/bestiary/6762-giff.html"
     },
     {
@@ -8010,7 +8010,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6779-gnoll-hunter.html"
     },
     {
-      "hash": "sha256-SAiGV2d+B+vOsg7iwck5yNAbuNAHSsClEcyEEMnIOE4=",
+      "hash": "sha256-KUSSi4LRjpBVQ5oZTOe/45xoyt3tmgymnFRmBt/6QbI=",
       "url": "BestiaryData/bestiary/6780-gnoll-witherling.html"
     },
     {
@@ -8018,23 +8018,23 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6781-gray-render.html"
     },
     {
-      "hash": "sha256-26LXRqb3dz4nfa/UkUlCrLkMXWqV1gPidbik80rEtNQ=",
+      "hash": "sha256-PYB3tAQRSw+vRCaemq25MBjAXawoFcORFpcau7hv+Ho=",
       "url": "BestiaryData/bestiary/6782-grazzt.html"
     },
     {
-      "hash": "sha256-qmi96DWu1PB+A0687cbLR1thDbCo8TwXFYMtEzXZ4SU=",
+      "hash": "sha256-ug4xLtC9UCH91CcRop+nCXYO7yZ70VeBk7U6DtZnlLg=",
       "url": "BestiaryData/bestiary/6783-grung.html"
     },
     {
-      "hash": "sha256-MvGEFHVpKRlta1ujf4nTRkNDea3KdL9KeugisZM5B+Q=",
+      "hash": "sha256-LDWbGthZeqwfF7xeRVPt8vbyApj940T7NaROuvHv1jo=",
       "url": "BestiaryData/bestiary/6784-grung-elite-warrior.html"
     },
     {
-      "hash": "sha256-inXWa9tLVzH8WRa8wtpAGkMoFoDG7PL4duoDSR6yhBI=",
+      "hash": "sha256-PW6ixDg3SybgLfrutE0wRYh7sKmA+n/xlEbI5VI1DYQ=",
       "url": "BestiaryData/bestiary/6785-grung-wildling.html"
     },
     {
-      "hash": "sha256-fF4cGsmVdAm8rG8/+q2rZxBWpKCoUbrQiqLPCJYvPGE=",
+      "hash": "sha256-YADXw03+HIb3cyDl/2q5TddlVM6KPjXYCuG72wsv+V8=",
       "url": "BestiaryData/bestiary/6787-guard-drake.html"
     },
     {
@@ -8062,7 +8062,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6794-hellfire-engine.html"
     },
     {
-      "hash": "sha256-mhP/blzSt4dlOi+8vUrrnzO+mNM1lYUUWANoVlAr4To=",
+      "hash": "sha256-OUu37gw/nvADLXccNjZqcGQDdBSmbcU0i6dMDBiTrcY=",
       "url": "BestiaryData/bestiary/6795-hobgoblin-devastator.html"
     },
     {
@@ -8070,7 +8070,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6796-hobgoblin-iron-shadow.html"
     },
     {
-      "hash": "sha256-oWecY+wB9V8TmVK6LDMldhfYZ6JNlwKldJurzThlyLs=",
+      "hash": "sha256-8gBdepc0uJrpP5tHYLr/xT7RyEnCJ+4iTFkBY6Vp1Zc=",
       "url": "BestiaryData/bestiary/6797-howler.html"
     },
     {
@@ -8090,11 +8090,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6800-ki-rin.html"
     },
     {
-      "hash": "sha256-bKY9LPqZp9rkXUJG9fSUDayB2p09kXiglJeDyiVP+YI=",
+      "hash": "sha256-elH3ZSInHia7he7eNyCRXwMh1eLqk2uzaM3ZE+fofP8=",
       "url": "BestiaryData/bestiary/6807-kobold-dragonshield.html"
     },
     {
-      "hash": "sha256-j7x6VFzau2W7/fF2XbkZDcjdWpOBvzqgdcOC6hMsWu8=",
+      "hash": "sha256-bKRi4VGtLyoncrN8tibY0jvtXYKN2yAYz8plTgWaNkg=",
       "url": "BestiaryData/bestiary/6817-swarm-of-rot-grubs.html"
     },
     {
@@ -8110,19 +8110,19 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6820-korred.html"
     },
     {
-      "hash": "sha256-ZkcTDoo3hco+7C8tmtgUJb2yL3k7RLcukFUVasFa2cY=",
+      "hash": "sha256-Z44fV+FZd7eTekzR9zXcOYOt0sqgJv0ooQ+sObG4hek=",
       "url": "BestiaryData/bestiary/6821-kraken-priest.html"
     },
     {
-      "hash": "sha256-ICZw8btvxuaRWc0H6N5Lb5UTrGZFZzHKGezTQbL5Q9c=",
+      "hash": "sha256-6UebLRZAR8+Vckx8ceHHuHOWWVzr8i3mu8tPHB3Ngj0=",
       "url": "BestiaryData/bestiary/6824-adult-kruthik.html"
     },
     {
-      "hash": "sha256-Ikyep51R1NZbxQqH4mIfyM8BQtVNhiQxG8UWwI1RS1I=",
+      "hash": "sha256-m+6sTCBSW+/hONXvt/nC4Xsk/Vpbu63drKLOjqtzehM=",
       "url": "BestiaryData/bestiary/6825-kruthik-hive-lord.html"
     },
     {
-      "hash": "sha256-Qbx7RhysfGZLfXPpz+9mLswxdtrz0PVR2S96sOu2p3k=",
+      "hash": "sha256-CXkmAH8/owsbQZvGX7T68hOk+4JMcKK3RsadQHvfX4g=",
       "url": "BestiaryData/bestiary/6826-young-kruthik.html"
     },
     {
@@ -8150,7 +8150,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6832-maurezhi.html"
     },
     {
-      "hash": "sha256-TvrEp2mdQjQWI5e/S1MuTzb3jrgFsb8OQVRmvmxrOv4=",
+      "hash": "sha256-6hhz2uspZwYRsVVeCyaE7w2+sCcPEmawXB5L5okTT4w=",
       "url": "BestiaryData/bestiary/6833-maw-demon.html"
     },
     {
@@ -8166,7 +8166,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6836-merregon.html"
     },
     {
-      "hash": "sha256-ht5ziSsfGepal8tJ5YJ5V1jAwSV8PexHL9p8Z/QEQ+c=",
+      "hash": "sha256-4kwj593Rkeomf055nnfpDp1ciPdcMc/h3AOlI421CKk=",
       "url": "BestiaryData/bestiary/6837-merrenoloth.html"
     },
     {
@@ -8174,11 +8174,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6839-mindwitness.html"
     },
     {
-      "hash": "sha256-FUTD9puNqV+6sXOPRZPGE9S3H6LNxhfWjHccdqciS6Y=",
+      "hash": "sha256-i7tSafKsUdjWkuHTYfg8wvefbLjqqfRts8bP46aP2nk=",
       "url": "BestiaryData/bestiary/6841-moloch.html"
     },
     {
-      "hash": "sha256-u/fil6uoSq/cmN306SehG8pnlufHJEQj8ogMkRQH9ys=",
+      "hash": "sha256-fVddt/XPbB+fDwv4SRyB91QZkqUaAjTydt2MPNcOZqk=",
       "url": "BestiaryData/bestiary/6842-molydeus.html"
     },
     {
@@ -8198,7 +8198,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6848-nagpa.html"
     },
     {
-      "hash": "sha256-nXC5RFwffbAs/TswFdxR/12PVzwpbQ/2TAiD5E670P0=",
+      "hash": "sha256-khTMmQEegT/qRvJhaNmcrYzr2p2q8g+7OeC7XvJ1tuo=",
       "url": "BestiaryData/bestiary/6851-bodytaker.html"
     },
     {
@@ -8206,7 +8206,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6852-podling.html"
     },
     {
-      "hash": "sha256-Fj6SGbe+jQPuQwygQfmEn/jbyifBRgdsVXGIFqRJQLE=",
+      "hash": "sha256-8gz/wre87iUpiP1UU/w3aww4b2C6sUlcdBx96Fhw6yw=",
       "url": "BestiaryData/bestiary/6853-boneless.html"
     },
     {
@@ -8214,7 +8214,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6854-brain-in-a-jar.html"
     },
     {
-      "hash": "sha256-aVJV9+6vRKmrjMZf1RWk1xNmEwPU5JF4josN1EkjlDg=",
+      "hash": "sha256-VSx3chFbApwwkdJO75jveSlD927j35qftuhb6U3WrlE=",
       "url": "BestiaryData/bestiary/6855-carrion-stalker.html"
     },
     {
@@ -8222,11 +8222,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6856-carrionnete.html"
     },
     {
-      "hash": "sha256-r9kqVrqhaN7FP6/ngjPDvc/Ueon/xGFRTe9qkk6Yf3g=",
+      "hash": "sha256-7RUCvPbI1oyyuba5x7dWZzwfcaj8qXDxfVLs75jHx1k=",
       "url": "BestiaryData/bestiary/6862-deaths-head.html"
     },
     {
-      "hash": "sha256-TpMvADT9U61eqvjAc4GV6Nm3mcLJLYtHijESFbwn2Z4=",
+      "hash": "sha256-M6tNKrxZDwMjpb4ZojeGiayECJ3OnT5Gnd/riZz80uk=",
       "url": "BestiaryData/bestiary/6863-dullahan.html"
     },
     {
@@ -8246,7 +8246,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6867-jiangshi.html"
     },
     {
-      "hash": "sha256-0sQIBsVHD6gTk8GbSp3ayiX5x3GVnp6V8Uchemkty2E=",
+      "hash": "sha256-lM8Curj/EJ/2+SACSqvYd7qSKAirgdEjS+Iz9l0uokI=",
       "url": "BestiaryData/bestiary/6868-loup-garou.html"
     },
     {
@@ -8262,19 +8262,19 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6875-narzugon.html"
     },
     {
-      "hash": "sha256-5yRv+gBAQOTSH2fDqu6gz3G1eFuLDhSytq499gDbLYw=",
+      "hash": "sha256-rcNLrKKxygzS8Ye3GOqmL3S9DdteDqFwH0ofoVMzNV8=",
       "url": "BestiaryData/bestiary/6876-neogi.html"
     },
     {
-      "hash": "sha256-NPuXt7L6hkLNq32lKFdOzvrBcgN+09UDXesnuNYFyA4=",
+      "hash": "sha256-QDVqB+8kBO2ujDM9FSMsGKilOe/iIM6Pp/fqFZJnpcc=",
       "url": "BestiaryData/bestiary/6877-neogi-hatchling.html"
     },
     {
-      "hash": "sha256-6ZcbStVzQ04SDry9zi1fDXn/oWa4/6l1yH+rk2+bo4c=",
+      "hash": "sha256-ltZA6Rz8im2gfzyDXyvqIdMgaefFAjiJKA6ZA8yaAlQ=",
       "url": "BestiaryData/bestiary/6878-neogi-master.html"
     },
     {
-      "hash": "sha256-8CUTwsYMVtgWHhaB0pueExdYnEVGkYQawBXw87m0nIs=",
+      "hash": "sha256-pFVtSDnePdIIXACQzdGAwRyCpfv+gMlupjT45yd3UqY=",
       "url": "BestiaryData/bestiary/6879-neothelid.html"
     },
     {
@@ -8282,7 +8282,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6880-nightwalker.html"
     },
     {
-      "hash": "sha256-d/FoN900ZTWSR/dDqtxHZQLW1q/gWo3sCPa3ISc5UFU=",
+      "hash": "sha256-QkNw1u5pmDz9LllDIx6pMnk4P8hnta4izbkQD3Uva6k=",
       "url": "BestiaryData/bestiary/6882-priest-of-osybus.html"
     },
     {
@@ -8294,7 +8294,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6884-relentless-slasher.html"
     },
     {
-      "hash": "sha256-rHjwAhfJWqL23Pb350zpIF6NtmHStyVnPNe18LOBOUc=",
+      "hash": "sha256-YwdoZluQbtGh/J0GDrPxtix/Ug50bRpG+XD3FEBKBwY=",
       "url": "BestiaryData/bestiary/6885-nupperibo.html"
     },
     {
@@ -8302,11 +8302,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6886-relentless-juggernaut.html"
     },
     {
-      "hash": "sha256-NZHfOwMDYzc1iBqyOPAyYLkTd23uhzBkJIHJIvzH0Oc=",
+      "hash": "sha256-RdCE0NdzH0h2TWcUArCa0Se0w23RMnXvhNHc8oLO2g0=",
       "url": "BestiaryData/bestiary/6887-oblex-spawn.html"
     },
     {
-      "hash": "sha256-n8KQpJ+MYr3LmjPoV3zQULn37WlIRIum626AvLgKcsw=",
+      "hash": "sha256-oD3x+WEqXCa4mvj/NlGrzYpQw9HnNn7Z19DpTfMBDpg=",
       "url": "BestiaryData/bestiary/6888-lesser-star-spawn-emissary.html"
     },
     {
@@ -8318,7 +8318,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6891-strigoi.html"
     },
     {
-      "hash": "sha256-V/Y//DYzTwjgGjpUgX6qc4cGmVSIrJ1wkkCbVNsiZ7c=",
+      "hash": "sha256-uUaGWaxulI64ePqFvPSKzTYwMsQq2EbsSAnObgToTTo=",
       "url": "BestiaryData/bestiary/6892-adult-oblex.html"
     },
     {
@@ -8338,15 +8338,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6899-inquisitor-of-the-sword.html"
     },
     {
-      "hash": "sha256-2I6ZHHnYHibJ2idKo/qNNazhmZ5hVGN5TiZd+Zppdc4=",
+      "hash": "sha256-SxqnSXxnAAV1Cl8X1gbMzhTU2+Ni8kSIjvjb0UjOuso=",
       "url": "BestiaryData/bestiary/69-hezrou.html"
     },
     {
-      "hash": "sha256-FDJ2SUkJs021k+YpnjZ1aKr4aGOXg3TCZllfI+mn1Lk=",
+      "hash": "sha256-AS5rGS2U5SYCdPOWGUax+IjpWJeWuA0A6K2oHfvOCJ8=",
       "url": "BestiaryData/bestiary/6900-elder-oblex.html"
     },
     {
-      "hash": "sha256-wCLDCQbwfV4cmfWyoHx2+QL4DP8PdkN2GXNxJ1i4dTQ=",
+      "hash": "sha256-klXuJi39iSq9s2xmD0jMRtUjiUEOTBVP9Yoy2eAmxNI=",
       "url": "BestiaryData/bestiary/6901-inquisitor-of-the-tome.html"
     },
     {
@@ -8354,7 +8354,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6902-ogre-battering-ram.html"
     },
     {
-      "hash": "sha256-HeNeOVtY3gcYaSTbJC5an0/IDmvO95mOj6SbQyM3JfY=",
+      "hash": "sha256-F+cz3dgihF7CsvJvFopLc7ARE2RngLAgaOHFUqn8xIo=",
       "url": "BestiaryData/bestiary/6903-unspeakable-horror.html"
     },
     {
@@ -8362,15 +8362,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6904-vampiric-mind-flayer.html"
     },
     {
-      "hash": "sha256-xTdn5sZ8lJNiez8RuTkpMRXipR7GDIJuYIAsylGBxX4=",
+      "hash": "sha256-Qm9QFlO0YsjehkPX+k9r4hR3OEA7PhReQia/hf2N6zY=",
       "url": "BestiaryData/bestiary/6905-wereraven.html"
     },
     {
-      "hash": "sha256-k0gzEYSMsbEgVQ/FPnS3iXG7nf84KvRa6tPCG6LX9ko=",
+      "hash": "sha256-En9QnpZ5gyxEn1GPvAUx50Le63MEoxdDibFMbiHDhrA=",
       "url": "BestiaryData/bestiary/6907-swarm-of-zombie-limbs.html"
     },
     {
-      "hash": "sha256-RjUFfo7eeQY8V0USuTPvCq/Dm9RYDbDeJgEcemq9IB8=",
+      "hash": "sha256-1xeDKOUOTku4fL415JXsZa5u08mnO0xFQlNwMr3tJEA=",
       "url": "BestiaryData/bestiary/6908-zombie-clot.html"
     },
     {
@@ -8394,11 +8394,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6916-oinoloth.html"
     },
     {
-      "hash": "sha256-KSTC9ikzySVoh0W6/Z2bHqWqXVrmExFU38SxASbAKHA=",
+      "hash": "sha256-AC4aFlwkOmYAxJNk6v13+oyfQMqmhrX3EH4c+CogRms=",
       "url": "BestiaryData/bestiary/6917-orcus.html"
     },
     {
-      "hash": "sha256-bHw8MibEfAwEIpeRFX1+X+jGqdDCXPEc43RGCpJ1U6I=",
+      "hash": "sha256-vrp44aoNFOyoQNyJ6ul4xzcNHzlCD98+yXJdJtBycwE=",
       "url": "BestiaryData/bestiary/6919-deathpact-angel.html"
     },
     {
@@ -8406,7 +8406,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6924-orthon.html"
     },
     {
-      "hash": "sha256-cMU8W7aBAWsbazCnQKWwUhjzl6TebP1yjC7TWfrpGmY=",
+      "hash": "sha256-5R+/0IViI7Cg5tkX7/s2rYX8gly6zqmgCOXQJe6FzGE=",
       "url": "BestiaryData/bestiary/6925-phoenix.html"
     },
     {
@@ -8414,7 +8414,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6926-quickling.html"
     },
     {
-      "hash": "sha256-IPnY77mr7+GRoxf4UbnRxu5Eet6TFsVGLOGR6qSn8+M=",
+      "hash": "sha256-IoaQsBwFi/XKG51PNntgAkayUDlbfR9vs5s11DPoIiI=",
       "url": "BestiaryData/bestiary/6927-redcap.html"
     },
     {
@@ -8422,7 +8422,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6928-retriever.html"
     },
     {
-      "hash": "sha256-5K2G/NrqWNwLxVyClmEs/KSxRfPsz7vr6fmYYTB6ORE=",
+      "hash": "sha256-cwGYg4aTyX8aPhETs+qgUsSHxkCOuO300zRyVQdcdek=",
       "url": "BestiaryData/bestiary/6929-rutterkin.html"
     },
     {
@@ -8446,27 +8446,27 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/6935-shadow-mastiff.html"
     },
     {
-      "hash": "sha256-kEJzegVVBQS1TTy/IUg2TPNq8XaoDQ/wx/qA9ydO9bk=",
+      "hash": "sha256-hUYFyqJ0LC4mf02wBbhuLpR0kQtuhMGEmqBAV7gRnmM=",
       "url": "BestiaryData/bestiary/6936-shadow-mastiff-alpha.html"
     },
     {
-      "hash": "sha256-Z4dFzqQQkVrXoWA67OfgJIA/R74xT21FkZ1TAMjunCA=",
+      "hash": "sha256-4PzaikkoOaosureexCU9GOOESa/07xJOaoD/PVErJ5Y=",
       "url": "BestiaryData/bestiary/6937-shoosuva.html"
     },
     {
-      "hash": "sha256-Y62FZ3ZieGScOl94A+pqtRY4gtTpmjFXOMqyBrNAljQ=",
+      "hash": "sha256-X4vYw6jrgmkJPqqDVe7ZAlqZobvm9oqx4/IfdoFblkU=",
       "url": "BestiaryData/bestiary/6938-yeenoghu.html"
     },
     {
-      "hash": "sha256-TlGfFa4w70ehcJpklbfQZNLPlByriMRlkfMsQFrzXH0=",
+      "hash": "sha256-xr9qDFDVmR+QA9y6fnb9b4qtLQxLaGTLaSFvJgDQoec=",
       "url": "BestiaryData/bestiary/6939-indentured-spirit.html"
     },
     {
-      "hash": "sha256-WQ/SQhxBMyLnQLdiY5Vuj/doIxl0AZ7OZPkR7zeWShY=",
+      "hash": "sha256-jFa9nHOvviNCzqqS2kQ9UZrZM9fxpiCG1I9CCTSKdlk=",
       "url": "BestiaryData/bestiary/6976-sibriex.html"
     },
     {
-      "hash": "sha256-APz77UWtMQWaCA/bM1o+tliG7KXtpQpLA182loua3VA=",
+      "hash": "sha256-EDOeZ9siSHXW/Ytg1DvYcZKcA/F5sKmes9+lA+0g7m8=",
       "url": "BestiaryData/bestiary/6977-skulk.html"
     },
     {
@@ -8482,27 +8482,27 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/70-manes.html"
     },
     {
-      "hash": "sha256-5ILUAsuE4/SOMgXvdiSbnHvQ+U0fkMZiEM3r3YFp8gE=",
+      "hash": "sha256-h7J9dRGPa/O/jvnRQ2+CyBORlTzukCzNswDT9i2kEFI=",
       "url": "BestiaryData/bestiary/7016-slithering-tracker.html"
     },
     {
-      "hash": "sha256-dUCOJYUILzHmMrPzCrNiBtqqJupAmzbr51svSlHLnEc=",
+      "hash": "sha256-L6FTww4B4r5Pz+P/fghBaQQDKjKFPm90Nym9u7qEqLE=",
       "url": "BestiaryData/bestiary/7024-angry-sorrowsworn.html"
     },
     {
-      "hash": "sha256-a1EjOB7yeVYrGLLXxKLRkgjHvPCJLsSD8vHIUJ97YC4=",
+      "hash": "sha256-ISE7LqIYfFepq8dXuyVTUEIAu+KoPDfxCHeCa5Ntsgg=",
       "url": "BestiaryData/bestiary/7025-hungry-sorrowsworn.html"
     },
     {
-      "hash": "sha256-m6hvINcRJBNRgywmHpX8RavGNItdRlAaj+N0jq0Xcvk=",
+      "hash": "sha256-aKkS/zI9D5dGGkVwiYd6cg/E2KW6tDz+plxzZ0lG+Ko=",
       "url": "BestiaryData/bestiary/7026-lonely-sorrowsworn.html"
     },
     {
-      "hash": "sha256-1zXmD2E3FV+0QGOICzTA4o6csgA3ZTLLfZuUiXUQZYI=",
+      "hash": "sha256-ndcLtKa5d0AK0o/ZZ5atDMabKtnukpQgRuxHnT/+BFw=",
       "url": "BestiaryData/bestiary/7027-lost-sorrowsworn.html"
     },
     {
-      "hash": "sha256-Bk9mAwC2EAwXBiuOnaJjDM3mNQV0Yho3oZHO12XWUiA=",
+      "hash": "sha256-veNRKAiXQx1cUBVjOoYTOvJOKKZh9S4LdR9xfOCWkE8=",
       "url": "BestiaryData/bestiary/7028-wretched-sorrowsworn.html"
     },
     {
@@ -8510,43 +8510,43 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7029-spawn-of-kyuss.html"
     },
     {
-      "hash": "sha256-hG9BzBwNgRNSx8wqdgJiQ6yifBx11x3VFreOAGp9wW0=",
+      "hash": "sha256-hBgau9S9pntbeSHa1UUstK+wigGQuZC3SUuf44IuC7I=",
       "url": "BestiaryData/bestiary/7030-star-spawn-grue.html"
     },
     {
-      "hash": "sha256-BXAuH1mMNSH9E2G9ZE8fZbQ747eeRuRRO2MPRt1Vn/g=",
+      "hash": "sha256-pgSpLosfTRX1LbupggKnNmOVIk0YqgD9d1VWQK9Fr3k=",
       "url": "BestiaryData/bestiary/7031-star-spawn-hulk.html"
     },
     {
-      "hash": "sha256-DiXGt032/mWfRGib9/IMotOu1VaqVMv3KyP78mOUyp0=",
+      "hash": "sha256-QM7J5eWKnyVyEzMBa5LntbPVvpmOfagvoRbAgPWbPq8=",
       "url": "BestiaryData/bestiary/7032-star-spawn-larva-mage.html"
     },
     {
-      "hash": "sha256-tYZ6LNhXz3mBg+5npwc8YDxvy1Vq2BzfBFKC3Rg8amU=",
+      "hash": "sha256-vW2zq0YVqkFy6tEL2sJuL30R6fJFvgeft5B8a9Rxd68=",
       "url": "BestiaryData/bestiary/7034-star-spawn-mangler.html"
     },
     {
-      "hash": "sha256-GFGDufFxOpZlhvoVN7K44J3jrn2+lAoQCm7kCahVCMo=",
+      "hash": "sha256-5KGazTCAI+6SIY2Ak5StSrDhhorVBlz3PLfjZbU0jaU=",
       "url": "BestiaryData/bestiary/7035-star-spawn-seer.html"
     },
     {
-      "hash": "sha256-NhNjApOMbWEXspRJKXSbLq5JCJRR7mRox8rKuHPDykk=",
+      "hash": "sha256-es/auN0Fk5HM0WOYeytaxRIMrceSwfNuW7hlLLFK+Tg=",
       "url": "BestiaryData/bestiary/7036-steel-predator.html"
     },
     {
-      "hash": "sha256-W11RKIIxqJCR/68eu/SV1vbUZ7Aobtq5DJpr+z+h3Ws=",
+      "hash": "sha256-Xp8VZ0l/N9f23tknBbhlnFOAqTy/SZi46IgUtOrXBME=",
       "url": "BestiaryData/bestiary/7037-stone-cursed.html"
     },
     {
-      "hash": "sha256-D1wU4XG59oKAcn7JyCebdd4dooV+2RHIj/gnUnCRgn4=",
+      "hash": "sha256-HPjGQAqrl5oQXg8e3rypmTWHeJhLJaLEE9jGrtE/rR0=",
       "url": "BestiaryData/bestiary/7038-stone-giant-dreamwalker.html"
     },
     {
-      "hash": "sha256-DRJCMI99pPfXBTC9erg7iUL2rxsAQ5zanVOYpWRHAxs=",
+      "hash": "sha256-yjPdzbXfIW6kFYeAjPpc1VjuIi/W804Ew162fXuzeU0=",
       "url": "BestiaryData/bestiary/7039-storm-giant-quintessent.html"
     },
     {
-      "hash": "sha256-MC/lJZ+xtdKNYxhFjelgp5YUvtjpdPI7HCoz+EgunX4=",
+      "hash": "sha256-N84wcmkbJWmJ35WcMsdlODyWi2Ng4v4VS5R8SvmFsAY=",
       "url": "BestiaryData/bestiary/7040-swashbuckler.html"
     },
     {
@@ -8558,15 +8558,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7043-sword-wraith-warrior.html"
     },
     {
-      "hash": "sha256-p5pFDphxPYQr+FlNl3PRs2en9wd8QWNEIngGwRIIzLI=",
+      "hash": "sha256-Ck8oQOl4WRKtGzy5ul+dTLSc7yuOn6d2VlWaLKT2u84=",
       "url": "BestiaryData/bestiary/7045-tanarukk.html"
     },
     {
-      "hash": "sha256-tKt6YjG5s+PWY7fx2N9RPCig2dW21QLg31UlvI573qQ=",
+      "hash": "sha256-ZO6SBSur1S/IQECaDXXTNZYy/k9eLa5jdDKub/pWHYo=",
       "url": "BestiaryData/bestiary/7046-titivilus.html"
     },
     {
-      "hash": "sha256-a7CO2Ja8vV7kIV5t88P+NSbO0aokabNruG5wT4xc/mk=",
+      "hash": "sha256-QSxumu+B2jbBxoG4TRvEYQeo3sWMcOzj0wowRy0U27o=",
       "url": "BestiaryData/bestiary/7047-tlincalli.html"
     },
     {
@@ -8578,7 +8578,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7049-tortle-druid.html"
     },
     {
-      "hash": "sha256-iYIl16QTlOIyTtvUuLMcrtIM98zs7E8I+DaCneWzGIA=",
+      "hash": "sha256-3cJftDpMUYgB0yf2inIkoD+xorPZuaE0ZsR7M5eupHM=",
       "url": "BestiaryData/bestiary/7050-trapper.html"
     },
     {
@@ -8590,15 +8590,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7054-rot-troll.html"
     },
     {
-      "hash": "sha256-m/sKbNjWxYNxMF5S1A+SgnywUjTHZbeG/NOa2qlSUXA=",
+      "hash": "sha256-9qetdRcD87j4uh8+kEUsqs148QfexU4B0ecYn3GMg54=",
       "url": "BestiaryData/bestiary/7055-spirit-troll.html"
     },
     {
-      "hash": "sha256-VhUHIx0x8aXmbWXlnFsAAcWVvY1UKoWeusyQjCJmowQ=",
+      "hash": "sha256-8TDJ+SwgisiWIL7XGyjwwBvUDEc37XzZIBZUVBfU2UI=",
       "url": "BestiaryData/bestiary/7056-venom-troll.html"
     },
     {
-      "hash": "sha256-Mde5yufJSHBHv/nmjOZ9z4wrXKIUVTLkcausJiHQnQs=",
+      "hash": "sha256-BawQpS7GqoO7IleYK6ljc+LJMjWyquP1u1Rl4nb83Rc=",
       "url": "BestiaryData/bestiary/7057-ulitharid.html"
     },
     {
@@ -8606,31 +8606,31 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7058-vampiric-mist.html"
     },
     {
-      "hash": "sha256-6w9e76edmvEmAJ8Gl8kqRcv+gk3IarKdoNY5reBDPps=",
+      "hash": "sha256-vNhatrl6NVWOx4rMKKrlgIB/aVPbjCjJscdcGkO4Tc4=",
       "url": "BestiaryData/bestiary/7059-vargouille.html"
     },
     {
-      "hash": "sha256-3D9B1pJfBYQmy6l283RZPMIiLY2HKTcLfSdhsQAo2bs=",
+      "hash": "sha256-kdmwJnxFVKJpQNqjsWuD3NMijSdlEWpLMBOYDwGUsh4=",
       "url": "BestiaryData/bestiary/7060-vegepygmy.html"
     },
     {
-      "hash": "sha256-3hqb33YcdO/7+4/JOAWpqgAleHjmiCcWP3sqvd8nLxA=",
+      "hash": "sha256-FGXGEOm9f8MmSkENdGhQKFHbxecuCZfYg2FXlUxize8=",
       "url": "BestiaryData/bestiary/7061-vegepygmy-chief.html"
     },
     {
-      "hash": "sha256-hiPic6iHZmKkPakm2+DHr2egOv3uA6CUgmB5OxoF+0E=",
+      "hash": "sha256-0twxG+t8IsWlu9oLRrr3EMLwzZlvOrJjjh7yfFR81Nc=",
       "url": "BestiaryData/bestiary/7062-thorny-vegepygmy.html"
     },
     {
-      "hash": "sha256-mMqCXc6Ctb8DgHREtO2W5Zvsi/U14h5ROixK26A/yeQ=",
+      "hash": "sha256-vwAy9eE9bZr0AF54acbIN695euBD6DHJeP8RNpwgZsU=",
       "url": "BestiaryData/bestiary/7063-war-priest.html"
     },
     {
-      "hash": "sha256-dcz8QALOAdSydj+KpvqMbnZ8T+uxFfmBFismGSZgrWE=",
+      "hash": "sha256-jc/EC/UiU8Sg+8KJxOsZNUobvQaCXyzMXBhMkT/h704=",
       "url": "BestiaryData/bestiary/7064-warlord.html"
     },
     {
-      "hash": "sha256-5fqmiRGprk+8P1nz2WSV/4NXtlp1iXEDfP3pXcw0q80=",
+      "hash": "sha256-2mYs5LVFKb1CpxmVDNXH5Bk3Tj1gCiXLD7GUhXtcBvc=",
       "url": "BestiaryData/bestiary/7065-warlock-of-the-archfey.html"
     },
     {
@@ -8638,11 +8638,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7066-warlock-of-the-fiend.html"
     },
     {
-      "hash": "sha256-On5m7EWt42W+4s/K1CKlgAThdlLRpAsuwVA25ONUbK4=",
+      "hash": "sha256-2pTnxUFtuEbWuglp4/B0Cr9/BRSIhWS9wC1JdnuPsJ0=",
       "url": "BestiaryData/bestiary/7067-warlock-of-the-great-old-one.html"
     },
     {
-      "hash": "sha256-y2JycfKiIL6O7XT+gKm9KuppvnKbDm+QcArew9A3RjI=",
+      "hash": "sha256-xdHaTu8YJvEiTtKCEedebBO8xYeZ7NmNEXCSJAtgBgk=",
       "url": "BestiaryData/bestiary/7068-wastrilith.html"
     },
     {
@@ -8650,27 +8650,27 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7069-wood-woad.html"
     },
     {
-      "hash": "sha256-6W9OyvrIlRexQsKjpCeISpbgqMQYMFUc8nF7dlXDWtw=",
+      "hash": "sha256-EHe6+udOm03b2fGy98n8IJsmgJsPL2ZI9KyuMpY/od8=",
       "url": "BestiaryData/bestiary/7071-xvart.html"
     },
     {
-      "hash": "sha256-KD7B3LDERoxbR4NuRLGFcohbhgIo8Z4Ic/I608OvqMM=",
+      "hash": "sha256-zYFEA3bGd0mDysCbu3ERW5gNmq4KweCRLIzBi+VsSrE=",
       "url": "BestiaryData/bestiary/7072-xvart-warlock-of-raxivort.html"
     },
     {
-      "hash": "sha256-7Nj/oDN7n8a82A88AjZWlg2tA/wsh/feKs5w8bYc1Ao=",
+      "hash": "sha256-6Gc0+MMJrNJ312foodVq+drnE4/oU9lTVsZRGDs8BEQ=",
       "url": "BestiaryData/bestiary/7073-yagnoloth.html"
     },
     {
-      "hash": "sha256-EfpW9RLx01xvUvhitCEWcT4KsZCZUCNRdjT+eDHbmjg=",
+      "hash": "sha256-wnpmmumpHo7a9ahcS8EIxyWJ1SBmkl/t0BovKm6qAcs=",
       "url": "BestiaryData/bestiary/7074-yeth-hound.html"
     },
     {
-      "hash": "sha256-ciszd+7sfo4qpOFd+N5yf9KXS3KFFw5EtUbQYl5WEtU=",
+      "hash": "sha256-F6UE0QFDhZpsj5jnZSbhoNXyo7O4gyhtopexgvCsXts=",
       "url": "BestiaryData/bestiary/7076-yuan-ti-anathema.html"
     },
     {
-      "hash": "sha256-tEjwHxSqMO8MX3OmtIe1lE+DkfZvs/Wg6dUkKq0x8qw=",
+      "hash": "sha256-n3JkKaA9FBr46nfM1ugu9jzwdXoKHQnkpPiDc7JHZqU=",
       "url": "BestiaryData/bestiary/7081-yuan-ti-broodguard.html"
     },
     {
@@ -8678,27 +8678,27 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7082-yuan-ti-mind-whisperer.html"
     },
     {
-      "hash": "sha256-OerDyTG4yeEp1giWSH3Vy33A3556ejjuQlppA7YnjiU=",
+      "hash": "sha256-/VwQwNRUTLSK1M7tIgP0k50uHkGh736RiLhQs4lf4Kw=",
       "url": "BestiaryData/bestiary/7083-yuan-ti-nightmare-speaker.html"
     },
     {
-      "hash": "sha256-UVPNINn2KaDPhYFNr58NQP0UJmzmoW0l99oQheLd8SM=",
+      "hash": "sha256-2uDbX3Ecd8a9egRRn3wZNrHgRPpmC20uNMJDQVOEcGs=",
       "url": "BestiaryData/bestiary/7084-yuan-ti-pit-master.html"
     },
     {
-      "hash": "sha256-8Rfy+3YT12SWdgrXDYJpBwA+VQQOp+oqIB1E3VvsWeQ=",
+      "hash": "sha256-hVZxqnqM0HeRVpcF619CP8+B1ErsVGyIt8p7Qrw+X2c=",
       "url": "BestiaryData/bestiary/7085-zaratan.html"
     },
     {
-      "hash": "sha256-JorRz5jLHCPUcUzFXovIy5LuDsI5gOiTVhtgftLxy/I=",
+      "hash": "sha256-onIePAuY3FPJU8QmUuiSsFif4ah3hy9kwaHuj2ZzNtk=",
       "url": "BestiaryData/bestiary/7086-zariel.html"
     },
     {
-      "hash": "sha256-Q1ZnPdnXJAp9A9+m5ljVwsZm8yZ9FW3SqqK0nzO8Vx0=",
+      "hash": "sha256-0UUgIIm5debu7ReRnonqmujZTYzAt7o+UtwO9LwkdRc=",
       "url": "BestiaryData/bestiary/71-marilith.html"
     },
     {
-      "hash": "sha256-GEzF2weBf3/umgBXOu21zHIhKuHz6LIdrYnFkwBvbCs=",
+      "hash": "sha256-E/XgU65r7Qfwf+SzgUYqdpM8naXUTzZxzeRtRar/w3k=",
       "url": "BestiaryData/bestiary/7107-duergar-stone-guard.html"
     },
     {
@@ -8734,7 +8734,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7163-oread.html"
     },
     {
-      "hash": "sha256-xdrSw6LL/voxbc94zf15WIZhH/8X3rI7t6Q7SWih0Sw=",
+      "hash": "sha256-iKdhxH9SK80rYPsl4n8sFrc41JPXQlTHL5OmzPhvuWQ=",
       "url": "BestiaryData/bestiary/7165-anvilwrought-raptor.html"
     },
     {
@@ -8742,15 +8742,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7166-bronze-sable.html"
     },
     {
-      "hash": "sha256-82yM4DRw6L5OkRCuv05y9br1S/pwnMUhpiYC5qpfWCM=",
+      "hash": "sha256-P/gGmkTepC1i6qi0Dkyz6bDszstNwDNbxxcQN7+89xg=",
       "url": "BestiaryData/bestiary/7167-burnished-hart.html"
     },
     {
-      "hash": "sha256-1O4vj0n2kWnT1IhW6+wYKXz6wpKRBgUDTi1yHvcQ9pk=",
+      "hash": "sha256-MnmhbrmznFeLqASCMBXByRYDUtLNs/nvamG8fgZ9wkM=",
       "url": "BestiaryData/bestiary/7168-gold-forged-sentinel.html"
     },
     {
-      "hash": "sha256-mffB42dI8M1+Tj3WXaTa/8Wq3kpivnfEt4QlhJK8sCs=",
+      "hash": "sha256-QbEgzzj2PoCw9upkEjcqRRq2MuWNPZB9ER4C4r48smk=",
       "url": "BestiaryData/bestiary/7169-amphisbaena.html"
     },
     {
@@ -8774,11 +8774,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7178-two-headed-cerberus.html"
     },
     {
-      "hash": "sha256-Ivex/wfPR8uNtHmhyXeHe7V/xKZqBn7YqQlHoXAck00=",
+      "hash": "sha256-WfE6plJR6Sy2Srewhp9F9a8k8Z6LPtBIGCThjZ3PjCE=",
       "url": "BestiaryData/bestiary/7179-underworld-cerberus.html"
     },
     {
-      "hash": "sha256-03fzR1hF8JTwmLVrx5xBt7HITiEJ24dF34sXsf5cN6c=",
+      "hash": "sha256-WhNiTFbSJL+tiC5RXVVnIb/tiwCtb7UuXSY1ndGp+ns=",
       "url": "BestiaryData/bestiary/7180-theran-chimera.html"
     },
     {
@@ -8814,7 +8814,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7189-hundred-handed-one.html"
     },
     {
-      "hash": "sha256-H6sCypNDBGwVXy5Xk/Q9VuOE2VAY/mH7a+4Bm0qv7ng=",
+      "hash": "sha256-W9yWkw6M5wEllaM1zY3m9UG20iS9fQpIgHN0+qNKLmc=",
       "url": "BestiaryData/bestiary/7192-aphemia.html"
     },
     {
@@ -8842,7 +8842,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7199-nyx-fleece-ram.html"
     },
     {
-      "hash": "sha256-WG53ESneOX5TfATdHl4ZDOmSj4jMvELDT6NedsGlYwQ=",
+      "hash": "sha256-K4FynhCoP8BsgypSaDXDiomqp6bN+uuujDgDECK8ntk=",
       "url": "BestiaryData/bestiary/72-nalfeshnee.html"
     },
     {
@@ -8894,7 +8894,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7212-woe-strider.html"
     },
     {
-      "hash": "sha256-7a8/5GkZvPox+MMq9UaZx+ElO14LrADXmIaHub8PUGs=",
+      "hash": "sha256-YwRZ1tUKLwJobfZYxXfwu3nA+z1QRYHz5XEYK3d0r5U=",
       "url": "BestiaryData/bestiary/7213-arasta.html"
     },
     {
@@ -8902,11 +8902,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7214-swarm-of-spiders.html"
     },
     {
-      "hash": "sha256-TFzTE58osGqr3UhlOoZQuCgHFctdkuBzuSSAWy5sz6k=",
+      "hash": "sha256-YWsiFFSp1OV8sDcr/NMrFMvnjZiSLWqgf044z9fiEIY=",
       "url": "BestiaryData/bestiary/7215-hythonia.html"
     },
     {
-      "hash": "sha256-dG2c6KYmhUHGVXD8RwfAjcsx+64JtJ0e1jYgbnGnH8g=",
+      "hash": "sha256-B10b1T7fTjdlHMG4qIcdmiIV98OaUt0Fa4M07lN0O04=",
       "url": "BestiaryData/bestiary/7216-tromokratis.html"
     },
     {
@@ -8918,7 +8918,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7263-aeorian-absorber.html"
     },
     {
-      "hash": "sha256-IwpHkpXb+OtT1SJm/PQF9u8YJdV36wWfVQhg2U9NkTw=",
+      "hash": "sha256-SFxDBQKsh2JZqlUiIojgRPFiOa6NyfB1zQg+cfZqjoI=",
       "url": "BestiaryData/bestiary/7265-aeorian-nullifier.html"
     },
     {
@@ -8934,15 +8934,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7268-core-spawn-crawler.html"
     },
     {
-      "hash": "sha256-jwoNqU7MW4wCf0FMzykK3afdgoPHuo2U7WqAO+Qz4IU=",
+      "hash": "sha256-IOHtPJ8fARwdP8cdyWm7kxlnn1dAn1GDxTgmN2nuXdI=",
       "url": "BestiaryData/bestiary/7269-core-spawn-emissary.html"
     },
     {
-      "hash": "sha256-hrVfRns8Ah5aFnyzgMcxi1M7KTi+Dp6SKBPJLXd0hbQ=",
+      "hash": "sha256-TE5DQFhTkofWUShlUWN0nxkF24kGAuYBrO1sx9Gy/fw=",
       "url": "BestiaryData/bestiary/7270-core-spawn-seer.html"
     },
     {
-      "hash": "sha256-vru7lSC+wc8mX3Os3YErrFi2JMz5SFND7V/x58ccRoI=",
+      "hash": "sha256-2zexrwnkHri0GB548AEB1GkMC9YqViPcIxXYQ2hID0Y=",
       "url": "BestiaryData/bestiary/7272-core-spawn-worm.html"
     },
     {
@@ -8958,11 +8958,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7283-gearkeeper-construct.html"
     },
     {
-      "hash": "sha256-OdoeRk0Glw/al63CtPRk9Qm1MY3b4ykBkwEWZBVrTx8=",
+      "hash": "sha256-UjtbytUyQp09G/oNPakcbW7PX5oql0Bpol/dxk3ytCI=",
       "url": "BestiaryData/bestiary/7290-gloomstalker.html"
     },
     {
-      "hash": "sha256-qngieZ1f2kAVTQVMR3Ve8Ckpd7l/AOypB1bsj2g8OOc=",
+      "hash": "sha256-Ceyl1o4KFWxHVZwBYplcDICUA6qzDOmCCfYn8rwZXCg=",
       "url": "BestiaryData/bestiary/73-quasit.html"
     },
     {
@@ -8990,7 +8990,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7407-nergaliid-devil-toad.html"
     },
     {
-      "hash": "sha256-18yEnj1QjBZb0YDd4J284StkBVvExr6nhqaPcoR+WRA=",
+      "hash": "sha256-6BUCmM8Xy8zSv6X9o0/fgnOqifcfb7cZ7gN6uD+IPFw=",
       "url": "BestiaryData/bestiary/7408-sahuagin-warlock-of-ukotoa.html"
     },
     {
@@ -9030,11 +9030,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7417-quana-seledo.html"
     },
     {
-      "hash": "sha256-wCsua0PPW1ZbwqK6E3fXfv3LqdC+ZQgIf6E37HXcUzQ=",
+      "hash": "sha256-gEDSZm1My1DEmGPvL+19i+QpD07YUckGjO2vQCvkNZ8=",
       "url": "BestiaryData/bestiary/7418-dyolet-mounds.html"
     },
     {
-      "hash": "sha256-EnsKr4SS99AOWrwIjnhbcgbC0PRmFX2XbWrGb2uFXbo=",
+      "hash": "sha256-3cCN8tcjdxtqLY4OHuaKtdKspxX3oCEQxZIiw48LMp8=",
       "url": "BestiaryData/bestiary/7419-erma-schnieb.html"
     },
     {
@@ -9050,11 +9050,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7422-allowak-yeti.html"
     },
     {
-      "hash": "sha256-z3/gkTF0oowb4rRoUgKSw1aH2twAIsalXIY89gSfayQ=",
+      "hash": "sha256-eKwF5HdN91EDn61FUwUixRVjSWx3G88cCwQBHtH0gC4=",
       "url": "BestiaryData/bestiary/7423-wardlow-akron.html"
     },
     {
-      "hash": "sha256-d7SOGVCbQYwM6mmJ7p6VvAeaZ8facnGT9GkRbF5Ga7g=",
+      "hash": "sha256-oXC5ejSDS4ATX/qBiStSQtjJSEdZpI5SuWTpaYeYXSE=",
       "url": "BestiaryData/bestiary/7424-korberta-horswell.html"
     },
     {
@@ -9066,7 +9066,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7426-farrhan-yost.html"
     },
     {
-      "hash": "sha256-Ed3IKrC3thWA/AuFi1jenuf3rXoN9rNFrkb4nccjG2E=",
+      "hash": "sha256-Wf3KzWJw4717h1qdeChbS/OxYfAtz08lKaAp6xMxwHA=",
       "url": "BestiaryData/bestiary/7427-buyer.html"
     },
     {
@@ -9162,7 +9162,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7450-skra-sorsk.html"
     },
     {
-      "hash": "sha256-xK0iR+cBMVRxh6P4MQHPj4+JA2e72iic96Q0xW4TS6s=",
+      "hash": "sha256-088eTEQPo6ho58sh0ctwdfTNNArm6SLkv3Zw67Dztxo=",
       "url": "BestiaryData/bestiary/7451-mossback-steward.html"
     },
     {
@@ -9202,19 +9202,19 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7460-swarm-of-undead-snakes.html"
     },
     {
-      "hash": "sha256-/lv59vel+owmWyWHtMhMIV+rcCeXDXFhqnAnb9UqYUo=",
+      "hash": "sha256-ruJt9puY/hwMlcrj3FW6Ei2REBvT6/PXcz3rNmRfP3M=",
       "url": "BestiaryData/bestiary/7461-omin-dran.html"
     },
     {
-      "hash": "sha256-PgFow/leGnPn7KKNRIkV2uG899pq1yFzc+i3shWWPfc=",
+      "hash": "sha256-6dYOK7SKezXRG6C9E204zLV0cw5lTLvWrxRmR7tEGBw=",
       "url": "BestiaryData/bestiary/7462-jim-darkmagic.html"
     },
     {
-      "hash": "sha256-GtXIqSBRcjtNA2d+s4C4SZwOepyo8o63iYEYKNLRVyU=",
+      "hash": "sha256-9dqsXReLUSfpKN34BSIa1fPc43HnsK1hizIAxlVBfIM=",
       "url": "BestiaryData/bestiary/7463-viari.html"
     },
     {
-      "hash": "sha256-7lrFsBunBcStEMHdMLY1C0JJgeIdRy3RNnbiWm/YfSs=",
+      "hash": "sha256-Bp5RIfEG7WsmMnm86ZnTOeVgFpJW/6Ek0xbmLqzBd14=",
       "url": "BestiaryData/bestiary/7464-morgaen.html"
     },
     {
@@ -9222,11 +9222,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7466-flabbergast.html"
     },
     {
-      "hash": "sha256-KwKn8Ou0pRlA/cs1nDYMV6IsFBqG7+VQ1gfDcfExSNQ=",
+      "hash": "sha256-1G0Uu7wFdDtPOBrxgKJ3GtWIaEsHuFnVtA/pjFWi+/4=",
       "url": "BestiaryData/bestiary/7467-donaar-blitzen.html"
     },
     {
-      "hash": "sha256-iFnw2MBdqdFJn1sAZo0z5dzmxn9uRzPRcqIoE/gBjFE=",
+      "hash": "sha256-ek4q5lPpu5qvMgEu6KzpcRUH542ld2ff8lrCWdStQnE=",
       "url": "BestiaryData/bestiary/7469-kthriss-drowb.html"
     },
     {
@@ -9234,11 +9234,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7470-ligotti.html"
     },
     {
-      "hash": "sha256-4Z4A9axmkUzYqT7qlJF7s4TW+dGCBIgMI8IcZ3FafHM=",
+      "hash": "sha256-9j5QeOrPYLSrJoDgnX714MONvRF+e+wqv0ZLTh+GAdE=",
       "url": "BestiaryData/bestiary/7471-rosie-beestinger.html"
     },
     {
-      "hash": "sha256-11dfzt9GevpG4wGq+NUsNvdxW5NWl3wuozrjIUwrqSA=",
+      "hash": "sha256-qC50vh5NfILnl5+BUPVyh2th8X6ZqHoxIOOmv43VH1k=",
       "url": "BestiaryData/bestiary/7472-walnut-dankgrass.html"
     },
     {
@@ -9282,23 +9282,23 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7483-clockwork-dragon.html"
     },
     {
-      "hash": "sha256-4GMmgLebBWyNdI5pQtPfIiKz3sBpXFEJfYRLX3kAUoM=",
+      "hash": "sha256-4GPEVZs9xy09+KUlLSUbpqlXeqf/vIFD3k1/POTQbIs=",
       "url": "BestiaryData/bestiary/7485-deep-crow.html"
     },
     {
-      "hash": "sha256-/z9AHrJTPwka07cDtAib+azPQVayYiA5zpt3F/uJhps=",
+      "hash": "sha256-oqLGRm/Nvs+QYceYqh1MNUD4g2ftYPNBNlshHv4iJDw=",
       "url": "BestiaryData/bestiary/7486-ancient-deep-crow.html"
     },
     {
-      "hash": "sha256-qbwVe2XJgTfFz4E6DHMBR6VPSKd3+1ixjbS+rFa4ERg=",
+      "hash": "sha256-CjNMDCzGDg3TyL5Bx77FrHMP7NbQhSGOs1EaKApSIgM=",
       "url": "BestiaryData/bestiary/7487-keg-robot.html"
     },
     {
-      "hash": "sha256-8aXMdkrVhFHPP6rY8Q+mNL7UlTCWG0UHybIidMbiouo=",
+      "hash": "sha256-v1dF/mcVc4MCNmBgC7Qhi72Kc+hwOJXx2OWjzVeb6VA=",
       "url": "BestiaryData/bestiary/7488-splugoth-the-returned.html"
     },
     {
-      "hash": "sha256-8rAgNo5qmmdjoD21YWDxCRZBHgaUjYrVCVxP9Nvr0Ho=",
+      "hash": "sha256-5Mhl/iHeOLAz34534IKDNVSMTSReylrWoh3ZucyFt34=",
       "url": "BestiaryData/bestiary/7498-amphisbaena.html"
     },
     {
@@ -9306,7 +9306,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7499-bullywug-croaker.html"
     },
     {
-      "hash": "sha256-VNpIDfysilB0lxnySrlSVyelx20Yww9EJ+T32n6GDLI=",
+      "hash": "sha256-GXas3eQP+TZWRyr0Ss4RYuMtwE3Eb/1lEhYcIgqt4qI=",
       "url": "BestiaryData/bestiary/75-vrock.html"
     },
     {
@@ -9314,19 +9314,19 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7500-bullywug-royal.html"
     },
     {
-      "hash": "sha256-PM31v2ZJNj6DLHCBVDa4owWl0IHcppjxfx9JMz4Jabw=",
+      "hash": "sha256-kK/2BZYgTj81zMZgMKmewD2b4Db0aouMCAPsONd8sSU=",
       "url": "BestiaryData/bestiary/7501-drowned-ascetic.html"
     },
     {
-      "hash": "sha256-kOd3isbVRPbhkRxPeLqWaSCKe13snmyXTtVFVQnA+2A=",
+      "hash": "sha256-u8d15iBuCGV2uTEdQWWT9p+IBtaScBbVL79TE3NtKTs=",
       "url": "BestiaryData/bestiary/7502-drowned-assassin.html"
     },
     {
-      "hash": "sha256-twtnr/Tc5V5+EQazF74oPym+Hu8BfG/Bk9TJly21sNQ=",
+      "hash": "sha256-XDx5IE8UMbXu5RIlQtM95ONlrMvD4sp1ZEB1thAHiMk=",
       "url": "BestiaryData/bestiary/7503-drowned-blade.html"
     },
     {
-      "hash": "sha256-pi4PSaj8Mg5rI407jhvgoD5lm4s8dGQrZQuCyyunXfk=",
+      "hash": "sha256-6nttPWGMgecoE5ldYpYFHqr5U7FDnjBvLBQ+Fzj1BuU=",
       "url": "BestiaryData/bestiary/7504-drowned-master.html"
     },
     {
@@ -9382,11 +9382,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7521-lizardfolk-subchief.html"
     },
     {
-      "hash": "sha256-W508b1uSD5W1t3H//MI7wnMCFjyqLkzBwJ+8D4Zspso=",
+      "hash": "sha256-2UoEe4Ui/u5C3ln7PFPGvRC5JD4oGYTFlxDotr/OAhI=",
       "url": "BestiaryData/bestiary/7524-locathah.html"
     },
     {
-      "hash": "sha256-WM1TcT4s+QqeuICCmMB4llo1CTJw7a8t0BRDi602C68=",
+      "hash": "sha256-4sRmO7jpfxGihL0onTja9t2xxU550X8ZRzQREZUKzCI=",
       "url": "BestiaryData/bestiary/7525-locathah-hunter.html"
     },
     {
@@ -9422,7 +9422,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7541-pirate-captain.html"
     },
     {
-      "hash": "sha256-HKR3Bb86GYmoxTVVR2W0IOI1Dp5g18kefDBbyLy5QfI=",
+      "hash": "sha256-/MwSZNcU9zt+C/Bl6VHFN1wr2jEfQ26L6k/3cP0/G6o=",
       "url": "BestiaryData/bestiary/7542-pirate-deck-wizard.html"
     },
     {
@@ -9538,15 +9538,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7571-yalaga-maladwyn.html"
     },
     {
-      "hash": "sha256-TQ4QGDAbXwJ8mvTszaEh12WiADXgsypuEnsj6wOgICo=",
+      "hash": "sha256-LrEgacwEWEJd+I3nSlisGfQLrX+Ql5EPsye8F6r77iE=",
       "url": "BestiaryData/bestiary/76-yochlol.html"
     },
     {
-      "hash": "sha256-sGRPDCY8xflEM4poMX9R2MQ00B8ICMP1aN0ULV1iP0o=",
+      "hash": "sha256-220OM9ua3487Pe2KZYzPaTAiyPKCoTRkx9yRLFtTo2w=",
       "url": "BestiaryData/bestiary/7679-barbatos.html"
     },
     {
-      "hash": "sha256-9F6WVW6KiQyd6VPKxucMoYzXIPu+1bmEc6cuFe/wCsw=",
+      "hash": "sha256-RWKD+X9g4y2hVb2NtkSgd21c8oX6hxWv8rbikaaRSOg=",
       "url": "BestiaryData/bestiary/7685-asteroid-spider.html"
     },
     {
@@ -9554,23 +9554,23 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7686-clockwork-horror.html"
     },
     {
-      "hash": "sha256-mfYFyghpwGM8hvjJ730YtoGgSMO8IybFF7UloZ8n67c=",
+      "hash": "sha256-wKAZvxbiLoXgB6Pi8ufuuqcgr64mOrYRwgpUBM533iU=",
       "url": "BestiaryData/bestiary/7687-eldritch-lich.html"
     },
     {
-      "hash": "sha256-b1pUuqdurF2n+Lo1+Veka5OEAXJHvz3+T3LDrfpW5aA=",
+      "hash": "sha256-mKSlZGAWy/TapyaxrNpOlT0Ea2jNGHDw4MnMveP8Ny0=",
       "url": "BestiaryData/bestiary/7688-fractine.html"
     },
     {
-      "hash": "sha256-DpqtXYRLoevaO8wOEYXcFMud4tWysYLT7IPTzFA3Hxw=",
+      "hash": "sha256-kfKtlOYFR3iyfF2tkmsdCzzvYxZIAZK7YqDrSjQErmc=",
       "url": "BestiaryData/bestiary/7689-gadabout.html"
     },
     {
-      "hash": "sha256-kWYX4RGRG1yeiZRacuA5n050yQBTe/C9STM85vACw54=",
+      "hash": "sha256-B2HHXF0sGxJ0sNn7wtY5VjCIA0yS0oBcjAtwJ9O0eAI=",
       "url": "BestiaryData/bestiary/7690-goon-balloon.html"
     },
     {
-      "hash": "sha256-/oDqQlb4cs0wfEny+A0Yx+ukSETJbWZrv87mlyxDgvI=",
+      "hash": "sha256-elkubrwXZCQCpld/Ve7MLn7ZQOUR4qfjOlXN8RiccSY=",
       "url": "BestiaryData/bestiary/7691-nightmare-beast.html"
     },
     {
@@ -9578,11 +9578,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7692-puppeteer-parasite.html"
     },
     {
-      "hash": "sha256-r+awPVFgyFrHrj8kY+Hp/MtXsR3oQ7KFS4SO2tsVPf8=",
+      "hash": "sha256-kGBERB2ojT0RbGMguz/3Vlzg6h8/A6RSdVRGWi14Vqs=",
       "url": "BestiaryData/bestiary/7693-star-lancer.html"
     },
     {
-      "hash": "sha256-3w+QovbUz7fazUgOPOCL1uJFVNnmeuCYsyReUhhzNe4=",
+      "hash": "sha256-ZE2oromsryCpQdN1WMYrQeenb41rxg20n6xTMMJ85Fw=",
       "url": "BestiaryData/bestiary/7694-yggdrasti.html"
     },
     {
@@ -9602,7 +9602,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7699-morak-urgray.html"
     },
     {
-      "hash": "sha256-fnzeqIzqrB5k6pDaj8l+aBDs/7V7VNpu1mUHcvqszX0=",
+      "hash": "sha256-p+wf+dxE5N23DV4yVWErqmehYi8LIJo+N0bkWVUE3/A=",
       "url": "BestiaryData/bestiary/77-barbed-devil.html"
     },
     {
@@ -9622,7 +9622,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7710-sir-lanniver.html"
     },
     {
-      "hash": "sha256-XkxnCdO/+bDXz6kuTD2LnC8IO2s7gbQ5aJIHwVJvgUE=",
+      "hash": "sha256-SoU9XNhwgJ/975hc+hvcaoq6hL1ANOuEYsCfGmxvNQQ=",
       "url": "BestiaryData/bestiary/7711-unarmed-hill-giant.html"
     },
     {
@@ -9694,11 +9694,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7730-orok.html"
     },
     {
-      "hash": "sha256-dnRbmT8NHimddOgVJXWECIHR4dQ4w3CEjjoQJIMOwPg=",
+      "hash": "sha256-YEZFoeH3FCfnQDDNTZh7QzP0k0Q/2NbjoTW9BttR/uI=",
       "url": "BestiaryData/bestiary/7731-harper-spellcaster.html"
     },
     {
-      "hash": "sha256-/AezdjD/j9BToVoZUaY59KGGwplF768kuSV1BipXlIk=",
+      "hash": "sha256-zM51Xn9MdSU9HrPsFlAYBqfkAs5mnQh6cIrbhd9N88E=",
       "url": "BestiaryData/bestiary/7732-harshnag-the-grim.html"
     },
     {
@@ -9714,7 +9714,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7735-noori.html"
     },
     {
-      "hash": "sha256-HMFfUik1LLN2CMFA2i7i3q+9xlX5As1mKPjbOWX75ww=",
+      "hash": "sha256-MjuZIIHdBCgoQIgNdvrvwcvW4YKXl5J5pZbrdMxEyHY=",
       "url": "BestiaryData/bestiary/7736-ice-spider-queen.html"
     },
     {
@@ -9722,7 +9722,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7738-eigerons-ghost.html"
     },
     {
-      "hash": "sha256-PDG0zns+gOpmsye+Vyl6YeDzD6H4ejJVRVqi6LoM2us=",
+      "hash": "sha256-MWxoyvOG+9SoXED0EOsLCpFVbWIRn0Nr6BQdByoULLY=",
       "url": "BestiaryData/bestiary/7739-guh.html"
     },
     {
@@ -9734,15 +9734,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7741-pig.html"
     },
     {
-      "hash": "sha256-UIhEyfFN2/bCtZMMnid5Ari043IenazVaaCl+N8yCqA=",
+      "hash": "sha256-mA3zxSRowOecY/CamiKn6b/u+IcF6wdKKgTQk7scy4k=",
       "url": "BestiaryData/bestiary/7742-deadstone-cleft-stone-giant.html"
     },
     {
-      "hash": "sha256-0K7HNC8uhLz0yhtkzAeoOZoM1Q3lAQa82ULwZvB1KVY=",
+      "hash": "sha256-tysem0pkJ31KBRndA5wEx5sP5O19QcddUafxixUvnxA=",
       "url": "BestiaryData/bestiary/7743-hydia-moonmusk.html"
     },
     {
-      "hash": "sha256-l01zwJKk6EHyuMonpW4zktsU/0Y4BqNQcuitnvzEMew=",
+      "hash": "sha256-yny9TDoV1Bqpp/3gKjU6xYjWFKjH8w44kYw6QZaOJOk=",
       "url": "BestiaryData/bestiary/7744-kayalithica.html"
     },
     {
@@ -9770,7 +9770,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7752-cinderhild.html"
     },
     {
-      "hash": "sha256-hevgvAsLTs6ZhH533SoD4ziyAh3L38sc9zqUXin+BqY=",
+      "hash": "sha256-85tO/HvDYClseSBlSoG1o7TRRDw7COz30fFMkj/ESNQ=",
       "url": "BestiaryData/bestiary/7753-duke-zalto.html"
     },
     {
@@ -9778,7 +9778,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7754-jasper-dimmerchasm.html"
     },
     {
-      "hash": "sha256-LsGQiTQoust5LzYuF0ZALO1JSNHKK9aSOcjo0kGbY4E=",
+      "hash": "sha256-LPPZkrT3GFJPV4+Ps7Y06frzs7wu2AeiPRqNaW66kzc=",
       "url": "BestiaryData/bestiary/7755-brimskarda.html"
     },
     {
@@ -9786,7 +9786,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7756-aarakocra-simulacrum.html"
     },
     {
-      "hash": "sha256-+hq1Wru1QhzowbwPILvs5/4Ga5W0RSueTf+8p2nBvPA=",
+      "hash": "sha256-aRw0/qZIOFoka9ypfo0TWWv5HuRVEAb4o7xY/fLcxMM=",
       "url": "BestiaryData/bestiary/7757-cressaro.html"
     },
     {
@@ -9798,23 +9798,23 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7759-kaaltar.html"
     },
     {
-      "hash": "sha256-giu43v/sukOn48vx60PKc4dBWaaddkPRm84uOzO/uSU=",
+      "hash": "sha256-XlltOppIRkyjIaYj6k9owtJovGUtpqxHakwftjnL7nE=",
       "url": "BestiaryData/bestiary/7760-count-thullen.html"
     },
     {
-      "hash": "sha256-1cg7KGHnETCTCfxECVgJ0/IYQbEMd4UK91sQoYe9JO8=",
+      "hash": "sha256-2OWHN16AhcWaTv7A7y4FGCcfm0SgVYCQbM3o+nsSAvk=",
       "url": "BestiaryData/bestiary/7762-mirran.html"
     },
     {
-      "hash": "sha256-kMgD/fBUTgINbeC4lu8Ngt873sjjy8+xD9RNJPeHidY=",
+      "hash": "sha256-LYGbW16o0u+W/Oyw6+EOXa9JnTo8bdmCbpS7XHM3WA4=",
       "url": "BestiaryData/bestiary/7763-nym.html"
     },
     {
-      "hash": "sha256-pGv5/8r2JnKon18yk/1pP0rWnHc8+PhQCSuQ/W66VqY=",
+      "hash": "sha256-mdUDUSlKYLDWuWGi9qvv1HEudOoLa7Kqpw/IZIUm1Rc=",
       "url": "BestiaryData/bestiary/7764-serissa.html"
     },
     {
-      "hash": "sha256-mXnxT18W28/EZ9bjAEqOcrlIwJ6bc47s13E1FN0Oc6w=",
+      "hash": "sha256-XbUhgso/h6gd3iYBcbQOaBtR+I2+NfuSKj3YiKFI1gU=",
       "url": "BestiaryData/bestiary/7765-uthor.html"
     },
     {
@@ -9822,163 +9822,163 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7766-lord-drylund.html"
     },
     {
-      "hash": "sha256-InkZryMML3/4LhAO/g47y4IAlxy3Y5PMZFsU/HqTFRo=",
+      "hash": "sha256-Rmonj7VqwKL+jio4/pVqtkmR90k7he1VRwIr3Px/0Uw=",
       "url": "BestiaryData/bestiary/7767-pow-ming.html"
     },
     {
-      "hash": "sha256-8mJaqlO+J7+tzvnlYNCWWqoq09VKcVBLCjxpklOAngQ=",
+      "hash": "sha256-eFk447eraLjCNQO0DDybYcyfEe+h+A1PMKPzFte8MY4=",
       "url": "BestiaryData/bestiary/7768-king-hekaton.html"
     },
     {
-      "hash": "sha256-UohJBCAUjM9j9z20GAh3qzWNt+qCaN4iubCOSrErS4Y=",
+      "hash": "sha256-/IfiADccBTntJkak5NIAat9p2MTmkfpg/dC4cZvwti8=",
       "url": "BestiaryData/bestiary/7769-beldora.html"
     },
     {
-      "hash": "sha256-zBhnJncHYRYWD+7ixAvuhlU3ujwZTVH8uOoOvOOVx8k=",
+      "hash": "sha256-P0zaIazy8ijVzYh0vn27Lm2bNQ5lb2Au7wcNzjYFWIw=",
       "url": "BestiaryData/bestiary/7770-ghelryn-foehammer.html"
     },
     {
-      "hash": "sha256-4JS0v/tyhgx70d0030nWCH5KMI1jrFRVMwL1U05TF6o=",
+      "hash": "sha256-NDU9y/fdnmX7ILOIJiIUSmMwjHeUb7GBvye+inOcx8c=",
       "url": "BestiaryData/bestiary/7771-darathra-shendrel.html"
     },
     {
-      "hash": "sha256-fiue5i0vS9ecw7awQO4Clxqu3LBVKiLolwMHrtDu174=",
+      "hash": "sha256-/KZwsSewnFkt7atbx6w6ziqVhKXjd9Lo3IZBviA9hU4=",
       "url": "BestiaryData/bestiary/7772-darz-helgar.html"
     },
     {
-      "hash": "sha256-jPMeHYTJGPyxadr9z6/PE1pnh+5KPYpV3Kd30fyBB1I=",
+      "hash": "sha256-Osdr4TFp7sMKPBTeCdaFeMOa7Cm386H2NHsS4VIy5Cs=",
       "url": "BestiaryData/bestiary/7773-duvessa-shane.html"
     },
     {
-      "hash": "sha256-nRNm2LP4Cs/qN7Zx8C1TtBJKVKfX2G6YOUwbIa/JXRk=",
+      "hash": "sha256-nEtYi1dryIcYbpSRAR4LNHYj7tBryiRAAEzY3/GHoDo=",
       "url": "BestiaryData/bestiary/7774-lifferlas.html"
     },
     {
-      "hash": "sha256-F3V1cZud4p/55RLPqd6AnDDfjLheN/16LkSTyp0ILpc=",
+      "hash": "sha256-OsQNUMZPxbyQwlBycKYQw6Qc/msGXbv7erY4JU4nqHk=",
       "url": "BestiaryData/bestiary/7775-markham-southwell.html"
     },
     {
-      "hash": "sha256-9ndOKCUoUN4rukst386u/xc+hlce0V2QHjPWscstjN0=",
+      "hash": "sha256-oPhULK7v3kgckeI1OQED1DI9aKTBbcH+dMZr00wIgoE=",
       "url": "BestiaryData/bestiary/7776-miros-xelbrin.html"
     },
     {
-      "hash": "sha256-T+vT4j2zbZGSq2m92XaXByaROv6COsMY2rOle1+R7vs=",
+      "hash": "sha256-1kXNndN5tnnoAjkobz6mjSiMIGxaXzbldGu8pUEfpOE=",
       "url": "BestiaryData/bestiary/7777-naxene-drathkala.html"
     },
     {
-      "hash": "sha256-JXQFxoWKnuPnyTy7OIIjceNCcKn/M8nJf2aI0PsYH9k=",
+      "hash": "sha256-SxJN1CWNyLZ51iO5Ol4KiXPKTBZtpF9oAO9njxtMzGQ=",
       "url": "BestiaryData/bestiary/7778-narth-tezrin.html"
     },
     {
-      "hash": "sha256-PP8G2LNjy6CbuZ+Va59/Jjk+AeeakFUUXvsK0zfnORE=",
+      "hash": "sha256-n2VQR2gsHJjhpeDC0mHIMjyAntkeEKdQKX2VFYtDp8g=",
       "url": "BestiaryData/bestiary/7780-augrek-brighthelm.html"
     },
     {
-      "hash": "sha256-RHHPhTTBeFFMdW0SyrJl3LpKGD1P5IA0KPHiuJQNAqI=",
+      "hash": "sha256-IKFxP9tstEDmHV2Alx3cf2xr0sfrl4wbL8iWgJj/4q8=",
       "url": "BestiaryData/bestiary/7781-oren-yogilvy.html"
     },
     {
-      "hash": "sha256-caBlRx2w2z73OhZmiA+RCTDJ17a+ZCq7zjhnKe4PPqI=",
+      "hash": "sha256-ul0wHfhbrQ9Qa41V13RQB6H2rTI3zIdB+BXTpQlS39Y=",
       "url": "BestiaryData/bestiary/7782-othovir.html"
     },
     {
-      "hash": "sha256-5jbVDzE6rt5ozM9PmZbejQbyEyqS/PsP2TsIjBAktgo=",
+      "hash": "sha256-2GaQeqwoTaSdmJKc6np428LrJ6G8o+9t5Fyr3ZYjBaM=",
       "url": "BestiaryData/bestiary/7783-sirac-of-suzail.html"
     },
     {
-      "hash": "sha256-vI+xeVntUfpfh0bi+GsPPZZUax0hoyjvTJ/nTRB2Sk0=",
+      "hash": "sha256-llWYfr9BHoee4Eu3qX80/Hh4eU2IpyNOD4WuZAY3ZAw=",
       "url": "BestiaryData/bestiary/7784-sir-baric-nylef.html"
     },
     {
-      "hash": "sha256-e10fbVz/QcUnfRla7vic6Fb7SO5wcNpXtWDIDcAl++4=",
+      "hash": "sha256-1zlBYz5lkFQIvkYVdoSR9+G+5Qq838Vx03tFpWqG72c=",
       "url": "BestiaryData/bestiary/7785-urgala-meltimer.html"
     },
     {
-      "hash": "sha256-gSav/V7c4gJJON5UPK0f4xKq6z8kkRQs307oWBx6Jp0=",
+      "hash": "sha256-WbQrOxEjbd7sDLbmWq71dVwF1mdYzjHNNF5pwymDYmg=",
       "url": "BestiaryData/bestiary/7786-zi-liang.html"
     },
     {
-      "hash": "sha256-heITR9S4b96WutZOFLGdOm8d3QhvQMjiw+TgIEbuxGw=",
+      "hash": "sha256-3oN8xYbpA+cFaiFYdk9MxEXlWX/Qko501kqrR6opYuA=",
       "url": "BestiaryData/bestiary/7787-shalvus-martholio.html"
     },
     {
-      "hash": "sha256-DpIPZlUGEoIt0pCW0TUFU0DJaFwyqsDj/bvkozvCDHo=",
+      "hash": "sha256-UsKqU58/dYOl9xP2qTK35lsWytrNe4M6fEqRNUNBW6A=",
       "url": "BestiaryData/bestiary/7790-ayo-jabe-tier-1.html"
     },
     {
-      "hash": "sha256-UAHtulXVTDWfmvwI6ArmDkA6PDce/MiZ1DKJtBLxMCo=",
+      "hash": "sha256-bW8awIbjMnQ+YfPHCr7UWg3QWtJeiz7vvhD4ObHcFvs=",
       "url": "BestiaryData/bestiary/7791-ayo-jabe-tier-2.html"
     },
     {
-      "hash": "sha256-2jwYhC0ERq7DROYJGvZ8K2EQ8waMrhaVDdYHy2va3Aw=",
+      "hash": "sha256-yc9Z+2suNw4ghcghjqWdsq4sORoefJOAZzVL71ur2Ic=",
       "url": "BestiaryData/bestiary/7792-ayo-jabe-tier-3.html"
     },
     {
-      "hash": "sha256-u3pz2wz8hIYZ9LtnGyH6BqSXDktQHHOk5MaWlCjViuc=",
+      "hash": "sha256-Or1pnpKOz6VkAITpUwlj5CWUzrq2M6yfQW/zjseVDnU=",
       "url": "BestiaryData/bestiary/7793-dermot-wurder-tier-1.html"
     },
     {
-      "hash": "sha256-oGOIgim2Ra5sa0QxXUMCOavx00fKMIAQcQHW7UwadMA=",
+      "hash": "sha256-SFKL0/blWeCRpc3tMDv4v9RCGT/8AUCiO0LbWbB85Ro=",
       "url": "BestiaryData/bestiary/7794-dermot-wurder-tier-2.html"
     },
     {
-      "hash": "sha256-v8sdwPreufYWNJBb4jPGUPgumpD9VQ4G3tpy3pbzz4c=",
+      "hash": "sha256-eT9N7VgMjr6zhsvdj4BoRrCuHuIKQZBYZsFSDS7zczg=",
       "url": "BestiaryData/bestiary/7795-dermot-wurder-tier-3.html"
     },
     {
-      "hash": "sha256-u1hcrwHVwJdm8vEm9FVpCARlPRQIFDjoKycYYLJ40Oc=",
+      "hash": "sha256-QiD1UOBHrJSTgrxxEmb4M/NupAkkTaIJT8J3ZD28PQk=",
       "url": "BestiaryData/bestiary/78-bearded-devil.html"
     },
     {
-      "hash": "sha256-jkZpSNAgW1i6vL54fMCT9i38+7dEJaglIJm4rwClGJc=",
+      "hash": "sha256-zi9/iwWnKKClb5+t6eL+WpmhT8ujMnXdB7I9of2To+Q=",
       "url": "BestiaryData/bestiary/7804-galsariad-ardyth-tier-1.html"
     },
     {
-      "hash": "sha256-Pgdt2D9wCWQ0LHG6n+pMGrV7XjJK6KLiV5LCkX7EBTM=",
+      "hash": "sha256-U1Y3om90InXKte7q8P8LCiSTAsRGyBdfG28IqKA3hE0=",
       "url": "BestiaryData/bestiary/7805-galsariad-ardyth-tier-2.html"
     },
     {
-      "hash": "sha256-eknM78AP1B5hROvdx+r+zaT++yIs4Uh6Dfg8cuIv/9s=",
+      "hash": "sha256-bQ2K9T+ky+lR7fW+zr8SwrSNweXcMI5EDwAV3zPNU/k=",
       "url": "BestiaryData/bestiary/7806-galsariad-ardyth-tier-3.html"
     },
     {
-      "hash": "sha256-XyeSiaV6j52maxIurBJn3nzi7ccvSgIjkjTX/z5oQYg=",
+      "hash": "sha256-d6OMLv+0Vf0VftTF0OEX9CBTkWpsm3NL3E+/5FmuLm8=",
       "url": "BestiaryData/bestiary/7807-irvan-wastewalker-tier-1.html"
     },
     {
-      "hash": "sha256-2kg8G+PL5rI7eLVyItjv5g36nRRCE8kd8QVkB/3hFLE=",
+      "hash": "sha256-lFf/2Gco5GGHzJGo8Kfu3IIbjihFasC99YB+/n7Ut34=",
       "url": "BestiaryData/bestiary/7808-irvan-wastewalker-tier-2.html"
     },
     {
-      "hash": "sha256-IrmUBEF7m1/CK9ZRckzbCbS8LrQm5dMU8fGtjFXUVV8=",
+      "hash": "sha256-nB/QHL3g4393yRyMDlxAAnkybr6tnWdJdQ6oJty/MWE=",
       "url": "BestiaryData/bestiary/7809-irvan-wastewalker-tier-3.html"
     },
     {
-      "hash": "sha256-DsLKY+0AE4Yhu9lv0VxIJbAM4ErZD8gLoAn0PDTH9Fg=",
+      "hash": "sha256-uBUdSCxLayATSf59GaKIIPg3gerylKkuTkWscwFIJiU=",
       "url": "BestiaryData/bestiary/7810-maggie-keeneyes-tier-1.html"
     },
     {
-      "hash": "sha256-Nw6VRlboXBbYGniTgWtb3NLZ/+9r1raly9t/TOI6APY=",
+      "hash": "sha256-+++Deo5LjcYsXAOvsXGxAiDQPWoi2/PASmwMtHqOPY4=",
       "url": "BestiaryData/bestiary/7811-maggie-keeneyes-tier-2.html"
     },
     {
-      "hash": "sha256-KzxNTNQGGa2uuGFrGYHUh+5Orz2U4tt2AUavXLCOR0w=",
+      "hash": "sha256-bRRsR50bxQ2aDI+RvKa+8Oc4PWMTfXmC1WNLjx2Lswc=",
       "url": "BestiaryData/bestiary/7812-maggie-keeneyes-tier-3.html"
     },
     {
-      "hash": "sha256-HA7yjkYhVnf2i5kgu3DfyGOI4nK6LZWvlnEWIGozNJg=",
+      "hash": "sha256-VQRKBYp7QgeaV/LHyxRVSZiQYPJ/EV4ZafUiVt5WY5o=",
       "url": "BestiaryData/bestiary/7813-alyxian-aboleth.html"
     },
     {
-      "hash": "sha256-Szex4OHCgyJlT5UdiHasJJEe4aB+c7Mem9gLkP7Gk94=",
+      "hash": "sha256-FzKBaKZkpy9+dl8kSn1hjzjwaYuVVAbY7V+9xVFqkWE=",
       "url": "BestiaryData/bestiary/7814-alyxian-the-absolved.html"
     },
     {
-      "hash": "sha256-GXM8qILcdXAxbKg8oxJqJjHuBBluuIjfFT5zcFwE1l0=",
+      "hash": "sha256-BTV4epTv4mENjUt/F0bfvOy+kc1ldwhvhrZtUvY/rHE=",
       "url": "BestiaryData/bestiary/7816-alyxian-the-callous.html"
     },
     {
-      "hash": "sha256-8MBOpQmOAux7GVQWCXIoLKB6jcxHozMvCqpdYSJycZQ=",
+      "hash": "sha256-hTlbZYCaKyBgnMOggi4V3Tg/JF7XZWzbwmCWAmPG/gM=",
       "url": "BestiaryData/bestiary/7818-alyxian-the-dispossessed.html"
     },
     {
@@ -9986,19 +9986,19 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7820-alyxian-the-hunter.html"
     },
     {
-      "hash": "sha256-AA0tWhUtPAUxp7IkZKpeaQRxfp8FFOjxriu+IFEj2Bo=",
+      "hash": "sha256-rpb74af0ITHTX5txP8taXPdjEDDJOfj974QSloRhuas=",
       "url": "BestiaryData/bestiary/7821-alyxian-the-tormented.html"
     },
     {
-      "hash": "sha256-MPgD9qhVGFOwvLwXAh2V+iyx4U9B6tb1k47jvRrgwkg=",
+      "hash": "sha256-Sil5GkW9iocWiT9wJaEYC3rMLYB7a3SzqrHUw6Fv8OE=",
       "url": "BestiaryData/bestiary/7824-corrupted-giant-shark.html"
     },
     {
-      "hash": "sha256-hepoF8NP6tS0vVV5RTPYXboPaRqvHPzr6asJKyzKwWY=",
+      "hash": "sha256-ZyuE6CcGjtGF7Y8IguvOh9GFLZXzh//0lFq9oTlwNLA=",
       "url": "BestiaryData/bestiary/7827-death-embrace.html"
     },
     {
-      "hash": "sha256-DO3BuCT4e+7mPnwlHSm6y7XcxKO2LRuufS9wANTxHf4=",
+      "hash": "sha256-j4HutOp1q9+gVrxwD6M0Bkx2+98YI/2+SmDopal4eKc=",
       "url": "BestiaryData/bestiary/7828-light-devourer.html"
     },
     {
@@ -10006,7 +10006,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7836-scuttling-serpentmaw.html"
     },
     {
-      "hash": "sha256-e8jOykcJaX5BE3R6NLxdDSwXVf5gdGjmfy8sBUUkuCc=",
+      "hash": "sha256-dew+FyeBy6FY/KvHnWTIH7YhsA/FK9DNDCuzgLkyO/o=",
       "url": "BestiaryData/bestiary/7837-slithering-bloodfin.html"
     },
     {
@@ -10030,7 +10030,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7859-occult-initiate.html"
     },
     {
-      "hash": "sha256-c1GD6+a3x2b8iuZLrf1bqqextO59oZlBAkWDOrVtkaU=",
+      "hash": "sha256-nczm/OR4gu0EGF51tzx6kIp1yVUzdbgfGbhZ0iPikZ8=",
       "url": "BestiaryData/bestiary/7860-occult-silvertongue.html"
     },
     {
@@ -10042,7 +10042,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7863-scholarly-excavator.html"
     },
     {
-      "hash": "sha256-JK5aD4wIWW5AnChm6OEk3lKfYSecX5PKeytwL98Bgsg=",
+      "hash": "sha256-RW42fudWQNKob0ftMnbyQCNKlum5W4224A8zeEQRf20=",
       "url": "BestiaryData/bestiary/7864-scholarly-mastermind.html"
     },
     {
@@ -10050,23 +10050,23 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7865-sorrowfish.html"
     },
     {
-      "hash": "sha256-z1Zmsh+BLZq7JMrD6cYNr3BOkNnkxC5V6tXWJBygzWQ=",
+      "hash": "sha256-+Sc5zW6Jx9+e4wQQnVh5gnTRQ3PwemVaWceJlDWCb6M=",
       "url": "BestiaryData/bestiary/7866-swarm-of-sorrowfish.html"
     },
     {
-      "hash": "sha256-WJ0jTRTOEEgBjK1RlCQGQpMlXDl8FS3r2wiebLqjO60=",
+      "hash": "sha256-XVJ31FFX5gh/zhQFLn9BzURFex8ZAUc5SwnpAnGH218=",
       "url": "BestiaryData/bestiary/7867-young-horizonback-tortoise.html"
     },
     {
-      "hash": "sha256-B+J2eaeilglvQqHHkANbBzD4y8+8RnzKIU/YBL6wl1I=",
+      "hash": "sha256-wJttWUEeuhBqqvRk9LviFTfg0COjVQxN5CmmD4fB10U=",
       "url": "BestiaryData/bestiary/7869-moonshark.html"
     },
     {
-      "hash": "sha256-YgesIrzDXi9jXsPorhN2v5/k947Dv3kC/1VrUfKfV80=",
+      "hash": "sha256-f6eTYi/emgUl+V+104JoYUr1kO/kHbggA3gaGIStJ50=",
       "url": "BestiaryData/bestiary/7870-verin-thelyss.html"
     },
     {
-      "hash": "sha256-DdTgR4YwU/0pZGmi3VjB5GDD1xDFsW94jz82UC2XYKI=",
+      "hash": "sha256-v3sjYNVCryJp5YV7vAO5EpBm7VX1KghBcW2UlrVmvHE=",
       "url": "BestiaryData/bestiary/7871-dancing-flame.html"
     },
     {
@@ -10074,7 +10074,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7872-fiendish-orc.html"
     },
     {
-      "hash": "sha256-yHphxeoumIGsC+KGOTrP8ttZnvHv0YZe1TT8WuElFBg=",
+      "hash": "sha256-NaF2LbPFtmxrUhqf+vINmf5oy2LIeO4x2tEwcbVqfs4=",
       "url": "BestiaryData/bestiary/7873-ruidium-elephant.html"
     },
     {
@@ -10082,7 +10082,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7874-animated-glass-statue.html"
     },
     {
-      "hash": "sha256-Bm8/5cxoL0JUj/P2SHbqIhXyun6ewzMKUS4wNup5B4E=",
+      "hash": "sha256-9CKVM580L6cR2vTk6pxgprVLg8OFEoQIj0LdZ7yc9qU=",
       "url": "BestiaryData/bestiary/7875-insight-acuere.html"
     },
     {
@@ -10102,11 +10102,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7882-galeokaerda.html"
     },
     {
-      "hash": "sha256-aZkac3dC/kLvMe8T0cP+56P5WdRb2fSckbqlKAl9PIk=",
+      "hash": "sha256-npdRPJGsCLnlU61lSVPLAq1pfmsycdgymroozLmdfNE=",
       "url": "BestiaryData/bestiary/7883-aboleth-spawn.html"
     },
     {
-      "hash": "sha256-55tOjYUc/MVdhpR2/LTffKtd5fMKDkp27rs7a9Q4u6E=",
+      "hash": "sha256-c8gfDBlRhMJs3sp/v2yESFq+xLoLzAzHjbRq2n/dhFo=",
       "url": "BestiaryData/bestiary/7884-apotheons-cloaker.html"
     },
     {
@@ -10122,7 +10122,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7887-aloysia-telfan.html"
     },
     {
-      "hash": "sha256-GAbYnE+rzPPrA915oALl1tf9HGkC9Vmor7lI8EzDtGM=",
+      "hash": "sha256-KKC2o+0rqpfIAzCg4gEdBW6S4Jk7tUUWjcqGLp4mFUk=",
       "url": "BestiaryData/bestiary/7888-aradrine-the-owl.html"
     },
     {
@@ -10138,11 +10138,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7891-foghome.html"
     },
     {
-      "hash": "sha256-qZ1LSPgsPekW7KUEMzDeICru3NeYu+Iid9XF/84lr8g=",
+      "hash": "sha256-v1FoeUzWrCYEl43BlEZ/+5T9hNA6cdsHW9hfZctZSbg=",
       "url": "BestiaryData/bestiary/7892-gryz-alakritos.html"
     },
     {
-      "hash": "sha256-eDHH05f39Jj1qBAOB19CmJ9u16TMjI7l7AGWwhcQnZY=",
+      "hash": "sha256-Ll7wJyts0F3+83BG+IdwLcRJOX55VkFdNq0R1AvKsiM=",
       "url": "BestiaryData/bestiary/7893-james-cryon.html"
     },
     {
@@ -10170,7 +10170,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7899-perigee.html"
     },
     {
-      "hash": "sha256-himKnTG2nV7GjqXxNoI6qvsLpqFOjHQKysqBKhDj06M=",
+      "hash": "sha256-ki/JURW5pxlcZf8OOCgjM4XB7S+EsD7HV3qQKniEOLk=",
       "url": "BestiaryData/bestiary/79-bone-devil.html"
     },
     {
@@ -10178,7 +10178,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7900-shira.html"
     },
     {
-      "hash": "sha256-wPVmb5PDuQ9pEhvnNJYWYJsTtcCLRXfRj/7oy4+2kHc=",
+      "hash": "sha256-W9OWLg3OuMDQv1PAR0KncDNQzrU7TBLUFIB/bspuC8o=",
       "url": "BestiaryData/bestiary/7901-skeletal-bloodfin.html"
     },
     {
@@ -10194,7 +10194,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/7908-anchorite-of-talos.html"
     },
     {
-      "hash": "sha256-Dr3RDGqTwc4AyuyYo8ssrx5pE3Wwagmu6QXUCySmkXI=",
+      "hash": "sha256-JTD+kc93LdSxjTsTylJbj8bKSOx8Pn5jHJ/oSRm5NS4=",
       "url": "BestiaryData/bestiary/7943-vecna-the-archlich.html"
     },
     {
@@ -10206,7 +10206,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/80-chain-devil.html"
     },
     {
-      "hash": "sha256-29+GvvtGus9RyspHUM5VyDUv1Lok+la1eud+hbIgDQI=",
+      "hash": "sha256-itaEyiiUs+RpXrpeeyCkdrXUrLJ+r7qaxZgAbBpjvV8=",
       "url": "BestiaryData/bestiary/8011-falcon-the-hunter.html"
     },
     {
@@ -10214,19 +10214,19 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8012-gorthok-the-thunder-boar.html"
     },
     {
-      "hash": "sha256-yuIqhexHxjvs+ByYvYR1q9GL2Ybvd30Dh/N2tFZoI0M=",
+      "hash": "sha256-JKWV6CALo+Y0Ry/ojRW3JtT5bKfuBmrV7dAfrV7Sw6M=",
       "url": "BestiaryData/bestiary/8014-spellcaster-healer.html"
     },
     {
-      "hash": "sha256-71sZ8eGligzjcg6G7oKbRgHmciIWt49+Vplcm0FpcW8=",
+      "hash": "sha256-YlBzfgSn891alLd6FpXwuJ0OX3mxAqvhM7v8KCExfz4=",
       "url": "BestiaryData/bestiary/8016-expert.html"
     },
     {
-      "hash": "sha256-NZso8nIIwgE4y29CvNiF+5DK9QyX7ufxUQcF4DH5WSA=",
+      "hash": "sha256-jmXzeakSNhAGXa9PisBubvCocVVsD1DrpMcF+rfpOwQ=",
       "url": "BestiaryData/bestiary/8017-warrior.html"
     },
     {
-      "hash": "sha256-NlJ7pJ5JEZssdvZl7trRVrMY4dLsHgS21NDb43M2VMY=",
+      "hash": "sha256-tdRtXXNhluABTc0J45v7Tl+uVtPrHFAChuhPNDBOXdg=",
       "url": "BestiaryData/bestiary/8019-skull-flier.html"
     },
     {
@@ -10238,23 +10238,23 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8021-tooth-n-claw.html"
     },
     {
-      "hash": "sha256-B9egV/rWamBI0JirWptgaSK6w+/nHYrtrdYmLTmwUO4=",
+      "hash": "sha256-rOmldOsKqJvhcXlsQINXhUjZF4b7vOOu2RGALCSb/No=",
       "url": "BestiaryData/bestiary/8022-spellcaster-mage.html"
     },
     {
-      "hash": "sha256-ZcwrotUSBIEf1U956+RgYAXoVD6x2poYUdZdlyShUe0=",
+      "hash": "sha256-4sWqYf/koyXyFZ7Y57Ymw5lXZX0hhFgcPK2G2wZgTAA=",
       "url": "BestiaryData/bestiary/8023-warrior.html"
     },
     {
-      "hash": "sha256-aFemgwOcWtoFDMzeERdZZ31weUZTj1p/ikZF5BK5CxQ=",
+      "hash": "sha256-Emai7Serb85Ielsa9g2vgiDQjrbiMp00wpIc+pe+y1o=",
       "url": "BestiaryData/bestiary/8024-expert.html"
     },
     {
-      "hash": "sha256-0H/cUYkKfv7HtLiR0OCccFKHx+bIwfuw7z9sZf/qm90=",
+      "hash": "sha256-6YcSyRrIvXQVMR2KHc9uen1DVun+495DBeItIdk4YNE=",
       "url": "BestiaryData/bestiary/8025-spellcaster-healer.html"
     },
     {
-      "hash": "sha256-+J26uAOPfPecIF6++7NvEAZuYcobDR2eipMf7BeF980=",
+      "hash": "sha256-7xWdP83W6xnoqSJI+i05kZYrtFJHwZ4kFJy6nY7QWyg=",
       "url": "BestiaryData/bestiary/8027-spellcaster-mage.html"
     },
     {
@@ -10262,11 +10262,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8028-giant-shark-skeleton.html"
     },
     {
-      "hash": "sha256-1ZOYtYVn//Nb9ieDZS3ApYXgFo7R8eBztBKeYFosQNM=",
+      "hash": "sha256-flOBinZGJWm0HK5yBKS3LoS8EQcCb48wTNdmNITimr0=",
       "url": "BestiaryData/bestiary/8029-lhammaruntosz.html"
     },
     {
-      "hash": "sha256-Wc7ki1EWge5laf9X1cbmmahiS467REPOrcGYMGwmBP8=",
+      "hash": "sha256-vDk7tROA0Dvz9kZue1W6k2w+ceWwZvm2idoZXVymbuM=",
       "url": "BestiaryData/bestiary/8030-archpriest-of-ebondeath.html"
     },
     {
@@ -10274,7 +10274,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8031-ebondeath.html"
     },
     {
-      "hash": "sha256-L/MG/8FUpY7n+Gl3Kd6Vj+y+w3GM8r6PTllXMleE+rM=",
+      "hash": "sha256-EihocLkfMKolFWpBTGgHY+WOmG0S/6idPgTdkRUhYvM=",
       "url": "BestiaryData/bestiary/8033-demogorgon.html"
     },
     {
@@ -10282,7 +10282,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8034-ash-zombie.html"
     },
     {
-      "hash": "sha256-j83jKHwpEtRx+z00hjO2ddnGs0g5r4QDxaDfBWaU5Tc=",
+      "hash": "sha256-UaDd67zswQqnNV7xE94YgV39qRlVJ6bq90wQMPhcfY4=",
       "url": "BestiaryData/bestiary/8035-venomfang.html"
     },
     {
@@ -10310,11 +10310,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8045-thomas-t-toad.html"
     },
     {
-      "hash": "sha256-MuBD03SkjhRHfWhzz0/nWYz6IoQzb49s0lMp+W9ttVw=",
+      "hash": "sha256-iL7oo2BrSfptgRh5dAaonW2yRFKSpE0gW4GO4rYDZYg=",
       "url": "BestiaryData/bestiary/8047-lycanthropickle.html"
     },
     {
-      "hash": "sha256-jPe9+Iu5CIx3GSfCvO/1ES+/zHii7HJXsBBPJuj6D6Y=",
+      "hash": "sha256-8qTeDVeOYKGxwDFROga+O0+3OKaPfb3d5zttwBKgd+Q=",
       "url": "BestiaryData/bestiary/8048-meeseeks.html"
     },
     {
@@ -10322,7 +10322,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8049-tommy-two-butts.html"
     },
     {
-      "hash": "sha256-DttJNIEnYfD1feqqbLnDO4IKznt3M3ePwwYU/HIep9M=",
+      "hash": "sha256-+eyEAFMgc8X12qhrR0c6tuosg+Ezj7glvgbtWaXwI0Q=",
       "url": "BestiaryData/bestiary/8050-large-mimic.html"
     },
     {
@@ -10330,7 +10330,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8055-archaic.html"
     },
     {
-      "hash": "sha256-k3oiXZFL189PEG+jWLeAACP8dIY1KGu6GQvoaumqcuM=",
+      "hash": "sha256-ULL2PWHwDu+P5A2FfuqqJZ89cKZLlfFD7JjVbpXWDaE=",
       "url": "BestiaryData/bestiary/8056-beledros-witherbloom.html"
     },
     {
@@ -10342,11 +10342,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8058-cogwork-archivist.html"
     },
     {
-      "hash": "sha256-U9fTWq+Jh4GJxi6auZ3fDUZFW3ffjIsPcaDNhRT5wT0=",
+      "hash": "sha256-sFWhRSfqhNuscY04po5cxHmHkR2ZknCwqCgObK6QON0=",
       "url": "BestiaryData/bestiary/8059-daemogoth.html"
     },
     {
-      "hash": "sha256-n/4M40gHb8QL3qfULT6+LZaC0yIeBuexOprLOieYb6A=",
+      "hash": "sha256-NEYHeQK9DDbxJPK+hbuQcSbqHmstuRwW2h5Rp7lhYsg=",
       "url": "BestiaryData/bestiary/8060-daemogoth-titan.html"
     },
     {
@@ -10354,11 +10354,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8061-first-year-student.html"
     },
     {
-      "hash": "sha256-YInya8qDUz1+zekbq4w8d0xgZlsWnr7TzMsUNxjFHw0=",
+      "hash": "sha256-3ROf/tNBP8kiQAe+iHd2AIuGWAHFfDHKpFtyolMAI6U=",
       "url": "BestiaryData/bestiary/8062-galazeth-prismari.html"
     },
     {
-      "hash": "sha256-gYCljwRoZR8Ym8UowOS311I3saCrQeBD2DgywsHTG4g=",
+      "hash": "sha256-Loe93JF3hq8hOx+X7O0JT2Yo7ZYn9Ro0YZ/YLezNVnM=",
       "url": "BestiaryData/bestiary/8066-groff.html"
     },
     {
@@ -10366,23 +10366,23 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8067-lorehold-apprentice.html"
     },
     {
-      "hash": "sha256-jIottNPUWPlKcTS6UOhgzxfg5YYj1yGyMdQ6UjZh28k=",
+      "hash": "sha256-LbjEmNj+p105h2Ep9M2TTnayEshL1BGqBwIYi7P9K2A=",
       "url": "BestiaryData/bestiary/8068-lorehold-pledgemage.html"
     },
     {
-      "hash": "sha256-5ED+uIl9tgotCc40EUlKEUx8QzTRGkjIjVxR9FAhkDQ=",
+      "hash": "sha256-Iftj+XnKbw9fk6idIvouereK2fUacdHS8DFkACTxoV0=",
       "url": "BestiaryData/bestiary/8077-lorehold-professor-of-order.html"
     },
     {
-      "hash": "sha256-gxrRnATVpdE/j+vv1kWDD0f7VgYRdLNtlXFbTEwN4o8=",
+      "hash": "sha256-VOTkUuIRvw2MO0BAI2oYOkUNtSCwYpANIJdJTZF31mo=",
       "url": "BestiaryData/bestiary/8082-lorehold-professor-of-chaos.html"
     },
     {
-      "hash": "sha256-u2LoflykpTjEEUyYwRPjb9jcEzapLgUJXSWigvXeZQ4=",
+      "hash": "sha256-qw1IHdtdE3kvZwsxrTXjZ1rJXjmhM9fKqRk0ZRuUwVc=",
       "url": "BestiaryData/bestiary/8083-mage-hunter.html"
     },
     {
-      "hash": "sha256-C5XT/J6SsII9BgVmJ3gkJbREqk7poikx3hYjd+c/r5c=",
+      "hash": "sha256-8YoQNLSVSRnQdBm1vPdGeIbRquWAdPOe8TV4kZ9o/DU=",
       "url": "BestiaryData/bestiary/81-erinyes.html"
     },
     {
@@ -10394,7 +10394,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8150-niv-mizzet.html"
     },
     {
-      "hash": "sha256-GB3GS3z9ZU6e+XA3DFc5D6nwz/Mw7PyZNDV+sjwpx68=",
+      "hash": "sha256-tvOZykTG0bAmQ85HhtwLzseA2r7VX+ohUOdNYubGJ84=",
       "url": "BestiaryData/bestiary/82-horned-devil.html"
     },
     {
@@ -10402,7 +10402,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8259-githyanki-supreme-commander.html"
     },
     {
-      "hash": "sha256-NBzjIWp1WLLOlyjtVtZ4W/ybRpLLRKv+WPpCM9JwXlg=",
+      "hash": "sha256-mf0UBPb9nFhCCosAmECS5MD77iRaHPDpH4+OBaxrFao=",
       "url": "BestiaryData/bestiary/8289-archon-of-the-triumvirate.html"
     },
     {
@@ -10410,15 +10410,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8290-arclight-phoenix.html"
     },
     {
-      "hash": "sha256-yzyNvMygSu9pljju0UFLcki2jK0QjZMuL7GdcXspZiI=",
+      "hash": "sha256-Yhol2mtwpcu/bScHMjTlr1hUBNd6uPYvAr5vKNISS0I=",
       "url": "BestiaryData/bestiary/8291-conclave-dryad.html"
     },
     {
-      "hash": "sha256-2nsKDHFeUXZL2+ydo4oe+f4EwnyPwLoviwwTKD5z7ZY=",
+      "hash": "sha256-GmXORwQZNdQzhTnnMqKQI5JCX3lN6/PgnQXjJRDnvS4=",
       "url": "BestiaryData/bestiary/8292-oriq-blood-mage.html"
     },
     {
-      "hash": "sha256-L2bPNYAGySnoZzR1B8mKmyifmsd0T0L2Q8h7tW4nfJ0=",
+      "hash": "sha256-ee4dAEHR8NtweqKZWZr9l/iGJnXqUTeCOYYhKV8/NNM=",
       "url": "BestiaryData/bestiary/83-ice-devil.html"
     },
     {
@@ -10426,11 +10426,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8312-oriq-recruiter.html"
     },
     {
-      "hash": "sha256-180gaPfr85HT6kODYlN/1qDbR83qw6Hqo7uCFlCUmJg=",
+      "hash": "sha256-DuWAFajhNRdeQv2vx8lr6m2i4hL3kRsgBLFYMwAuSqs=",
       "url": "BestiaryData/bestiary/8313-prismari-apprentice.html"
     },
     {
-      "hash": "sha256-069nsLsrwozfVgItyX7Z5COeIA9EZ7xUIO0ovSl9aZc=",
+      "hash": "sha256-Go82ovMAxk4Dv2teDWSJpxYpQRJALADjFJkPkTsWvAs=",
       "url": "BestiaryData/bestiary/8314-prismari-pledgemage.html"
     },
     {
@@ -10438,7 +10438,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8315-prismari-professor-of-expression.html"
     },
     {
-      "hash": "sha256-wwEXcogLPkEgUjCiydypwoczdI5RRUhbebhOrQv6nzU=",
+      "hash": "sha256-Ge69Iu1SLsO36SqcwF+ZhLP4PV9UucoxBXxfHfC+Aks=",
       "url": "BestiaryData/bestiary/8316-prismari-professor-of-perfection.html"
     },
     {
@@ -10450,11 +10450,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8322-quandrix-pledgemage.html"
     },
     {
-      "hash": "sha256-EKGuTHGmYyHWRAkqNRdl85fpgGGAJmQL/yxJaGhL3vI=",
+      "hash": "sha256-sxy8Ttc3lfQgA6CAEO3J/6GfwJg1Cudlx3o1lhSjjEg=",
       "url": "BestiaryData/bestiary/8323-quandrix-professor-of-substance.html"
     },
     {
-      "hash": "sha256-ydRAKPVjMuZ2M8/EGe32ZkQPH3H83xIGhcHXBcI5t3c=",
+      "hash": "sha256-WY0ij0MpXl2zeK1opPJIUA1zbaUNggQ5HxWVTmoAA+I=",
       "url": "BestiaryData/bestiary/8324-quandrix-professor-of-theory.html"
     },
     {
@@ -10462,15 +10462,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8329-tanazir-quandrix.html"
     },
     {
-      "hash": "sha256-LFAbvedTExtxGMut/IlSqhUQwJohff4FHvfFb3+cdjk=",
+      "hash": "sha256-MxxzVFjeLwbXUdiNvQXLyiylc9ISSKu01EUa6X/R4wk=",
       "url": "BestiaryData/bestiary/8339-relic-sloth.html"
     },
     {
-      "hash": "sha256-B7gkVM8BuEXf8oooecTIr7AZXgriPzeYaGCMO3IfHoQ=",
+      "hash": "sha256-6xMSOs4rpGv5sOfo2TDCX7XTu9v6YlJqYrHXDY7zk00=",
       "url": "BestiaryData/bestiary/8340-ruin-grinder.html"
     },
     {
-      "hash": "sha256-99K9f0mDShLWQ2MVWzewyZisrj1BDd2Heg4UgCdyE+M=",
+      "hash": "sha256-cLFJI7aSthQ6tjt/51PtKklbjdyrVVYm3crmAgIEvag=",
       "url": "BestiaryData/bestiary/8341-shadrix-silverquill.html"
     },
     {
@@ -10478,31 +10478,31 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8342-silverquill-apprentice.html"
     },
     {
-      "hash": "sha256-cMPq7Klq1wWgHmODdZvUP0fHfl/HVnBr0fSQY4LBO5E=",
+      "hash": "sha256-itSgIPGvvBkcfroVAcrv4ZsDOdZAk4LqWzioMRmSb9U=",
       "url": "BestiaryData/bestiary/8343-silverquill-pledgemage.html"
     },
     {
-      "hash": "sha256-yre0/gksy6MFWEhNqa/K+HfKnpMTseouLdaoasvZSkw=",
+      "hash": "sha256-JSa4K+C3UEiQZnjpaaw1FkhwKMEYHXM3WukypK1nYx0=",
       "url": "BestiaryData/bestiary/8344-silverquill-professor-of-radiance.html"
     },
     {
-      "hash": "sha256-LO+n/ic6JFSv22aI4KMVvZeAe4axlqMgkFsjUW5GPKU=",
+      "hash": "sha256-7oNFA3Rw60ECKSh3JYPf5kGZij+2J14dh2EUvMDHFso=",
       "url": "BestiaryData/bestiary/8345-silverquill-professor-of-shadow.html"
     },
     {
-      "hash": "sha256-UJ2a54BW7DdHK74SLFEFL5z/feYtKDe4TJ1xmd386I4=",
+      "hash": "sha256-zHCD3rKMNSCmXRihtwv8wUxMA4MOzhPF01Iih6dcuRg=",
       "url": "BestiaryData/bestiary/8346-strixhaven-campus-guide.html"
     },
     {
-      "hash": "sha256-qXP6OyvkwZs5ZSHcoFzpzBh5QBR8oRmcJpMVVdVpK9I=",
+      "hash": "sha256-W4BAlFgk5nCyEUMByQRVN83k3YZkRdEcpGcZwKbH6tY=",
       "url": "BestiaryData/bestiary/8347-velomachus-lorehold.html"
     },
     {
-      "hash": "sha256-QynSbpfBmdB+HZ//z6e8ilesZtsa3ywE0iAIoFGTNps=",
+      "hash": "sha256-nx6KxMAO3GtCYCn9kUv0nv5cXi3BloBbLAsvlSo7RM4=",
       "url": "BestiaryData/bestiary/8350-witherbloom-apprentice.html"
     },
     {
-      "hash": "sha256-ZPDLzX3T6eWCUV8dGRYlid60T5BxzpwewLnyznXEXJ8=",
+      "hash": "sha256-uLK1nkzgd9QfWFdqiZHmZwIX+yM/A4PAnweggRG2kmo=",
       "url": "BestiaryData/bestiary/8351-witherbloom-pledgemage.html"
     },
     {
@@ -10514,11 +10514,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8353-witherbloom-professor-of-growth.html"
     },
     {
-      "hash": "sha256-ogyy8ywW9fACHL9mR8XAHW5Hy6EHC4StfZE14eiLioQ=",
+      "hash": "sha256-tMz6MXh1bBCcDUJzMMj5wcLHppZ3yjjrOtfsYXIN9zk=",
       "url": "BestiaryData/bestiary/8354-ydemi.html"
     },
     {
-      "hash": "sha256-aoAeedPhZRRmeKBMwJVFCc+keiLlYlMMQiv0N5gnz5E=",
+      "hash": "sha256-5R6vkNBMQwRbfnFST8V9d4GR1r4rcGrmYsE5RgJYAq0=",
       "url": "BestiaryData/bestiary/8355-murgaxor.html"
     },
     {
@@ -10526,15 +10526,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8356-scufflecup-teacup.html"
     },
     {
-      "hash": "sha256-wmo4RSnrgoHIg/q/STixn4BD6FnfnvEcNzAdn4UGkq0=",
+      "hash": "sha256-MEti4QEZ/Q0q0qHtLI9kwuha3zzPVw1HQ/BAjG9958E=",
       "url": "BestiaryData/bestiary/8364-brigganock.html"
     },
     {
-      "hash": "sha256-5h9B2nbWk0gnW7lurltfTpdQgyscYgsBjCxflBmX7fw=",
+      "hash": "sha256-yBVIpNoiqQKXgSihLcGEOahhptEuWVci9p5MONFmGjo=",
       "url": "BestiaryData/bestiary/8365-bullywug-knight.html"
     },
     {
-      "hash": "sha256-9vTz6wdhSuIq7rQfWk+ZSMWVKmbGLvWELmdN08VCXVE=",
+      "hash": "sha256-nhvCn0o6yHOaVTHBMEqj12mmLWdLm+aCPfJe/t6kq0o=",
       "url": "BestiaryData/bestiary/8366-campestri.html"
     },
     {
@@ -10546,7 +10546,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8368-giant-snail.html"
     },
     {
-      "hash": "sha256-/M/LP5o4dfsiRCp0IVgf15RW+1N7l999vBVXkMTLgkw=",
+      "hash": "sha256-uoCga8XplrJPSKROEHWppvPbkSkU/H8XOPAaXz2n5PM=",
       "url": "BestiaryData/bestiary/8369-swarm-of-campestris.html"
     },
     {
@@ -10554,31 +10554,31 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8370-harengon-brigand.html"
     },
     {
-      "hash": "sha256-z9H7DqD2aaxbfhsGOlr32BJyNOTmFSg51MI8pyaGv8Q=",
+      "hash": "sha256-z2fApOaivN7mG7X2w3ZNbx0FIeseRuswnRfnKPR6rc8=",
       "url": "BestiaryData/bestiary/8371-harengon-sniper.html"
     },
     {
-      "hash": "sha256-3bKrAL7ZStFKUuiPsR/EdmDSEbpvYB1Eg/axrNfI2pk=",
+      "hash": "sha256-tC7G9YaYvr7qkpSqcbA9BZoTEbtTr1LZBI2+8tKcKT0=",
       "url": "BestiaryData/bestiary/8372-jabberwock.html"
     },
     {
-      "hash": "sha256-JPG4lhkXaLRlBnSOU4XOM080e/xQ3T5MxXKOnDbpYRM=",
+      "hash": "sha256-+VuBXxBF3GzF+BrXDqzCaDMh2gila31L1ePbgmke6+8=",
       "url": "BestiaryData/bestiary/8375-living-doll.html"
     },
     {
-      "hash": "sha256-jeRKrfW/M4q1Qfm9sb9IjwftWGCSaXB4KAq4t6dfWR0=",
+      "hash": "sha256-VnmI+yiUz0mJwTlSsDYG6DdM3VieiSYsDSjGmvespZ8=",
       "url": "BestiaryData/bestiary/8376-selenelion-twin.html"
     },
     {
-      "hash": "sha256-s7qjwKsxpldqABEOc6r/feXhD/TDW+5v0iPMgVKCVoc=",
+      "hash": "sha256-+u90zYX08K6Sc5Gbdz2fDMNpM7InEJnJJ/ATbw7Dl14=",
       "url": "BestiaryData/bestiary/8387-detached-shadow.html"
     },
     {
-      "hash": "sha256-eebCWzrIh4x6/xdbaJAxm7XIGddmaLIZoAKCM7Foslc=",
+      "hash": "sha256-y0cuHmPFJAhCL4aGQBbNhVGiXKzwidbt8sgTk1Zr6Us=",
       "url": "BestiaryData/bestiary/8388-displacer-beast-kitten.html"
     },
     {
-      "hash": "sha256-+exVHP02EbTylArxT7bitYLUwPik5ebXgxgvePbLY64=",
+      "hash": "sha256-OKvt2WBa+XOJ9qkmYsB0YQzpYLC75O2d9duudBQ94Yk=",
       "url": "BestiaryData/bestiary/8389-glasswork-golem.html"
     },
     {
@@ -10590,7 +10590,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8391-paper-bird.html"
     },
     {
-      "hash": "sha256-0Cxr4c/mzKhSKHITPZVmKX74wnCplfBvCbwU7vNoRgI=",
+      "hash": "sha256-wAIklBCesd3C6Az+LeWornT92mLV70MOnBR+DIjK8D4=",
       "url": "BestiaryData/bestiary/8392-tin-soldier.html"
     },
     {
@@ -10606,47 +10606,47 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8395-witchlight-hand-medium.html"
     },
     {
-      "hash": "sha256-36+YwUIDjcKP9ybw4DFH0D2qLI3F2w+hIAXaFly5tQ8=",
+      "hash": "sha256-ueocnR2gQvJqKXEw683jBXdRqTc3BY9sZ4Vq2gm0IKc=",
       "url": "BestiaryData/bestiary/8396-iggwilv-the-witch-queen.html"
     },
     {
-      "hash": "sha256-MnG7B6F9a+V8M6vp0QZPXSf+YNNK0daeHJTUFHVcvKU=",
+      "hash": "sha256-HdhSyAsaZKnIQzHrCB/yqtVWxXbvtG4Hs6Bl3vcjF1E=",
       "url": "BestiaryData/bestiary/8398-wynling.html"
     },
     {
-      "hash": "sha256-q9EgB+zSuFAG71UdIQWJP5zkt8xF/RmvB9b79Q/+TX0=",
+      "hash": "sha256-rtmKCGjW/DE/pMx9nURRQvVYh8l8uGQipU9tqM+HvDE=",
       "url": "BestiaryData/bestiary/8399-soul-shaker.html"
     },
     {
-      "hash": "sha256-EXvUS3WpEJRCVpd+SKG1GLD1bmOd5BHeGXhZbmmSyUU=",
+      "hash": "sha256-SKhUPoHkrLxt6uVHwk90cAKC5KlnEerZgK+1dzc4hSs=",
       "url": "BestiaryData/bestiary/84-imp.html"
     },
     {
-      "hash": "sha256-8qM319NS4lxgHW3GqvhUFLjMv5VKvI2xpWGaUtpAqf8=",
+      "hash": "sha256-ELWHLgrBHqwa7MkROsFb3uHAUHrV+/wQ+zKAUyELMWk=",
       "url": "BestiaryData/bestiary/8400-tlacatecolo.html"
     },
     {
-      "hash": "sha256-5yTSF0s0l/RWfi8x8gztp4+bDnNyLj6nSFV/48eyuZg=",
+      "hash": "sha256-9y5gibSBk/EXcT0PldPbWRylaSxSnTpQzhFGRnk6b30=",
       "url": "BestiaryData/bestiary/8401-reaper-spirit.html"
     },
     {
-      "hash": "sha256-DYDGG27GpQnqZ/zWzWCoHNSvPc+yP08EQGPNW9chPLU=",
+      "hash": "sha256-ZLhqowToHeFVWzBSvbJqTWvP1uWeTv0ocitEa+NNPNg=",
       "url": "BestiaryData/bestiary/8402-aurumvorax.html"
     },
     {
-      "hash": "sha256-iWVbhxpdJepWUtPmKc1WNKHXmimqr/5uAkD7kq7M6DA=",
+      "hash": "sha256-xbHAcck9WR5e8rSZ7DKfPRFrH9XpF0uNVJM7cAmxXxQ=",
       "url": "BestiaryData/bestiary/8403-aurumvorax-den-leader.html"
     },
     {
-      "hash": "sha256-HVYdPhfDTS1AtU/rx2jBETQ2OmJ9zxsktWaljULDqrc=",
+      "hash": "sha256-bH6O34FggUoarOvtRgQZzUen0cp25wfnZ5QjjK88fpw=",
       "url": "BestiaryData/bestiary/8404-tlexolotl.html"
     },
     {
-      "hash": "sha256-gSp+AyrBrsZRmj/3IfnyM8AmUnZMylq5yj0STFQR3u4=",
+      "hash": "sha256-wAHcllgtGi8/I+ruo3KbZ4r/uifuvTS8JYO2sQ7TPww=",
       "url": "BestiaryData/bestiary/8406-riverine.html"
     },
     {
-      "hash": "sha256-qz3Pi8DmQ5jTiqM/fIjtX+uoq+nHrtYkrXHJ75rac2g=",
+      "hash": "sha256-7Z0mPsq+GcN9qD5igvo2+L8xPuKLMkt08DTYvAoxY1E=",
       "url": "BestiaryData/bestiary/8407-bakunawa.html"
     },
     {
@@ -10654,27 +10654,27 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8408-pari.html"
     },
     {
-      "hash": "sha256-2a3JmCO4dxnusiLxa/wOj14y1Nf8JOtzywTAfUX4/rw=",
+      "hash": "sha256-E16Ewm2m4Niv7n8RqouNfOiNLDKxMstzxW7LDwSNZ6I=",
       "url": "BestiaryData/bestiary/8409-haint.html"
     },
     {
-      "hash": "sha256-P61eKGCURunqTDd3kIrepkl0e3JsKZEGr/BLnuAjN3Y=",
+      "hash": "sha256-Ilg5h62QB78ob7+2ECiAJJFCvwVNijNMx3hxICs+P3M=",
       "url": "BestiaryData/bestiary/8410-whistler.html"
     },
     {
-      "hash": "sha256-w6LAdrDCtUwta9fZc936OmIvuyIN3maWvVnzmtcTKJ8=",
+      "hash": "sha256-f38iuNOM5LFZsWzs/udTLYTbHq5cZ8lrNaunEeKlttA=",
       "url": "BestiaryData/bestiary/8411-skabatha-nightshade.html"
     },
     {
-      "hash": "sha256-qsRQ5Uf60AF58s95dzHYap+MKkWRs+ghveBp6GelqWs=",
+      "hash": "sha256-htGTXaewSkkoU1BxZ76crVdRlff8/m0QMqJ/OOaSVrU=",
       "url": "BestiaryData/bestiary/8412-bavlorna-blightstraw.html"
     },
     {
-      "hash": "sha256-pOkvz9atmsakK8eW+Rqg+n7B4lKfcdfH+4qkmJbujGo=",
+      "hash": "sha256-9P9pQIYNft+d09BlXKFJvBw5gRFXTT1x4sZ4mP9qklQ=",
       "url": "BestiaryData/bestiary/8413-endelyn-moongrave.html"
     },
     {
-      "hash": "sha256-YEP+q7KRvEcRH2TrK4WRC+8KthBM9BeG4QZYJppEt0E=",
+      "hash": "sha256-m10dc5Vhb08y2xshAE3pEDqr8HSIv5jzWZLhYgvggLs=",
       "url": "BestiaryData/bestiary/8414-warduke.html"
     },
     {
@@ -10686,11 +10686,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8417-kelek.html"
     },
     {
-      "hash": "sha256-iXJMIAUvPNbDF5nHP7i/qfsK6uTGMRl2ZrGIn6aL+60=",
+      "hash": "sha256-KL/rHZD8g1RtByRHsLAZazWqb93p5aHVsy3IIl8LACg=",
       "url": "BestiaryData/bestiary/8418-envy.html"
     },
     {
-      "hash": "sha256-Um+gElG8kbdrehdngdpqc24/g8PXXugOUnuGooI64To=",
+      "hash": "sha256-paBZPyPTo30qaXCAbGEABSvLDSswesB9/OV4KLgs6lg=",
       "url": "BestiaryData/bestiary/8419-strongheart.html"
     },
     {
@@ -10702,11 +10702,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8421-molliver.html"
     },
     {
-      "hash": "sha256-C5NDVjzqFcMq0+zZorvleayh3+VHrMzy3mGF564is8A=",
+      "hash": "sha256-v9sHQAEPo9Rqkq6JKKHoevtMjtXKhGNEWW5V9x05Z80=",
       "url": "BestiaryData/bestiary/8423-mister-witch.html"
     },
     {
-      "hash": "sha256-Snl9XlNr90n8QE967yox7s9Vqf7VPERe4m8h20s/ak4=",
+      "hash": "sha256-fIVlWFD1io2vaK/zmAKo5NZEYrP4FPDmnM3qY17o8q0=",
       "url": "BestiaryData/bestiary/8424-mister-light.html"
     },
     {
@@ -10714,11 +10714,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8425-mercion.html"
     },
     {
-      "hash": "sha256-GA/7G4D5Rvg1v1v5DRBdpwzmfsF4SN8/vZdhgBM5pFY=",
+      "hash": "sha256-W1sn8zcijgdDlpQf4XqsfgK+1iFB0v0eEHcfd+xOWnc=",
       "url": "BestiaryData/bestiary/8426-alagarthas.html"
     },
     {
-      "hash": "sha256-vsIB8P8Jn/XvzvDeZDTntbL485Xpp+FNmUviWWyzp1o=",
+      "hash": "sha256-xKc2J1cLUiCI1r70721EjQlfMpCUlux8gpq0zqHcXN4=",
       "url": "BestiaryData/bestiary/8427-zarak.html"
     },
     {
@@ -10726,11 +10726,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8428-witchlight-hand-small.html"
     },
     {
-      "hash": "sha256-vUX7fXnePzuVEbpBh0UC2GsQPS3EbvZ0Y+RXnklM0w4=",
+      "hash": "sha256-jUN9dqaKgLDtCxUGuvtjXmRbbpT3UdHLszSRhn9Wc8E=",
       "url": "BestiaryData/bestiary/8429-skylla.html"
     },
     {
-      "hash": "sha256-IuPbBixMFh6j7QmVQMTvTf040OQifynsC0laX9Uz8OQ=",
+      "hash": "sha256-CMkA5ek9IhLsOYuDQ7rAZPuo7FQxkFr4r3pHn/awD+c=",
       "url": "BestiaryData/bestiary/8430-sir-talavar.html"
     },
     {
@@ -10738,15 +10738,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8431-elkhorn.html"
     },
     {
-      "hash": "sha256-mnwXyogHPif6vQgTVFSduTKlQdcw/Jskb/8FD77XVvU=",
+      "hash": "sha256-hPMMB/XKbsAuDAHz0Ip7hQ+9JEuRGIMgqla0YwiQKho=",
       "url": "BestiaryData/bestiary/8432-agdon-longscarf.html"
     },
     {
-      "hash": "sha256-YxjR85DM6eWgwA20vHExAVwVbsrCB9uLhIJZGAed/AM=",
+      "hash": "sha256-Xpf8wHDB8gvZPV0twhCKEh7SiVmBT0knko3kkLOOBGY=",
       "url": "BestiaryData/bestiary/8433-thinnings.html"
     },
     {
-      "hash": "sha256-aPCeQx7Ip51XX++M5trR8h/okPBM8rN8UIzF7U8IQ5k=",
+      "hash": "sha256-HJ1QMJmmnp8mOoVUAtn4MJVrsQRsRposk31wcrqweao=",
       "url": "BestiaryData/bestiary/8434-raezil.html"
     },
     {
@@ -10754,7 +10754,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8435-kettlesteam-the-kenku.html"
     },
     {
-      "hash": "sha256-W4ByHqCgLhmAzDPcK8amCGQeHY8NgGlQiLRU86jpJBE=",
+      "hash": "sha256-hukH7esJW8JO0DdFiK8wVpSvjfaJq3ta6XkfeuhyjZo=",
       "url": "BestiaryData/bestiary/8436-clapperclaw-the-scarecrow.html"
     },
     {
@@ -10762,7 +10762,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8437-amidor-the-dandelion.html"
     },
     {
-      "hash": "sha256-gKBmu+mcYp4riWFyuZxzISaSYMyZKWigA3e+k8u6p0k=",
+      "hash": "sha256-5IgK+vG+9s50L9+3bJWD9clonZVXA2SoDmwF/+1deKc=",
       "url": "BestiaryData/bestiary/8438-squirt-the-oilcan.html"
     },
     {
@@ -10782,7 +10782,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8483-nightsea-chil-liren.html"
     },
     {
-      "hash": "sha256-i8lL0tlEToyvjqLYGyyQ+ApZdzV3LjkriB/AG8xA3Co=",
+      "hash": "sha256-8YBPACp+3kWxt8gSDy8QSu67VI0SDrcE6NAfxcqIIGY=",
       "url": "BestiaryData/bestiary/8490-jijibisha-manivarshi.html"
     },
     {
@@ -10810,7 +10810,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8505-devil-dog.html"
     },
     {
-      "hash": "sha256-nDMxcxQum0rKwxT0qdEK/oHoU85RYBAVi2bkVpf3/y4=",
+      "hash": "sha256-Bn+fDHnhtE4jaCtPdEYgHkaEEmoxR9A3kJ0HnS43cpk=",
       "url": "BestiaryData/bestiary/8506-enormous-tentacle.html"
     },
     {
@@ -10866,7 +10866,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8519-undead-cockatrice.html"
     },
     {
-      "hash": "sha256-lSki7d7Sd2famSsDw1Z984e7TW8+lU/dkExaOlaXLCg=",
+      "hash": "sha256-tIiEPS3Vmi83bGG2m8GKQVHkpNEn2IF9q6XwOeFCBZ4=",
       "url": "BestiaryData/bestiary/8520-the-demogorgon.html"
     },
     {
@@ -10878,7 +10878,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8522-moghadam.html"
     },
     {
-      "hash": "sha256-eh8tBKBG1a3BqvRGgrJ5WaEnDunsiMRld7047JLmTmA=",
+      "hash": "sha256-kYMJ+4LCer9p4ERVXvrNr6enZxPL3DPAFgS+UeqiB98=",
       "url": "BestiaryData/bestiary/8523-sir-ursas.html"
     },
     {
@@ -10886,7 +10886,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8526-ashen-heir-veteran.html"
     },
     {
-      "hash": "sha256-i8NW9pvtLjQbTMlDlER1ms4mw6CF2YnUB8zVOcAaECg=",
+      "hash": "sha256-JBfgpZALPgc7IcsOiq9nHE/Sq3Da5NGJ0U9XA4UGbJU=",
       "url": "BestiaryData/bestiary/8527-ashen-heir-mage.html"
     },
     {
@@ -10914,7 +10914,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8533-afsoun-ghorbani.html"
     },
     {
-      "hash": "sha256-oOh8hUdTKDibxAOtuBH3fVYFG0iWaQB/iMlPfTagQNc=",
+      "hash": "sha256-Hxah6DPHlIZjEKyM1I8ZQqMoW7uEanwQs+3cb3H+GEo=",
       "url": "BestiaryData/bestiary/8538-navid.html"
     },
     {
@@ -10962,15 +10962,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8549-gammon-xungoon.html"
     },
     {
-      "hash": "sha256-Ejx84AiNoEH1O9qlh1zS7lFpzyprI2Bm0ckjgFBKH1Q=",
+      "hash": "sha256-EV3o7NxBhWx5HZgi5a+DRdpiR/K6tCdTS5ZAsEX9roU=",
       "url": "BestiaryData/bestiary/8550-animated-table.html"
     },
     {
-      "hash": "sha256-6TofeKpKpDMfKdz4oYjwVjC47CZQmhHh+N3tCjIa39Q=",
+      "hash": "sha256-jmOAiVY0RUkCf0uwh6KUcph01CA4Qi2qub1BLezupxI=",
       "url": "BestiaryData/bestiary/8552-centaur-mummy.html"
     },
     {
-      "hash": "sha256-BF2ByY9xbXagKVTQadLQ2yPy9P+GhC5RMoClkkM5TMA=",
+      "hash": "sha256-+xxmjCNCh97bHCJ/dvXriXnuQcqEke98ASkCvXrNmo8=",
       "url": "BestiaryData/bestiary/86-pit-fiend.html"
     },
     {
@@ -10978,7 +10978,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/867-avatar-of-death.html"
     },
     {
-      "hash": "sha256-YxJMMHGFqY1iJwOyf2jDEuIyyflMBbm93gnSzOimnOY=",
+      "hash": "sha256-OMnRsBUK4iyjvHUOHbgJ+gtT9p6VEAUgacaIMR3QN+o=",
       "url": "BestiaryData/bestiary/8691-space-hamster.html"
     },
     {
@@ -10986,7 +10986,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8692-giant-space-hamster.html"
     },
     {
-      "hash": "sha256-3J+Bjer+JlEpthzDtZn9wHaK2YggeqT7+q1sBENZQZE=",
+      "hash": "sha256-wJewQZ1dAw/nFY9gk0KWa42BYy49/ia/o0XflIgSO14=",
       "url": "BestiaryData/bestiary/8699-aartuk-elder.html"
     },
     {
@@ -10994,35 +10994,35 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/87-spined-devil.html"
     },
     {
-      "hash": "sha256-LGMMLJhmZ+0mv1Fyl+Zp3RVmpIAutHhTMedVP9bieoo=",
+      "hash": "sha256-HterJQFoOvNg9moONbDmlnHoQIwMT4eFikNFD+KY1pI=",
       "url": "BestiaryData/bestiary/8700-aartuk-starhorror.html"
     },
     {
-      "hash": "sha256-7QxET8cQZ9F9PT9Eljjy5KeFMNT5JnE3YPGAV0DrVoY=",
+      "hash": "sha256-u6/PkFeG7bFpCAlaXimXfiQvY+WI0mSXMJfmns1cRKA=",
       "url": "BestiaryData/bestiary/8701-aartuk-weedling.html"
     },
     {
-      "hash": "sha256-1jdWVgaKMCktqkBTDvuekKyHRgNpW5GFS0IVwLFG6Ck=",
+      "hash": "sha256-yoUUfoFcb/r/eCIQNkG4n1UJU6aVA/T1ZBkHsoqJ4FA=",
       "url": "BestiaryData/bestiary/8702-astral-elf-aristocrat.html"
     },
     {
-      "hash": "sha256-nBxEUik06TkoCX2HM5psv8NmPFdFi9532jAa7orhmnA=",
+      "hash": "sha256-+sRyb7DFZObdB6+PPb84vNJouldlyAYjkVOykasrzRQ=",
       "url": "BestiaryData/bestiary/8703-astral-elf-commander.html"
     },
     {
-      "hash": "sha256-624x6cR0bVBNGQp4Xr9ONGjbX8OjzFJTjDpuKzBbrBw=",
+      "hash": "sha256-q4sNxmJwQofbmvEe+pw6spX6a9QHl6cnX1dO96zGeCQ=",
       "url": "BestiaryData/bestiary/8704-astral-elf-honor-guard.html"
     },
     {
-      "hash": "sha256-5ZCtY2gpbrS/q7Cbf5gkrPstWDVI99NAgWmRHjs0Xes=",
+      "hash": "sha256-PYWB/1pP4A04e+nT439ABAJYoFJ1wLDJLK5w0kL7ODI=",
       "url": "BestiaryData/bestiary/8705-astral-elf-star-priest.html"
     },
     {
-      "hash": "sha256-DP5h0nXAhs11diNPIFztpqH/R+16qUmoNY0J1ZY+6AU=",
+      "hash": "sha256-XqhRBZ2POKEk7CUUdgnFET96IDOla8E7NsjUdM0Ga34=",
       "url": "BestiaryData/bestiary/8706-astral-elf-warrior.html"
     },
     {
-      "hash": "sha256-td2woVYWP80J6pcXZB5MY9Vq+OpzNazGaqHJJ5xd3ac=",
+      "hash": "sha256-t7OyYOohHZUHQkv1Ivpou/FvwMJDRe6t9k79eDBOJnQ=",
       "url": "BestiaryData/bestiary/8707-autognome.html"
     },
     {
@@ -11030,19 +11030,19 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8716-braxat.html"
     },
     {
-      "hash": "sha256-35lkEjwgpd95C+RNFkh6nSQLbxXL0zLPv5ffdgz7MrQ=",
+      "hash": "sha256-og5zL9tmZRFqGbXjhMsdMFJmUTqVgTTRUADjfpEQflI=",
       "url": "BestiaryData/bestiary/8717-brogh.html"
     },
     {
-      "hash": "sha256-A1lVHYNQb6OPxA6Ifzmm4lb+hx3AX6M71vy5cEodABg=",
+      "hash": "sha256-Kz+brXuUMPepOGkJ//qZWfvPoyT/PsKVBUbwTl0/Zbg=",
       "url": "BestiaryData/bestiary/8718-chwinga.html"
     },
     {
-      "hash": "sha256-GbwtcXlZQseQlE8a5CfwXpPwLF6VZR4FrpkDo4HGRHo=",
+      "hash": "sha256-1CBi4Ei3pfJCAswAbDEKa0+rhbtMfnHSORQrV/hNjnU=",
       "url": "BestiaryData/bestiary/8770-ancient-lunar-dragon.html"
     },
     {
-      "hash": "sha256-II2c/6Y226c6L5q8jENs6+0ZS3+kKE14yfXBmc/y+Y0=",
+      "hash": "sha256-G5Whf7M2E7sGRGVE9d/S9Rrf9swYrRlL3E9K8ln7pkg=",
       "url": "BestiaryData/bestiary/8771-adult-lunar-dragon.html"
     },
     {
@@ -11054,15 +11054,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8773-lunar-dragon-wyrmling.html"
     },
     {
-      "hash": "sha256-tRZv9B86RN/auybPd6flJCgmqIRNGHU56NOLDYOz3Lw=",
+      "hash": "sha256-Ke3y7VKqO3+BtBk0uHvA9ML3nrOogbS9dkXHZhJyhL0=",
       "url": "BestiaryData/bestiary/8774-ancient-solar-dragon.html"
     },
     {
-      "hash": "sha256-3uLByO5lzfxjqVGmXzD7peXKV6LcLXHV5TfDpnWOklM=",
+      "hash": "sha256-3pW3196HDRsKGUN9xcivzeITRWjdG8M96uGccepLu3c=",
       "url": "BestiaryData/bestiary/88-allosaurus.html"
     },
     {
-      "hash": "sha256-gwKrfkweD2rW78lEKmSNo/WKKr4XyLoLaaZPztSuhDM=",
+      "hash": "sha256-F4Ac4vuXr5OsTFOeW+lg4VdDlhGzQrqlv59WcKjX9AQ=",
       "url": "BestiaryData/bestiary/8821-cosmic-horror.html"
     },
     {
@@ -11070,31 +11070,31 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8822-dohwar.html"
     },
     {
-      "hash": "sha256-EEjXBKbZZwChstuR5xn4LIsCdTiX8RepE2L7HUT7fek=",
+      "hash": "sha256-Pv1v4/9dwyi5z68USMmw0vjuKhQs9wH2v2wCXZzFVco=",
       "url": "BestiaryData/bestiary/8823-esthetic.html"
     },
     {
-      "hash": "sha256-jGZu15uHLXk5nFqS7A3Nl4kbxo22OGOdqnOOm9wre+E=",
+      "hash": "sha256-QqPwrN0J1iUj0+eFyFBL2Fsa1T6XCzD2Wlayn7VyLO4=",
       "url": "BestiaryData/bestiary/8832-eye-monger.html"
     },
     {
-      "hash": "sha256-clpun/BdErDAlpILF4QDfoOok0xe1FpYvYjkscdukxs=",
+      "hash": "sha256-IPbiie4ek0GIYIz0FNNL3nxfzL1Gz5VaMpQgH5akwCY=",
       "url": "BestiaryData/bestiary/8833-feyr.html"
     },
     {
-      "hash": "sha256-JoVK+KAQmbUtbHgjEMOWkvIcvaqMx2FSeYSb3j0ygRc=",
+      "hash": "sha256-ZkkAffuAANtwRYmSH31+C/J3ZQmWVrl5KS5Bp2kSOkk=",
       "url": "BestiaryData/bestiary/8834-gaj.html"
     },
     {
-      "hash": "sha256-djJk0+H/UyrXHmue3atF5n/qAAUlOwA2dv4IACt+S4w=",
+      "hash": "sha256-qiQWEmVibDNYAhBXEOzk+2t2d7iBLZHCUnCEOBuj/Zg=",
       "url": "BestiaryData/bestiary/8835-giff-shipmate.html"
     },
     {
-      "hash": "sha256-uNCcNaVUj5YUd1NfOGdzXuLnMTXCbXBL20HZuZU0LHg=",
+      "hash": "sha256-5Wj5FdGgOXEh330AMSNuQz2VqmGmRFDHpcopO0qLmIw=",
       "url": "BestiaryData/bestiary/8836-giff-shock-trooper.html"
     },
     {
-      "hash": "sha256-rNcgito5aBT8cZQOcWyXm75syWS9CgUboe6BRQhAIE0=",
+      "hash": "sha256-sTvuCsYhsQNfo72wpxdETzDEviDy3/JQjORHmxzS/Vg=",
       "url": "BestiaryData/bestiary/8837-giff-warlord.html"
     },
     {
@@ -11110,7 +11110,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8840-githyanki-xenomancer.html"
     },
     {
-      "hash": "sha256-ZraVSm4O2PRIg3oU4Lkz4nZumzI+pk2Y8EWW+iw5hvM=",
+      "hash": "sha256-wPStgaceborkLOoQm2H7hd4G7W+z/vlXdY01WVzGMvc=",
       "url": "BestiaryData/bestiary/8841-hadozee-explorer.html"
     },
     {
@@ -11122,39 +11122,39 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8843-hadozee-warrior.html"
     },
     {
-      "hash": "sha256-CXwiaTueFebPF5hXp2dEgzu9nq7tvv/EcNkWp/PUqVA=",
+      "hash": "sha256-BtO5g9K5zfBLKxZl3p8n8fuQ+FqzurBFEhtZwF7nAIc=",
       "url": "BestiaryData/bestiary/8844-jammer-leech.html"
     },
     {
-      "hash": "sha256-yaAZeTvoxUN1kT9ySmeGSMnXCVGkYky3xHiWpQQQw7M=",
+      "hash": "sha256-Wf0X8UGaphZVEKojurn8ArE3vYSzSlpKse3qgHAYu7E=",
       "url": "BestiaryData/bestiary/8845-kindori.html"
     },
     {
-      "hash": "sha256-cyH7sTlhxybYWBvQO/tgXCAh3Ot/B/hWwZHIs09ZsQc=",
+      "hash": "sha256-NpW/EXR0hhGLOAuChcMMDzz3RzqMaU2pLeiT8VHwBo4=",
       "url": "BestiaryData/bestiary/8846-megapede.html"
     },
     {
-      "hash": "sha256-aW2tGMSD5wSYg99fvgGGNEKwIvYIUTNUXOPyKsxr2Sc=",
+      "hash": "sha256-nMjGl/meQDMHbmkZpJgg99RLDMYY3o9mhjhnl0VI9NE=",
       "url": "BestiaryData/bestiary/8848-mercane.html"
     },
     {
-      "hash": "sha256-i/z27ELGIjlzT6a2Q/1HBjv9NtKQUpAac2LZ/4RkIvE=",
+      "hash": "sha256-lAjyojn8JQV2pL3kp3JSpSZhrDwWnO3oG/kTQq1NDig=",
       "url": "BestiaryData/bestiary/8849-murder-comet.html"
     },
     {
-      "hash": "sha256-HZUCpTZjUXQCUrFfExmTn2jL4NjpSfsuBGJTtwQpcOc=",
+      "hash": "sha256-veQm2oCYDKhJBK2Z0DdX89BslMtyI0C1Zsc2wi8wFik=",
       "url": "BestiaryData/bestiary/8850-neh-thalggu.html"
     },
     {
-      "hash": "sha256-8SVBBes5YF/xvJRrMOeobeADtEg2XBxRSEkKX+qcNgM=",
+      "hash": "sha256-7vR2OAYjZMeFqKFaWQ2AhwFalcWwQxIlBOAUdkrs2IQ=",
       "url": "BestiaryData/bestiary/8851-neogi-hatchling-swarm.html"
     },
     {
-      "hash": "sha256-QN6qbjTEj2EQAxzFLW7IINhVeeTKvURUBg/1pqujbmU=",
+      "hash": "sha256-XIcuOA1WR2XtfuuhAw19HI6REoBbUNcfiFa8PecBXKQ=",
       "url": "BestiaryData/bestiary/8852-neogi-pirate.html"
     },
     {
-      "hash": "sha256-liFsZHIqFcPL0yniStFjT+AMFocQj+iAWSF3lbc0j2A=",
+      "hash": "sha256-MHt9+7kikVM5d0rfTkC2sy1dJyISMwVPp4Tb1V0FSh8=",
       "url": "BestiaryData/bestiary/8853-neogi-void-hunter.html"
     },
     {
@@ -11174,7 +11174,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8857-psurlon.html"
     },
     {
-      "hash": "sha256-W3upzZFagJcf5kW2Ayg9DBc1Og2DdYNMNa093mafZV8=",
+      "hash": "sha256-/jcScWwmcf3NcdyAnzmDAGbUy9x1ASTYhKGwf3A08gg=",
       "url": "BestiaryData/bestiary/8858-psurlon-leader.html"
     },
     {
@@ -11186,7 +11186,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8860-reigar.html"
     },
     {
-      "hash": "sha256-d/GcRUcX18q/BqstgBx0rh39bN7XRMmvP+y/u4ifLA0=",
+      "hash": "sha256-vVobR1JFm1/l6aaABABXunnKWdKb5B7dZEwxbD/wg8E=",
       "url": "BestiaryData/bestiary/8866-brown-scavver.html"
     },
     {
@@ -11198,11 +11198,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8868-night-scavver.html"
     },
     {
-      "hash": "sha256-cnXwWz8GaanYXVbT6MbGcrFaXSYomMlz2uE/egQowoo=",
+      "hash": "sha256-k1aMkLkKRbSpP1d234VzCjyBDfdVqUC18VAhCmEsbaw=",
       "url": "BestiaryData/bestiary/8869-void-scavver.html"
     },
     {
-      "hash": "sha256-ZeVthhgoJPpE8gsyuTbTbVsCZ9jGk7aa1KRZzLq5Zxc=",
+      "hash": "sha256-KlKmb9kWzb3CKTMF6EXUycnbWellL/l4Sk/zOYeDgiQ=",
       "url": "BestiaryData/bestiary/8870-adult-solar-dragon.html"
     },
     {
@@ -11214,11 +11214,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8872-solar-dragon-wyrmling.html"
     },
     {
-      "hash": "sha256-Qr6j4T+hb2PlLFJDF+N2OaBOsfMxy9JDPGTivDM5mlw=",
+      "hash": "sha256-kiS5+pcyJ65Cp9Z1JtNC6XHZ0EIHc7TbtXLVwyPhcpI=",
       "url": "BestiaryData/bestiary/8873-space-clown.html"
     },
     {
-      "hash": "sha256-vazNpJRzWR2FReBGwOVG6W5CxPw/v9++WjM8nYaR8ng=",
+      "hash": "sha256-cXtgDtpCziG4+hzrYs7qUFO1ZydJ/I/7arW5VcMo8Ag=",
       "url": "BestiaryData/bestiary/8874-space-eel.html"
     },
     {
@@ -11242,7 +11242,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8879-ssurran-poisoner.html"
     },
     {
-      "hash": "sha256-YXZ8xRq7i0PLK6JFpZl7vwODAWq3EKrXBF+c5fmO1P4=",
+      "hash": "sha256-NSyDQTruZrUZuTtJM7JV+OhrAA0otfMb0Gmpz1pRLvM=",
       "url": "BestiaryData/bestiary/8880-starlight-apparition.html"
     },
     {
@@ -11254,7 +11254,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8882-thri-kreen-hunter.html"
     },
     {
-      "hash": "sha256-10M4vjDQSUZA9rDBurevPYnjI3t/oJkE+Qg8AwKlkvk=",
+      "hash": "sha256-p0Z0uaVwduR/yyFxOxtwCf/Hwb4H5RP03GYhcKvPmDg=",
       "url": "BestiaryData/bestiary/8883-thri-kreen-mystic.html"
     },
     {
@@ -11262,7 +11262,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8884-vampirate.html"
     },
     {
-      "hash": "sha256-RgOZmQbI9KMROEuU+tSp5c1KfdSjuFL8vbK2P/96ChU=",
+      "hash": "sha256-T4kqhdX4hnsNd18yoam86HH9a+rOhfEEixZGlnKf5Wg=",
       "url": "BestiaryData/bestiary/8885-vampirate-captain.html"
     },
     {
@@ -11274,15 +11274,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8887-zodar.html"
     },
     {
-      "hash": "sha256-Y7mzBDfwOA4V1AbtBnm9QsFZeZvcwv6OGfKoX0Hc8AY=",
+      "hash": "sha256-DS7acfP6HWvyfLjAA80dq+D2SmiZMXXQ2PveVJdOhlE=",
       "url": "BestiaryData/bestiary/8895-meenlock.html"
     },
     {
-      "hash": "sha256-6nw7TTyjwKqvGEjTQCG+QesHY55pj1mImYzgeAlZz9s=",
+      "hash": "sha256-5hAbimmSOP60w2i29BQL+GN53SVlJSV8472Ga9YpuFQ=",
       "url": "BestiaryData/bestiary/89-ankylosaurus.html"
     },
     {
-      "hash": "sha256-6pQzf1m5rVgTNjpR2lwbSL9YS4Fbm51hD+voOULhA70=",
+      "hash": "sha256-HeAgwQXDtod0SyfOZpMtRpzJhI0xduaAHdZO8hrUZJ4=",
       "url": "BestiaryData/bestiary/8932-master-of-cruelties.html"
     },
     {
@@ -11298,11 +11298,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/8973-mangonel.html"
     },
     {
-      "hash": "sha256-0mIQEL5UCAVXlCGw00way8QZRGWj7g/OLPCU6JB+Qa0=",
+      "hash": "sha256-j0epf1GM4pbuRYM3GtSdPulaDziVZyhtvisGWPIguQU=",
       "url": "BestiaryData/bestiary/8974-siege-tower.html"
     },
     {
-      "hash": "sha256-OHnPPz6xrJBjoNR5GcZTMntK8aMqNSWI0Y/vZZ2ctS0=",
+      "hash": "sha256-BaHqXe3CaE6T44h4JDKNgigxB+/1Ibn9YmB39H5cQ8E=",
       "url": "BestiaryData/bestiary/8975-ram.html"
     },
     {
@@ -11326,7 +11326,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/92-pteranodon.html"
     },
     {
-      "hash": "sha256-U4dqY+N2FpbjpB+SlPyQDJDuFbCwQjV2cVEtOymtWd4=",
+      "hash": "sha256-loKP7AdI20h0XTqPxenBPK8XgkKKpA+oc4/3gEtE8Xo=",
       "url": "BestiaryData/bestiary/9251-astral-blight.html"
     },
     {
@@ -11342,7 +11342,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/9254-benoto-kralazar.html"
     },
     {
-      "hash": "sha256-BL+0jdO2FM4UxZ9vFkTnbEjDx7x3IQ+8RaJ7jacl4rI=",
+      "hash": "sha256-0P9qfn8tFbw3/iFz/CpMlQQmWt1qL3j9STZxXKZSSpo=",
       "url": "BestiaryData/bestiary/9255-commodore-krux.html"
     },
     {
@@ -11350,7 +11350,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/9256-fel-ardra.html"
     },
     {
-      "hash": "sha256-31tvBQZV0up8E0FY4KnYjMJNyTlhC2n9WNs3ism3Wt0=",
+      "hash": "sha256-QbjiU+1f0q/dtKm/JqE0jQeVqlwJCptAeO4TVperkko=",
       "url": "BestiaryData/bestiary/9257-flinch.html"
     },
     {
@@ -11362,35 +11362,35 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/9259-hastain.html"
     },
     {
-      "hash": "sha256-AWjjwQO4ZJHwnmCHFzgPI4vgFAmMqEM6QbAhpWNdxo8=",
+      "hash": "sha256-CJH4oONrWStehH4aIh4b8LFcdZDX1qByGlHPjHpeuOA=",
       "url": "BestiaryData/bestiary/9260-topolah.html"
     },
     {
-      "hash": "sha256-cRSq0DlecBnW6Mgi2hyjtmKq5Ml9L7JB8+5PcvA8GJE=",
+      "hash": "sha256-LJtPKGCwt7HmrYPC7OahkOXslFaEwV7eOx/JxlltTH4=",
       "url": "BestiaryData/bestiary/9261-big-momma.html"
     },
     {
-      "hash": "sha256-9adHpQAvRKQEgO/LVHpATt9KonQTS7QHYFPe7tlNnss=",
+      "hash": "sha256-lgkWHunsMdVJIS5DwJoP5ekETE5RC/WdIVvrVIuTmR0=",
       "url": "BestiaryData/bestiary/9262-grimzod-gargenhale.html"
     },
     {
-      "hash": "sha256-CXfSV9Er7xVbKyzi3J+xcMgaqWlKV13WKNrg33XB3SY=",
+      "hash": "sha256-NX8WdSnkm2muiOhwh5F2JCaRz2vx3xuyCgdN9ZPl2zU=",
       "url": "BestiaryData/bestiary/9263-agony.html"
     },
     {
-      "hash": "sha256-yrbOC9KK2uCOAIOwbAHAV583UUSlP2uBYCVjoQuyTaM=",
+      "hash": "sha256-Qs6NPwhor37VkVqCwIO9Y1wx8KEAOG498F9XJJ9Y87Y=",
       "url": "BestiaryData/bestiary/9264-princess-xedalli.html"
     },
     {
-      "hash": "sha256-RKE90ci8XHJHV/OQTshQ01aNVszEYVeCP+ECPTZLdRQ=",
+      "hash": "sha256-GwyikVjHv7uW0NI94EeJMVElgvpURG8p8XOS0Jc2sd0=",
       "url": "BestiaryData/bestiary/9265-warwyck-blastimoff.html"
     },
     {
-      "hash": "sha256-5NPHZgg4zhfpKIbutv+CV6rL/XeXtBA185PzZUjDSRw=",
+      "hash": "sha256-hdbg/TAg9myyyhBLFFaBWoiDbgB/VWBc1v/XTeXxXqY=",
       "url": "BestiaryData/bestiary/9266-vocath.html"
     },
     {
-      "hash": "sha256-SGBvzrg/tA8kkj/i5A0gdBhcKGGIzVRuWVS0Ae+TpyU=",
+      "hash": "sha256-Rit0m5YNz1/jPorYg8t+bEREjO1hSta8fQDyjrgCMks=",
       "url": "BestiaryData/bestiary/9267-prince-xeleth.html"
     },
     {
@@ -11398,7 +11398,7 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/9268-dagaz.html"
     },
     {
-      "hash": "sha256-Q0DerSLcJ1JiamOntH3zplUyl9PB4zwpsbAlLlMh86A=",
+      "hash": "sha256-+YBJnMU7l1JRv5drCYQ8fGaukDAJy3T1ZoFQwZoY0w0=",
       "url": "BestiaryData/bestiary/9269-andavier.html"
     },
     {
@@ -11410,11 +11410,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/93-triceratops.html"
     },
     {
-      "hash": "sha256-QDYyG56St/M5sdNT+tR4FNkx5eAUC0qQeAWBYYRa0/o=",
+      "hash": "sha256-TxnPFdc+i5yNmDA9ovzcwHRfBHh+7Yh7hvAcgjWntUQ=",
       "url": "BestiaryData/bestiary/9394-devkarin-lich.html"
     },
     {
-      "hash": "sha256-AaD1Qa9oODL9FItqRHhDIDjIvTaenJ3kNUAYEO7mI80=",
+      "hash": "sha256-AOo2Wn274uIoe4WP2dvSmjt3IMcCRJkcWgUTl4JXCfk=",
       "url": "BestiaryData/bestiary/9395-felidar.html"
     },
     {
@@ -11422,19 +11422,19 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/94-displacer-beast.html"
     },
     {
-      "hash": "sha256-j5iL0sLjuCDhxRIk2qUXvHL+y2LqF3FjrMmS360CPp8=",
+      "hash": "sha256-0HomP37DW5PcXX9QLmrZzzwyIihq6rFV5MS7lDHShgw=",
       "url": "BestiaryData/bestiary/942-zegana.html"
     },
     {
-      "hash": "sha256-mp4FweHHrWo8T6JMj8etadFmrNu75In8/nm4HnhmRMw=",
+      "hash": "sha256-6JBjsqpnpeW9dOMx6fb3xds8SLC8oSte8ia4ryKd7dM=",
       "url": "BestiaryData/bestiary/946-izek-strazni.html"
     },
     {
-      "hash": "sha256-HOi+PtBMd0kA9BVKcNVU+RnM4qm1yLEuxgk4QxxgpXA=",
+      "hash": "sha256-eeA+fjoaVkwakgW3LxhzWhm8DdUtfKddnUgkwhYPRH0=",
       "url": "BestiaryData/bestiary/947-baba-lysaga.html"
     },
     {
-      "hash": "sha256-QFEXEvVrz3fs56WBOhvV/OTJQQZV9+DhsXWZRFRCmJQ=",
+      "hash": "sha256-jzEM8UzW1WUceUIijB8A/ogzFSnOZBPaalIw2H8OUp4=",
       "url": "BestiaryData/bestiary/949-wereraven.html"
     },
     {
@@ -11442,11 +11442,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/9492-sea-lion.html"
     },
     {
-      "hash": "sha256-zy9s41hmiIMG4uPhQjJxjocJkZ+tdB6xYYqWpWrJDdY=",
+      "hash": "sha256-VoYJc8YGZcFDbnW7oVDO2oSHJGKLg1gjHrwssaOGTNA=",
       "url": "BestiaryData/bestiary/95-ancient-black-dragon.html"
     },
     {
-      "hash": "sha256-wooQwmkR+/GOQnmtSWYuQMDIkm5uXzRoF6iAEcUm0II=",
+      "hash": "sha256-UHAVnU4jF+wqaqpAfKR15n0Do7eWexVLdaQksXQsdWk=",
       "url": "BestiaryData/bestiary/950-tree-blight.html"
     },
     {
@@ -11454,11 +11454,11 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/951-strahd-zombie.html"
     },
     {
-      "hash": "sha256-ki5OnXL0bLKm4rzUmMdWhFg/oCyfw90zXtrnDdYGbVY=",
+      "hash": "sha256-iUtzCCOoeUfLiyKLiAvGG+aiLEmLsFQxsyTjmrd1cmc=",
       "url": "BestiaryData/bestiary/952-madam-eva.html"
     },
     {
-      "hash": "sha256-6uvJO3kEf7WAQZHbLJ3ul62vGHydHISKWNIxMUXsSxg=",
+      "hash": "sha256-PHDhfoD1b5+IJkwAsDmD7aYVHvj8MFfwCb28jycxthY=",
       "url": "BestiaryData/bestiary/953-broom-of-animated-attack.html"
     },
     {
@@ -11466,15 +11466,15 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/954-baba-lysagas-creeping-hut.html"
     },
     {
-      "hash": "sha256-9/iPRqOthi+kA7uWBmyPpRk1+PSHuAO6wFql2CO530g=",
+      "hash": "sha256-wi++QhQySFTQ3isRmsB7nxZo4X1oPwIkCXy240JSLZQ=",
       "url": "BestiaryData/bestiary/955-strahds-animated-armor.html"
     },
     {
-      "hash": "sha256-/w0lEP1PlbPxoAiBGBt6vYmcbZ26d/ZdCNzHHk1DhMI=",
+      "hash": "sha256-qR08qYHgsfearCUxwqIfxYfYh5ruU6lRkHqCZZt99/U=",
       "url": "BestiaryData/bestiary/956-guardian-portrait.html"
     },
     {
-      "hash": "sha256-dPs/svmsx8ndgX5z3r0yWxG7o2RIrKKvU81FvqjMgWc=",
+      "hash": "sha256-rBsl0/OzQ8oZc5Qod9vYIj/osRu+34kpvivoo8Kaf+c=",
       "url": "BestiaryData/bestiary/957-pidlwick-ii.html"
     },
     {
@@ -11486,23 +11486,23 @@ self.assetsManifest = {
       "url": "BestiaryData/bestiary/959-phantom-warrior.html"
     },
     {
-      "hash": "sha256-yDrLX5U6KfZpBib03N3HsU50VxXdS41gxD8dDI+BnHU=",
+      "hash": "sha256-P8sqGGTvQyRJhgwgx27injuCJOMu6IO3g+ic3Yoc4qU=",
       "url": "BestiaryData/bestiary/96-adult-black-dragon.html"
     },
     {
-      "hash": "sha256-ArvIP4DIkz3ZAJHYBuiHYc2wCuF82H74bcbzv1bgV4A=",
+      "hash": "sha256-MY7rLo+UrAehmpuMBCZLL3x7hz8k/+vCsq+oF8bttGo=",
       "url": "BestiaryData/bestiary/960-strahd-von-zarovich.html"
     },
     {
-      "hash": "sha256-oQVMgZPXem5QkPvM7wgzmtRLNtkZQjNokOGJBaKYJ9g=",
+      "hash": "sha256-a2LZ3bUuRqWGGoI2pdhLNFBDWv293K6CssfnY/MXbY8=",
       "url": "BestiaryData/bestiary/97-young-black-dragon.html"
     },
     {
-      "hash": "sha256-QDDazNiT6kk+e/OGYocnLWuIAPbzzaHQdTwe0kq+tVk=",
+      "hash": "sha256-mCF17vdfdGPqbnByDSRo6T54atnDos0IlZ0ibZSaCFs=",
       "url": "BestiaryData/bestiary/98-black-dragon-wyrmling.html"
     },
     {
-      "hash": "sha256-wjEtu9x6GCrTKX4+fV3XBc3vugCN6JCseQ143ySKVho=",
+      "hash": "sha256-UoouYRoSrSDmb62XS/U2DWtzlLY5+yHC95a9TiUWhH4=",
       "url": "BestiaryData/bestiary/99-ancient-blue-dragon.html"
     },
     {
@@ -15562,15 +15562,15 @@ self.assetsManifest = {
       "url": "FeatureData/lookups.json"
     },
     {
-      "hash": "sha256-g497Kf6VwzUORx6BJyx1Qb3dqIWzHZXln9FoBtXXQGM=",
+      "hash": "sha256-+vCRsZwG5sKVf87GQ7cmbKl6IdkNF0BYip1Znf+Aq0A=",
       "url": "SpellData/README.md"
     },
     {
-      "hash": "sha256-9LcKJEXKUaPV/TJu7whfOOr3CI4b0YgMvUyjONgTSjg=",
+      "hash": "sha256-Zr1IIh3Th0+P/bbItCm2ZIBH1xF4GM0Rl+LkQ6CjV4c=",
       "url": "SpellData/index-full.json"
     },
     {
-      "hash": "sha256-AJBioVzWFbo344oLDcQVglTAJbSG2CXOoVeaIV2pozY=",
+      "hash": "sha256-bxli/z/MbTadoo6Tq40vgskWcuL3BbJpfjevvyd/umY=",
       "url": "SpellData/index.json"
     },
     {
@@ -15578,7 +15578,7 @@ self.assetsManifest = {
       "url": "SpellData/lookups.json"
     },
     {
-      "hash": "sha256-V4GjwH3fOmnt5Pa3yw9MFVJxXBLkFZVArwHDm4zOuTQ=",
+      "hash": "sha256-PKyv3GH8xT1eiwtHujcsj1MSCorpnHw0DFg8sTj+KhY=",
       "url": "SpellData/spells-bundle.json"
     },
     {
@@ -15598,7 +15598,7 @@ self.assetsManifest = {
       "url": "SpellData/spells/101-blade-ward.html"
     },
     {
-      "hash": "sha256-0dpt8k+vEzylgZWymXaf1O4VxKsMWUHmRShIu09jKrk=",
+      "hash": "sha256-iaByzEctpgf5tdGU8v2e3rQBqJ2DzfGjS+NduLR/t90=",
       "url": "SpellData/spells/102-calm-emotions.html"
     },
     {
@@ -15674,7 +15674,7 @@ self.assetsManifest = {
       "url": "SpellData/spells/119-modify-memory.html"
     },
     {
-      "hash": "sha256-0l4KqWPI/WHYPUauhd2DYSUJVDFxrhHzSXbslruMprk=",
+      "hash": "sha256-Gr9f9IlOlWxyBiwy3WLVxhT/K5oHhLvr4AipVb4VKE8=",
       "url": "SpellData/spells/12-divine-word.html"
     },
     {
@@ -15690,11 +15690,11 @@ self.assetsManifest = {
       "url": "SpellData/spells/122-sequester.html"
     },
     {
-      "hash": "sha256-qtC5u6VnugGlaGMmRHrFvK9eeY0aQOLTizITRDb2Bm0=",
+      "hash": "sha256-nJrZu5qT+B9BNC5EERVVmfJeQa1RiHzoGPyCIeeYKCo=",
       "url": "SpellData/spells/123-druidcraft.html"
     },
     {
-      "hash": "sha256-B+ufkISBc4Oe6ozoe540lWwoeSlMVIMpdRtFYEIZMJA=",
+      "hash": "sha256-MGnoi83nZ+nSR6ywt6q5Q5/FqLs/8wuZviDZ7xoGj4I=",
       "url": "SpellData/spells/124-wish.html"
     },
     {
@@ -15710,7 +15710,7 @@ self.assetsManifest = {
       "url": "SpellData/spells/127-true-polymorph.html"
     },
     {
-      "hash": "sha256-4YWTw7hFolchx4SCVncV1hYe/0aPwn3MkRoHruTWAWo=",
+      "hash": "sha256-vtlrMO3nUhYNjQGz8SejpNPIUlJGxskBo9a3A+TZo/s=",
       "url": "SpellData/spells/128-mordenkainens-private-sanctum.html"
     },
     {
@@ -15818,7 +15818,7 @@ self.assetsManifest = {
       "url": "SpellData/spells/151-arcane-eye.html"
     },
     {
-      "hash": "sha256-EdFlJ4dbb3EcqwL1/H5K2pQ4TTYtisRDttagbjEKHcU=",
+      "hash": "sha256-+I8GiseBYSEJGabK6St+wPR4XdkCJDCLHjvvb1bbJnw=",
       "url": "SpellData/spells/152-magic-circle.html"
     },
     {
@@ -16034,7 +16034,7 @@ self.assetsManifest = {
       "url": "SpellData/spells/198-commune.html"
     },
     {
-      "hash": "sha256-i49m5PCAVI4FnzXLaEGkKm5jXLwxvaTANWvg7S9uTGk=",
+      "hash": "sha256-YD6OFdLoEaId67HCeTVo3QOnLB0KXRfFtjAr+2HckFc=",
       "url": "SpellData/spells/199-commune-with-nature.html"
     },
     {
@@ -16142,7 +16142,7 @@ self.assetsManifest = {
       "url": "SpellData/spells/220-warding-bond.html"
     },
     {
-      "hash": "sha256-cMs7Ht4+yHUYR0xT+kcYB/9juIHZ1g9xKHX2fnGUsMw=",
+      "hash": "sha256-uoBNZ1aC8IHrnEFnj8s6YJkCZMZqlmu1FZIDwyBTva4=",
       "url": "SpellData/spells/2202-summon-lesser-demons.html"
     },
     {
@@ -16418,7 +16418,7 @@ self.assetsManifest = {
       "url": "SpellData/spells/266-divination.html"
     },
     {
-      "hash": "sha256-G72R8ncZaO2KblDC6Sp64Btx4QREEN4AHtaA4Z9TLPk=",
+      "hash": "sha256-j0GKPYLEa2tbHim8hYNDRx2NOUg309KIO/vSfN487n8=",
       "url": "SpellData/spells/267-conjure-animals.html"
     },
     {
@@ -16434,11 +16434,11 @@ self.assetsManifest = {
       "url": "SpellData/spells/27-magic-missile.html"
     },
     {
-      "hash": "sha256-djbIkF8OC970zckr4OUHI8orzJ8cSqNKGjahsGd68Lc=",
+      "hash": "sha256-iuZ2xflm+YUDxj60X2u77eigyRNwV8UAhQ6wXNNsSXU=",
       "url": "SpellData/spells/270-conjure-woodland-beings.html"
     },
     {
-      "hash": "sha256-q2zhKg8LuzhF3NL/3dFn1wsuLKYGncdsr4XTeclO69U=",
+      "hash": "sha256-urWPin+wq4YEVgkm+0RvvsH8p2bo+sCiVDico/3wV5Q=",
       "url": "SpellData/spells/271-conjure-minor-elementals.html"
     },
     {
@@ -16498,7 +16498,7 @@ self.assetsManifest = {
       "url": "SpellData/spells/284-astral-projection.html"
     },
     {
-      "hash": "sha256-uxuWD1jDjd1m/IY7QXSpqKj+dBq32o/d0y9sIgITHac=",
+      "hash": "sha256-r1r6l69JTZvT7OuBwhyGNTKgC7Dn0RDf+hO2Q3tnXXA=",
       "url": "SpellData/spells/285-bestow-curse.html"
     },
     {
@@ -16570,7 +16570,7 @@ self.assetsManifest = {
       "url": "SpellData/spells/30-magic-jar.html"
     },
     {
-      "hash": "sha256-XYMMzGu0MHQaPNtVMT5eUv/X2BZmI0VFuMrxltehWok=",
+      "hash": "sha256-fMP1OM/eKIP4G8DfYYCqErkdmQyzDuH7v04kJmB8GwI=",
       "url": "SpellData/spells/300-dispel-evil-and-good.html"
     },
     {
@@ -16622,7 +16622,7 @@ self.assetsManifest = {
       "url": "SpellData/spells/3051-spirit-shroud.html"
     },
     {
-      "hash": "sha256-CnoJvynflMO9tVzbdg524KneV7mSItM0adLhEZyPMq8=",
+      "hash": "sha256-L7ZPo+oP76j3A4uUEp8ZnueC4PF0X3UzwGAn95b/gsQ=",
       "url": "SpellData/spells/3052-tashas-otherworldly-guise.html"
     },
     {
@@ -16826,7 +16826,7 @@ self.assetsManifest = {
       "url": "SpellData/spells/340-guardian-of-faith.html"
     },
     {
-      "hash": "sha256-SyO7+7UOQlvluy9IvOYW7nt1FRL54vfBdU73qxLG6XY=",
+      "hash": "sha256-4uii8LKG+MgTLf67XNdfxpOWYRVcJVNA5tist60FilU=",
       "url": "SpellData/spells/341-guards-and-wards.html"
     },
     {
@@ -16910,7 +16910,7 @@ self.assetsManifest = {
       "url": "SpellData/spells/366-creation.html"
     },
     {
-      "hash": "sha256-B7lYcxdKTh5I6S59eVftCVm7d5Ik0P4MF00OLqjk4ZY=",
+      "hash": "sha256-09hwCdVUxryv48XEPU+/aKHwLRrZl4v/5UtClsja9qE=",
       "url": "SpellData/spells/367-teleport.html"
     },
     {
@@ -16926,7 +16926,7 @@ self.assetsManifest = {
       "url": "SpellData/spells/373-control-winds.html"
     },
     {
-      "hash": "sha256-+LdHtZBCkDDIdS+xXgZ7V53uS8I93GnipQNDup/zvXM=",
+      "hash": "sha256-uXtSjKZIZ3plxbRzDIzzbcEV8HkLB9OkP0Wsk0qC6ds=",
       "url": "SpellData/spells/374-control-flames.html"
     },
     {
@@ -16958,7 +16958,7 @@ self.assetsManifest = {
       "url": "SpellData/spells/380-vitriolic-sphere.html"
     },
     {
-      "hash": "sha256-Pi8GrEvuC7JRl+d3XrYbAzIyMM66BXo7Ch8bKtNvWb4=",
+      "hash": "sha256-hznmzHwVoiVYZBgfgn96kBWEyQRmwQz23odRWIj/pjY=",
       "url": "SpellData/spells/381-warding-wind.html"
     },
     {
@@ -17010,7 +17010,7 @@ self.assetsManifest = {
       "url": "SpellData/spells/3848-galders-speedy-courier.html"
     },
     {
-      "hash": "sha256-g/PT4sU3L5WlLybz2w2xFmdcI418wxBVnvYrQj0hAqg=",
+      "hash": "sha256-3x9QyFmThK6OHDOEaoqNSgvLmkT1BGcYygsIZcdoQQM=",
       "url": "SpellData/spells/3849-galders-tower.html"
     },
     {
@@ -17030,11 +17030,11 @@ self.assetsManifest = {
       "url": "SpellData/spells/388-ice-knife.html"
     },
     {
-      "hash": "sha256-CFgaG5XU/duOJuLdP1bSUf2ojEyDAdo9vheZJ4mC/i4=",
+      "hash": "sha256-2IMF2uKxy4B99wMrd4q746DS7loDj2pl2IAo9DiXEQM=",
       "url": "SpellData/spells/389-mold-earth.html"
     },
     {
-      "hash": "sha256-/4QwI+jh9C9pBpVNCL61BqDsIq1kjizTSJOMNIE5oSo=",
+      "hash": "sha256-8YqLn3m2ViIMBUhuZ7/Fx36rmGEcw1Q95ZPymB3RR+k=",
       "url": "SpellData/spells/39-greater-restoration.html"
     },
     {
@@ -17046,11 +17046,11 @@ self.assetsManifest = {
       "url": "SpellData/spells/391-skywrite.html"
     },
     {
-      "hash": "sha256-zII27tZL8JIk9BBcyX4A8RUPl4bcVRX2b1odTmm2I7s=",
+      "hash": "sha256-FzO7ijY5wIuEq7YKtWddj89p4Pd9l7OSEUxm0lT6a5s=",
       "url": "SpellData/spells/392-investiture-of-wind.html"
     },
     {
-      "hash": "sha256-Y719k5BgwQlUJqfelsyRXO64gXLU1n3XeIPBrTyCFnY=",
+      "hash": "sha256-wYeomqwr/uvtHwJHUcLxbpgkzKw2HmAg6OzISD3H/Mc=",
       "url": "SpellData/spells/393-investiture-of-stone.html"
     },
     {
@@ -17058,11 +17058,11 @@ self.assetsManifest = {
       "url": "SpellData/spells/3938-borrowed-knowledge.html"
     },
     {
-      "hash": "sha256-ATW2FeSn12qMauyOsw96A8b/1CK2Rkcb3t7MlnadMKU=",
+      "hash": "sha256-yvLkBIlOgv9Sm/8b7Ipsyl+vtWNhEaksqZxhY7uj2Ds=",
       "url": "SpellData/spells/3939-kinetic-jaunt.html"
     },
     {
-      "hash": "sha256-1K1jg08rO5JcqXYnboCR0jzgU9EL21XR5BpK0layuvQ=",
+      "hash": "sha256-7WTHhN44sPLB5LgeRZRUUiiPcKdcNMDN60/K2fB7FcY=",
       "url": "SpellData/spells/394-investiture-of-ice.html"
     },
     {
@@ -17078,7 +17078,7 @@ self.assetsManifest = {
       "url": "SpellData/spells/3948-wither-and-bloom.html"
     },
     {
-      "hash": "sha256-gfEss11fq4X1ej5TZlQeMOXk1/8dswLPgwz+X/cAG/k=",
+      "hash": "sha256-Kyp4C8ZO2MSW6P6dPrsu2rkt9Wcl8pRAZEgyoxFj7rY=",
       "url": "SpellData/spells/395-investiture-of-flame.html"
     },
     {
@@ -17102,7 +17102,7 @@ self.assetsManifest = {
       "url": "SpellData/spells/4-aura-of-life.html"
     },
     {
-      "hash": "sha256-jg6rEklr9x1RZmuyvTAYslDppEx0C70vW19LB9AFRjY=",
+      "hash": "sha256-m8dnZQQ3iP7LdVYWofsFdZsmRJonlKOmm2vvvdjuh98=",
       "url": "SpellData/spells/40-augury.html"
     },
     {
@@ -17166,11 +17166,11 @@ self.assetsManifest = {
       "url": "SpellData/spells/413-earthbind.html"
     },
     {
-      "hash": "sha256-sp2GeU2xMY5HnHvqS490gr1uImT1q2ME8NBorQUg4pM=",
+      "hash": "sha256-KZInhW7ekYqHdO50thaiZrbjGsQRi78aAl6BLUqI0fQ=",
       "url": "SpellData/spells/414-shape-water.html"
     },
     {
-      "hash": "sha256-PmvSK2ZWn9IGemDe43gmrRk7il186oWI0uGoQr/ZdS8=",
+      "hash": "sha256-VbxQlrifn8UoqXDQDIpESddQU5PcZcrd7NPa5jkLg94=",
       "url": "SpellData/spells/415-gust.html"
     },
     {
@@ -17310,6 +17310,10 @@ self.assetsManifest = {
       "url": "SpellData/spells/477-sickening-radiance.html"
     },
     {
+      "hash": "sha256-ZOEv6g1V8/RRnUqk5ZK8lYox9pPZ8lf1X20qOuFJ3DE=",
+      "url": "SpellData/spells/478-shadow-of-moil.html"
+    },
+    {
       "hash": "sha256-SNJuwrCDx1muuwKb29VcjX3Tus48UxwRq1ai+5kK0rg=",
       "url": "SpellData/spells/479-charm-monster.html"
     },
@@ -17326,7 +17330,7 @@ self.assetsManifest = {
       "url": "SpellData/spells/481-summon-greater-demon.html"
     },
     {
-      "hash": "sha256-8f/XyFT/coHZ1WfBbKGV1R8aRXfJ1Zv/dSwOrP6TrcE=",
+      "hash": "sha256-sFsCzQzxJfCD9H0SxpNZMoDLyFKP/Sshd4tYswPuwiA=",
       "url": "SpellData/spells/482-guardian-of-nature.html"
     },
     {
@@ -17394,7 +17398,7 @@ self.assetsManifest = {
       "url": "SpellData/spells/497-scatter.html"
     },
     {
-      "hash": "sha256-ZqdILzTGYgjrE4wSba+GctmJ3ctCQC/IndRkrpXyWmk=",
+      "hash": "sha256-4eIpxFTeZ+LsDJRE5DwsXn+kBUS9zya6qHarraGwHsM=",
       "url": "SpellData/spells/498-druid-grove.html"
     },
     {
@@ -17410,7 +17414,7 @@ self.assetsManifest = {
       "url": "SpellData/spells/50-hail-of-thorns.html"
     },
     {
-      "hash": "sha256-AWrOTOBnAiLmUpxjlDFtUMQ+RjNfh58XISfi4DEHYzQ=",
+      "hash": "sha256-+o/e3GNbfIIURpCnmXnlPnq0NeTHIylMzfeaomUfxos=",
       "url": "SpellData/spells/500-tensers-transformation.html"
     },
     {
@@ -17590,7 +17594,7 @@ self.assetsManifest = {
       "url": "SpellData/spells/8-pass-without-trace.html"
     },
     {
-      "hash": "sha256-HNDJ4hAl27ag7rspTQzmA3n0KPtEsyHx+PNlOs0lzFc=",
+      "hash": "sha256-UJN3np0F2Pdcz5UoLJ5sgXWmAfzzeQI7YLnynQZOfmc=",
       "url": "SpellData/spells/80-thaumaturgy.html"
     },
     {
@@ -17600,6 +17604,10 @@ self.assetsManifest = {
     {
       "hash": "sha256-I/DUVe+vkFLcxOTrISGJsKHFAK/6pHNKfXKdc14fjxY=",
       "url": "SpellData/spells/82-programmed-illusion.html"
+    },
+    {
+      "hash": "sha256-uwCNSq0QZu0jc6QaDq7g8QdgC1qf1f6l4O0wo4xVXVQ=",
+      "url": "SpellData/spells/83-slow.html"
     },
     {
       "hash": "sha256-X2o8SeFFb2kwos5MLzRKoNvDliVB1N0hSpugKgJ17RE=",
@@ -17634,7 +17642,7 @@ self.assetsManifest = {
       "url": "SpellData/spells/90-wind-walk.html"
     },
     {
-      "hash": "sha256-Z6w025OxvR/ssVNeHv2H773LPQzw82Ar8awX14nmCZg=",
+      "hash": "sha256-nC5cdZx1C7pLEeDtJq+gvmjmDu/Uwm/D3kBIfnoEY6Q=",
       "url": "SpellData/spells/91-prestidigitation.html"
     },
     {
@@ -17670,8 +17678,8 @@ self.assetsManifest = {
       "url": "SpellData/spells/99-protection-from-evil-and-good.html"
     },
     {
-      "hash": "sha256-eM6+X0WaOR1q49k+s4n3Vi1XcuyyYAE47Xu6v8jPOV4=",
-      "url": "_framework/BlazorSpellsPicker.cnba505oea.wasm"
+      "hash": "sha256-1tvMEYZ50bTdoHdU6MlN7wNrgekn+LQeBRD5VXv6KAQ=",
+      "url": "_framework/BlazorSpellsPicker.6lb2hzqf0z.wasm"
     },
     {
       "hash": "sha256-bWno5EKg9RoFe0qvk2jgoDDhYLujrpf4HAMLOVYwm38=",
@@ -17770,8 +17778,8 @@ self.assetsManifest = {
       "url": "_framework/System.Linq.if6d0iw6mp.wasm"
     },
     {
-      "hash": "sha256-wXr8pChHfXS2yIja0E17H6ZCmh9l8oha1SP2kIwW2Qs=",
-      "url": "_framework/System.Memory.bdu23r9jzz.wasm"
+      "hash": "sha256-KZsn18cVoa4Fd/cXYfIav+ghWE+oXb/mweR1TRT5PPw=",
+      "url": "_framework/System.Memory.5lbe555zym.wasm"
     },
     {
       "hash": "sha256-ZXdyCYAd3Pq15GIVnUM5pXiPl60hnT1/NX1c/JR/okE=",
@@ -17794,12 +17802,12 @@ self.assetsManifest = {
       "url": "_framework/System.Private.Uri.5k78bg64a2.wasm"
     },
     {
-      "hash": "sha256-p1LD0fpgFsTckIcsUH+xkP6qPuHbu2ht7Qc9DhOztmY=",
-      "url": "_framework/System.Runtime.InteropServices.JavaScript.pkvqfb5bgf.wasm"
+      "hash": "sha256-NffLTxoJmkzGYTavZxLTca+ofXzIGGRLP3rDLacj68o=",
+      "url": "_framework/System.Runtime.3edw1r575w.wasm"
     },
     {
-      "hash": "sha256-+qaIQ6lSOcIsjOTdAYd0tcx8FfzLXD5eVDsodtvcEho=",
-      "url": "_framework/System.Runtime.mddte460o0.wasm"
+      "hash": "sha256-p1LD0fpgFsTckIcsUH+xkP6qPuHbu2ht7Qc9DhOztmY=",
+      "url": "_framework/System.Runtime.InteropServices.JavaScript.pkvqfb5bgf.wasm"
     },
     {
       "hash": "sha256-g/Cc00CC4N00kHv3CM4swNDmJiXIGFZ51wbyItw+7tw=",
@@ -17818,7 +17826,7 @@ self.assetsManifest = {
       "url": "_framework/System.Threading.ck7ypa45et.wasm"
     },
     {
-      "hash": "sha256-Rp0PUpb85cONUdUJiTD1fLw8KRR/NZeQdk9PM5/YtEg=",
+      "hash": "sha256-2ir8jbovdGDtupVWCjDXVbIppT7DtyLUPbsFR/mA3Lc=",
       "url": "_framework/blazor.boot.json"
     },
     {
@@ -17862,7 +17870,7 @@ self.assetsManifest = {
       "url": "css/app.css"
     },
     {
-      "hash": "sha256-+1WYJAbzuwDUwfp+axrDZcdrwN6uRS9f0qAgnbGhf9w=",
+      "hash": "sha256-g7T9vKc7hzSpy3PxIy8K+V4Y57QpHD0YB5D+FDWG7Rg=",
       "url": "css/popups.css"
     },
     {

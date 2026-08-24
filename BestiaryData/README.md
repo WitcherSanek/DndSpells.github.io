@@ -140,6 +140,17 @@ dotnet run --project BestiaryExtractor -- --output BestiaryData
 
 Existing `bestiary/*.html` are skipped (delete a file to refetch it); the three JSON indexes and `REVIEW.md` are always rewritten. The indexes are written **before** the fetch loop — they derive entirely from the list data, so a cold run leaves usable JSON within seconds and an interrupted run still leaves a complete index covering all 2874 beasts. Useful flags: `--limit <n>` (test on the first n beasts), `--delay <ms>` (default 3000 — dnd.su resets connections on rapid requests). A full cold run is ~2874 pages, so budget a couple of hours; re-running after an interruption resumes from the cache.
 
+To refresh selected cached fragments after a sanitizer change without shrinking the indexes:
+
+```
+dotnet run --project BestiaryExtractor -- --output BestiaryData --refresh --only 1313-almiraj,100-ancient-green-dragon
+```
+
+`--only` accepts comma-separated beast ids or full slugs and still builds the JSON indexes from
+the complete list. `--refresh` writes each successfully parsed replacement beside the old file
+and atomically swaps it into place; a failed request or unexpected card leaves the cache intact.
+Omitting `--only` with `--refresh` performs a complete ~2874-page refresh.
+
 `REVIEW.md` is rewritten every run but only re-flags pages that were actually **fetched** — cached ones are skipped, so a small follow-up run produces a much shorter file than the cold run did. The cold run of 2026-07-28 flagged 57 statblocks whose page tables were auto-converted to `<ul>`, plus 11 transient "card not found" failures that all succeeded on a second pass.
 
 In practice dnd.su starts refusing connections partway through a run of this size (it happened around page 900 at a 3 s delay, with a TLS-level reset, then cleared on its own within minutes). The extractor backs off 15 s → 30 s → 1 m → 2 m → 5 m → 10 m, and if a page still won't load it records it in `REVIEW.md` and moves on instead of aborting the run. Re-run afterwards to pick up the stragglers — everything already downloaded is skipped.

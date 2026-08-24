@@ -9,7 +9,7 @@ SpellData/
 ├── index.json          slim list: title, titleEn, file path
 ├── index-full.json     full per-spell metadata (level, school, classes, components, ...)
 ├── lookups.json        ID -> label tables for every filter
-└── spells/             one HTML fragment per spell (522 files)
+└── spells/             one HTML fragment per spell (524 files)
 ```
 
 ## File formats
@@ -158,15 +158,38 @@ string SchoolName(int id) =>
     lookups!.School.FirstOrDefault(x => x.Value == id.ToString())?.Title ?? "?";
 ```
 
-### Re-running the scraper
+### Adding newly listed spells
 
 From the repo root:
 
 ```
-dotnet run --project DndSuParser -- --download SpellData
+dotnet run --project DndSuParser -- --add-missing SpellData
 ```
 
-Cached files (existing `spells/*.html`) are skipped, so re-runs only refetch what's missing. `index.json`, `index-full.json`, and `lookups.json` are always rewritten.
+This compares the live dnd.su catalog with `index-full.json`, fetches only new spell
+pages, sanitizes and validates their complete fragments, and updates both indexes only
+after every new page succeeds. Existing spell records and fragments are left unchanged.
+Use `--dry-run` to fetch and validate without writing.
+
+### Repairing nested-description truncation
+
+From the repo root:
+
+```
+dotnet run --project DndSuParser -- --repair-descriptions SpellData
+```
+
+The repair command identifies structurally unbalanced fragments left by the original
+regex boundary parser, fetches only those spell pages, and selects the complete outer
+`ul.params.card__article-body` with HtmlAgilityPack. Existing metadata lines are kept
+byte-for-byte. A fragment is replaced only when its previous description text is a
+prefix of the DOM-extracted description and the sanitized result is balanced and
+attribute-free. Originals are backed up to a timestamped directory under the system
+temporary folder before replacement.
+
+Use `--dry-run` to validate without writing. The original full-download scraper source
+is not present in this workspace; this project intentionally repairs descriptions only
+and does not rewrite `index.json`, `index-full.json`, or `lookups.json`.
 
 ## Notes
 

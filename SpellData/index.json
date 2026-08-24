@@ -410,6 +410,11 @@
     "file": "spells/82-programmed-illusion.html"
   },
   {
+    "title": "Замедление",
+    "titleEn": "Slow",
+    "file": "spells/83-slow.html"
+  },
+  {
     "title": "Цунами",
     "titleEn": "Tsunami",
     "file": "spells/84-tsunami.html"
@@ -2128,6 +2133,11 @@
     "title": "Болезненное сияние",
     "titleEn": "Sickening radiance",
     "file": "spells/477-sickening-radiance.html"
+  },
+  {
+    "title": "Облачение тени",
+    "titleEn": "Shadow of Moil",
+    "file": "spells/478-shadow-of-moil.html"
   },
   {
     "title": "Очарование чудовища",

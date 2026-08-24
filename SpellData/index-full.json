@@ -3940,6 +3940,58 @@
       "filter": []
     },
     {
+      "title": "Замедление",
+      "title_sort": "ЗАМЕДЛЕНИЕ",
+      "title_en": "Slow",
+      "link": "/spells/83-slow/",
+      "level": "3",
+      "school": "Преобразование",
+      "item_prefix": 3,
+      "item_prefix_title": "3 уровень",
+      "item_tags": {
+        "concentration": {
+          "tag_value": "К",
+          "tag_title": "Концентрация"
+        }
+      },
+      "item_suffix": "ВСМ",
+      "item_icon": "spell_school_transmutation",
+      "item_icon_title": "Преобразование",
+      "filter_text": "замедление slow",
+      "filter_level": [
+        3
+      ],
+      "filter_class": [
+        21,
+        19
+      ],
+      "filter_class_tce": [
+        12
+      ],
+      "filter_archetype": [
+        139,
+        158
+      ],
+      "filter_source": [
+        102
+      ],
+      "filter_school": [
+        7
+      ],
+      "filter_concentration": [
+        "2"
+      ],
+      "filter_ritual": [
+        "1"
+      ],
+      "filter_components": "1|1|1|",
+      "filter_casttime": [
+        "action"
+      ],
+      "filter_damtype": [],
+      "filter": []
+    },
+    {
       "title": "Цунами",
       "title_sort": "ЦУНАМИ",
       "title_en": "Tsunami",
@@ -20473,6 +20525,54 @@
       ],
       "filter_damtype": [
         19
+      ],
+      "filter": []
+    },
+    {
+      "title": "Облачение тени",
+      "title_sort": "ОБЛАЧЕНИЕ ТЕНИ",
+      "title_en": "Shadow of Moil",
+      "link": "/spells/478-shadow-of-moil/",
+      "level": "4",
+      "school": "Некромантия",
+      "item_prefix": 4,
+      "item_prefix_title": "4 уровень",
+      "item_tags": {
+        "concentration": {
+          "tag_value": "К",
+          "tag_title": "Концентрация"
+        }
+      },
+      "item_suffix": "ВСМ",
+      "item_icon": "spell_school_necromancy",
+      "item_icon_title": "Некромантия",
+      "filter_text": "облачение тени shadow of moil",
+      "filter_level": [
+        4
+      ],
+      "filter_class": [
+        20
+      ],
+      "filter_class_tce": [],
+      "filter_archetype": [],
+      "filter_source": [
+        109
+      ],
+      "filter_school": [
+        4
+      ],
+      "filter_concentration": [
+        "2"
+      ],
+      "filter_ritual": [
+        "1"
+      ],
+      "filter_components": "1|1|1|",
+      "filter_casttime": [
+        "action"
+      ],
+      "filter_damtype": [
+        21
       ],
       "filter": []
     },

@@ -307,7 +307,7 @@ main {
     }
 }
 
-/* ---- Overflow ("⋯") menu: rare actions — share, help, donate. ---- */
+/* ---- Overflow ("⋯") menu: journal, sharing, help, and future rare actions. ---- */
 
 .canvas-overflow-wrap {
     position: relative;
@@ -972,7 +972,8 @@ main {
         line-height: 1.4;
     }
 
-    .inventory-text {
+    .inventory-text,
+    .journal-text {
         flex: 1 1 auto;
         min-width: 0;
         font-size: 0.9rem;
@@ -981,11 +982,35 @@ main {
         overflow-wrap: anywhere;
     }
 
+    /* Journal records reuse inventory's freeform-text treatment, with a quiet rule that
+       makes record boundaries clear without introducing another field or card shell. */
+    .journal-row {
+        align-items: flex-start;
+    }
+
+    .journal-entry-form {
+        align-items: flex-start;
+    }
+
+    .journal-divider {
+        width: 100%;
+        margin: 0.25rem 0;
+        border: 0;
+        border-top: 1px solid rgba(107, 79, 10, 0.35);
+        opacity: 1;
+    }
+
     /* Desktop dock only: width follows the longest item line instead of the fixed
        23rem, so long descriptions get room instead of a thin, tall column. Capped at
        half the screen; the phone bottom sheet is full-width already. */
     @media (min-width: 700px) {
         .panel-dock .inventory-panel {
+            width: fit-content;
+            min-width: 23rem;
+            max-width: 50vw;
+        }
+
+        .panel-dock .journal-panel {
             width: fit-content;
             min-width: 23rem;
             max-width: 50vw;
@@ -1922,10 +1947,22 @@ main {
         color: #5b3a10;
     }
 
-    .popup-body ul {
+    .popup-body article > ul {
         list-style: none;
         padding: 0;
         margin: 0;
+    }
+
+    .popup-body article > ul ul {
+        list-style: disc;
+        padding-left: 1.25rem;
+        margin: 0.4rem 0;
+    }
+
+    .popup-body article > ul ol {
+        list-style: decimal;
+        padding-left: 1.25rem;
+        margin: 0.4rem 0;
     }
 
     .popup-body li {
